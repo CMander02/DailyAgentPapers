@@ -40,8 +40,10 @@ def generate_paper_markdown(paper: dict, llm_result: dict) -> str:
     contributions = llm_result.get("core_contributions", [])
     contributions_md = "\n".join(f"- {c}" for c in contributions)
 
+    escaped_title = paper['title'].replace('"', '\\"')
+
     md = f"""---
-title: "{paper['title'].replace('"', '\\"')}"
+title: "{escaped_title}"
 authors:
 {chr(10).join(authors_list)}
 date: "{paper['published'][:10]}"
