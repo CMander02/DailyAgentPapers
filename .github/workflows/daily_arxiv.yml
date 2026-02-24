@@ -2,8 +2,12 @@ name: Daily Arxiv Agent Papers
 
 on:
   schedule:
-    # UTC 23:00 = 北京时间 07:00
-    - cron: '0 23 * * *'
+    # UTC 06:00 周一至周五 = 北京时间 14:00
+    # 与 arxiv 发布时间表对齐：
+    #   周一: 抓取周四+周五投稿（周日 ET 发布，API 周一可查）
+    #   周二: 抓取周六~周一投稿（周一 ET 发布，含周末积压）
+    #   周三~周五: 抓取前一天投稿
+    - cron: '0 6 * * 1-5'
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -42,6 +46,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📄 Daily update: $(date -u -d 'yesterday' '+%Y-%m-%d') agent papers"
+            git commit -m "📄 Daily update: $(date -u '+%Y-%m-%d') agent papers"
             git push
           fi

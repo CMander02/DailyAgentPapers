@@ -12,10 +12,16 @@ import arxiv
 logger = logging.getLogger(__name__)
 
 
-def build_query(keywords: list[str], categories: list[str], date_str: str | None = None) -> str:
+def build_query(
+    keywords: list[str],
+    categories: list[str],
+    date_str: str | None = None,
+    date_end: str | None = None,
+) -> str:
     """
     构建 arxiv API 搜索查询字符串。
-    date_str 格式 YYYY-MM-DD，若提供则通过 submittedDate 在服务端过滤。
+    date_str: 起始日期 YYYY-MM-DD（含），若提供则通过 submittedDate 在服务端过滤。
+    date_end: 结束日期 YYYY-MM-DD（含），未提供则与 date_str 相同（单日查询）。
     """
     kw_parts = [f'all:"{kw}"' for kw in keywords]
     kw_query = " OR ".join(kw_parts)
@@ -26,8 +32,9 @@ def build_query(keywords: list[str], categories: list[str], date_str: str | None
     query = f"({kw_query}) AND ({cat_query})"
 
     if date_str:
-        ymd = date_str.replace("-", "")  # YYYYMMDD
-        query += f" AND submittedDate:[{ymd} TO {ymd}]"
+        start = date_str.replace("-", "")
+        end = (date_end or date_str).replace("-", "")
+        query += f" AND submittedDate:[{start} TO {end}]"
 
     return query
 
