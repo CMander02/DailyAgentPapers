@@ -1,0 +1,12 @@
+请评估以下论文的相关性并提取标签。
+
+输出要求 — 只输出 JSON（不要用 markdown code block 包裹）:
+{{
+  "relevance_score": <1-10的浮点数>,
+  "tags": ["标签1", "标签2", ...]
+}}
+
+标题: {title}
+作者: {authors}
+类别: {categories}
+摘要: {summary}

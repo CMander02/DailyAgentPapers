@@ -32,6 +32,14 @@ jobs:
         run: npm ci
         working-directory: web
 
+      - name: Lint
+        run: npm run lint
+        working-directory: web
+
+      - name: Type check
+        run: npx tsc --noEmit
+        working-directory: web
+
       - name: Build Next.js
         env:
           NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
@@ -40,11 +48,11 @@ jobs:
 
       - name: Copy papers data to static output
         run: |
-          mkdir -p web/out/data
-          if [ -f data/papers.json ]; then
-            cp data/papers.json web/out/data/
+          if [ -d data ]; then
+            cp -r data web/out/data
           else
-            echo '{"dates":{},"available_dates":[]}' > web/out/data/papers.json
+            mkdir -p web/out/data
+            echo '{"available_dates":[]}' > web/out/data/index.json
           fi
           touch web/out/.nojekyll
 
