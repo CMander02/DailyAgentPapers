@@ -1,109 +1,179 @@
 "use client";
 
 import { useEffect, useState, useCallback } from "react";
-import { PapersData, Paper } from "@/types/paper";
-import { fetchPapersData, getPapersForDate, getAvailableDates, formatDateStr } from "@/lib/data";
+import { IndexData, PaperMeta, PaperDetail as PaperDetailType } from "@/types/paper";
+import { fetchIndex, fetchPapersForDate, fetchPaperDetail, getAvailableDates, formatDateStr } from "@/lib/data";
 import { DatePicker } from "@/components/date-picker";
-import { PaperList } from "@/components/paper-list";
+import { PaperSidebar } from "@/components/paper-sidebar";
+import { PaperDetail } from "@/components/paper-detail";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { Separator } from "@/components/ui/separator";
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 export default function Home() {
-  const [data, setData] = useState<PapersData | null>(null);
+  const [index, setIndex] = useState<IndexData | null>(null);
   const [selectedDate, setSelectedDate] = useState<Date | undefined>();
-  const [papers, setPapers] = useState<Paper[]>([]);
+  const [papers, setPapers] = useState<PaperMeta[]>([]);
   const [dateStr, setDateStr] = useState("");
   const [loading, setLoading] = useState(true);
+  const [loadingPapers, setLoadingPapers] = useState(false);
+  const [selectedPaperId, setSelectedPaperId] = useState<string | null>(null);
+  const [selectedDetail, setSelectedDetail] = useState<PaperDetailType | null>(null);
+  const [loadingDetail, setLoadingDetail] = useState(false);
+  const [mobileShowDetail, setMobileShowDetail] = useState(false);
+
+  const loadDetail = useCallback(async (meta: PaperMeta) => {
+    setLoadingDetail(true);
+    try {
+      const detail = await fetchPaperDetail(meta);
+      setSelectedDetail(detail);
+    } catch {
+      setSelectedDetail({ ...meta, summary: "" });
+    } finally {
+      setLoadingDetail(false);
+    }
+  }, []);
 
   useEffect(() => {
-    fetchPapersData().then((d) => {
-      setData(d);
-      setLoading(false);
-      // Auto-select the latest available date
-      if (d.available_dates && d.available_dates.length > 0) {
-        const latest = d.available_dates[0];
+    fetchIndex().then(async (idx) => {
+      setIndex(idx);
+      if (idx.available_dates && idx.available_dates.length > 0) {
+        const latest = idx.available_dates[0];
         const date = new Date(latest + "T00:00:00");
         setSelectedDate(date);
         setDateStr(latest);
-        setPapers(getPapersForDate(d, latest));
+        const dayPapers = await fetchPapersForDate(latest);
+        setPapers(dayPapers);
+        if (dayPapers.length > 0) {
+          setSelectedPaperId(dayPapers[0].arxiv_id);
+          loadDetail(dayPapers[0]);
+        }
       }
+      setLoading(false);
     });
-  }, []);
+  }, [loadDetail]);
 
   const handleDateSelect = useCallback(
-    (date: Date | undefined) => {
-      if (!date || !data) return;
+    async (date: Date | undefined) => {
+      if (!date || !index) return;
       setSelectedDate(date);
       const str = formatDateStr(date);
       setDateStr(str);
-      setPapers(getPapersForDate(data, str));
+      setLoadingPapers(true);
+      setSelectedPaperId(null);
+      setSelectedDetail(null);
+      setMobileShowDetail(false);
+      const dayPapers = await fetchPapersForDate(str);
+      setPapers(dayPapers);
+      if (dayPapers.length > 0) {
+        setSelectedPaperId(dayPapers[0].arxiv_id);
+        loadDetail(dayPapers[0]);
+      }
+      setLoadingPapers(false);
     },
-    [data]
+    [index, loadDetail]
   );
 
   const navigateDate = useCallback(
-    (direction: -1 | 1) => {
-      if (!data || !dateStr) return;
-      const dates = data.available_dates;
+    async (direction: -1 | 1) => {
+      if (!index || !dateStr) return;
+      const dates = index.available_dates;
       const idx = dates.indexOf(dateStr);
-      const nextIdx = idx - direction; // dates are sorted descending
+      const nextIdx = idx - direction;
       if (nextIdx >= 0 && nextIdx < dates.length) {
         const nextStr = dates[nextIdx];
         const nextDate = new Date(nextStr + "T00:00:00");
         setSelectedDate(nextDate);
         setDateStr(nextStr);
-        setPapers(getPapersForDate(data, nextStr));
+        setLoadingPapers(true);
+        setSelectedPaperId(null);
+        setSelectedDetail(null);
+        setMobileShowDetail(false);
+        const dayPapers = await fetchPapersForDate(nextStr);
+        setPapers(dayPapers);
+        if (dayPapers.length > 0) {
+          setSelectedPaperId(dayPapers[0].arxiv_id);
+          loadDetail(dayPapers[0]);
+        }
+        setLoadingPapers(false);
       }
     },
-    [data, dateStr]
+    [index, dateStr, loadDetail]
   );
 
-  const availableDates = data ? getAvailableDates(data) : [];
+  const handlePaperSelect = useCallback(
+    (arxivId: string) => {
+      setSelectedPaperId(arxivId);
+      setMobileShowDetail(true);
+      const meta = papers.find((p) => p.arxiv_id === arxivId);
+      if (meta) {
+        loadDetail(meta);
+      }
+    },
+    [papers, loadDetail]
+  );
+
+  const handleMobileBack = useCallback(() => {
+    setMobileShowDetail(false);
+  }, []);
+
+  const availableDates = index ? getAvailableDates(index) : [];
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="h-screen flex flex-col bg-background">
       {/* Header */}
-      <header className="sticky top-0 z-50 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="max-w-7xl mx-auto flex h-14 items-center justify-between px-4">
-          <div className="flex items-center gap-2">
-            <h1 className="text-lg font-bold tracking-tight">DailyAgentPapers</h1>
-            <span className="text-xs text-muted-foreground hidden sm:inline">
+      <header className="shrink-0 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 z-50">
+        <div className="grid grid-cols-[1fr_auto_1fr] h-14 items-center px-5 md:px-8">
+          {/* Left: title */}
+          <div className="flex items-center gap-2.5">
+            <h1 className="text-base font-semibold tracking-tight">DailyAgentPapers</h1>
+            <span className="text-xs text-muted-foreground hidden lg:inline">
               每日 Arxiv Agent 论文摘要
             </span>
           </div>
-          <div className="flex items-center gap-2">
+          {/* Center: date navigation */}
+          <div className="flex items-center justify-center">
             {dateStr && (
-              <div className="flex items-center gap-1">
+              <div className="flex items-center gap-0.5 rounded-lg border bg-muted/40 px-1 py-0.5">
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="h-8 w-8"
+                  className="h-7 w-7 rounded-md"
                   onClick={() => navigateDate(-1)}
                   disabled={
-                    !data ||
-                    data.available_dates.indexOf(dateStr) >=
-                      data.available_dates.length - 1
+                    !index ||
+                    index.available_dates.indexOf(dateStr) >=
+                      index.available_dates.length - 1
                   }
                 >
-                  <ChevronLeft className="h-4 w-4" />
+                  <ChevronLeft className="h-3.5 w-3.5" />
                 </Button>
-                <span className="text-sm font-mono min-w-[6.5rem] text-center">
-                  {dateStr}
-                </span>
+                <DatePicker
+                  selected={selectedDate}
+                  onSelect={handleDateSelect}
+                  availableDates={availableDates}
+                  dateStr={dateStr}
+                />
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="h-8 w-8"
+                  className="h-7 w-7 rounded-md"
                   onClick={() => navigateDate(1)}
                   disabled={
-                    !data || data.available_dates.indexOf(dateStr) <= 0
+                    !index || index.available_dates.indexOf(dateStr) <= 0
                   }
                 >
-                  <ChevronRight className="h-4 w-4" />
+                  <ChevronRight className="h-3.5 w-3.5" />
                 </Button>
               </div>
+            )}
+          </div>
+          {/* Right: paper count + theme */}
+          <div className="flex items-center justify-end gap-2">
+            {papers.length > 0 && (
+              <span className="text-xs text-muted-foreground tabular-nums">
+                {papers.length} 篇论文
+              </span>
             )}
             <ThemeToggle />
           </div>
@@ -111,42 +181,43 @@ export default function Home() {
       </header>
 
       {/* Main content */}
-      <div className="max-w-7xl mx-auto px-4 py-6">
-        {loading ? (
-          <div className="flex items-center justify-center py-20 text-muted-foreground">
-            <p>加载中...</p>
-          </div>
-        ) : (
-          <div className="flex flex-col lg:flex-row gap-6">
-            {/* Sidebar: Calendar */}
-            <aside className="lg:w-[300px] shrink-0">
-              <div className="sticky top-20">
-                <DatePicker
-                  selected={selectedDate}
-                  onSelect={handleDateSelect}
-                  availableDates={availableDates}
-                />
-                {data && data.available_dates.length > 0 && (
-                  <div className="mt-4 text-xs text-muted-foreground">
-                    <p>共 {data.available_dates.length} 天数据</p>
-                    <p>
-                      {data.available_dates[data.available_dates.length - 1]} ~{" "}
-                      {data.available_dates[0]}
-                    </p>
-                  </div>
-                )}
-              </div>
-            </aside>
+      {loading ? (
+        <div className="flex-1 flex items-center justify-center text-muted-foreground">
+          <p className="text-sm">加载中...</p>
+        </div>
+      ) : loadingPapers ? (
+        <div className="flex-1 flex items-center justify-center text-muted-foreground">
+          <p className="text-sm">加载论文数据...</p>
+        </div>
+      ) : (
+        <div className="flex-1 flex min-h-0">
+          {/* Sidebar */}
+          <aside
+            className={`w-full md:w-[340px] md:shrink-0 md:border-r ${
+              mobileShowDetail ? "hidden md:block" : "block"
+            }`}
+          >
+            <PaperSidebar
+              papers={papers}
+              selectedId={selectedPaperId}
+              onSelect={handlePaperSelect}
+            />
+          </aside>
 
-            <Separator orientation="vertical" className="hidden lg:block" />
-
-            {/* Main: Paper list */}
-            <main className="flex-1 min-w-0">
-              <PaperList papers={papers} dateStr={dateStr} />
-            </main>
-          </div>
-        )}
-      </div>
+          {/* Detail */}
+          <main
+            className={`flex-1 min-w-0 ${
+              mobileShowDetail ? "block" : "hidden md:block"
+            }`}
+          >
+            <PaperDetail
+              paper={selectedDetail}
+              loading={loadingDetail}
+              onBack={handleMobileBack}
+            />
+          </main>
+        </div>
+      )}
     </div>
   );
 }
