@@ -44,16 +44,16 @@ function Markdown({ children }: { children: string }) {
           <strong className="font-semibold">{children}</strong>
         ),
         ul: ({ children }) => (
-          <ul className="text-sm text-foreground space-y-1.5 list-disc list-inside mb-3 last:mb-0">
+          <ul className="text-sm text-foreground space-y-1.5 list-disc pl-6 mb-3 last:mb-0">
             {children}
           </ul>
         ),
         ol: ({ children }) => (
-          <ol className="text-sm text-foreground space-y-1.5 list-decimal list-inside mb-3 last:mb-0">
+          <ol className="text-sm text-foreground space-y-1.5 list-decimal pl-6 mb-3 last:mb-0">
             {children}
           </ol>
         ),
-        li: ({ children }) => <li>{children}</li>,
+        li: ({ children }) => <li className="[&>p]:mb-1 [&>p:last-child]:mb-0">{children}</li>,
         a: ({ href, children }) => (
           <a
             href={href}
