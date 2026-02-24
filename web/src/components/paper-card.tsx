@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Paper } from "@/types/paper";
+import { PaperDetail } from "@/types/paper";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -9,7 +9,7 @@ import { Separator } from "@/components/ui/separator";
 import { ScoreBadge } from "./score-badge";
 import { ChevronDown, ChevronUp, ExternalLink, FileText } from "lucide-react";
 
-export function PaperCard({ paper }: { paper: Paper }) {
+export function PaperCard({ paper }: { paper: PaperDetail }) {
   const [expanded, setExpanded] = useState(false);
 
   return (
@@ -48,7 +48,7 @@ export function PaperCard({ paper }: { paper: Paper }) {
               <div>
                 <h4 className="text-sm font-semibold mb-1.5">核心贡献</h4>
                 <ul className="text-sm text-muted-foreground space-y-1 list-disc list-inside">
-                  {paper.core_contributions.map((c, i) => (
+                  {(paper.core_contributions || []).map((c, i) => (
                     <li key={i}>{c}</li>
                   ))}
                 </ul>

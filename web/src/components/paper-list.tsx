@@ -1,11 +1,11 @@
 "use client";
 
-import { Paper } from "@/types/paper";
+import { PaperDetail } from "@/types/paper";
 import { PaperCard } from "./paper-card";
 import { ScrollArea } from "@/components/ui/scroll-area";
 
 interface PaperListProps {
-  papers: Paper[];
+  papers: PaperDetail[];
   dateStr: string;
 }
 

@@ -1,4 +1,10 @@
-export interface Paper {
+export interface QAPair {
+  question: string;
+  answer: string;
+}
+
+// papers.json 中的轻量条目（列表展示用）
+export interface PaperMeta {
   arxiv_id: string;
   title: string;
   authors: string[];
@@ -9,13 +15,19 @@ export interface Paper {
   published: string;
   tags: string[];
   relevance_score: number;
-  chinese_summary: string;
-  core_contributions: string[];
-  analysis: string;
   md_path: string;
+  version?: number;
 }
 
-export interface PapersData {
-  dates: Record<string, Paper[]>;
+// 从 .md 文件解析的完整详情
+export interface PaperDetail extends PaperMeta {
+  summary: string;
+  qa_pairs?: QAPair[];
+  chinese_summary?: string;
+  core_contributions?: string[];
+  analysis?: string;
+}
+
+export interface IndexData {
   available_dates: string[];
 }
