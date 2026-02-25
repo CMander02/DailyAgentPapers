@@ -8,11 +8,17 @@
 search_keywords:
   - "agent"
   - "multi-agent"
+  - "multi agent"
   - "MAS"
   - "tool use"
+  - "tool-use"
   - "agent memory"
   - "agentic"
   - "agentic RL"
+  - "reasoning"
+  - "CoT"
+  - "chain of thought"
+  - "chains of thought"
 
 # arxiv 类别
 categories:
@@ -72,6 +78,11 @@ filter_keywords:
   - "GLM"
   - "Minimax"
   - "Qwen"
+  - "reasoning"
+  - "CoT"
+  - "chain of thought"
+  - "chains of thought"
+  - "tool-use"
 
 # 加分关键词（出现越多，越可能是核心 Agent 论文）
 boost_keywords:
@@ -90,12 +101,22 @@ boost_keywords:
   - "code generation"
   - "web agent"
   - "skills"
+  - "multi agent"
+  - "tool-use"
+  - "CoT"
+  - "chain of thought"
+  - "chains of thought"
 
 # 最大搜索结果数
-max_results: 300
+max_results: 500
+
+# 更新论文抓取配置（捕获在目标日期修订的 v2+ 论文）
+updates:
+  fetch_updates: true
+  max_results_updates: 500
 
 # LLM 请求并发数（预评分 + 逐篇处理）
-concurrency: 4
+concurrency: 2
 
 # ============================================================
 # LLM 配置
@@ -104,7 +125,7 @@ llm:
   # 温度
   temperature: 0.3
   # 分步模式：单个 Q&A 的最大输出 token 数
-  max_tokens_single_qa: 800
+  max_tokens_single_qa: 2000
   # 一次性模式（回退）：有全文时的最大输出 token 数
   max_tokens_with_content: 5000
   # 一次性模式（回退）：仅摘要时的最大输出 token 数
@@ -135,7 +156,7 @@ paper_content:
 network:
   user_agent: "DailyAgentPapers/1.0"
   # arxiv 库请求间隔（秒），防止限流
-  arxiv_request_delay: 5.0
+  arxiv_request_delay: 7.0
   arxiv_retries: 4
   # PDF 下载 / LLM API 请求
   request_timeout: 90
@@ -153,4 +174,4 @@ output:
   # README 中最大标签数
   max_tags_readme: 5
   # README 中摘要截断长度
-  summary_truncate_length: 200
+  summary_truncate_length: 1024
