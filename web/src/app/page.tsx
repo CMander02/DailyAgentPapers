@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
 import { IndexData, PaperMeta, PaperDetail as PaperDetailType } from "@/types/paper";
 import { fetchIndex, fetchPapersForDate, fetchPaperDetail, getAvailableDates, formatDateStr } from "@/lib/data";
 import { DatePicker } from "@/components/date-picker";
@@ -117,21 +117,84 @@ export default function Home() {
     setMobileShowDetail(false);
   }, []);
 
+  const touchStartRef = useRef<{ x: number; y: number } | null>(null);
+
+  const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    touchStartRef.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+  }, []);
+
+  const handleTouchEnd = useCallback(
+    (e: React.TouchEvent) => {
+      if (!touchStartRef.current || !mobileShowDetail) return;
+      const deltaX = e.changedTouches[0].clientX - touchStartRef.current.x;
+      const deltaY = Math.abs(e.changedTouches[0].clientY - touchStartRef.current.y);
+      if (deltaX > 80 && deltaX > 2 * deltaY) {
+        handleMobileBack();
+      }
+      touchStartRef.current = null;
+    },
+    [mobileShowDetail, handleMobileBack]
+  );
+
   const availableDates = index ? getAvailableDates(index) : [];
 
   return (
     <div className="h-screen flex flex-col bg-background">
       {/* Header */}
       <header className="shrink-0 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 z-50">
-        <div className="grid grid-cols-[1fr_auto_1fr] h-14 items-center px-5 md:px-8">
-          {/* Left: title */}
+        {/* Mobile header: flex-wrap, no title */}
+        <div className="flex md:hidden h-12 items-center justify-between px-3">
+          {dateStr && (
+            <div className="flex items-center gap-0.5 rounded-lg border bg-muted/40 px-1 py-0.5">
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-7 w-7 rounded-md"
+                onClick={() => navigateDate(-1)}
+                disabled={
+                  !index ||
+                  index.available_dates.indexOf(dateStr) >=
+                    index.available_dates.length - 1
+                }
+              >
+                <ChevronLeft className="h-3.5 w-3.5" />
+              </Button>
+              <DatePicker
+                selected={selectedDate}
+                onSelect={handleDateSelect}
+                availableDates={availableDates}
+                dateStr={dateStr}
+              />
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-7 w-7 rounded-md"
+                onClick={() => navigateDate(1)}
+                disabled={
+                  !index || index.available_dates.indexOf(dateStr) <= 0
+                }
+              >
+                <ChevronRight className="h-3.5 w-3.5" />
+              </Button>
+            </div>
+          )}
+          <div className="flex items-center gap-2">
+            {papers.length > 0 && (
+              <span className="text-xs text-muted-foreground tabular-nums">
+                {papers.length} 篇论文
+              </span>
+            )}
+            <ThemeToggle />
+          </div>
+        </div>
+        {/* Desktop header: 3-column grid */}
+        <div className="hidden md:grid grid-cols-[1fr_auto_1fr] h-14 items-center px-8">
           <div className="flex items-center gap-2.5">
             <h1 className="text-base font-semibold tracking-tight">DailyAgentPapers</h1>
             <span className="text-xs text-muted-foreground hidden lg:inline">
               每日 Arxiv Agent 论文摘要
             </span>
           </div>
-          {/* Center: date navigation */}
           <div className="flex items-center justify-center">
             {dateStr && (
               <div className="flex items-center gap-0.5 rounded-lg border bg-muted/40 px-1 py-0.5">
@@ -168,7 +231,6 @@ export default function Home() {
               </div>
             )}
           </div>
-          {/* Right: paper count + theme */}
           <div className="flex items-center justify-end gap-2">
             {papers.length > 0 && (
               <span className="text-xs text-muted-foreground tabular-nums">
@@ -209,6 +271,8 @@ export default function Home() {
             className={`flex-1 min-w-0 ${
               mobileShowDetail ? "block" : "hidden md:block"
             }`}
+            onTouchStart={handleTouchStart}
+            onTouchEnd={handleTouchEnd}
           >
             <PaperDetail
               paper={selectedDetail}
