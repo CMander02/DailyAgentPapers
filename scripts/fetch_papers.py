@@ -21,7 +21,9 @@ import json
 import logging
 import os
 import sys
+import threading
 import yaml
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
@@ -167,52 +169,69 @@ def process_date(target_date: str, base_dir: str, config: dict, history: dict[st
             logger.info("  - [%s] %s", p["arxiv_id"], p["title"])
         return len(filtered)
 
-    # Step 3: LLM 预评分
-    logger.info("[3/4] LLM 预评分 (%d 篇, 阈值: %s)...", len(filtered), min_score)
-    relevant_papers = []
-    for i, paper in enumerate(filtered):
-        logger.info("  [%d/%d] %s", i + 1, len(filtered), paper["title"][:60])
+    # Step 3: LLM 预评分（并发）
+    concurrency = config.get("concurrency", 4)
+    logger.info("[3/4] LLM 预评分 (%d 篇, 阈值: %s, 并发: %d)...", len(filtered), min_score, concurrency)
+
+    def _pre_score(paper):
         score = quick_relevance_check(paper, config)
-        if score is None:
-            logger.info("    预评分失败，保留")
-            relevant_papers.append(paper)
-        elif score >= min_score:
-            logger.info("    预评分: %.1f/10 -> 通过", score)
-            relevant_papers.append(paper)
-        else:
-            logger.info("    预评分: %.1f/10 -> 跳过", score)
+        return paper, score
+
+    relevant_papers = []
+    with ThreadPoolExecutor(max_workers=concurrency) as executor:
+        futures = {executor.submit(_pre_score, p): p for p in filtered}
+        for future in as_completed(futures):
+            paper, score = future.result()
+            if score is None:
+                logger.info("  预评分失败，保留: %s", paper["title"][:60])
+                relevant_papers.append(paper)
+            elif score >= min_score:
+                logger.info("  预评分: %.1f/10 -> 通过: %s", score, paper["title"][:60])
+                relevant_papers.append(paper)
+            else:
+                logger.info("  预评分: %.1f/10 -> 跳过: %s", score, paper["title"][:60])
     logger.info("  预评分通过: %d/%d 篇", len(relevant_papers), len(filtered))
 
     if not relevant_papers:
         return 0
 
-    # Step 4: 逐篇处理（获取全文 → LLM 评分/摘要 → 立即落盘）
-    logger.info("[4/4] 逐篇处理 (%d 篇)...", len(relevant_papers))
+    # Step 4: 逐篇处理（获取全文 → LLM 评分/摘要 → 落盘，并发）
+    logger.info("[4/4] 逐篇处理 (%d 篇, 并发: %d)...", len(relevant_papers), concurrency)
     total_saved = 0
     source_stats = {"latex": 0, "pdf": 0, "abstract_only": 0}
-    for i, paper in enumerate(relevant_papers):
-        logger.info("  [%d/%d] %s", i + 1, len(relevant_papers), paper["title"][:60])
+    write_lock = threading.Lock()
 
+    def _process_paper(paper):
         content, source_type = fetch_paper_content(paper["arxiv_id"], config)
-        source_stats[source_type] += 1
         if content:
-            logger.info("    全文来源: %s (%d 字符)", source_type, len(content))
+            logger.info("  [%s] 全文来源: %s (%d 字符)", paper["arxiv_id"], source_type, len(content))
         else:
-            logger.info("    全文来源: %s", source_type)
+            logger.info("  [%s] 全文来源: %s", paper["arxiv_id"], source_type)
 
         result = score_and_summarize(paper, config, full_content=content or None, content_source=source_type)
-        if not result:
-            logger.info("    跳过 (评分过低或处理失败)")
-            continue
+        return paper, result, source_type
 
-        logger.info("    评分: %.1f/10, 标签: %s", result["relevance_score"], result["tags"])
+    with ThreadPoolExecutor(max_workers=concurrency) as executor:
+        futures = {executor.submit(_process_paper, p): p for p in relevant_papers}
+        for future in as_completed(futures):
+            paper, result, source_type = future.result()
+            with write_lock:
+                source_stats[source_type] += 1
+            if not result:
+                logger.info("  [%s] 跳过 (评分过低或处理失败)", paper["arxiv_id"])
+                continue
 
-        filepath = write_paper_file(paper, result, base_dir, target_date, config)
-        logger.info("    写入: %s", filepath)
-        append_paper_json(paper, result, base_dir, target_date, config)
+            logger.info("  [%s] 评分: %.1f/10, 标签: %s", paper["arxiv_id"], result["relevance_score"], result["tags"])
+
+            with write_lock:
+                filepath = write_paper_file(paper, result, base_dir, target_date, config)
+                logger.info("  [%s] 写入: %s", paper["arxiv_id"], filepath)
+                append_paper_json(paper, result, base_dir, target_date, config)
+                total_saved += 1
+                logger.info("  已落盘 (%d 篇累计)", total_saved)
+
+        # 所有论文处理完后统一更新 README
         update_readme(base_dir, target_date, config)
-        total_saved += 1
-        logger.info("    已落盘 (%d 篇累计)", total_saved)
 
     logger.info("  全文统计: LaTeX %d, PDF %d, 仅摘要 %d",
                 source_stats["latex"], source_stats["pdf"], source_stats["abstract_only"])
