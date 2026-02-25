@@ -121,6 +121,8 @@ paper_content:
   max_content_length: 50000
   # 分步模式：每个 section 提取的最大字符数
   max_section_chars: 15000
+  # 章节规划时每个 section 的内容预览字符数（0 表示仅标题）
+  section_preview_chars: 256
   # arxiv-to-prompt LaTeX 获取选项
   latex:
     keep_comments: false

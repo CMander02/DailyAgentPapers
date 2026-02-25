@@ -1,5 +1,12 @@
 请快速评估以下论文与 AI Agent 领域的相关性，只需返回分数。
 
+评分标准 (1-10):
+- 9-10: 核心 Agent 论文（Agent 架构、多智能体系统、Agent 数据合成/规划/推理/记忆/工具使用、Agentic 强化学习、Agent 自演化）
+- 7-8: 高度相关（LLM 应用于 Agent 场景、Agent 评测/基准、Agent 安全）
+- 5-6: 中等相关（通用 LLM 能力提升但可用于 Agent、强化学习用于决策）
+- 3-4: 弱相关（纯 NLP/CV 任务，仅间接相关）
+- 1-2: 不相关
+
 请只输出一个 JSON（不要用 markdown code block 包裹）:
 {{"relevance_score": <1-10的浮点数>}}
 

@@ -12,21 +12,21 @@ import time
 import urllib.request
 from typing import Optional
 
-from paper_content import get_section_list, extract_sections
+from paper_content import get_section_list, get_section_previews, extract_sections
 
 logger = logging.getLogger(__name__)
 
 # prompt 文件目录
 _PROMPTS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "prompts")
 
-# 固定 6 个问题及其回答长度要求
+# 固定 6 个问题：(问题文本, prompt 文件名)
 QA_QUESTIONS = [
-    ("这篇论文试图解决什么问题？", "200-400字"),
-    ("有哪些相关研究？", "200-400字，列举相关工作并说明本文与之的关系"),
-    ("论文如何解决这个问题？", "300-500字，描述核心方法、架构设计和关键技术"),
-    ("论文做了哪些实验？", "200-400字，包括实验设置、基准测试和主要结果"),
-    ("有什么可以进一步探索的点？", "150-300字，分析局限性和未来方向"),
-    ("总结一下论文的主要内容", "200-300字，概括论文的核心贡献和意义"),
+    ("这篇论文试图解决什么问题？", "qa_1_problem.txt"),
+    ("有哪些相关研究？", "qa_2_related_work.txt"),
+    ("论文如何解决这个问题？", "qa_3_method.txt"),
+    ("论文做了哪些实验？", "qa_4_experiment.txt"),
+    ("有什么可以进一步探索的点？", "qa_5_further.txt"),
+    ("总结一下论文的主要内容", "qa_6_summary.txt"),
 ]
 
 
@@ -179,15 +179,28 @@ def _score_paper(paper: dict, config: dict) -> Optional[dict]:
         return None
 
 
-def _plan_sections(paper: dict, sections: list[str], config: dict) -> Optional[dict]:
+def _plan_sections(
+    paper: dict,
+    sections: list[str],
+    config: dict,
+    latex_content: str = "",
+    preview_sections: list[str] | None = None,
+) -> Optional[dict]:
     """
-    第二步：章节规划。给 LLM 目录，返回每个 Q 对应的 section 列表。
+    第二步：章节规划。给 LLM 目录（含 subsection 预览），返回每个 Q 对应的 section 列表。
+    preview_sections: 包含 subsection 的完整目录（用于生成预览），LLM 只需返回 section 级别的名称。
     返回 {"Q1": [...], "Q2": [...], ...} 或 None。
     """
     network_config = config.get("network", {})
     llm_config = config.get("llm", {})
 
-    sections_list = "\n".join(f"- {s}" for s in sections)
+    preview_chars = config.get("paper_content", {}).get("section_preview_chars", 256)
+    # 用包含 subsection 的目录生成预览，让 LLM 看到更多结构信息
+    toc_sections = preview_sections if preview_sections else sections
+    if latex_content and preview_chars > 0:
+        sections_list = get_section_previews(latex_content, toc_sections, preview_chars)
+    else:
+        sections_list = "\n".join(f"- {s}" for s in toc_sections)
 
     system_prompt = _load_prompt("system.txt")
     user_prompt = _load_prompt("section_planning.txt").format_map({
@@ -209,9 +222,7 @@ def _plan_sections(paper: dict, sections: list[str], config: dict) -> Optional[d
         plan = _parse_llm_json(response)
         # 验证格式
         for key in ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"]:
-            if key not in plan:
-                plan[key] = []
-            if not isinstance(plan[key], list):
+            if key not in plan or not isinstance(plan[key], list):
                 plan[key] = []
         return plan
     except Exception as e:
@@ -222,28 +233,27 @@ def _plan_sections(paper: dict, sections: list[str], config: dict) -> Optional[d
 def _ask_single_question(
     paper: dict,
     question: str,
-    answer_length: str,
+    prompt_file: str,
     section_content: str,
     config: dict,
 ) -> Optional[str]:
     """
     第三步（单次）：用对应 section 内容回答一个问题。
+    prompt_file: 该问题对应的 prompt 模板文件名。
     返回 answer 字符串或 None。
     """
     llm_config = config.get("llm", {})
     network_config = config.get("network", {})
 
     if section_content:
-        section_block = f"\n以下是论文相关章节内容:\n--- 章节内容开始 ---\n{section_content}\n--- 章节内容结束 ---"
+        section_block = f"\n以下是论文相关章节内容:\n{section_content}"
     else:
         section_block = ""
 
     system_prompt = _load_prompt("system.txt")
-    user_prompt = _load_prompt("single_qa.txt").format_map({
+    user_prompt = _load_prompt(prompt_file).format_map({
         "title": paper["title"],
         "summary": paper["summary"],
-        "question": question,
-        "answer_length": answer_length,
         "section_block": section_block,
     })
 
@@ -288,7 +298,8 @@ def score_and_summarize(
 
     # ── 分步模式：有 LaTeX 源码，可以用 section 结构 ──
     if full_content and content_source == "latex":
-        sections = get_section_list(full_content)
+        sections = get_section_list(full_content, include_subsections=False)
+        sections_with_subs = get_section_list(full_content, include_subsections=True)
 
         if sections:
             # Step 1: 评分 + 标签
@@ -298,8 +309,8 @@ def score_and_summarize(
             if score_result["relevance_score"] < min_score:
                 return None
 
-            # Step 2: 章节规划
-            plan = _plan_sections(paper, sections, config)
+            # Step 2: 章节规划（给 LLM 看 section+subsection 预览，只返回 section 名）
+            plan = _plan_sections(paper, sections, config, latex_content=full_content, preview_sections=sections_with_subs)
             if not plan:
                 # 规划失败，回退到无规划逐问（每问不带 section）
                 logger.warning("章节规划失败，回退为无 section 逐问")
@@ -308,13 +319,13 @@ def score_and_summarize(
             # Step 3: 6 次单问
             max_chars = config.get("paper_content", {}).get("max_section_chars", 15000)
             qa_pairs = []
-            for i, (question, answer_length) in enumerate(QA_QUESTIONS):
+            for i, (question, prompt_file) in enumerate(QA_QUESTIONS):
                 key = f"Q{i+1}"
                 needed_sections = plan.get(key, [])
-                section_text = extract_sections(full_content, needed_sections, max_chars_per_section=max_chars) if needed_sections else ""
+                section_text = extract_sections(full_content, needed_sections, max_chars_per_section=max_chars, all_sections=sections) if needed_sections else ""
                 logger.info("    Q%d: %d 个 section, %d 字符", i + 1, len(needed_sections), len(section_text))
 
-                answer = _ask_single_question(paper, question, answer_length, section_text, config)
+                answer = _ask_single_question(paper, question, prompt_file, section_text, config)
                 if answer:
                     qa_pairs.append({"question": question, "answer": answer})
                 else:

@@ -5,6 +5,7 @@
 
 import logging
 import os
+import re
 import tempfile
 import urllib.request
 
@@ -74,20 +75,120 @@ def _fetch_pdf_text(arxiv_id: str, config: dict) -> str | None:
             os.remove(tmp_path)
 
 
-def get_section_list(latex_content: str) -> list[str]:
-    """从 LaTeX 内容中提取 section 级别目录。"""
+def get_section_list(latex_content: str, include_subsections: bool = False) -> list[str]:
+    """
+    从 LaTeX 内容中提取目录。
+    include_subsections=True 时包含 subsection 和 subsubsection（带缩进前缀标识层级）。
+    """
     try:
         from arxiv_to_prompt import list_sections
-        return list_sections(latex_content)
+        sections = list_sections(latex_content)
+        if not include_subsections:
+            return sections
+
+        # 构建包含 subsection 的完整目录
+        all_items = []
+        # 提取所有级别，按在文档中出现的顺序排列
+        pattern = re.compile(
+            r'\\(section|subsection|subsubsection)\*?\{([^}]+)\}'
+        )
+        seen = set()
+        for match in pattern.finditer(latex_content):
+            level, name = match.group(1), match.group(2)
+            # 去重（同名 section 可能在 appendix 中重复出现）
+            key = (level, name)
+            if key in seen:
+                continue
+            seen.add(key)
+
+            if level == "section":
+                all_items.append(name)
+            elif level == "subsection":
+                all_items.append(f"  {name}")
+            else:  # subsubsection
+                all_items.append(f"    {name}")
+        return all_items if all_items else sections
     except Exception as e:
         logger.warning("提取目录失败: %s", e)
         return []
 
 
-def extract_sections(latex_content: str, section_names: list[str], max_chars_per_section: int = 15000) -> str:
+def _strip_latex(text: str) -> str:
+    """移除常见 LaTeX 命令，保留可读文本用于预览。"""
+    # 移除 section/subsection 标题命令（整行删除，heading 已在外部生成）
+    text = re.sub(r'\\(?:sub)*section\*?\{[^}]*\}', '', text)
+    text = re.sub(r'\\label\{[^}]*\}', '', text)
+    text = re.sub(r'~?\\cite\w*\{[^}]*\}', '', text)
+    text = re.sub(r'\\(?:eq)?ref\{[^}]*\}', '', text)
+    text = re.sub(r'\\(?:emph|textbf|textit|text|mathrm|texttt)\{([^}]*)\}', r'\1', text)
+    text = re.sub(r'\\(?:noindent|thinspace|hspace\{[^}]*\}|vspace\{[^}]*\})', ' ', text)
+    text = re.sub(r'\\(?:begin|end)\{[^}]*\}', '', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
+
+
+def get_section_previews(latex_content: str, sections: list[str], preview_chars: int = 256) -> str:
     """
-    从 LaTeX 内容中提取指定 section 的内容，拼接返回。
-    每个 section 截断到 max_chars_per_section。
+    为每个 section/subsection 生成 markdown 格式的目录预览，辅助 AI 判断与问题的相关性。
+    格式: # Section Name\ncontent... / ## Subsection Name\ncontent...
+    preview_chars: 每个条目截断的字符数（0 表示仅标题）。
+    """
+    try:
+        from arxiv_to_prompt import extract_section
+    except ImportError:
+        return "\n".join(f"- {s}" for s in sections)
+
+    lines = []
+    for s in sections:
+        name = s.lstrip()
+        indent_level = len(s) - len(name)  # 0=section, 2=subsection, 4=subsubsection
+
+        hashes = "#" * (min(indent_level // 2, 2) + 1)
+        heading = f"{hashes} {name}"
+
+        if preview_chars <= 0:
+            lines.append(heading)
+            continue
+
+        content = extract_section(latex_content, name)
+        if content:
+            cleaned = _strip_latex(content)
+            preview = cleaned[:preview_chars]
+            if len(cleaned) > preview_chars:
+                preview += "..."
+            lines.append(f"{heading}\n{preview}")
+        else:
+            lines.append(heading)
+    return "\n\n".join(lines)
+
+
+def _fuzzy_match_section(name: str, all_sections: list[str]) -> str | None:
+    """
+    当 LLM 返回的 section 名与目录不完全匹配时，尝试模糊匹配。
+    策略: 精确匹配（忽略大小写）→ 子串包含。
+    """
+    name_lower = name.lower()
+    for s in all_sections:
+        if s.lstrip().lower() == name_lower:
+            return s.lstrip()
+    for s in all_sections:
+        s_clean = s.lstrip().lower()
+        if s_clean in name_lower or name_lower in s_clean:
+            return s.lstrip()
+    return None
+
+
+
+def extract_sections(
+    latex_content: str,
+    section_names: list[str],
+    max_chars_per_section: int = 15000,
+    all_sections: list[str] | None = None,
+) -> str:
+    """
+    从 LaTeX 内容中提取指定 section 的内容，以 markdown 格式拼接返回。
+    输出格式: # Section Name\ncleaned content\n\n# Section Name\ncleaned content
+    all_sections: 完整目录列表，用于模糊匹配回退。
     """
     try:
         from arxiv_to_prompt import extract_section
@@ -95,12 +196,23 @@ def extract_sections(latex_content: str, section_names: list[str], max_chars_per
         return ""
 
     parts = []
+    seen = set()
     for name in section_names:
-        content = extract_section(latex_content, name)
-        if content:
-            if len(content) > max_chars_per_section:
-                content = content[:max_chars_per_section] + "\n[... 已截断 ...]"
-            parts.append(content)
+        clean_name = name.lstrip()
+        content = extract_section(latex_content, clean_name)
+        # 模糊匹配回退
+        if not content and all_sections:
+            matched = _fuzzy_match_section(clean_name, all_sections)
+            if matched and matched != clean_name:
+                logger.info("章节名模糊匹配: %r -> %r", clean_name, matched)
+                clean_name = matched
+                content = extract_section(latex_content, clean_name)
+        if content and clean_name not in seen:
+            seen.add(clean_name)
+            cleaned = _strip_latex(content)
+            if len(cleaned) > max_chars_per_section:
+                cleaned = cleaned[:max_chars_per_section] + "..."
+            parts.append(f"# {clean_name}\n{cleaned}")
 
     return "\n\n".join(parts)
 
