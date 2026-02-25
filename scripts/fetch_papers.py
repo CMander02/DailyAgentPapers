@@ -28,7 +28,7 @@ from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
 
-from arxiv_client import build_query, fetch_arxiv_papers, keyword_filter
+from arxiv_client import build_query, fetch_arxiv_papers, fetch_updated_papers, keyword_filter
 from llm_client import quick_relevance_check, score_and_summarize
 from markdown_writer import write_paper_file, append_paper_json, update_readme
 from paper_content import fetch_paper_content
@@ -143,6 +143,25 @@ def process_date(target_date: str, base_dir: str, config: dict, history: dict[st
     query = build_query(search_keywords, categories, date_str=target_date)
     papers = fetch_arxiv_papers(query, config, max_results=max_results)
     logger.info("  获取到 %d 篇论文", len(papers))
+
+    # Step 1b: 查询更新论文（v2+ 在目标日期修订的）
+    updates_config = config.get("updates", {})
+    if updates_config.get("fetch_updates", True):
+        max_results_updates = updates_config.get("max_results_updates", 500)
+        logger.info("[1b/4] 查询更新论文 (updated on %s, v2+)...", target_date)
+        query_no_date = build_query(search_keywords, categories)
+        updated_papers = fetch_updated_papers(query_no_date, config, target_date, max_results=max_results_updates)
+        logger.info("  获取到 %d 篇更新论文", len(updated_papers))
+
+        if updated_papers:
+            # 合并去重：按 arxiv_id 保留版本更高的
+            existing = {p["arxiv_id"]: p for p in papers}
+            for up in updated_papers:
+                aid = up["arxiv_id"]
+                if aid not in existing or up["version"] > existing[aid].get("version", 1):
+                    existing[aid] = up
+            papers = list(existing.values())
+            logger.info("  合并后共 %d 篇论文", len(papers))
 
     if not papers:
         logger.info("  该日期无论文，跳过。")

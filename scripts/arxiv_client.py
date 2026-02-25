@@ -92,6 +92,77 @@ def fetch_arxiv_papers(
     return papers
 
 
+def fetch_updated_papers(
+    query: str,
+    config: dict,
+    target_date: str,
+    max_results: int = 500,
+) -> list[dict]:
+    """
+    查询 arxiv 按 LastUpdatedDate 排序，客户端过滤出在 target_date 更新且版本 >= 2 的论文。
+    用于捕获在 target_date 修订的旧论文（submittedDate 查询无法覆盖的情况）。
+    """
+    network_config = config.get("network", {})
+    delay = network_config.get("arxiv_request_delay", 5.0)
+    retries = network_config.get("arxiv_retries", 4)
+
+    client = arxiv.Client(
+        page_size=100,
+        delay_seconds=delay,
+        num_retries=retries,
+    )
+
+    search = arxiv.Search(
+        query=query,
+        max_results=max_results,
+        sort_by=arxiv.SortCriterion.LastUpdatedDate,
+        sort_order=arxiv.SortOrder.Descending,
+    )
+
+    papers = []
+    for result in client.results(search):
+        updated_date = result.updated.strftime("%Y-%m-%d")
+
+        # 结果按 LastUpdatedDate 降序，早于目标日期即可停止
+        if updated_date < target_date:
+            break
+
+        # 只要目标日期更新的论文
+        if updated_date != target_date:
+            continue
+
+        raw_id = result.entry_id.split("/abs/")[-1]
+        version_match = re.search(r"v(\d+)$", raw_id)
+        version = int(version_match.group(1)) if version_match else 1
+        arxiv_id = re.sub(r"v\d+$", "", raw_id)
+
+        # 只保留 v2+ 的修订论文
+        if version < 2:
+            continue
+
+        authors = []
+        for a in result.authors:
+            authors.append({"name": a.name, "affiliation": ""})
+
+        pdf_url = result.pdf_url or f"https://arxiv.org/pdf/{arxiv_id}"
+
+        papers.append({
+            "arxiv_id": arxiv_id,
+            "version": version,
+            "title": re.sub(r"\s+", " ", result.title.replace("\n", " ")).strip(),
+            "authors": authors,
+            "summary": result.summary.strip(),
+            "categories": result.categories,
+            "primary_category": result.primary_category,
+            "published": result.published.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "updated": result.updated.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "arxiv_url": f"https://arxiv.org/abs/{arxiv_id}",
+            "pdf_url": pdf_url,
+        })
+
+    return papers
+
+
 def filter_by_date(papers: list[dict], target_date: str) -> list[dict]:
     """
     按日期过滤论文。target_date 格式: YYYY-MM-DD
