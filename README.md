@@ -2,36 +2,43 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-02-21 (29 篇)
+## 2026-02-24 (36 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction](https://arxiv.org/abs/2602.18968) | Agent 架构, 工具使用, 规划 |
-| 9.0 | [DREAM: Deep Research Evaluation with Agentic Metrics](https://arxiv.org/abs/2602.18940) | Agent 评测/基准, Agent 架构, 工具使用 |
-| 9.0 | [Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning](https://arxiv.org/abs/2602.18916) | 多智能体系统, Agent 架构, 神经符号系统 |
-| 9.0 | [LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology](https://arxiv.org/abs/2602.18773) | Agent 架构, 工具使用, 医疗智能体 |
-| 9.0 | [EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education](https://arxiv.org/abs/2602.18705) | 多智能体系统, Agent 架构, 社会模拟 |
-| 8.5 | [Why Agent Caching Fails and How to Fix It: Structured Intent Canonicalization with Few-Shot Learning](https://arxiv.org/abs/2602.18922) | Agent 架构, Agent 数据合成, Agent 评测/基准 |
-| 8.5 | [OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale](https://arxiv.org/abs/2602.18832) | AI Agents, Multi-Agent Systems, Agent Community |
-| 8.5 | [Rethinking Retrieval-Augmented Generation as a Cooperative Decision-Making Problem](https://arxiv.org/abs/2602.18734) | 多智能体系统, 检索增强生成, 协同决策 |
-| 8.0 | [DeepInnovator: Triggering the Innovative Capabilities of LLMs](https://arxiv.org/abs/2602.18920) | Agent 架构, Agent 数据合成, Agent 评测/基准 |
-| 8.0 | [Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation](https://arxiv.org/abs/2602.18891) | Agent Orchestration, Multi-Agent System, Agentic Workflow |
-| 8.0 | [The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol](https://arxiv.org/abs/2602.18764) | Agent 架构, 工具使用, Agent 系统设计 |
-| 8.0 | [Beyond Description: A Multimodal Agent Framework for Insightful Chart Summarization](https://arxiv.org/abs/2602.18731) | Agent 架构, 多智能体系统, 多模态智能体 |
-| 8.0 | [Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse](https://arxiv.org/abs/2602.18710) | Agentic Data Science, AI Analyst, Analytic Diversity |
-| 7.5 | [Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation](https://arxiv.org/abs/2602.18966) | 多智能体系统, LLM应用, 工具使用 |
-| 7.5 | [When Do LLM Preferences Predict Downstream Behavior?](https://arxiv.org/abs/2602.18971) | Agent 评测/基准, LLM 偏好, AI 安全 |
-| 7.5 | [How Far Can We Go with Pixels Alone? A Pilot Study on Screen-Only Navigation in Commercial 3D ARPGs](https://arxiv.org/abs/2602.18981) | 视觉导航, 游戏智能体, 视觉感知 |
-| 7.5 | [From Docs to Descriptions: Smell-Aware Evaluation of MCP Server Descriptions](https://arxiv.org/abs/2602.18914) | Agent 评测/基准, 工具使用, Agent 安全 |
-| 7.5 | [NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners](https://arxiv.org/abs/2602.18962) | 多智能体系统, LLM应用, 人机交互 |
-| 7.5 | [UniRank: A Multi-Agent Calibration Pipeline for Estimating University Rankings from Anonymized Bibliometric Signals](https://arxiv.org/abs/2602.18824) | 多智能体系统, LLM 管道, 工具增强 |
-| 7.5 | [Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4](https://arxiv.org/abs/2602.18767) | 定理证明, 智能体, 图神经网络 |
-| 7.5 | [HONEST-CAV: Hierarchical Optimization of Network Signals and Trajectories for Connected and Automated Vehicles with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.18740) | 多智能体强化学习, 交通信号控制, 自动驾驶车辆 |
-| 7.5 | [Watermarking LLM Agent Trajectories](https://arxiv.org/abs/2602.18700) | Agent 安全, Agent 数据合成, Agent 评测/基准 |
-| 7.5 | [When Coordination Is Avoidable: A Monotonicity Analysis of Organizational Tasks](https://arxiv.org/abs/2602.18673) | 多智能体系统, 协调机制, 组织理论 |
-| 7.0 | [When the Inference Meets the Explicitness or Why Multimodality Can Make Us Forget About the Perfect Predictor](https://arxiv.org/abs/2602.18850) | 人机协作, 意图预测, 显式通信 |
-| 6.5 | [A potentialization algorithm for games with applications to multi-agent learning in repeated games](https://arxiv.org/abs/2602.18925) | 多智能体学习, 博弈论, 重复博弈 |
-| 6.5 | [(Perlin) Noise as AI coordinator](https://arxiv.org/abs/2602.18947) | Agent 控制, 游戏 AI, 多智能体系统 |
-| 6.5 | [Carbon-aware decentralized dynamic task offloading in MIMO-MEC networks via multi-agent reinforcement learning](https://arxiv.org/abs/2602.18797) | 多智能体强化学习, 去中心化决策, 任务卸载 |
-| 6.5 | [Temporal Action Representation Learning for Tactical Resource Control and Subsequent Maneuver Generation](https://arxiv.org/abs/2602.18716) | 强化学习, 混合动作空间, 表示学习 |
-| 5.5 | [VariBASed: Variational Bayes-Adaptive Sequential Monte-Carlo Planning for Deep Reinforcement Learning](https://arxiv.org/abs/2602.18857) | 强化学习, 贝叶斯优化, 元强化学习 |
+| 9.5 | [SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158) | Agent自演化, 强化学习, 奖励设计 |
+| 9.5 | [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](https://arxiv.org/abs/2602.21198) | Agent 架构, Agent 规划, Agent 推理 |
+| 9.5 | [Toward an Agentic Infused Software Ecosystem](https://arxiv.org/abs/2602.20979) | Agent 架构, 软件工程, 工具使用 |
+| 9.5 | [Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence](https://arxiv.org/abs/2602.20934) | Agent Architecture, Multi-Agent Systems, Agent Reasoning |
+| 9.5 | [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867) | Agent 架构, Agentic Skills, 工具使用 |
+| 9.5 | [PyVision-RL: Forging Open Agentic Vision Models via RL](https://arxiv.org/abs/2602.20739) | Agentic Reinforcement Learning, Multimodal Agent, Tool Use |
+| 9.5 | [ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory](https://arxiv.org/abs/2602.20502) | Agent 架构, GUI Agent, 程序合成 |
+| 9.5 | [AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents](https://arxiv.org/abs/2602.20493) | Agent 架构, 多智能体系统, Agent 协作 |
+| 9.0 | [Aletheia tackles FirstProof autonomously](https://arxiv.org/abs/2602.21201) | Agent 架构, 工具使用, 自主推理 |
+| 9.0 | [Airavat: An Agentic Framework for Internet Measurement](https://arxiv.org/abs/2602.20924) | Agentic Framework, Multi-Agent System, Workflow Generation |
+| 9.0 | [Grounding LLMs in Scientific Discovery via Embodied Actions](https://arxiv.org/abs/2602.20639) | Agent 架构, 工具使用, 科学发现 |
+| 9.0 | [Codified Context: Infrastructure for AI Agents in a Complex Codebase](https://arxiv.org/abs/2602.20478) | Agent Architecture, Multi-Agent Systems, Agent Memory |
+| 8.5 | [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](https://arxiv.org/abs/2602.20951) | Agent 架构, 多智能体系统, Agent 数据合成 |
+| 8.5 | [Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization](https://arxiv.org/abs/2602.20846) | Agent Architecture, Multi-Agent Systems, Embodied AI |
+| 8.5 | [Agile V: A Compliance-Ready Framework for AI-Augmented Engineering -- From Concept to Audit-Ready Delivery](https://arxiv.org/abs/2602.20684) | AI Agent Framework, Multi-Agent System, Agentic Workflow |
+| 8.5 | [Inner Speech as Behavior Guides: Steerable Imitation of Diverse Behaviors for Human-AI coordination](https://arxiv.org/abs/2602.20517) | Agent 架构, 模仿学习, 人机协作 |
+| 8.0 | [On Data Engineering for Scaling LLM Terminal Capabilities](https://arxiv.org/abs/2602.21193) | Agent 数据合成, Agent 评测/基准, 工具使用 |
+| 8.0 | ["Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems](https://arxiv.org/abs/2602.21127) | Agent Security, Human-Agent Interaction, Empirical Study |
+| 8.0 | [A Benchmark for Deep Information Synthesis](https://arxiv.org/abs/2602.21143) | Agent Benchmark, Information Synthesis, Tool Use |
+| 8.0 | [Probing Dec-POMDP Reasoning in Cooperative MARL](https://arxiv.org/abs/2602.20804) | 多智能体系统, 强化学习, MARL |
+| 8.0 | [AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs](https://arxiv.org/abs/2602.20720) | Agent Security, Tool Use, Prompt Injection |
+| 8.0 | [ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction](https://arxiv.org/abs/2602.20708) | Agent Security, Prompt Injection Defense, Agent Architecture |
+| 8.0 | [How Foundational Skills Influence VLM-based Embodied Agents:A Native Perspective](https://arxiv.org/abs/2602.20687) | Embodied AI, Vision-Language Models, Agent Benchmark |
+| 7.5 | [Cooperative-Competitive Team Play of Real-World Craft Robots](https://arxiv.org/abs/2602.21119) | 多智能体系统, 强化学习, 机器人 |
+| 7.5 | [SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery](https://arxiv.org/abs/2602.21136) | 多智能体系统, Agent 规划, LLM 应用于 Agent 场景 |
+| 7.5 | [Matching Multiple Experts: On the Exploitability of Multi-Agent Imitation Learning](https://arxiv.org/abs/2602.21020) | 多智能体系统, 模仿学习, 纳什均衡 |
+| 7.5 | [Some Simple Economics of AGI](https://arxiv.org/abs/2602.20946) | AGI经济学, 人机验证瓶颈, 可测量性鸿沟 |
+| 7.5 | [Pipeline for Verifying LLM-Generated Mathematical Solutions](https://arxiv.org/abs/2602.20770) | Agent 评测/基准, 数学推理, 形式化验证 |
+| 7.5 | [The Tragedy of the Commons in Multi-Population Resource Games](https://arxiv.org/abs/2602.20603) | Multi-Agent Systems, Game Theory, Strategic Decision-Making |
+| 7.5 | [From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production](https://arxiv.org/abs/2602.20558) | LLM应用, 推荐系统, 强化学习 |
+| 7.5 | [Hybrid LLM-Embedded Dialogue Agents for Learner Reflection: Designing Responsive and Theory-Driven Interactions](https://arxiv.org/abs/2602.20486) | 对话系统, LLM应用, 混合架构 |
+| 6.5 | [Regret-Guided Search Control for Efficient Learning in AlphaZero](https://arxiv.org/abs/2602.20809) | 强化学习, AlphaZero, 搜索控制 |
+| 5.5 | [Stability Under Valuation Updates in Coalition Formation](https://arxiv.org/abs/2602.21041) | 多智能体系统, 联盟形成, 博弈论 |
+| 5.5 | [HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders](https://arxiv.org/abs/2602.21009) | 推荐系统, 长序列建模, 个性化代理 |
+| 5.5 | [Prior-Agnostic Incentive-Compatible Exploration](https://arxiv.org/abs/2602.20465) | 博弈论, 激励兼容, 探索-利用权衡 |
+| 4.0 | [Maximin Share Guarantees via Limited Cost-Sensitive Sharing](https://arxiv.org/abs/2602.20541) | 公平分配, 多智能体系统, 资源分配 |

@@ -1,0 +1,1101 @@
+[
+  {
+    "arxiv_id": "2602.21158",
+    "version": 1,
+    "title": "SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards",
+    "authors": [
+      "Dengjia Zhang",
+      "Xiaoou Liu",
+      "Lu Cheng",
+      "Yaqing Wang",
+      "Kenton Murray"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21158",
+    "pdf_url": "https://arxiv.org/pdf/2602.21158v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent自演化",
+      "强化学习",
+      "奖励设计",
+      "不确定性估计",
+      "探索效率",
+      "决策智能体",
+      "LLM Agent",
+      "Agent架构"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/selaur-self-evolving-llm-agent-via-uncertainty-aware-rewards.md"
+  },
+  {
+    "arxiv_id": "2602.21198",
+    "version": 1,
+    "title": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
+    "authors": [
+      "Yining Hong",
+      "Huang Huang",
+      "Manling Li",
+      "Li Fei-Fei",
+      "Jiajun Wu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "cs.RO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21198",
+    "pdf_url": "https://arxiv.org/pdf/2602.21198v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "Agent 规划",
+      "Agent 推理",
+      "具身智能",
+      "测试时规划",
+      "反思学习",
+      "长期任务",
+      "机器人"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/learning-from-trials-and-errors-reflective-test-time-planning-for-embodied-llms.md"
+  },
+  {
+    "arxiv_id": "2602.20979",
+    "version": 1,
+    "title": "Toward an Agentic Infused Software Ecosystem",
+    "authors": [
+      "Mark Marron"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20979",
+    "pdf_url": "https://arxiv.org/pdf/2602.20979v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "软件工程",
+      "工具使用",
+      "人机协作",
+      "生态系统"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/toward-an-agentic-infused-software-ecosystem.md"
+  },
+  {
+    "arxiv_id": "2602.20934",
+    "version": 1,
+    "title": "Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence",
+    "authors": [
+      "ChengYou Li",
+      "XiaoDong Liu",
+      "XiangBao Meng",
+      "XinYu Zhao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20934",
+    "pdf_url": "https://arxiv.org/pdf/2602.20934v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Systems",
+      "Agent Reasoning",
+      "Agent Memory",
+      "System-Level Intelligence",
+      "Cognitive Systems",
+      "LLM as Agent",
+      "AgentOS",
+      "Context Management",
+      "Self-Evolving Systems"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/architecting-agentos-from-token-level-context-to-emergent-system-level-intellige.md"
+  },
+  {
+    "arxiv_id": "2602.20867",
+    "version": 1,
+    "title": "SoK: Agentic Skills -- Beyond Tool Use in LLM Agents",
+    "authors": [
+      "Yanna Jiang",
+      "Delong Li",
+      "Haiyu Deng",
+      "Baihe Ma",
+      "Xu Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CE",
+      "cs.ET"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20867",
+    "pdf_url": "https://arxiv.org/pdf/2602.20867v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "Agentic Skills",
+      "工具使用",
+      "技能生命周期",
+      "多智能体系统",
+      "Agent 安全",
+      "Agent 评测",
+      "技能表示",
+      "技能组合",
+      "自演化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/sok-agentic-skills-beyond-tool-use-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2602.20739",
+    "version": 1,
+    "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
+    "authors": [
+      "Shitian Zhao",
+      "Shaoheng Lin",
+      "Ming Li",
+      "Haoquan Zhang",
+      "Wenshuo Peng"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20739",
+    "pdf_url": "https://arxiv.org/pdf/2602.20739v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agentic Reinforcement Learning",
+      "Multimodal Agent",
+      "Tool Use",
+      "Multi-turn Reasoning",
+      "Agent Architecture",
+      "Training Framework",
+      "Video Understanding",
+      "Efficiency Optimization"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/pyvision-rl-forging-open-agentic-vision-models-via-rl.md"
+  },
+  {
+    "arxiv_id": "2602.20502",
+    "version": 1,
+    "title": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory",
+    "authors": [
+      "Hongbin Zhong",
+      "Fazle Faisal",
+      "Luis França",
+      "Tanakorn Leesatapornwongsa",
+      "Adriana Szekeres"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20502",
+    "pdf_url": "https://arxiv.org/pdf/2602.20502v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "GUI Agent",
+      "程序合成",
+      "状态机记忆",
+      "多智能体系统",
+      "工具使用",
+      "Agent 规划",
+      "离线探索",
+      "在线执行",
+      "基准评测"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/actionengine-from-reactive-to-programmatic-gui-agents-via-state-machine-memory.md"
+  },
+  {
+    "arxiv_id": "2602.20493",
+    "version": 1,
+    "title": "AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents",
+    "authors": [
+      "Xiaohang Nie",
+      "Zihan Guo",
+      "Youliang Chen",
+      "Yuanjian Zhou",
+      "Weinan Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.NI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20493",
+    "pdf_url": "https://arxiv.org/pdf/2602.20493v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "多智能体系统",
+      "Agent 协作",
+      "工具使用",
+      "Agentic Web",
+      "协议设计",
+      "工作空间管理",
+      "开源实现"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/24/awcp-a-workspace-delegation-protocol-for-deep-engagement-collaboration-across-re.md"
+  },
+  {
+    "arxiv_id": "2602.21201",
+    "version": 1,
+    "title": "Aletheia tackles FirstProof autonomously",
+    "authors": [
+      "Tony Feng",
+      "Junehyuk Jung",
+      "Sang-hyun Kim",
+      "Carlo Pagano",
+      "Sergei Gukov"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21201",
+    "pdf_url": "https://arxiv.org/pdf/2602.21201v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "工具使用",
+      "自主推理",
+      "数学问题求解",
+      "Agent 评测",
+      "Agent 规划"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/24/aletheia-tackles-firstproof-autonomously.md"
+  },
+  {
+    "arxiv_id": "2602.20924",
+    "version": 1,
+    "title": "Airavat: An Agentic Framework for Internet Measurement",
+    "authors": [
+      "Alagappan Ramanathan",
+      "Eunju Kang",
+      "Dongsu Han",
+      "Sangeetha Abdu Jyothi"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.NI",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20924",
+    "pdf_url": "https://arxiv.org/pdf/2602.20924v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agentic Framework",
+      "Multi-Agent System",
+      "Workflow Generation",
+      "Tool Use",
+      "Verification and Validation",
+      "Internet Measurement",
+      "Problem Decomposition",
+      "Expert Reasoning"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/24/airavat-an-agentic-framework-for-internet-measurement.md"
+  },
+  {
+    "arxiv_id": "2602.20639",
+    "version": 1,
+    "title": "Grounding LLMs in Scientific Discovery via Embodied Actions",
+    "authors": [
+      "Bo Zhang",
+      "Jinfeng Zhou",
+      "Yuxuan Chen",
+      "Jianing Yin",
+      "Minlie Huang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20639",
+    "pdf_url": "https://arxiv.org/pdf/2602.20639v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "工具使用",
+      "科学发现",
+      "具身智能",
+      "感知-执行循环",
+      "长期规划",
+      "仿真环境"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/24/grounding-llms-in-scientific-discovery-via-embodied-actions.md"
+  },
+  {
+    "arxiv_id": "2602.20478",
+    "version": 1,
+    "title": "Codified Context: Infrastructure for AI Agents in a Complex Codebase",
+    "authors": [
+      "Aristidis Vasilopoulos"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20478",
+    "pdf_url": "https://arxiv.org/pdf/2602.20478v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Systems",
+      "Agent Memory",
+      "Tool Use",
+      "Agentic Software Engineering",
+      "Agent Coordination",
+      "Knowledge Base",
+      "Persistent Memory"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/24/codified-context-infrastructure-for-ai-agents-in-a-complex-codebase.md"
+  },
+  {
+    "arxiv_id": "2602.20951",
+    "version": 1,
+    "title": "See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis",
+    "authors": [
+      "Jaehyun Park",
+      "Minyoung Ahn",
+      "Minkyu Kim",
+      "Jonghyun Lee",
+      "Jae-Gil Lee"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20951",
+    "pdf_url": "https://arxiv.org/pdf/2602.20951v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "多智能体系统",
+      "Agent 数据合成",
+      "视觉语言模型",
+      "扩散模型",
+      "视觉伪影",
+      "自动化标注",
+      "工具使用"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/02/24/see-and-fix-the-flaws-enabling-vlms-and-diffusion-models-to-comprehend-visual-ar.md"
+  },
+  {
+    "arxiv_id": "2602.20846",
+    "version": 1,
+    "title": "Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization",
+    "authors": [
+      "Yuki Nakamura"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.GT",
+      "cs.MA",
+      "cs.NE",
+      "nlin.AO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20846",
+    "pdf_url": "https://arxiv.org/pdf/2602.20846v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Systems",
+      "Embodied AI",
+      "Decision-Making",
+      "Reinforcement Learning",
+      "Game Theory",
+      "Dynamical Systems",
+      "Computational Cost",
+      "Adaptive Systems"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/02/24/body-reservoir-governance-in-repeated-games-embodied-decision-making-dynamic-sen.md"
+  },
+  {
+    "arxiv_id": "2602.20684",
+    "version": 1,
+    "title": "Agile V: A Compliance-Ready Framework for AI-Augmented Engineering -- From Concept to Audit-Ready Delivery",
+    "authors": [
+      "Christopher Koch",
+      "Joshua Andreas Wellbrock"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20684",
+    "pdf_url": "https://arxiv.org/pdf/2602.20684v1",
+    "published": "2026-02-24",
+    "tags": [
+      "AI Agent Framework",
+      "Multi-Agent System",
+      "Agentic Workflow",
+      "Verification and Compliance",
+      "AI-Augmented Engineering",
+      "Human-in-the-Loop",
+      "Automated Testing",
+      "Requirements Engineering"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/02/24/agile-v-a-compliance-ready-framework-for-ai-augmented-engineering-from-concept-t.md"
+  },
+  {
+    "arxiv_id": "2602.20517",
+    "version": 1,
+    "title": "Inner Speech as Behavior Guides: Steerable Imitation of Diverse Behaviors for Human-AI coordination",
+    "authors": [
+      "Rakshit Trivedi",
+      "Kartik Sharma",
+      "David C Parkes"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20517",
+    "pdf_url": "https://arxiv.org/pdf/2602.20517v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 架构",
+      "模仿学习",
+      "人机协作",
+      "行为多样性",
+      "语言引导",
+      "推理",
+      "条件生成模型",
+      "视觉语言模型"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/02/24/inner-speech-as-behavior-guides-steerable-imitation-of-diverse-behaviors-for-hum.md"
+  },
+  {
+    "arxiv_id": "2602.21193",
+    "version": 1,
+    "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+    "authors": [
+      "Renjie Pi",
+      "Grace Lam",
+      "Mohammad Shoeybi",
+      "Pooya Jannaty",
+      "Bryan Catanzaro"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21193",
+    "pdf_url": "https://arxiv.org/pdf/2602.21193v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 数据合成",
+      "Agent 评测/基准",
+      "工具使用",
+      "LLM 应用于 Agent 场景",
+      "终端智能体"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/on-data-engineering-for-scaling-llm-terminal-capabilities.md"
+  },
+  {
+    "arxiv_id": "2602.21127",
+    "version": 1,
+    "title": "\"Are You Sure?\": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems",
+    "authors": [
+      "Xinfeng Li",
+      "Shenyu Dai",
+      "Kelong Zheng",
+      "Yue Xiao",
+      "Gelei Deng"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CR",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21127",
+    "pdf_url": "https://arxiv.org/pdf/2602.21127v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Security",
+      "Human-Agent Interaction",
+      "Empirical Study",
+      "Trust",
+      "Deception",
+      "Agent-Mediated Deception",
+      "Human Perception",
+      "Agentic Systems"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/are-you-sure-an-empirical-study-of-human-perception-vulnerability-in-llm-driven.md"
+  },
+  {
+    "arxiv_id": "2602.21143",
+    "version": 1,
+    "title": "A Benchmark for Deep Information Synthesis",
+    "authors": [
+      "Debjit Paul",
+      "Daniel Murphy",
+      "Milan Gritta",
+      "Ronald Cardenas",
+      "Victor Prokhorov"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21143",
+    "pdf_url": "https://arxiv.org/pdf/2602.21143v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Benchmark",
+      "Information Synthesis",
+      "Tool Use",
+      "Reasoning",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/a-benchmark-for-deep-information-synthesis.md"
+  },
+  {
+    "arxiv_id": "2602.20804",
+    "version": 1,
+    "title": "Probing Dec-POMDP Reasoning in Cooperative MARL",
+    "authors": [
+      "Kale-ab Tessera",
+      "Leonard Hinckeldey",
+      "Riccardo Zamboni",
+      "David Abel",
+      "Amos Storkey"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20804",
+    "pdf_url": "https://arxiv.org/pdf/2602.20804v1",
+    "published": "2026-02-24",
+    "tags": [
+      "多智能体系统",
+      "强化学习",
+      "MARL",
+      "Dec-POMDP",
+      "智能体评测",
+      "基准测试",
+      "协作智能体",
+      "部分可观测性",
+      "智能体推理"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/probing-dec-pomdp-reasoning-in-cooperative-marl.md"
+  },
+  {
+    "arxiv_id": "2602.20720",
+    "version": 1,
+    "title": "AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs",
+    "authors": [
+      "Che Wang",
+      "Jiaming Zhang",
+      "Ziqi Zhang",
+      "Zijie Wang",
+      "Yinghui Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20720",
+    "pdf_url": "https://arxiv.org/pdf/2602.20720v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Prompt Injection",
+      "Adversarial Attack",
+      "Agent Evaluation",
+      "LLM Agents"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/adaptools-adaptive-tool-based-indirect-prompt-injection-attacks-on-agentic-llms.md"
+  },
+  {
+    "arxiv_id": "2602.20708",
+    "version": 1,
+    "title": "ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction",
+    "authors": [
+      "Che Wang",
+      "Fuyao Zhang",
+      "Jiaming Zhang",
+      "Ziqi Zhang",
+      "Yinghui Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20708",
+    "pdf_url": "https://arxiv.org/pdf/2602.20708v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent Security",
+      "Prompt Injection Defense",
+      "Agent Architecture",
+      "Inference-Time Correction",
+      "Adversarial Robustness",
+      "Multi-Modal Agents"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/icon-indirect-prompt-injection-defense-for-agents-based-on-inference-time-correc.md"
+  },
+  {
+    "arxiv_id": "2602.20687",
+    "version": 1,
+    "title": "How Foundational Skills Influence VLM-based Embodied Agents:A Native Perspective",
+    "authors": [
+      "Bo Peng",
+      "Pi Bu",
+      "Keyu Pan",
+      "Xinrun Xu",
+      "Yinxiu Zhao"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20687",
+    "pdf_url": "https://arxiv.org/pdf/2602.20687v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Embodied AI",
+      "Vision-Language Models",
+      "Agent Benchmark",
+      "Skill Evaluation",
+      "Low-level Control"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/24/how-foundational-skills-influence-vlm-based-embodied-agentsa-native-perspective.md"
+  },
+  {
+    "arxiv_id": "2602.21119",
+    "version": 1,
+    "title": "Cooperative-Competitive Team Play of Real-World Craft Robots",
+    "authors": [
+      "Rui Zhao",
+      "Xihui Li",
+      "Yizheng Zhang",
+      "Yuzhen Liu",
+      "Zhong Zhang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21119",
+    "pdf_url": "https://arxiv.org/pdf/2602.21119v1",
+    "published": "2026-02-24",
+    "tags": [
+      "多智能体系统",
+      "强化学习",
+      "机器人",
+      "Sim2Real迁移",
+      "合作与竞争",
+      "分布式学习",
+      "策略训练"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/cooperative-competitive-team-play-of-real-world-craft-robots.md"
+  },
+  {
+    "arxiv_id": "2602.21136",
+    "version": 1,
+    "title": "SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery",
+    "authors": [
+      "David Anugraha",
+      "Vishakh Padmakumar",
+      "Diyi Yang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21136",
+    "pdf_url": "https://arxiv.org/pdf/2602.21136v1",
+    "published": "2026-02-24",
+    "tags": [
+      "多智能体系统",
+      "Agent 规划",
+      "LLM 应用于 Agent 场景",
+      "对话 Agent",
+      "决策优化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/sparkme-adaptive-semi-structured-interviewing-for-qualitative-insight-discovery.md"
+  },
+  {
+    "arxiv_id": "2602.21020",
+    "version": 1,
+    "title": "Matching Multiple Experts: On the Exploitability of Multi-Agent Imitation Learning",
+    "authors": [
+      "Antoine Bergerault",
+      "Volkan Cevher",
+      "Negar Mehr"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.GT",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21020",
+    "pdf_url": "https://arxiv.org/pdf/2602.21020v1",
+    "published": "2026-02-24",
+    "tags": [
+      "多智能体系统",
+      "模仿学习",
+      "纳什均衡",
+      "离线学习",
+      "策略学习",
+      "博弈论",
+      "理论分析"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/matching-multiple-experts-on-the-exploitability-of-multi-agent-imitation-learnin.md"
+  },
+  {
+    "arxiv_id": "2602.20946",
+    "version": 1,
+    "title": "Some Simple Economics of AGI",
+    "authors": [
+      "Christian Catalini",
+      "Xiang Hui",
+      "Jane Wu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "econ.GN",
+      "cs.AI",
+      "cs.CY",
+      "cs.LG",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20946",
+    "pdf_url": "https://arxiv.org/pdf/2602.20946v1",
+    "published": "2026-02-24",
+    "tags": [
+      "AGI经济学",
+      "人机验证瓶颈",
+      "可测量性鸿沟",
+      "Agent部署",
+      "责任与安全",
+      "技术变革",
+      "人机协作",
+      "社会影响"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/some-simple-economics-of-agi.md"
+  },
+  {
+    "arxiv_id": "2602.20770",
+    "version": 1,
+    "title": "Pipeline for Verifying LLM-Generated Mathematical Solutions",
+    "authors": [
+      "Varvara Sazonova",
+      "Dmitri Shmelkin",
+      "Stanislav Kikot",
+      "Vasily Motolygin"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20770",
+    "pdf_url": "https://arxiv.org/pdf/2602.20770v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Agent 评测/基准",
+      "数学推理",
+      "形式化验证",
+      "多智能体系统",
+      "工具使用"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/pipeline-for-verifying-llm-generated-mathematical-solutions.md"
+  },
+  {
+    "arxiv_id": "2602.20603",
+    "version": 1,
+    "title": "The Tragedy of the Commons in Multi-Population Resource Games",
+    "authors": [
+      "Yamin Vahmian",
+      "Keith Paarporn"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.GT",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20603",
+    "pdf_url": "https://arxiv.org/pdf/2602.20603v1",
+    "published": "2026-02-24",
+    "tags": [
+      "Multi-Agent Systems",
+      "Game Theory",
+      "Strategic Decision-Making",
+      "Resource Management",
+      "Nash Equilibrium",
+      "Tragedy of the Commons"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/the-tragedy-of-the-commons-in-multi-population-resource-games.md"
+  },
+  {
+    "arxiv_id": "2602.20558",
+    "version": 1,
+    "title": "From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production",
+    "authors": [
+      "Yucheng Shi",
+      "Ying Li",
+      "Yu Wang",
+      "Yesu Feng",
+      "Arjun Rao"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20558",
+    "pdf_url": "https://arxiv.org/pdf/2602.20558v1",
+    "published": "2026-02-24",
+    "tags": [
+      "LLM应用",
+      "推荐系统",
+      "强化学习",
+      "上下文构建",
+      "数据合成",
+      "Agent架构"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/from-logs-to-language-learning-optimal-verbalization-for-llm-based-recommendatio.md"
+  },
+  {
+    "arxiv_id": "2602.20486",
+    "version": 1,
+    "title": "Hybrid LLM-Embedded Dialogue Agents for Learner Reflection: Designing Responsive and Theory-Driven Interactions",
+    "authors": [
+      "Paras Sharma",
+      "YuePing Sha",
+      "Janet Shufor Bih Epse Fofang",
+      "Brayden Yan",
+      "Jess A. Turner"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20486",
+    "pdf_url": "https://arxiv.org/pdf/2602.20486v1",
+    "published": "2026-02-24",
+    "tags": [
+      "对话系统",
+      "LLM应用",
+      "混合架构",
+      "教育Agent",
+      "人机交互",
+      "反思支持",
+      "理论驱动设计",
+      "上下文响应"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/24/hybrid-llm-embedded-dialogue-agents-for-learner-reflection-designing-responsive.md"
+  },
+  {
+    "arxiv_id": "2602.20809",
+    "version": 1,
+    "title": "Regret-Guided Search Control for Efficient Learning in AlphaZero",
+    "authors": [
+      "Yun-Jui Tsai",
+      "Wei-Yu Chen",
+      "Yan-Ru Ju",
+      "Yu-Hung Chang",
+      "Ti-Rong Wu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20809",
+    "pdf_url": "https://arxiv.org/pdf/2602.20809v1",
+    "published": "2026-02-24",
+    "tags": [
+      "强化学习",
+      "AlphaZero",
+      "搜索控制",
+      "学习效率",
+      "蒙特卡洛树搜索",
+      "决策",
+      "游戏AI"
+    ],
+    "relevance_score": 6.5,
+    "md_path": "data/2026/02/24/regret-guided-search-control-for-efficient-learning-in-alphazero.md"
+  },
+  {
+    "arxiv_id": "2602.21041",
+    "version": 1,
+    "title": "Stability Under Valuation Updates in Coalition Formation",
+    "authors": [
+      "Fabian Frank",
+      "Matija Novaković",
+      "René Romen"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.GT",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21041",
+    "pdf_url": "https://arxiv.org/pdf/2602.21041v1",
+    "published": "2026-02-24",
+    "tags": [
+      "多智能体系统",
+      "联盟形成",
+      "博弈论",
+      "稳定性分析",
+      "计算复杂性"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/02/24/stability-under-valuation-updates-in-coalition-formation.md"
+  },
+  {
+    "arxiv_id": "2602.21009",
+    "version": 1,
+    "title": "HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders",
+    "authors": [
+      "Kun Yuan",
+      "Junyu Bi",
+      "Daixuan Cheng",
+      "Changfa Wu",
+      "Shuwen Xiao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.IR",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.21009",
+    "pdf_url": "https://arxiv.org/pdf/2602.21009v1",
+    "published": "2026-02-24",
+    "tags": [
+      "推荐系统",
+      "长序列建模",
+      "个性化代理",
+      "稀疏激活",
+      "注意力机制",
+      "效率优化"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/02/24/hisac-hierarchical-sparse-activation-compression-for-ultra-long-sequence-modelin.md"
+  },
+  {
+    "arxiv_id": "2602.20465",
+    "version": 1,
+    "title": "Prior-Agnostic Incentive-Compatible Exploration",
+    "authors": [
+      "Ramya Ramalingam",
+      "Osbert Bastani",
+      "Aaron Roth"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.GT",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20465",
+    "pdf_url": "https://arxiv.org/pdf/2602.20465v1",
+    "published": "2026-02-24",
+    "tags": [
+      "博弈论",
+      "激励兼容",
+      "探索-利用权衡",
+      "多臂老虎机",
+      "在线学习",
+      "多智能体交互",
+      "遗憾最小化"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/02/24/prior-agnostic-incentive-compatible-exploration.md"
+  },
+  {
+    "arxiv_id": "2602.20541",
+    "version": 1,
+    "title": "Maximin Share Guarantees via Limited Cost-Sensitive Sharing",
+    "authors": [
+      "Hana Salavcova",
+      "Martin Černý",
+      "Arpita Biswas"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.GT",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20541",
+    "pdf_url": "https://arxiv.org/pdf/2602.20541v1",
+    "published": "2026-02-24",
+    "tags": [
+      "公平分配",
+      "多智能体系统",
+      "资源分配",
+      "计算经济学",
+      "理论保证"
+    ],
+    "relevance_score": 4.0,
+    "md_path": "data/2026/02/24/maximin-share-guarantees-via-limited-cost-sensitive-sharing.md"
+  }
+]
