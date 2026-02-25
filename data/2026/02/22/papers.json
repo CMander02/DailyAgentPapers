@@ -1,0 +1,557 @@
+[
+  {
+    "arxiv_id": "2602.19000",
+    "version": 1,
+    "title": "MagicAgent: Towards Generalized Agent Planning",
+    "authors": [
+      "Xuhui Ren",
+      "Shaokang Dong",
+      "Chen Yang",
+      "Qing Gao",
+      "Yunbin Zhao"
+    ],
+    "author_count": 24,
+    "categories": [
+      "cs.AI",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19000",
+    "pdf_url": "https://arxiv.org/pdf/2602.19000v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "Agent 数据合成",
+      "Agent 规划",
+      "工具使用",
+      "Agentic 强化学习",
+      "多任务训练",
+      "基础模型"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/02/22/magicagent-towards-generalized-agent-planning.md"
+  },
+  {
+    "arxiv_id": "2602.19320",
+    "version": 1,
+    "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+    "authors": [
+      "Dongming Jiang",
+      "Yi Li",
+      "Songtao Wei",
+      "Jinxin Yang",
+      "Ayushi Kishore"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19320",
+    "pdf_url": "https://arxiv.org/pdf/2602.19320v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "Agent 记忆",
+      "Agent 评测",
+      "系统分析",
+      "LLM Agent",
+      "长程推理",
+      "个性化"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/anatomy-of-agentic-memory-taxonomy-and-empirical-analysis-of-evaluation-and-syst.md"
+  },
+  {
+    "arxiv_id": "2602.19326",
+    "version": 1,
+    "title": "City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification",
+    "authors": [
+      "Rui Liu",
+      "Steven Jige Quan",
+      "Zhong-Ren Peng",
+      "Zijun Yao",
+      "Han Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19326",
+    "pdf_url": "https://arxiv.org/pdf/2602.19326v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "多智能体系统",
+      "分层规划",
+      "工具使用",
+      "多模态推理",
+      "迭代执行",
+      "空间约束传播",
+      "城市计算"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/city-editing-hierarchical-agentic-execution-for-dependency-aware-urban-geospatia.md"
+  },
+  {
+    "arxiv_id": "2602.19309",
+    "version": 1,
+    "title": "Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation",
+    "authors": [
+      "Xiangyu Liu",
+      "Di Wang",
+      "Zhe Feng",
+      "Aranyak Mehta"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19309",
+    "pdf_url": "https://arxiv.org/pdf/2602.19309v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "多智能体系统",
+      "Agent 推理",
+      "Agent 规划",
+      "在线学习",
+      "博弈论",
+      "对手建模",
+      "推理时计算"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/scaling-inference-time-computation-via-opponent-simulation-enabling-online-strat.md"
+  },
+  {
+    "arxiv_id": "2602.19225",
+    "version": 1,
+    "title": "Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training",
+    "authors": [
+      "Yangyi Fang",
+      "Jiaye Lin",
+      "Xiaoliang Fu",
+      "Cong Qin",
+      "Haolin Shi"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19225",
+    "pdf_url": "https://arxiv.org/pdf/2602.19225v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent Training",
+      "Credit Assignment",
+      "Policy Optimization",
+      "Multi-Turn Agent",
+      "LLM Agent",
+      "Reinforcement Learning",
+      "Sample Efficiency"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/proximity-based-multi-turn-optimization-practical-credit-assignment-for-llm-agen.md"
+  },
+  {
+    "arxiv_id": "2602.19008",
+    "version": 1,
+    "title": "Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks",
+    "authors": [
+      "Wilson Y. Lee"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19008",
+    "pdf_url": "https://arxiv.org/pdf/2602.19008v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent Reliability",
+      "Tool Use",
+      "Agent Failure Analysis",
+      "Long-Horizon Tasks",
+      "Agent Evaluation",
+      "Agent Architecture",
+      "Agent Planning"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/capable-but-unreliable-canonical-path-deviation-as-a-causal-mechanism-of-agent-f.md"
+  },
+  {
+    "arxiv_id": "2602.19065",
+    "version": 1,
+    "title": "Agentic Problem Frames: A Systematic Approach to Engineering Reliable Domain Agents",
+    "authors": [
+      "Chanjin Park"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19065",
+    "pdf_url": "https://arxiv.org/pdf/2602.19065v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "Agent 可靠性",
+      "系统工程",
+      "形式化规范",
+      "闭环控制",
+      "领域智能体",
+      "Agent 评测"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/agentic-problem-frames-a-systematic-approach-to-engineering-reliable-domain-agen.md"
+  },
+  {
+    "arxiv_id": "2602.18985",
+    "version": 1,
+    "title": "InfEngine: A Self-Verifying and Self-Optimizing Intelligent Engine for Infrared Radiation Computing",
+    "authors": [
+      "Kun Ding",
+      "Jian Xu",
+      "Ying Wang",
+      "Peipei Yang",
+      "Shiming Xiang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18985",
+    "pdf_url": "https://arxiv.org/pdf/2602.18985v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 架构",
+      "多智能体系统",
+      "工具使用",
+      "自优化",
+      "科学计算"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/02/22/infengine-a-self-verifying-and-self-optimizing-intelligent-engine-for-infrared-r.md"
+  },
+  {
+    "arxiv_id": "2602.19304",
+    "version": 1,
+    "title": "Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation",
+    "authors": [
+      "Haojun Shi",
+      "Suyu Ye",
+      "Katherine M. Guerrerio",
+      "Jianzhi Shen",
+      "Yifan Yin"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.HC",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19304",
+    "pdf_url": "https://arxiv.org/pdf/2602.19304v1",
+    "published": "2026-02-22",
+    "tags": [
+      "多智能体系统",
+      "路径规划",
+      "人机协作",
+      "语言通信",
+      "安全规划",
+      "可解释性",
+      "视觉语言模型",
+      "模型规划"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/22/safe-and-interpretable-multimodal-path-planning-for-multi-agent-cooperation.md"
+  },
+  {
+    "arxiv_id": "2602.19218",
+    "version": 1,
+    "title": "Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls",
+    "authors": [
+      "Zeyu Zhang",
+      "Guohao Li",
+      "Zhenchang Xing",
+      "Alexandros Apostolopoulos",
+      "Yu Lin Lee"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19218",
+    "pdf_url": "https://arxiv.org/pdf/2602.19218v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 工具使用",
+      "Agent 评测/基准",
+      "Agent 模拟环境",
+      "Agent 迭代优化",
+      "Agent 反馈机制"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/22/gecko-a-simulation-environment-with-stateful-feedback-for-refining-agent-tool-ca.md"
+  },
+  {
+    "arxiv_id": "2602.19157",
+    "version": 1,
+    "title": "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs",
+    "authors": [
+      "Wenqiu Tang",
+      "Zhen Wan",
+      "Takahiro Komamizu",
+      "Ichiro Ide"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19157",
+    "pdf_url": "https://arxiv.org/pdf/2602.19157v1",
+    "published": "2026-02-22",
+    "tags": [
+      "角色扮演智能体",
+      "人格控制",
+      "稀疏自编码器",
+      "可解释性",
+      "大五人格模型",
+      "对比学习",
+      "激活路由",
+      "对话一致性"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/22/facet-level-persona-control-by-trait-activated-routing-with-contrastive-sae-for.md"
+  },
+  {
+    "arxiv_id": "2602.19127",
+    "version": 1,
+    "title": "AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG",
+    "authors": [
+      "Qijie You",
+      "Wenkai Yu",
+      "Wentao Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19127",
+    "pdf_url": "https://arxiv.org/pdf/2602.19127v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agentic RAG",
+      "评测基准",
+      "多步推理",
+      "诊断工具",
+      "数据合成"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/22/agenticragtracer-a-hop-aware-benchmark-for-diagnosing-multi-step-retrieval-reaso.md"
+  },
+  {
+    "arxiv_id": "2602.18998",
+    "version": 1,
+    "title": "Benchmark Test-Time Scaling of General LLM Agents",
+    "authors": [
+      "Xiaochuan Li",
+      "Ryan Ming",
+      "Pranav Setlur",
+      "Abhijay Paladugu",
+      "Andy Tang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18998",
+    "pdf_url": "https://arxiv.org/pdf/2602.18998v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent Benchmark",
+      "General-Purpose Agent",
+      "Test-Time Scaling",
+      "Agent Evaluation",
+      "Tool Use",
+      "Multi-Domain"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/22/benchmark-test-time-scaling-of-general-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2602.19223",
+    "version": 1,
+    "title": "Characterizing MARL for Energy Control: A Multi-KPI Benchmark on the CityLearn Environment",
+    "authors": [
+      "Aymen Khouja",
+      "Imen Jendoubi",
+      "Oumayma Mahjoub",
+      "Oussama Mahfoudhi",
+      "Claude Formanek"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19223",
+    "pdf_url": "https://arxiv.org/pdf/2602.19223v1",
+    "published": "2026-02-22",
+    "tags": [
+      "多智能体强化学习",
+      "能源管理",
+      "基准测试",
+      "城市能源系统",
+      "关键性能指标",
+      "去中心化训练",
+      "CityLearn"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/22/characterizing-marl-for-energy-control-a-multi-kpi-benchmark-on-the-citylearn-en.md"
+  },
+  {
+    "arxiv_id": "2602.20196",
+    "version": 1,
+    "title": "OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access",
+    "authors": [
+      "Genliang Zhu",
+      "Chu Wang",
+      "Ziyuan Wang",
+      "Zhida Li",
+      "Qiang Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.20196",
+    "pdf_url": "https://arxiv.org/pdf/2602.20196v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent 安全",
+      "工具使用",
+      "Agent 架构",
+      "安全治理",
+      "协议规范"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/22/openport-protocol-a-security-governance-specification-for-ai-agent-tool-access.md"
+  },
+  {
+    "arxiv_id": "2602.18986",
+    "version": 1,
+    "title": "Quantifying Automation Risk in High-Automation AI Systems: A Bayesian Framework for Failure Propagation and Optimal Oversight",
+    "authors": [
+      "Vishal Srivastava",
+      "Tanmay Sah"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18986",
+    "pdf_url": "https://arxiv.org/pdf/2602.18986v1",
+    "published": "2026-02-22",
+    "tags": [
+      "Agent Safety",
+      "Risk Quantification",
+      "Automation",
+      "Bayesian Framework",
+      "Failure Propagation",
+      "Optimal Oversight",
+      "Agent Governance"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/22/quantifying-automation-risk-in-high-automation-ai-systems-a-bayesian-framework-f.md"
+  },
+  {
+    "arxiv_id": "2602.19366",
+    "version": 1,
+    "title": "Self-Configurable Mesh-Networks for Scalable Distributed Submodular Bandit Optimization",
+    "authors": [
+      "Zirui Xu",
+      "Vasileios Tzoumas"
+    ],
+    "author_count": 2,
+    "categories": [
+      "eess.SY",
+      "cs.MA",
+      "cs.RO",
+      "math.OC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19366",
+    "pdf_url": "https://arxiv.org/pdf/2602.19366v1",
+    "published": "2026-02-22",
+    "tags": [
+      "多智能体系统",
+      "分布式优化",
+      "在线学习",
+      "通信约束",
+      "子模优化",
+      "多臂老虎机"
+    ],
+    "relevance_score": 6.0,
+    "md_path": "data/2026/02/22/self-configurable-mesh-networks-for-scalable-distributed-submodular-bandit-optim.md"
+  },
+  {
+    "arxiv_id": "2602.19298",
+    "version": 1,
+    "title": "ALPACA: A Reinforcement Learning Environment for Medication Repurposing and Treatment Optimization in Alzheimer's Disease",
+    "authors": [
+      "Nolan Brady",
+      "Tom Yeh"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19298",
+    "pdf_url": "https://arxiv.org/pdf/2602.19298v1",
+    "published": "2026-02-22",
+    "tags": [
+      "强化学习",
+      "决策",
+      "个性化治疗",
+      "医疗AI",
+      "环境模拟"
+    ],
+    "relevance_score": 6.0,
+    "md_path": "data/2026/02/22/alpaca-a-reinforcement-learning-environment-for-medication-repurposing-and-treat.md"
+  },
+  {
+    "arxiv_id": "2602.19373",
+    "version": 1,
+    "title": "Stable Deep Reinforcement Learning via Isotropic Gaussian Representations",
+    "authors": [
+      "Ali Saheb",
+      "Johan Obando-Ceron",
+      "Aaron Courville",
+      "Pouya Bashivan",
+      "Pablo Samuel Castro"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19373",
+    "pdf_url": "https://arxiv.org/pdf/2602.19373v1",
+    "published": "2026-02-22",
+    "tags": [
+      "强化学习",
+      "表示学习",
+      "训练稳定性",
+      "非平稳性",
+      "高斯表示"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/02/22/stable-deep-reinforcement-learning-via-isotropic-gaussian-representations.md"
+  }
+]
