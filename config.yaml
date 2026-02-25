@@ -114,6 +114,8 @@ max_results: 500
 updates:
   fetch_updates: true
   max_results_updates: 500
+  # 更新论文的最早发布日期（过滤掉 LLM 时代之前的老论文）
+  min_published_date: "2023-01-01"
 
 # LLM 请求并发数（预评分 + 逐篇处理）
 concurrency: 2

@@ -140,6 +140,11 @@ def fetch_updated_papers(
         if version < 2:
             continue
 
+        # 过滤掉发布日期过早的论文（早于 LLM 时代）
+        min_published = config.get("updates", {}).get("min_published_date", "2023-01-01")
+        if result.published.strftime("%Y-%m-%d") < min_published:
+            continue
+
         authors = []
         for a in result.authors:
             authors.append({"name": a.name, "affiliation": ""})
