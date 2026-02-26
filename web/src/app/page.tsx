@@ -8,7 +8,7 @@ import { PaperSidebar } from "@/components/paper-sidebar";
 import { PaperDetail } from "@/components/paper-detail";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, Github } from "lucide-react";
 
 export default function Home() {
   const [index, setIndex] = useState<IndexData | null>(null);
@@ -184,6 +184,14 @@ export default function Home() {
                 {papers.length} 篇论文
               </span>
             )}
+            <a
+              href="https://github.com/CMander02/DailyAgentPapers"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Github className="h-4 w-4" />
+            </a>
             <ThemeToggle />
           </div>
         </div>
@@ -194,6 +202,14 @@ export default function Home() {
             <span className="text-xs text-muted-foreground hidden lg:inline">
               每日 Arxiv Agent 论文摘要
             </span>
+            <a
+              href="https://github.com/CMander02/DailyAgentPapers"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Github className="h-4 w-4" />
+            </a>
           </div>
           <div className="flex items-center justify-center">
             {dateStr && (

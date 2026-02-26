@@ -133,7 +133,7 @@ llm:
   # 一次性模式（回退）：仅摘要时的最大输出 token 数
   max_tokens_abstract_only: 3000
   # 低于此分数的论文将被过滤
-  min_relevance_score: 4
+  min_relevance_score: 7
   # prompt 模板位于 scripts/prompts/ 目录下，可直接编辑文本文件
 
 # ============================================================
