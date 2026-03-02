@@ -1169,6 +1169,35 @@
     "md_path": "data/2026/02/26/an-empirical-study-of-bugs-in-modern-llm-agent-frameworks.md"
   },
   {
+    "arxiv_id": "2602.23440",
+    "version": 1,
+    "title": "Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning",
+    "authors": [
+      "Chris Samarinas",
+      "Haw-Shiuan Chang",
+      "Hamed Zamani"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.23440",
+    "pdf_url": "https://arxiv.org/pdf/2602.23440v1",
+    "published": "2026-02-26",
+    "tags": [
+      "Agentic Reinforcement Learning",
+      "Reasoning",
+      "Tool Use",
+      "Search Engine",
+      "Policy Gradient",
+      "LLM-as-Judge",
+      "Multi-step Reasoning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/02/26/truncated-step-level-sampling-with-process-rewards-for-retrieval-augmented-reaso.md"
+  },
+  {
     "arxiv_id": "2602.23276",
     "version": 1,
     "title": "CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays",
@@ -1683,5 +1712,154 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/02/26/webgym-scaling-training-environments-for-visual-web-agents-with-realistic-tasks.md"
+  },
+  {
+    "arxiv_id": "2602.23452",
+    "version": 1,
+    "title": "CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era",
+    "authors": [
+      "Zhengqing Yuan",
+      "Kaiwen Shi",
+      "Zheyuan Zhang",
+      "Lichao Sun",
+      "Nitesh V. Chawla"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.DL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.23452",
+    "pdf_url": "https://arxiv.org/pdf/2602.23452v1",
+    "published": "2026-02-26",
+    "tags": [
+      "多智能体系统",
+      "Agent评测/基准",
+      "工具使用",
+      "科学写作",
+      "幻觉检测",
+      "可信AI"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/26/citeaudit-you-cited-it-but-did-you-read-it-a-benchmark-for-verifying-scientific.md"
+  },
+  {
+    "arxiv_id": "2602.23481",
+    "version": 1,
+    "title": "IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation",
+    "authors": [
+      "Md Mofijul Islam",
+      "Md Sirajus Salekin",
+      "Joe King",
+      "Priyashree Roy",
+      "Vamsi Thilak Gudi"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.23481",
+    "pdf_url": "https://arxiv.org/pdf/2602.23481v1",
+    "published": "2026-02-26",
+    "tags": [
+      "Agent Architecture",
+      "Tool Use",
+      "Multi-Modal LLM",
+      "Document Intelligence",
+      "Compliance Validation",
+      "Benchmark Dataset"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/26/idp-accelerator-agentic-document-intelligence-from-extraction-to-compliance-vali.md"
+  },
+  {
+    "arxiv_id": "2505.23840",
+    "version": 4,
+    "title": "Measuring Sycophancy of Language Models in Multi-turn Dialogues",
+    "authors": [
+      "Jiseung Hong",
+      "Grace Byun",
+      "Seungone Kim",
+      "Kai Shu",
+      "Jinho D. Choi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2505.23840",
+    "pdf_url": "https://arxiv.org/pdf/2505.23840v4",
+    "published": "2025-05-28",
+    "tags": [
+      "Agent Safety",
+      "Agent Evaluation",
+      "LLM Alignment",
+      "Multi-turn Dialogue",
+      "Sycophancy"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/26/measuring-sycophancy-of-language-models-in-multi-turn-dialogues.md"
+  },
+  {
+    "arxiv_id": "2512.03005",
+    "version": 5,
+    "title": "From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?",
+    "authors": [
+      "Dawei Li",
+      "Abdullah Alnaibari",
+      "Arslan Bisharat",
+      "Manny Sandoval",
+      "Deborah Hall"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2512.03005",
+    "pdf_url": "https://arxiv.org/pdf/2512.03005v5",
+    "published": "2025-12-02",
+    "tags": [
+      "Agent 应用",
+      "在线交互",
+      "对话引导",
+      "LLM 评测",
+      "负责任AI",
+      "多智能体交互模拟"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/26/from-moderation-to-mediation-can-llms-serve-as-mediators-in-online-flame-wars.md"
+  },
+  {
+    "arxiv_id": "2507.04996",
+    "version": 8,
+    "title": "Agentic Vehicles for Human-Centered Mobility",
+    "authors": [
+      "Jiangbo Yu",
+      "Raphael Frank",
+      "Luis Miranda-Moreno",
+      "Sasan Jafarnejad",
+      "Jonatas Augusto Manzolli"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CY",
+      "cs.CE",
+      "cs.CL",
+      "cs.HC",
+      "cs.RO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2507.04996",
+    "pdf_url": "https://arxiv.org/pdf/2507.04996v8",
+    "published": "2025-07-07",
+    "tags": [
+      "Agentic AI",
+      "Autonomous Vehicles",
+      "LLM Applications",
+      "Agent Architecture",
+      "Human-Agent Interaction",
+      "Agentic Mobility Systems"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/02/26/agentic-vehicles-for-human-centered-mobility.md"
   }
 ]
