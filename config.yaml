@@ -112,7 +112,7 @@ max_results: 500
 
 # 更新论文抓取配置（捕获在目标日期修订的 v2+ 论文）
 updates:
-  fetch_updates: true
+  fetch_updates: false
   max_results_updates: 500
   # 更新论文的最早发布日期（过滤掉 LLM 时代之前的老论文）
   min_published_date: "2023-01-01"
@@ -133,7 +133,7 @@ llm:
   # 一次性模式（回退）：仅摘要时的最大输出 token 数
   max_tokens_abstract_only: 3000
   # 低于此分数的论文将被过滤
-  min_relevance_score: 7
+  min_relevance_score: 7.5
   # prompt 模板位于 scripts/prompts/ 目录下，可直接编辑文本文件
 
 # ============================================================
