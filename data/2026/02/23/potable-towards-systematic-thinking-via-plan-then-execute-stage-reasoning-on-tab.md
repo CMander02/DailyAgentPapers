@@ -11,6 +11,7 @@ date: "2024-12-05"
 arxiv_id: "2412.04272"
 arxiv_url: "https://arxiv.org/abs/2412.04272"
 pdf_url: "https://arxiv.org/pdf/2412.04272v4"
+github_url: "https://github.com/Double680/PoTable"
 categories:
   - "cs.IR"
   - "cs.AI"

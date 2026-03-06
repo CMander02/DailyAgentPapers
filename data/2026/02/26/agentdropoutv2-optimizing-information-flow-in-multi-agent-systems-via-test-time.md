@@ -12,6 +12,7 @@ date: "2026-02-26"
 arxiv_id: "2602.23258"
 arxiv_url: "https://arxiv.org/abs/2602.23258"
 pdf_url: "https://arxiv.org/pdf/2602.23258v1"
+github_url: "https://github.com/TonySY2/AgentDropoutV2"
 categories:
   - "cs.AI"
   - "cs.CL"

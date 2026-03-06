@@ -62,7 +62,8 @@
       "检索增强"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/02/26/agentdropoutv2-optimizing-information-flow-in-multi-agent-systems-via-test-time.md"
+    "md_path": "data/2026/02/26/agentdropoutv2-optimizing-information-flow-in-multi-agent-systems-via-test-time.md",
+    "github_url": "https://github.com/TonySY2/AgentDropoutV2"
   },
   {
     "arxiv_id": "2602.23008",
@@ -358,7 +359,8 @@
       "LLM Runtime"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/26/clawmobile-rethinking-smartphone-native-agentic-systems.md"
+    "md_path": "data/2026/02/26/clawmobile-rethinking-smartphone-native-agentic-systems.md",
+    "github_url": "https://github.com/ClawMobile/ClawMobile"
   },
   {
     "arxiv_id": "2602.22839",
@@ -389,7 +391,8 @@
       "Presentation Generation"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/26/deeppresenter-environment-grounded-reflection-for-agentic-presentation-generatio.md"
+    "md_path": "data/2026/02/26/deeppresenter-environment-grounded-reflection-for-agentic-presentation-generatio.md",
+    "github_url": "https://github.com/icip-cas/PPTAgent"
   },
   {
     "arxiv_id": "2602.22817",
@@ -420,7 +423,8 @@
       "Decision-Making"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/26/hierarchy-of-groups-policy-optimization-for-long-horizon-agentic-tasks.md"
+    "md_path": "data/2026/02/26/hierarchy-of-groups-policy-optimization-for-long-horizon-agentic-tasks.md",
+    "github_url": "https://github.com/langfengQ/verl-agent"
   },
   {
     "arxiv_id": "2602.22724",
@@ -1075,7 +1079,8 @@
       "Real-World Scenarios"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/26/mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob.md"
+    "md_path": "data/2026/02/26/mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob.md",
+    "github_url": "https://github.com/AMAP-ML/MobilityBench"
   },
   {
     "arxiv_id": "2510.03495",
@@ -1537,7 +1542,8 @@
       "Autonomous Engineering"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/26/repomod-bench-a-benchmark-for-code-repository-modernization-via-implementation-a.md"
+    "md_path": "data/2026/02/26/repomod-bench-a-benchmark-for-code-repository-modernization-via-implementation-a.md",
+    "github_url": "https://github.com/Modelcode-ai/mcode-benchmark"
   },
   {
     "arxiv_id": "2509.02655",
@@ -1798,7 +1804,8 @@
       "Sycophancy"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/26/measuring-sycophancy-of-language-models-in-multi-turn-dialogues.md"
+    "md_path": "data/2026/02/26/measuring-sycophancy-of-language-models-in-multi-turn-dialogues.md",
+    "github_url": "https://github.com/JiseungHong/SYCON-Bench"
   },
   {
     "arxiv_id": "2512.03005",

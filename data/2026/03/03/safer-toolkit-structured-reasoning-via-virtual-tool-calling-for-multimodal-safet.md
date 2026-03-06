@@ -15,6 +15,7 @@ date: "2026-03-03"
 arxiv_id: "2603.02635"
 arxiv_url: "https://arxiv.org/abs/2603.02635"
 pdf_url: "https://arxiv.org/pdf/2603.02635v1"
+github_url: "https://github.com/Duebassx/SaFeR_ToolKit"
 categories:
   - "cs.LG"
 tags:

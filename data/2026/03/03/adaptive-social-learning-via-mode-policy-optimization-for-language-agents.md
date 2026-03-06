@@ -14,6 +14,7 @@ date: "2025-05-04"
 arxiv_id: "2505.02156"
 arxiv_url: "https://arxiv.org/abs/2505.02156"
 pdf_url: "https://arxiv.org/pdf/2505.02156v5"
+github_url: "https://github.com/MozerWang/AMPO"
 categories:
   - "cs.CL"
   - "cs.AI"

@@ -10,6 +10,7 @@ date: "2025-09-27"
 arxiv_id: "2509.23124"
 arxiv_url: "https://arxiv.org/abs/2509.23124"
 pdf_url: "https://arxiv.org/pdf/2509.23124v5"
+github_url: "https://github.com/holi-lab/NCUser"
 categories:
   - "cs.CL"
 tags:

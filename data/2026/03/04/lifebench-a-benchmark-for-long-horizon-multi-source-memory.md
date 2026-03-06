@@ -23,6 +23,7 @@ date: "2026-03-04"
 arxiv_id: "2603.03781"
 arxiv_url: "https://arxiv.org/abs/2603.03781"
 pdf_url: "https://arxiv.org/pdf/2603.03781v1"
+github_url: "https://github.com/1754955896/LifeBench"
 categories:
   - "cs.AI"
 tags:

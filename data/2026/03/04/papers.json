@@ -284,7 +284,8 @@
       "Agent Learning Framework"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/mage-meta-reinforcement-learning-for-language-agents-toward-strategic-exploratio.md"
+    "md_path": "data/2026/03/04/mage-meta-reinforcement-learning-for-language-agents-toward-strategic-exploratio.md",
+    "github_url": "https://github.com/Lu-Yang666/MAGE"
   },
   {
     "arxiv_id": "2511.22235",
@@ -314,7 +315,8 @@
       "长视野任务"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/training-high-level-schedulers-with-execution-feedback-reinforcement-learning-fo.md"
+    "md_path": "data/2026/03/04/training-high-level-schedulers-with-execution-feedback-reinforcement-learning-fo.md",
+    "github_url": "https://github.com/hehehahi4/CES"
   },
   {
     "arxiv_id": "2603.01620",
@@ -368,7 +370,8 @@
       "代码智能体"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md"
+    "md_path": "data/2026/03/04/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md",
+    "github_url": "https://github.com/TarferSoul/Code2Math"
   },
   {
     "arxiv_id": "2510.24702",
@@ -428,7 +431,8 @@
       "Agent Architecture"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/vision-zero-scalable-vlm-self-improvement-via-strategic-gamified-self-play.md"
+    "md_path": "data/2026/03/04/vision-zero-scalable-vlm-self-improvement-via-strategic-gamified-self-play.md",
+    "github_url": "https://github.com/wangqinsi1/Vision-Zero"
   },
   {
     "arxiv_id": "2603.04390",
@@ -760,7 +764,8 @@
       "Agent Architecture"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md"
+    "md_path": "data/2026/03/04/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md",
+    "github_url": "https://github.com/ZrW00/StaR"
   },
   {
     "arxiv_id": "2603.01896",
@@ -876,7 +881,8 @@
       "Event Simulation"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/lifebench-a-benchmark-for-long-horizon-multi-source-memory.md"
+    "md_path": "data/2026/03/04/lifebench-a-benchmark-for-long-horizon-multi-source-memory.md",
+    "github_url": "https://github.com/1754955896/LifeBench"
   },
   {
     "arxiv_id": "2603.03761",
@@ -961,7 +967,8 @@
       "Multi-turn Dialogue"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/non-collaborative-user-simulators-for-tool-agents.md"
+    "md_path": "data/2026/03/04/non-collaborative-user-simulators-for-tool-agents.md",
+    "github_url": "https://github.com/holi-lab/NCUser"
   },
   {
     "arxiv_id": "2602.09937",
@@ -1567,7 +1574,8 @@
       "LLM Agent"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/talking-trees-reasoning-assisted-induction-of-decision-trees-for-tabular-data.md"
+    "md_path": "data/2026/03/04/talking-trees-reasoning-assisted-induction-of-decision-trees-for-tabular-data.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2603.02909",

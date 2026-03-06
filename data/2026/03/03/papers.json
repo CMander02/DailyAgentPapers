@@ -112,7 +112,8 @@
       "轨迹数据增强"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/03/03/efficient-agent-training-for-computer-use.md"
+    "md_path": "data/2026/03/03/efficient-agent-training-for-computer-use.md",
+    "github_url": "https://github.com/GAIR-NLP/PC-Agent-E"
   },
   {
     "arxiv_id": "2603.03258",
@@ -172,7 +173,8 @@
       "数学推理"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/03/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md"
+    "md_path": "data/2026/03/03/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md",
+    "github_url": "https://github.com/TarferSoul/Code2Math"
   },
   {
     "arxiv_id": "2603.03205",
@@ -383,7 +385,8 @@
       "Benchmark"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/03/see-and-remember-a-multimodal-agent-for-web-traversal.md"
+    "md_path": "data/2026/03/03/see-and-remember-a-multimodal-agent-for-web-traversal.md",
+    "github_url": "https://github.com/Vaultttttttttttt/V-GEMS"
   },
   {
     "arxiv_id": "2603.02615",
@@ -407,7 +410,8 @@
       "基准评测"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/03/think-but-dont-overthink-reproducing-recursive-language-models.md"
+    "md_path": "data/2026/03/03/think-but-dont-overthink-reproducing-recursive-language-models.md",
+    "github_url": "https://github.com/drbillwang/rlm-reproduction"
   },
   {
     "arxiv_id": "2511.09710",
@@ -528,7 +532,8 @@
       "Policy Optimization"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/03/adaptive-social-learning-via-mode-policy-optimization-for-language-agents.md"
+    "md_path": "data/2026/03/03/adaptive-social-learning-via-mode-policy-optimization-for-language-agents.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2603.00582",
@@ -648,7 +653,8 @@
       "代码修复"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/03/03/beyondswe-can-current-code-agent-survive-beyond-single-repo-bug-fixing.md"
+    "md_path": "data/2026/03/03/beyondswe-can-current-code-agent-survive-beyond-single-repo-bug-fixing.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2603.03116",
@@ -734,7 +740,8 @@
       "Agent Evaluation"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/03/03/theory-of-code-space-do-code-agents-understand-software-architecture.md"
+    "md_path": "data/2026/03/03/theory-of-code-space-do-code-agents-understand-software-architecture.md",
+    "github_url": "https://github.com/che-shr-cat/tocs"
   },
   {
     "arxiv_id": "2601.02702",
@@ -794,7 +801,8 @@
       "指令执行"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/03/03/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md"
+    "md_path": "data/2026/03/03/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md",
+    "github_url": "https://github.com/ZrW00/StaR"
   },
   {
     "arxiv_id": "2601.12349",
@@ -1083,7 +1091,8 @@
       "Agent Architecture"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/03/parevo-synthesizing-code-for-irregular-data-high-performance-parallelism-through.md"
+    "md_path": "data/2026/03/03/parevo-synthesizing-code-for-irregular-data-high-performance-parallelism-through.md",
+    "github_url": "https://github.com/WildAlg/ParEVO"
   },
   {
     "arxiv_id": "2510.00857",
@@ -1144,7 +1153,8 @@
       "Data Retrieval"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/03/deepxiv-sdk-an-agentic-data-interface-for-scientific-literature.md"
+    "md_path": "data/2026/03/03/deepxiv-sdk-an-agentic-data-interface-for-scientific-literature.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2512.09882",
@@ -1467,7 +1477,8 @@
       "机制设计"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/03/credibility-governance-a-social-mechanism-for-collective-self-correction-under-w.md"
+    "md_path": "data/2026/03/03/credibility-governance-a-social-mechanism-for-collective-self-correction-under-w.md",
+    "github_url": "https://github.com/Wanying-He/Credibility_Governance"
   },
   {
     "arxiv_id": "2603.02635",
@@ -1496,7 +1507,8 @@
       "Agent Training"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/03/safer-toolkit-structured-reasoning-via-virtual-tool-calling-for-multimodal-safet.md"
+    "md_path": "data/2026/03/03/safer-toolkit-structured-reasoning-via-virtual-tool-calling-for-multimodal-safet.md",
+    "github_url": "https://github.com/Duebassx/SaFeR_ToolKit"
   },
   {
     "arxiv_id": "2603.02631",
@@ -1612,7 +1624,8 @@
       "软件工程"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/03/fastcode-fast-and-cost-efficient-code-understanding-and-reasoning.md"
+    "md_path": "data/2026/03/03/fastcode-fast-and-cost-efficient-code-understanding-and-reasoning.md",
+    "github_url": "https://github.com/HKUDS/FastCode"
   },
   {
     "arxiv_id": "2602.22755",
@@ -1667,7 +1680,8 @@
       "Agent 评测/基准"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/03/talk-to-your-slides-high-efficiency-slide-editing-via-language-driven-structured.md"
+    "md_path": "data/2026/03/03/talk-to-your-slides-high-efficiency-slide-editing-via-language-driven-structured.md",
+    "github_url": "https://github.com/KyuDan1/Talk-to-Your-Slides"
   },
   {
     "arxiv_id": "2510.18560",
@@ -1697,7 +1711,8 @@
       "Agentic Workflow"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/03/webdevjudge-evaluating-mllms-as-critiques-for-web-development-quality.md"
+    "md_path": "data/2026/03/03/webdevjudge-evaluating-mllms-as-critiques-for-web-development-quality.md",
+    "github_url": "https://github.com/lcy2723/WebDevJudge"
   },
   {
     "arxiv_id": "2603.02663",

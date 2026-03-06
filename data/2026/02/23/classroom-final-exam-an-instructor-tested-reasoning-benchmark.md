@@ -12,6 +12,7 @@ date: "2026-02-23"
 arxiv_id: "2602.19517"
 arxiv_url: "https://arxiv.org/abs/2602.19517"
 pdf_url: "https://arxiv.org/pdf/2602.19517v1"
+github_url: "https://github.com/Analogy-AI/CFE_Bench"
 categories:
   - "cs.AI"
   - "cs.CE"

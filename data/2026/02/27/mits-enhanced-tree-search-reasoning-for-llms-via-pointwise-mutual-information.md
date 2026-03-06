@@ -10,6 +10,7 @@ date: "2025-10-04"
 arxiv_id: "2510.03632"
 arxiv_url: "https://arxiv.org/abs/2510.03632"
 pdf_url: "https://arxiv.org/pdf/2510.03632v2"
+github_url: "https://github.com/plusnli/MITS"
 categories:
   - "cs.AI"
 tags:

@@ -22,6 +22,7 @@ date: "2026-02-24"
 arxiv_id: "2602.21201"
 arxiv_url: "https://arxiv.org/abs/2602.21201"
 pdf_url: "https://arxiv.org/pdf/2602.21201v2"
+github_url: "https://github.com/google-deepmind/superhuman"
 categories:
   - "cs.AI"
   - "cs.CL"

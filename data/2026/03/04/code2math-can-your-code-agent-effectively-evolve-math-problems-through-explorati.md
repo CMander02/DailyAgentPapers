@@ -15,6 +15,7 @@ date: "2026-03-03"
 arxiv_id: "2603.03202"
 arxiv_url: "https://arxiv.org/abs/2603.03202"
 pdf_url: "https://arxiv.org/pdf/2603.03202v2"
+github_url: "https://github.com/TarferSoul/Code2Math"
 categories:
   - "cs.CL"
 tags:

@@ -10,6 +10,7 @@ date: "2025-11-27"
 arxiv_id: "2511.22235"
 arxiv_url: "https://arxiv.org/abs/2511.22235"
 pdf_url: "https://arxiv.org/pdf/2511.22235v2"
+github_url: "https://github.com/hehehahi4/CES"
 categories:
   - "cs.AI"
 tags:

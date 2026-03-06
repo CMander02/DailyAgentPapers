@@ -8,6 +8,7 @@ date: "2025-05-20"
 arxiv_id: "2505.13909"
 arxiv_url: "https://arxiv.org/abs/2505.13909"
 pdf_url: "https://arxiv.org/pdf/2505.13909v2"
+github_url: "https://github.com/GAIR-NLP/PC-Agent-E"
 categories:
   - "cs.AI"
   - "cs.CL"

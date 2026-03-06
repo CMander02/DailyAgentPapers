@@ -12,6 +12,7 @@ date: "2026-03-04"
 arxiv_id: "2603.03680"
 arxiv_url: "https://arxiv.org/abs/2603.03680"
 pdf_url: "https://arxiv.org/pdf/2603.03680v1"
+github_url: "https://github.com/Lu-Yang666/MAGE"
 categories:
   - "cs.AI"
 tags:

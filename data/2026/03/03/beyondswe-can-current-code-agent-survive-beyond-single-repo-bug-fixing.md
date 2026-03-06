@@ -20,6 +20,7 @@ date: "2026-03-03"
 arxiv_id: "2603.03194"
 arxiv_url: "https://arxiv.org/abs/2603.03194"
 pdf_url: "https://arxiv.org/pdf/2603.03194v1"
+github_url: "https://github.com/AweAI-Team/BeyondSWE"
 categories:
   - "cs.CL"
   - "cs.SE"

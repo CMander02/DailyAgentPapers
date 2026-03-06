@@ -10,6 +10,7 @@ date: "2026-02-11"
 arxiv_id: "2602.10953"
 arxiv_url: "https://arxiv.org/abs/2602.10953"
 pdf_url: "https://arxiv.org/pdf/2602.10953v2"
+github_url: "https://github.com/duterscmy/SOAR"
 categories:
   - "cs.CL"
   - "cs.AI"

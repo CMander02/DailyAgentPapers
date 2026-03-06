@@ -15,6 +15,7 @@ date: "2025-10-12"
 arxiv_id: "2510.10472"
 arxiv_url: "https://arxiv.org/abs/2510.10472"
 pdf_url: "https://arxiv.org/pdf/2510.10472v2"
+github_url: "https://github.com/qrzou/FML-bench"
 categories:
   - "cs.CL"
   - "cs.AI"

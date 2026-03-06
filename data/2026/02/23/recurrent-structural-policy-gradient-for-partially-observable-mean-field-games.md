@@ -17,6 +17,7 @@ date: "2026-02-23"
 arxiv_id: "2602.20141"
 arxiv_url: "https://arxiv.org/abs/2602.20141"
 pdf_url: "https://arxiv.org/pdf/2602.20141v1"
+github_url: "https://github.com/CWibault/mfax"
 categories:
   - "cs.AI"
 tags:

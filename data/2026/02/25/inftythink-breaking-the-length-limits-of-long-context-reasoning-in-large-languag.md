@@ -12,6 +12,7 @@ date: "2025-03-09"
 arxiv_id: "2503.06692"
 arxiv_url: "https://arxiv.org/abs/2503.06692"
 pdf_url: "https://arxiv.org/pdf/2503.06692v5"
+github_url: "https://github.com/ZJU-REAL/InftyThink"
 categories:
   - "cs.CL"
   - "cs.AI"

@@ -19,6 +19,7 @@ date: "2026-02-14"
 arxiv_id: "2603.00084"
 arxiv_url: "https://arxiv.org/abs/2603.00084"
 pdf_url: "https://arxiv.org/pdf/2603.00084v2"
+github_url: "https://github.com/DeepXiv/deepxiv_sdk"
 categories:
   - "cs.DL"
   - "cs.AI"

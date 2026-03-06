@@ -11,6 +11,7 @@ date: "2025-11-05"
 arxiv_id: "2511.03475"
 arxiv_url: "https://arxiv.org/abs/2511.03475"
 pdf_url: "https://arxiv.org/pdf/2511.03475v3"
+github_url: "https://github.com/EfficientContext/ContextPilot"
 categories:
   - "cs.LG"
 tags:

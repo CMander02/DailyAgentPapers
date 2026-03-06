@@ -11,6 +11,7 @@ date: "2025-10-08"
 arxiv_id: "2510.07231"
 arxiv_url: "https://arxiv.org/abs/2510.07231"
 pdf_url: "https://arxiv.org/pdf/2510.07231v3"
+github_url: "https://github.com/econaikaist/econcausal-benchmark"
 categories:
   - "cs.CL"
   - "cs.AI"

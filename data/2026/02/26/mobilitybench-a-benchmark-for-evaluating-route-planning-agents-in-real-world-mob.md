@@ -14,6 +14,7 @@ date: "2026-02-26"
 arxiv_id: "2602.22638"
 arxiv_url: "https://arxiv.org/abs/2602.22638"
 pdf_url: "https://arxiv.org/pdf/2602.22638v1"
+github_url: "https://github.com/AMAP-ML/MobilityBench"
 categories:
   - "cs.AI"
 tags:

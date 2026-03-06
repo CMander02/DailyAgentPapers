@@ -11,6 +11,7 @@ date: "2026-02-14"
 arxiv_id: "2602.13551"
 arxiv_url: "https://arxiv.org/abs/2602.13551"
 pdf_url: "https://arxiv.org/pdf/2602.13551v2"
+github_url: "https://github.com/yikee/FLIP"
 categories:
   - "cs.CL"
 tags:

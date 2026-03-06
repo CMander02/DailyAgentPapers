@@ -8,6 +8,7 @@ date: "2026-02-24"
 arxiv_id: "2602.21136"
 arxiv_url: "https://arxiv.org/abs/2602.21136"
 pdf_url: "https://arxiv.org/pdf/2602.21136v1"
+github_url: "https://github.com/SALT-NLP/SparkMe"
 categories:
   - "cs.HC"
   - "cs.AI"

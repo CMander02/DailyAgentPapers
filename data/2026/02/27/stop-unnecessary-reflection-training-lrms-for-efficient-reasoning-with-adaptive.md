@@ -12,6 +12,7 @@ date: "2026-02-12"
 arxiv_id: "2602.12113"
 arxiv_url: "https://arxiv.org/abs/2602.12113"
 pdf_url: "https://arxiv.org/pdf/2602.12113v2"
+github_url: "https://github.com/ZeweiYu1/ARLCP"
 categories:
   - "cs.AI"
   - "cs.CL"

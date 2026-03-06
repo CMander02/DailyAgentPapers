@@ -10,6 +10,7 @@ date: "2025-06-25"
 arxiv_id: "2506.20640"
 arxiv_url: "https://arxiv.org/abs/2506.20640"
 pdf_url: "https://arxiv.org/pdf/2506.20640v3"
+github_url: "https://github.com/comind-ml/CoMind"
 categories:
   - "cs.AI"
   - "cs.LG"

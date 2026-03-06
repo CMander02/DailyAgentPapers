@@ -11,6 +11,7 @@ date: "2026-02-23"
 arxiv_id: "2602.19672"
 arxiv_url: "https://arxiv.org/abs/2602.19672"
 pdf_url: "https://arxiv.org/pdf/2602.19672v1"
+github_url: "https://github.com/jiayuww/SkillOrchestra"
 categories:
   - "cs.AI"
   - "cs.LG"

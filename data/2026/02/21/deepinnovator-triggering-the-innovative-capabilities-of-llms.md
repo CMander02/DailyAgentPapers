@@ -13,6 +13,7 @@ date: "2026-02-21"
 arxiv_id: "2602.18920"
 arxiv_url: "https://arxiv.org/abs/2602.18920"
 pdf_url: "https://arxiv.org/pdf/2602.18920v1"
+github_url: "https://github.com/HKUDS/DeepInnovator"
 categories:
   - "cs.CL"
   - "cs.AI"

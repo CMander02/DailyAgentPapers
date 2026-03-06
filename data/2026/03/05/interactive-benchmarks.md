@@ -11,6 +11,7 @@ date: "2026-03-05"
 arxiv_id: "2603.04737"
 arxiv_url: "https://arxiv.org/abs/2603.04737"
 pdf_url: "https://arxiv.org/pdf/2603.04737v1"
+github_url: "https://github.com/interactivebench/interactivebench"
 categories:
   - "cs.AI"
   - "cs.CL"

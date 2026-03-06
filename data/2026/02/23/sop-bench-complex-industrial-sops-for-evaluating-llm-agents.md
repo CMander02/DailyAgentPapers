@@ -25,6 +25,7 @@ date: "2025-06-09"
 arxiv_id: "2506.08119"
 arxiv_url: "https://arxiv.org/abs/2506.08119"
 pdf_url: "https://arxiv.org/pdf/2506.08119v2"
+github_url: "https://github.com/amazon-science/sop-bench"
 categories:
   - "cs.AI"
 tags:

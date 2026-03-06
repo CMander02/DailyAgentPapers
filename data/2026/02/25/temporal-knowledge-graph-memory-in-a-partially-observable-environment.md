@@ -8,6 +8,7 @@ date: "2024-08-11"
 arxiv_id: "2408.05861"
 arxiv_url: "https://arxiv.org/abs/2408.05861"
 pdf_url: "https://arxiv.org/pdf/2408.05861v4"
+github_url: "https://github.com/humemai/agent-room-env-v3"
 categories:
   - "cs.AI"
   - "cs.LG"

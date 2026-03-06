@@ -10,6 +10,7 @@ date: "2026-02-22"
 arxiv_id: "2602.18985"
 arxiv_url: "https://arxiv.org/abs/2602.18985"
 pdf_url: "https://arxiv.org/pdf/2602.18985v1"
+github_url: "https://github.com/kding1225/infengine"
 categories:
   - "cs.AI"
 tags:

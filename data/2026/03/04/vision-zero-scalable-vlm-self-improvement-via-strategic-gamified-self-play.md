@@ -14,6 +14,7 @@ date: "2025-09-29"
 arxiv_id: "2509.25541"
 arxiv_url: "https://arxiv.org/abs/2509.25541"
 pdf_url: "https://arxiv.org/pdf/2509.25541v2"
+github_url: "https://github.com/wangqinsi1/Vision-Zero"
 categories:
   - "cs.CV"
   - "cs.AI"

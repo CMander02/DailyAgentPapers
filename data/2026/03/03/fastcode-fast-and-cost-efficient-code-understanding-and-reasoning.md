@@ -13,6 +13,7 @@ date: "2026-03-01"
 arxiv_id: "2603.01012"
 arxiv_url: "https://arxiv.org/abs/2603.01012"
 pdf_url: "https://arxiv.org/pdf/2603.01012v2"
+github_url: "https://github.com/HKUDS/FastCode"
 categories:
   - "cs.SE"
   - "cs.AI"

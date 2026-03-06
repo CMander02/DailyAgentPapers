@@ -6,6 +6,7 @@ date: "2026-02-28"
 arxiv_id: "2603.00601"
 arxiv_url: "https://arxiv.org/abs/2603.00601"
 pdf_url: "https://arxiv.org/pdf/2603.00601v2"
+github_url: "https://github.com/che-shr-cat/tocs"
 categories:
   - "cs.SE"
   - "cs.AI"

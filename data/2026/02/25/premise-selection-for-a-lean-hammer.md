@@ -10,6 +10,7 @@ date: "2025-06-09"
 arxiv_id: "2506.07477"
 arxiv_url: "https://arxiv.org/abs/2506.07477"
 pdf_url: "https://arxiv.org/pdf/2506.07477v2"
+github_url: "https://github.com/hanwenzhu/premise-selection"
 categories:
   - "cs.LG"
   - "cs.AI"

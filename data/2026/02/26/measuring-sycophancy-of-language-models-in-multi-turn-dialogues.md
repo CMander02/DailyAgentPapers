@@ -10,6 +10,7 @@ date: "2025-05-28"
 arxiv_id: "2505.23840"
 arxiv_url: "https://arxiv.org/abs/2505.23840"
 pdf_url: "https://arxiv.org/pdf/2505.23840v4"
+github_url: "https://github.com/JiseungHong/SYCON-Bench"
 categories:
   - "cs.CL"
 tags:

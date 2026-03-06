@@ -11,6 +11,7 @@ date: "2026-02-27"
 arxiv_id: "2602.23876"
 arxiv_url: "https://arxiv.org/abs/2602.23876"
 pdf_url: "https://arxiv.org/pdf/2602.23876v1"
+github_url: "https://github.com/deng-ai-lab/RF-Agent"
 categories:
   - "cs.AI"
   - "cs.LG"

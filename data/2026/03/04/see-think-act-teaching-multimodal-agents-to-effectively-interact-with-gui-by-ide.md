@@ -15,6 +15,7 @@ date: "2025-09-17"
 arxiv_id: "2509.13615"
 arxiv_url: "https://arxiv.org/abs/2509.13615"
 pdf_url: "https://arxiv.org/pdf/2509.13615v4"
+github_url: "https://github.com/ZrW00/StaR"
 categories:
   - "cs.AI"
   - "cs.CL"

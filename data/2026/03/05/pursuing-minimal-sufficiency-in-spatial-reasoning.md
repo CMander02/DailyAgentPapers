@@ -10,6 +10,7 @@ date: "2025-10-19"
 arxiv_id: "2510.16688"
 arxiv_url: "https://arxiv.org/abs/2510.16688"
 pdf_url: "https://arxiv.org/pdf/2510.16688v2"
+github_url: "https://github.com/gyj155/mssr"
 categories:
   - "cs.CV"
   - "cs.AI"

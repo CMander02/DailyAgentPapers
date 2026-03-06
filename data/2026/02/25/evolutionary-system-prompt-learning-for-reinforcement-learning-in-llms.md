@@ -8,6 +8,7 @@ date: "2026-02-16"
 arxiv_id: "2602.14697"
 arxiv_url: "https://arxiv.org/abs/2602.14697"
 pdf_url: "https://arxiv.org/pdf/2602.14697v3"
+github_url: "https://github.com/LunjunZhang/E-SPL"
 categories:
   - "cs.AI"
   - "cs.LG"

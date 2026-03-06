@@ -453,7 +453,8 @@
       "评估框架"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/27/comind-towards-community-driven-agents-for-machine-learning-engineering.md"
+    "md_path": "data/2026/02/27/comind-towards-community-driven-agents-for-machine-learning-engineering.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2506.17001",
@@ -874,7 +875,8 @@
       "规划"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/02/27/mits-enhanced-tree-search-reasoning-for-llms-via-pointwise-mutual-information.md"
+    "md_path": "data/2026/02/27/mits-enhanced-tree-search-reasoning-for-llms-via-pointwise-mutual-information.md",
+    "github_url": "https://github.com/plusnli/MITS"
   },
   {
     "arxiv_id": "2602.21201",
@@ -905,7 +907,8 @@
       "Research Agent"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/02/27/aletheia-tackles-firstproof-autonomously.md"
+    "md_path": "data/2026/02/27/aletheia-tackles-firstproof-autonomously.md",
+    "github_url": "https://github.com/google-deepmind/superhuman"
   },
   {
     "arxiv_id": "2602.24210",
@@ -934,7 +937,8 @@
       "可控生成"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/27/controllable-reasoning-models-are-private-thinkers.md"
+    "md_path": "data/2026/02/27/controllable-reasoning-models-are-private-thinkers.md",
+    "github_url": "https://github.com/UKPLab/arxiv2026-controllable-reasoning-models"
   },
   {
     "arxiv_id": "2602.23949",
@@ -995,7 +999,8 @@
       "蒙特卡洛树搜索"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/27/rf-agent-automated-reward-function-design-via-language-agent-tree-search.md"
+    "md_path": "data/2026/02/27/rf-agent-automated-reward-function-design-via-language-agent-tree-search.md",
+    "github_url": "https://github.com/deng-ai-lab/RF-Agent"
   },
   {
     "arxiv_id": "2602.23866",
@@ -1599,7 +1604,8 @@
       "科学文档理解"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/27/paper2code-automating-code-generation-from-scientific-papers-in-machine-learning.md"
+    "md_path": "data/2026/02/27/paper2code-automating-code-generation-from-scientific-papers-in-machine-learning.md",
+    "github_url": "https://github.com/going-doer/Paper2Code"
   },
   {
     "arxiv_id": "2602.12113",
@@ -1628,7 +1634,8 @@
       "Training Framework"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/27/stop-unnecessary-reflection-training-lrms-for-efficient-reasoning-with-adaptive.md"
+    "md_path": "data/2026/02/27/stop-unnecessary-reflection-training-lrms-for-efficient-reasoning-with-adaptive.md",
+    "github_url": "https://github.com/ZeweiYu1/ARLCP"
   },
   {
     "arxiv_id": "2502.18471",
@@ -1718,7 +1725,8 @@
       "Risky Agentic Autonomy"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/27/foresightsafety-bench-a-frontier-risk-evaluation-and-governance-framework-toward.md"
+    "md_path": "data/2026/02/27/foresightsafety-bench-a-frontier-risk-evaluation-and-governance-framework-toward.md",
+    "github_url": "https://github.com/Beijing-AISI/ForesightSafety-Bench"
   },
   {
     "arxiv_id": "2602.14069",

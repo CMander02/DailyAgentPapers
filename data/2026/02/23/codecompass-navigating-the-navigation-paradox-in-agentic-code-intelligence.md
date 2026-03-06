@@ -6,6 +6,7 @@ date: "2026-02-23"
 arxiv_id: "2602.20048"
 arxiv_url: "https://arxiv.org/abs/2602.20048"
 pdf_url: "https://arxiv.org/pdf/2602.20048v1"
+github_url: "https://github.com/tpaip607/research-codecompass"
 categories:
   - "cs.AI"
   - "cs.SE"

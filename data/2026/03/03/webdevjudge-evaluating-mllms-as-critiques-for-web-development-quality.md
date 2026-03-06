@@ -13,6 +13,7 @@ date: "2025-10-21"
 arxiv_id: "2510.18560"
 arxiv_url: "https://arxiv.org/abs/2510.18560"
 pdf_url: "https://arxiv.org/pdf/2510.18560v3"
+github_url: "https://github.com/lcy2723/WebDevJudge"
 categories:
   - "cs.SE"
   - "cs.AI"

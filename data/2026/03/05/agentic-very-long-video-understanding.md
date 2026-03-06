@@ -13,6 +13,7 @@ date: "2026-01-26"
 arxiv_id: "2601.18157"
 arxiv_url: "https://arxiv.org/abs/2601.18157"
 pdf_url: "https://arxiv.org/pdf/2601.18157v2"
+github_url: "https://github.com/facebookresearch/egagent"
 categories:
   - "cs.CV"
   - "cs.LG"

@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { ScoreBadge } from "./score-badge";
-import { ChevronDown, ChevronUp, ExternalLink, FileText } from "lucide-react";
+import { ChevronDown, ChevronUp, ExternalLink, FileText, Github } from "lucide-react";
 
 export function PaperCard({ paper }: { paper: PaperDetail }) {
   const [expanded, setExpanded] = useState(false);
@@ -90,6 +90,13 @@ export function PaperCard({ paper }: { paper: PaperDetail }) {
               <FileText className="h-3.5 w-3.5 mr-1" /> PDF
             </Button>
           </a>
+          {paper.github_url && (
+            <a href={paper.github_url} target="_blank" rel="noopener noreferrer">
+              <Button variant="outline" size="sm" className="text-xs">
+                <Github className="h-3.5 w-3.5 mr-1" /> Code
+              </Button>
+            </a>
+          )}
         </div>
       </CardContent>
     </Card>

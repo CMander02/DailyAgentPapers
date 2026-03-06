@@ -12,6 +12,24 @@ import arxiv
 logger = logging.getLogger(__name__)
 
 
+def extract_github_url(*texts: str) -> str:
+    """
+    从多个文本（comment, summary 等）中提取第一个 GitHub 仓库链接。
+    返回仓库级 URL（去掉尾部的 tree/blob/wiki 等路径），无则返回空字符串。
+    """
+    for text in texts:
+        if not text:
+            continue
+        # 匹配 github.com/owner/repo，可能带后续路径
+        matches = re.findall(r'https?://github\.com/[\w.-]+/[\w.-]+', text)
+        for url in matches:
+            # 规范化：去掉尾部标点（句号、逗号等）、.git 后缀、尾部斜杠
+            url = url.rstrip('/').rstrip('.,;:!?')
+            url = re.sub(r'\.git$', '', url)
+            return url
+    return ""
+
+
 def build_query(
     keywords: list[str],
     categories: list[str],
@@ -74,19 +92,24 @@ def fetch_arxiv_papers(
             authors.append({"name": a.name, "affiliation": ""})
 
         pdf_url = result.pdf_url or f"https://arxiv.org/pdf/{arxiv_id}"
+        comment = (result.comment or "").strip()
+        summary = result.summary.strip()
+        github_url = extract_github_url(comment, summary)
 
         papers.append({
             "arxiv_id": arxiv_id,
             "version": version,
             "title": re.sub(r"\s+", " ", result.title.replace("\n", " ")).strip(),
             "authors": authors,
-            "summary": result.summary.strip(),
+            "summary": summary,
             "categories": result.categories,
             "primary_category": result.primary_category,
             "published": result.published.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "updated": result.updated.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "arxiv_url": f"https://arxiv.org/abs/{arxiv_id}",
             "pdf_url": pdf_url,
+            "github_url": github_url,
+            "comment": comment,
         })
 
     return papers
@@ -150,19 +173,24 @@ def fetch_updated_papers(
             authors.append({"name": a.name, "affiliation": ""})
 
         pdf_url = result.pdf_url or f"https://arxiv.org/pdf/{arxiv_id}"
+        comment = (result.comment or "").strip()
+        summary = result.summary.strip()
+        github_url = extract_github_url(comment, summary)
 
         papers.append({
             "arxiv_id": arxiv_id,
             "version": version,
             "title": re.sub(r"\s+", " ", result.title.replace("\n", " ")).strip(),
             "authors": authors,
-            "summary": result.summary.strip(),
+            "summary": summary,
             "categories": result.categories,
             "primary_category": result.primary_category,
             "published": result.published.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "updated": result.updated.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "arxiv_url": f"https://arxiv.org/abs/{arxiv_id}",
             "pdf_url": pdf_url,
+            "github_url": github_url,
+            "comment": comment,
         })
 
     return papers

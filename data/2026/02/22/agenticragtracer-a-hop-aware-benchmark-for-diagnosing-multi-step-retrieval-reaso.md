@@ -8,6 +8,7 @@ date: "2026-02-22"
 arxiv_id: "2602.19127"
 arxiv_url: "https://arxiv.org/abs/2602.19127"
 pdf_url: "https://arxiv.org/pdf/2602.19127v1"
+github_url: "https://github.com/YqjMartin/AgenticRAGTracer"
 categories:
   - "cs.CL"
 tags:

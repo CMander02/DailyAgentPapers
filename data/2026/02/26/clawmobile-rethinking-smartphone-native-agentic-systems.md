@@ -12,6 +12,7 @@ date: "2026-02-26"
 arxiv_id: "2602.22942"
 arxiv_url: "https://arxiv.org/abs/2602.22942"
 pdf_url: "https://arxiv.org/pdf/2602.22942v1"
+github_url: "https://github.com/ClawMobile/ClawMobile"
 categories:
   - "cs.MA"
 tags:

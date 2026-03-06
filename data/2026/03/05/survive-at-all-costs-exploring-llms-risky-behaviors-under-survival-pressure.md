@@ -15,6 +15,7 @@ date: "2026-03-05"
 arxiv_id: "2603.05028"
 arxiv_url: "https://arxiv.org/abs/2603.05028"
 pdf_url: "https://arxiv.org/pdf/2603.05028v1"
+github_url: "https://github.com/thu-coai/Survive-at-All-Costs"
 categories:
   - "cs.AI"
   - "cs.CL"

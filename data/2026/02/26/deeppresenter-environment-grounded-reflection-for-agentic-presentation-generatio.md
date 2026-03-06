@@ -15,6 +15,7 @@ date: "2026-02-26"
 arxiv_id: "2602.22839"
 arxiv_url: "https://arxiv.org/abs/2602.22839"
 pdf_url: "https://arxiv.org/pdf/2602.22839v1"
+github_url: "https://github.com/icip-cas/PPTAgent"
 categories:
   - "cs.AI"
 tags:

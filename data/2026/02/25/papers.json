@@ -306,7 +306,8 @@
       "Agent 架构"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/02/25/evolutionary-system-prompt-learning-for-reinforcement-learning-in-llms.md"
+    "md_path": "data/2026/02/25/evolutionary-system-prompt-learning-for-reinforcement-learning-in-llms.md",
+    "github_url": "https://github.com/LunjunZhang/E-SPL"
   },
   {
     "arxiv_id": "2602.22190",
@@ -489,7 +490,8 @@
       "泛化能力"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/25/temporal-knowledge-graph-memory-in-a-partially-observable-environment.md"
+    "md_path": "data/2026/02/25/temporal-knowledge-graph-memory-in-a-partially-observable-environment.md",
+    "github_url": "https://github.com/humemai/agent-room-env-v3"
   },
   {
     "arxiv_id": "2602.16898",
@@ -523,7 +525,8 @@
       "零样本泛化"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/25/mallvi-a-multi-agent-framework-for-integrated-generalized-robotics-manipulation.md"
+    "md_path": "data/2026/02/25/mallvi-a-multi-agent-framework-for-integrated-generalized-robotics-manipulation.md",
+    "github_url": "https://github.com/iman1234ahmadi/MALLVI"
   },
   {
     "arxiv_id": "2510.05077",
@@ -585,7 +588,8 @@
       "算法发现"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/25/or-agent-bridging-evolutionary-search-and-structured-research-for-automated-algo.md"
+    "md_path": "data/2026/02/25/or-agent-bridging-evolutionary-search-and-structured-research-for-automated-algo.md",
+    "github_url": "https://github.com/qiliuchn/OR-Agent"
   },
   {
     "arxiv_id": "2508.21112",
@@ -707,7 +711,8 @@
       "强化学习"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/02/25/self-correcting-vla-online-action-refinement-via-sparse-world-imagination.md"
+    "md_path": "data/2026/02/25/self-correcting-vla-online-action-refinement-via-sparse-world-imagination.md",
+    "github_url": "https://github.com/Kisaragi0/SC-VLA"
   },
   {
     "arxiv_id": "2602.21515",
@@ -1125,7 +1130,8 @@
       "Autonomous Research"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/25/fml-bench-benchmarking-machine-learning-agents-for-scientific-research.md"
+    "md_path": "data/2026/02/25/fml-bench-benchmarking-machine-learning-agents-for-scientific-research.md",
+    "github_url": "https://github.com/qrzou/FML-bench"
   },
   {
     "arxiv_id": "2602.02137",
@@ -1269,7 +1275,8 @@
       "LLM Evaluation"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/25/indicifeval-a-benchmark-for-verifiable-instruction-following-evaluation-in-14-in.md"
+    "md_path": "data/2026/02/25/indicifeval-a-benchmark-for-verifiable-instruction-following-evaluation-in-14-in.md",
+    "github_url": "http://github.com/ai4bharat/IndicIFEval"
   },
   {
     "arxiv_id": "2602.22072",
@@ -1826,7 +1833,8 @@
       "鲁棒性"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/25/resisting-contextual-interference-in-rag-via-parametric-knowledge-reinforcement.md"
+    "md_path": "data/2026/02/25/resisting-contextual-interference-in-rag-via-parametric-knowledge-reinforcement.md",
+    "github_url": "https://github.com/lcy80366872/knowledgeable-R1"
   },
   {
     "arxiv_id": "2506.13793",
@@ -1856,7 +1864,8 @@
       "High-Stakes Applications"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/25/med-refl-medical-reasoning-enhancement-via-self-corrected-fine-grained-reflectio.md"
+    "md_path": "data/2026/02/25/med-refl-medical-reasoning-enhancement-via-self-corrected-fine-grained-reflectio.md",
+    "github_url": "https://github.com/TianYin123/Med-REFL"
   },
   {
     "arxiv_id": "2601.13879",
@@ -2325,7 +2334,8 @@
       "推理能力提升"
     ],
     "relevance_score": 6.5,
-    "md_path": "data/2026/02/25/dysco-dynamic-attention-scaling-decoding-for-long-context-lms.md"
+    "md_path": "data/2026/02/25/dysco-dynamic-attention-scaling-decoding-for-long-context-lms.md",
+    "github_url": "https://github.com/princeton-pli/DySCO"
   },
   {
     "arxiv_id": "2602.21951",
@@ -2379,7 +2389,8 @@
       "结构化推理"
     ],
     "relevance_score": 6.5,
-    "md_path": "data/2026/02/25/d-cot-disciplined-chain-of-thought-learning-for-efficient-reasoning-in-small-lan.md"
+    "md_path": "data/2026/02/25/d-cot-disciplined-chain-of-thought-learning-for-efficient-reasoning-in-small-lan.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.21467",
@@ -2498,7 +2509,8 @@
       "GRPO Training"
     ],
     "relevance_score": 6.5,
-    "md_path": "data/2026/02/25/small-reward-models-via-backward-inference.md"
+    "md_path": "data/2026/02/25/small-reward-models-via-backward-inference.md",
+    "github_url": "https://github.com/yikee/FLIP"
   },
   {
     "arxiv_id": "2509.23744",
@@ -2528,7 +2540,8 @@
       "融合瓶颈"
     ],
     "relevance_score": 6.5,
-    "md_path": "data/2026/02/25/compose-and-fuse-revisiting-the-foundational-bottlenecks-in-multimodal-reasoning.md"
+    "md_path": "data/2026/02/25/compose-and-fuse-revisiting-the-foundational-bottlenecks-in-multimodal-reasoning.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2506.10947",
@@ -2730,7 +2743,8 @@
       "Decision Support"
     ],
     "relevance_score": 5.5,
-    "md_path": "data/2026/02/25/surgo-r1-benchmarking-and-modeling-contextual-reasoning-for-operative-zone-in-su.md"
+    "md_path": "data/2026/02/25/surgo-r1-benchmarking-and-modeling-contextual-reasoning-for-operative-zone-in-su.md",
+    "github_url": "https://github.com/jinlab-imvr/SurGo-R1"
   },
   {
     "arxiv_id": "2602.21693",
@@ -2877,7 +2891,8 @@
       "Symbolic Reasoning"
     ],
     "relevance_score": 5.5,
-    "md_path": "data/2026/02/25/premise-selection-for-a-lean-hammer.md"
+    "md_path": "data/2026/02/25/premise-selection-for-a-lean-hammer.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.10953",
@@ -2908,7 +2923,8 @@
       "推理效率"
     ],
     "relevance_score": 5.5,
-    "md_path": "data/2026/02/25/search-or-accelerate-confidence-switched-position-beam-search-for-diffusion-lang.md"
+    "md_path": "data/2026/02/25/search-or-accelerate-confidence-switched-position-beam-search-for-diffusion-lang.md",
+    "github_url": "https://github.com/duterscmy/SOAR"
   },
   {
     "arxiv_id": "2512.02435",
@@ -2996,7 +3012,8 @@
       "模型训练"
     ],
     "relevance_score": 5.5,
-    "md_path": "data/2026/02/25/inftythink-breaking-the-length-limits-of-long-context-reasoning-in-large-languag.md"
+    "md_path": "data/2026/02/25/inftythink-breaking-the-length-limits-of-long-context-reasoning-in-large-languag.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2505.13529",

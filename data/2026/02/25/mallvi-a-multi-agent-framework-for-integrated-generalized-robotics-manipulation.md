@@ -11,6 +11,7 @@ date: "2026-02-18"
 arxiv_id: "2602.16898"
 arxiv_url: "https://arxiv.org/abs/2602.16898"
 pdf_url: "https://arxiv.org/pdf/2602.16898v3"
+github_url: "https://github.com/iman1234ahmadi/MALLVI"
 categories:
   - "cs.RO"
   - "cs.AI"

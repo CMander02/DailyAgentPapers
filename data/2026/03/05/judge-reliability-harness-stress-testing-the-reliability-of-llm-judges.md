@@ -10,6 +10,7 @@ date: "2026-03-05"
 arxiv_id: "2603.05399"
 arxiv_url: "https://arxiv.org/abs/2603.05399"
 pdf_url: "https://arxiv.org/pdf/2603.05399v1"
+github_url: "https://github.com/RANDCorporation/judge-reliability-harness"
 categories:
   - "cs.AI"
 tags:

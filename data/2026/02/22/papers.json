@@ -232,7 +232,8 @@
       "科学计算"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/22/infengine-a-self-verifying-and-self-optimizing-intelligent-engine-for-infrared-r.md"
+    "md_path": "data/2026/02/22/infengine-a-self-verifying-and-self-optimizing-intelligent-engine-for-infrared-r.md",
+    "github_url": "https://github.com/kding1225/infengine"
   },
   {
     "arxiv_id": "2602.19304",
@@ -351,7 +352,8 @@
       "数据合成"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/22/agenticragtracer-a-hop-aware-benchmark-for-diagnosing-multi-step-retrieval-reaso.md"
+    "md_path": "data/2026/02/22/agenticragtracer-a-hop-aware-benchmark-for-diagnosing-multi-step-retrieval-reaso.md",
+    "github_url": "https://github.com/YqjMartin/AgenticRAGTracer"
   },
   {
     "arxiv_id": "2602.18998",
@@ -381,7 +383,8 @@
       "Multi-Domain"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/22/benchmark-test-time-scaling-of-general-llm-agents.md"
+    "md_path": "data/2026/02/22/benchmark-test-time-scaling-of-general-llm-agents.md",
+    "github_url": "https://github.com/cxcscmu/General-AgentBench"
   },
   {
     "arxiv_id": "2602.19223",

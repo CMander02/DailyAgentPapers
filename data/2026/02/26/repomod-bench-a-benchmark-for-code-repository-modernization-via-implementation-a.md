@@ -11,6 +11,7 @@ date: "2026-02-26"
 arxiv_id: "2602.22518"
 arxiv_url: "https://arxiv.org/abs/2602.22518"
 pdf_url: "https://arxiv.org/pdf/2602.22518v1"
+github_url: "https://github.com/Modelcode-ai/mcode-benchmark"
 categories:
   - "cs.SE"
 tags:

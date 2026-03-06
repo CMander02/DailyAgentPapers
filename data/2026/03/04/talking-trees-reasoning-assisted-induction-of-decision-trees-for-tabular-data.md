@@ -11,6 +11,7 @@ date: "2025-09-25"
 arxiv_id: "2509.21465"
 arxiv_url: "https://arxiv.org/abs/2509.21465"
 pdf_url: "https://arxiv.org/pdf/2509.21465v2"
+github_url: "https://github.com/yandex-research/TalkingTrees"
 categories:
   - "cs.LG"
 tags:

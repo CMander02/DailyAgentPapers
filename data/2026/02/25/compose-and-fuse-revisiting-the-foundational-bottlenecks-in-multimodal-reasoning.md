@@ -10,6 +10,7 @@ date: "2025-09-28"
 arxiv_id: "2509.23744"
 arxiv_url: "https://arxiv.org/abs/2509.23744"
 pdf_url: "https://arxiv.org/pdf/2509.23744v2"
+github_url: "https://github.com/DELTA-DoubleWise/OmniReason"
 categories:
   - "cs.CL"
   - "cs.AI"

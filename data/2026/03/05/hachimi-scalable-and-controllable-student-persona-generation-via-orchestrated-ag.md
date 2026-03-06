@@ -10,6 +10,7 @@ date: "2026-03-05"
 arxiv_id: "2603.04855"
 arxiv_url: "https://arxiv.org/abs/2603.04855"
 pdf_url: "https://arxiv.org/pdf/2603.04855v1"
+github_url: "https://github.com/ZeroLoss-Lab/HACHIMI"
 categories:
   - "cs.CL"
 tags:

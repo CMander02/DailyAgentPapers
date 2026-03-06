@@ -13,6 +13,7 @@ date: "2025-06-05"
 arxiv_id: "2506.05154"
 arxiv_url: "https://arxiv.org/abs/2506.05154"
 pdf_url: "https://arxiv.org/pdf/2506.05154v4"
+github_url: "https://github.com/lcy80366872/knowledgeable-R1"
 categories:
   - "cs.CL"
   - "cs.AI"

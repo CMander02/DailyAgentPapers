@@ -6,6 +6,7 @@ date: "2026-02-25"
 arxiv_id: "2602.21786"
 arxiv_url: "https://arxiv.org/abs/2602.21786"
 pdf_url: "https://arxiv.org/pdf/2602.21786v1"
+github_url: "https://github.com/gitpullpull/DisciplinedChainOfThought"
 categories:
   - "cs.CL"
 tags:

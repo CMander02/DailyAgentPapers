@@ -12,6 +12,7 @@ date: "2025-06-11"
 arxiv_id: "2506.13793"
 arxiv_url: "https://arxiv.org/abs/2506.13793"
 pdf_url: "https://arxiv.org/pdf/2506.13793v4"
+github_url: "https://github.com/TianYin123/Med-REFL"
 categories:
   - "cs.AI"
 tags:

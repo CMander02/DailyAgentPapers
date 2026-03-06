@@ -256,7 +256,8 @@
       "开源实现"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/02/24/awcp-a-workspace-delegation-protocol-for-deep-engagement-collaboration-across-re.md"
+    "md_path": "data/2026/02/24/awcp-a-workspace-delegation-protocol-for-deep-engagement-collaboration-across-re.md",
+    "github_url": "https://github.com/SII-Holos/awcp"
   },
   {
     "arxiv_id": "2602.21201",
@@ -287,7 +288,8 @@
       "Agent 规划"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/24/aletheia-tackles-firstproof-autonomously.md"
+    "md_path": "data/2026/02/24/aletheia-tackles-firstproof-autonomously.md",
+    "github_url": "https://github.com/google-deepmind/superhuman"
   },
   {
     "arxiv_id": "2602.20924",
@@ -376,7 +378,8 @@
       "Persistent Memory"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/24/codified-context-infrastructure-for-ai-agents-in-a-complex-codebase.md"
+    "md_path": "data/2026/02/24/codified-context-infrastructure-for-ai-agents-in-a-complex-codebase.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.20951",
@@ -773,7 +776,8 @@
       "决策优化"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/24/sparkme-adaptive-semi-structured-interviewing-for-qualitative-insight-discovery.md"
+    "md_path": "data/2026/02/24/sparkme-adaptive-semi-structured-interviewing-for-qualitative-insight-discovery.md",
+    "github_url": "https://github.com/SALT-NLP/SparkMe"
   },
   {
     "arxiv_id": "2602.21020",
@@ -863,7 +867,8 @@
       "工具使用"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/24/pipeline-for-verifying-llm-generated-mathematical-solutions.md"
+    "md_path": "data/2026/02/24/pipeline-for-verifying-llm-generated-mathematical-solutions.md",
+    "github_url": "https://github.com/LogicEnj/lean4_verification_pipeline"
   },
   {
     "arxiv_id": "2602.20603",

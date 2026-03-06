@@ -13,6 +13,7 @@ date: "2026-01-30"
 arxiv_id: "2601.22571"
 arxiv_url: "https://arxiv.org/abs/2601.22571"
 pdf_url: "https://arxiv.org/pdf/2601.22571v2"
+github_url: "https://github.com/FelixChan9527/PerfGuard"
 categories:
   - "cs.AI"
 tags:

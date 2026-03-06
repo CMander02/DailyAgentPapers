@@ -40,6 +40,10 @@ def generate_paper_markdown(paper: dict, llm_result: dict, config: dict) -> str:
 
     escaped_title = paper['title'].replace('"', '\\"')
 
+    github_line = ""
+    if paper.get("github_url"):
+        github_line = f'\ngithub_url: "{paper["github_url"]}"'
+
     md = f"""---
 title: "{escaped_title}"
 authors:
@@ -47,7 +51,7 @@ authors:
 date: "{paper['published'][:10]}"
 arxiv_id: "{paper['arxiv_id']}"
 arxiv_url: "{paper['arxiv_url']}"
-pdf_url: "{paper['pdf_url']}"
+pdf_url: "{paper['pdf_url']}"{github_line}
 categories:
 {chr(10).join(cats_list)}
 tags:
@@ -124,6 +128,7 @@ def _build_paper_json(paper: dict, result: dict, date_str: str, config: dict) ->
         "categories": paper["categories"],
         "arxiv_url": paper["arxiv_url"],
         "pdf_url": paper["pdf_url"],
+        "github_url": paper.get("github_url", ""),
         "published": paper["published"][:10],
         "tags": result.get("tags", []),
         "relevance_score": result.get("relevance_score", 0),
@@ -228,9 +233,13 @@ def update_readme(base_dir: str, date_str: str, config: dict):
         score = p.get("relevance_score", 0)
         title = p.get("title", "")
         url = p.get("arxiv_url", "")
+        github_url = p.get("github_url", "")
         tags = p.get("tags", [])
         tags_str = ", ".join(tags[:3])
-        lines.append(f"| {score} | [{title}]({url}) | {tags_str} |")
+        title_cell = f"[{title}]({url})"
+        if github_url:
+            title_cell += f" [[Code]({github_url})]"
+        lines.append(f"| {score} | {title_cell} | {tags_str} |")
 
     lines.append("")
 

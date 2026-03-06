@@ -9,6 +9,7 @@ date: "2025-04-24"
 arxiv_id: "2504.17192"
 arxiv_url: "https://arxiv.org/abs/2504.17192"
 pdf_url: "https://arxiv.org/pdf/2504.17192v5"
+github_url: "https://github.com/going-doer/Paper2Code"
 categories:
   - "cs.CL"
 tags:

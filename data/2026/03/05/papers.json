@@ -557,7 +557,8 @@
       "AIGC"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/perfguard-a-performance-aware-agent-for-visual-content-generation.md"
+    "md_path": "data/2026/03/05/perfguard-a-performance-aware-agent-for-visual-content-generation.md",
+    "github_url": "https://github.com/FelixChan9527/PerfGuard"
   },
   {
     "arxiv_id": "2603.05120",
@@ -996,7 +997,8 @@
       "Self-Preservation"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/survive-at-all-costs-exploring-llms-risky-behaviors-under-survival-pressure.md"
+    "md_path": "data/2026/03/05/survive-at-all-costs-exploring-llms-risky-behaviors-under-survival-pressure.md",
+    "github_url": "https://github.com/thu-coai/Survive-at-All-Costs"
   },
   {
     "arxiv_id": "2603.05027",
@@ -1083,7 +1085,8 @@
       "Agent 评测"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/hachimi-scalable-and-controllable-student-persona-generation-via-orchestrated-ag.md"
+    "md_path": "data/2026/03/05/hachimi-scalable-and-controllable-student-persona-generation-via-orchestrated-ag.md",
+    "github_url": "https://github.com/ZeroLoss-Lab/HACHIMI"
   },
   {
     "arxiv_id": "2603.04783",
@@ -1231,7 +1234,8 @@
       "检索增强生成"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/agentic-very-long-video-understanding.md"
+    "md_path": "data/2026/03/05/agentic-very-long-video-understanding.md",
+    "github_url": "https://github.com/facebookresearch/egagent"
   },
   {
     "arxiv_id": "2603.03372",
@@ -1260,7 +1264,8 @@
       "Agent 评测/基准"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/tritondft-automating-dft-with-a-multi-agent-framework.md"
+    "md_path": "data/2026/03/05/tritondft-automating-dft-with-a-multi-agent-framework.md",
+    "github_url": "https://github.com/Leo9660/TritonDFT"
   },
   {
     "arxiv_id": "2512.07081",
@@ -1345,7 +1350,8 @@
       "Agentic Tasks"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/05/judge-reliability-harness-stress-testing-the-reliability-of-llm-judges.md"
+    "md_path": "data/2026/03/05/judge-reliability-harness-stress-testing-the-reliability-of-llm-judges.md",
+    "github_url": "https://github.com/RANDCorporation/judge-reliability-harness"
   },
   {
     "arxiv_id": "2603.05293",
@@ -1657,7 +1663,8 @@
       "Long-Horizon Planning"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/05/interactive-benchmarks.md"
+    "md_path": "data/2026/03/05/interactive-benchmarks.md",
+    "github_url": "https://github.com/interactivebench/interactivebench"
   },
   {
     "arxiv_id": "2603.04718",
@@ -1747,7 +1754,8 @@
       "数据合成"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/03/05/pursuing-minimal-sufficiency-in-spatial-reasoning.md"
+    "md_path": "data/2026/03/05/pursuing-minimal-sufficiency-in-spatial-reasoning.md",
+    "github_url": "https://github.com/gyj155/mssr"
   },
   {
     "arxiv_id": "2602.24009",

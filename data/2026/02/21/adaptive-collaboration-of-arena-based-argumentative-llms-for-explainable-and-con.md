@@ -11,6 +11,7 @@ date: "2026-02-21"
 arxiv_id: "2602.18916"
 arxiv_url: "https://arxiv.org/abs/2602.18916"
 pdf_url: "https://arxiv.org/pdf/2602.18916v1"
+github_url: "https://github.com/loc110504/ACAL"
 categories:
   - "cs.MA"
   - "cs.AI"

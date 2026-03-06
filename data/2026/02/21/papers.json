@@ -88,7 +88,8 @@
       "不确定性处理"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/21/adaptive-collaboration-of-arena-based-argumentative-llms-for-explainable-and-con.md"
+    "md_path": "data/2026/02/21/adaptive-collaboration-of-arena-based-argumentative-llms-for-explainable-and-con.md",
+    "github_url": "https://github.com/loc110504/ACAL"
   },
   {
     "arxiv_id": "2602.18773",
@@ -267,7 +268,8 @@
       "科学发现"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/21/deepinnovator-triggering-the-innovative-capabilities-of-llms.md"
+    "md_path": "data/2026/02/21/deepinnovator-triggering-the-innovative-capabilities-of-llms.md",
+    "github_url": "https://github.com/HKUDS/DeepInnovator"
   },
   {
     "arxiv_id": "2602.18891",

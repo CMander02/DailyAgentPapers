@@ -25,6 +25,7 @@ date: "2026-02-15"
 arxiv_id: "2602.14135"
 arxiv_url: "https://arxiv.org/abs/2602.14135"
 pdf_url: "https://arxiv.org/pdf/2602.14135v4"
+github_url: "https://github.com/Beijing-AISI/ForesightSafety-Bench"
 categories:
   - "cs.AI"
   - "cs.CR"

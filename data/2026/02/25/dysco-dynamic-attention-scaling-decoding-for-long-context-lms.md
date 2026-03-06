@@ -10,6 +10,7 @@ date: "2026-02-25"
 arxiv_id: "2602.22175"
 arxiv_url: "https://arxiv.org/abs/2602.22175"
 pdf_url: "https://arxiv.org/pdf/2602.22175v1"
+github_url: "https://github.com/princeton-pli/DySCO"
 categories:
   - "cs.CL"
 tags:

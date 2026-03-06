@@ -9,6 +9,7 @@ date: "2025-09-27"
 arxiv_id: "2509.23115"
 arxiv_url: "https://arxiv.org/abs/2509.23115"
 pdf_url: "https://arxiv.org/pdf/2509.23115v3"
+github_url: "https://github.com/he-h/rhythm"
 categories:
   - "cs.LG"
   - "cs.AI"

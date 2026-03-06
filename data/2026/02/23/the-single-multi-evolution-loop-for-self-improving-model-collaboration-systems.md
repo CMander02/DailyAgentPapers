@@ -9,6 +9,7 @@ date: "2026-02-05"
 arxiv_id: "2602.05182"
 arxiv_url: "https://arxiv.org/abs/2602.05182"
 pdf_url: "https://arxiv.org/pdf/2602.05182v2"
+github_url: "https://github.com/BunsenFeng/moco_distill"
 categories:
   - "cs.CL"
 tags:

@@ -12,6 +12,7 @@ date: "2026-03-03"
 arxiv_id: "2603.02510"
 arxiv_url: "https://arxiv.org/abs/2603.02510"
 pdf_url: "https://arxiv.org/pdf/2603.02510v1"
+github_url: "https://github.com/WildAlg/ParEVO"
 categories:
   - "cs.LG"
   - "cs.DC"

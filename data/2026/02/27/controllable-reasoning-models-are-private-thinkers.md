@@ -10,6 +10,7 @@ date: "2026-02-27"
 arxiv_id: "2602.24210"
 arxiv_url: "https://arxiv.org/abs/2602.24210"
 pdf_url: "https://arxiv.org/pdf/2602.24210v1"
+github_url: "https://github.com/UKPLab/arxiv2026-controllable-reasoning-models"
 categories:
   - "cs.CL"
   - "cs.AI"

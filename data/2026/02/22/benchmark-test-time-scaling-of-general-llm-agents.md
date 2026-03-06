@@ -14,6 +14,7 @@ date: "2026-02-22"
 arxiv_id: "2602.18998"
 arxiv_url: "https://arxiv.org/abs/2602.18998"
 pdf_url: "https://arxiv.org/pdf/2602.18998v1"
+github_url: "https://github.com/cxcscmu/General-AgentBench"
 categories:
   - "cs.AI"
   - "cs.CL"

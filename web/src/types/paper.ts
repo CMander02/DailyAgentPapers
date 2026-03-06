@@ -12,6 +12,7 @@ export interface PaperMeta {
   categories: string[];
   arxiv_url: string;
   pdf_url: string;
+  github_url?: string;
   published: string;
   tags: string[];
   relevance_score: number;

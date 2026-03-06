@@ -9,6 +9,7 @@ date: "2025-11-01"
 arxiv_id: "2511.00574"
 arxiv_url: "https://arxiv.org/abs/2511.00574"
 pdf_url: "https://arxiv.org/pdf/2511.00574v2"
+github_url: "https://github.com/sherryzyh/llmbn"
 categories:
   - "cs.LG"
 tags:

@@ -11,6 +11,7 @@ date: "2025-05-16"
 arxiv_id: "2505.11604"
 arxiv_url: "https://arxiv.org/abs/2505.11604"
 pdf_url: "https://arxiv.org/pdf/2505.11604v4"
+github_url: "https://github.com/KyuDan1/Talk-to-Your-Slides"
 categories:
   - "cs.CL"
 tags:

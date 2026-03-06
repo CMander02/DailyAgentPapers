@@ -10,6 +10,7 @@ date: "2026-02-25"
 arxiv_id: "2602.22125"
 arxiv_url: "https://arxiv.org/abs/2602.22125"
 pdf_url: "https://arxiv.org/pdf/2602.22125v1"
+github_url: "http://github.com/ai4bharat/IndicIFEval"
 categories:
   - "cs.CL"
 tags:

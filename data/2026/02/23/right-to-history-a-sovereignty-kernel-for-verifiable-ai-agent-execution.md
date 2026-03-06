@@ -6,6 +6,7 @@ date: "2026-02-23"
 arxiv_id: "2602.20214"
 arxiv_url: "https://arxiv.org/abs/2602.20214"
 pdf_url: "https://arxiv.org/pdf/2602.20214v1"
+github_url: "https://github.com/PunkGo/punkgo-kernel"
 categories:
   - "cs.CR"
   - "cs.AI"

@@ -9,6 +9,7 @@ date: "2026-02-24"
 arxiv_id: "2602.20770"
 arxiv_url: "https://arxiv.org/abs/2602.20770"
 pdf_url: "https://arxiv.org/pdf/2602.20770v1"
+github_url: "https://github.com/LogicEnj/lean4_verification_pipeline"
 categories:
   - "cs.AI"
 tags:

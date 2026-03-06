@@ -118,7 +118,8 @@
       "问答"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/02/23/the-single-multi-evolution-loop-for-self-improving-model-collaboration-systems.md"
+    "md_path": "data/2026/02/23/the-single-multi-evolution-loop-for-self-improving-model-collaboration-systems.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.10604",
@@ -180,7 +181,8 @@
       "Generalization"
     ],
     "relevance_score": 9.5,
-    "md_path": "data/2026/02/23/unifying-evolutionary-prompt-search-and-reinforcement-learning-for-llm-self-impr.md"
+    "md_path": "data/2026/02/23/unifying-evolutionary-prompt-search-and-reinforcement-learning-for-llm-self-impr.md",
+    "github_url": "https://github.com/LunjunZhang/E-SPL"
   },
   {
     "arxiv_id": "2510.12066",
@@ -329,7 +331,8 @@
       "模型行为对齐"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/23/codecompass-navigating-the-navigation-paradox-in-agentic-code-intelligence.md"
+    "md_path": "data/2026/02/23/codecompass-navigating-the-navigation-paradox-in-agentic-code-intelligence.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.19634",
@@ -479,7 +482,8 @@
       "强化学习"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/02/23/skillorchestra-learning-to-route-agents-via-skill-transfer.md"
+    "md_path": "data/2026/02/23/skillorchestra-learning-to-route-agents-via-skill-transfer.md",
+    "github_url": "https://github.com/jiayuww/SkillOrchestra"
   },
   {
     "arxiv_id": "2602.19633",
@@ -874,7 +878,8 @@
       "Sovereignty Kernel"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/02/23/right-to-history-a-sovereignty-kernel-for-verifiable-ai-agent-execution.md"
+    "md_path": "data/2026/02/23/right-to-history-a-sovereignty-kernel-for-verifiable-ai-agent-execution.md",
+    "github_url": ""
   },
   {
     "arxiv_id": "2602.16666",
@@ -1339,7 +1344,8 @@
       "Procedural Tasks"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/02/23/sop-bench-complex-industrial-sops-for-evaluating-llm-agents.md"
+    "md_path": "data/2026/02/23/sop-bench-complex-industrial-sops-for-evaluating-llm-agents.md",
+    "github_url": "https://github.com/amazon-science/sop-bench"
   },
   {
     "arxiv_id": "2510.13614",
@@ -1959,7 +1965,8 @@
       "Agentic强化学习"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/dsdr-dual-scale-diversity-regularization-for-exploration-in-llm-reasoning.md"
+    "md_path": "data/2026/02/23/dsdr-dual-scale-diversity-regularization-for-exploration-in-llm-reasoning.md",
+    "github_url": "https://github.com/SUSTechBruce/DSDR"
   },
   {
     "arxiv_id": "2602.19844",
@@ -2082,7 +2089,8 @@
       "Error Accumulation"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/classroom-final-exam-an-instructor-tested-reasoning-benchmark.md"
+    "md_path": "data/2026/02/23/classroom-final-exam-an-instructor-tested-reasoning-benchmark.md",
+    "github_url": "https://github.com/Analogy-AI/CFE_Bench"
   },
   {
     "arxiv_id": "2602.19534",
@@ -2232,7 +2240,8 @@
       "多智能体系统"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/contextpilot-fast-long-context-inference-via-context-reuse.md"
+    "md_path": "data/2026/02/23/contextpilot-fast-long-context-inference-via-context-reuse.md",
+    "github_url": "https://github.com/EfficientContext/ContextPilot"
   },
   {
     "arxiv_id": "2508.13404",
@@ -2501,7 +2510,8 @@
       "可解释性"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/potable-towards-systematic-thinking-via-plan-then-execute-stage-reasoning-on-tab.md"
+    "md_path": "data/2026/02/23/potable-towards-systematic-thinking-via-plan-then-execute-stage-reasoning-on-tab.md",
+    "github_url": "https://github.com/Double680/PoTable"
   },
   {
     "arxiv_id": "2511.16175",
@@ -2623,7 +2633,8 @@
       "LLM评估"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/econcausal-a-context-aware-causal-reasoning-benchmark-for-large-language-models.md"
+    "md_path": "data/2026/02/23/econcausal-a-context-aware-causal-reasoning-benchmark-for-large-language-models.md",
+    "github_url": "https://github.com/econaikaist/econcausal-benchmark"
   },
   {
     "arxiv_id": "2602.08354",
@@ -2736,7 +2747,8 @@
       "贝叶斯网络"
     ],
     "relevance_score": 7.5,
-    "md_path": "data/2026/02/23/bayesian-network-structure-discovery-using-large-language-models.md"
+    "md_path": "data/2026/02/23/bayesian-network-structure-discovery-using-large-language-models.md",
+    "github_url": "https://github.com/sherryzyh/llmbn"
   },
   {
     "arxiv_id": "2602.19491",
@@ -2879,7 +2891,8 @@
       "提示工程"
     ],
     "relevance_score": 6.5,
-    "md_path": "data/2026/02/23/rhythm-reasoning-with-hierarchical-temporal-tokenization-for-human-mobility.md"
+    "md_path": "data/2026/02/23/rhythm-reasoning-with-hierarchical-temporal-tokenization-for-human-mobility.md",
+    "github_url": "https://github.com/he-h/rhythm"
   },
   {
     "arxiv_id": "2508.00017",
@@ -3075,7 +3088,8 @@
       "算法框架"
     ],
     "relevance_score": 5.5,
-    "md_path": "data/2026/02/23/recurrent-structural-policy-gradient-for-partially-observable-mean-field-games.md"
+    "md_path": "data/2026/02/23/recurrent-structural-policy-gradient-for-partially-observable-mean-field-games.md",
+    "github_url": "https://github.com/CWibault/mfax"
   },
   {
     "arxiv_id": "2602.19961",

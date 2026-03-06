@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { ScoreBadge } from "./score-badge";
-import { ExternalLink, FileText, ArrowLeft, Loader2 } from "lucide-react";
+import { ExternalLink, FileText, ArrowLeft, Loader2, Github } from "lucide-react";
 
 const QA_COLORS = [
   "bg-blue-50 text-blue-700 ring-blue-200/60 dark:bg-blue-950/50 dark:text-blue-300 dark:ring-blue-800/40",
@@ -156,6 +156,13 @@ export function PaperDetail({ paper, loading, onBack }: PaperDetailProps) {
               <FileText className="h-3.5 w-3.5" /> PDF
             </Button>
           </a>
+          {paper.github_url && (
+            <a href={paper.github_url} target="_blank" rel="noopener noreferrer">
+              <Button variant="outline" size="sm" className="text-xs h-8 gap-1.5">
+                <Github className="h-3.5 w-3.5" /> Code
+              </Button>
+            </a>
+          )}
         </div>
 
         {/* Divider */}
