@@ -6,11 +6,6 @@ authors:
   - "Hao Jiang"
   - "Qiang Sheng"
   - "Yilong Xu"
-  - "Baolong Bi"
-  - "Yang Li"
-  - "Zhenlong Yuan"
-  - "Yujun Cai"
-  - "Zhaoqi Wang"
 date: "2026-02-26"
 arxiv_id: "2602.22963"
 arxiv_url: "https://arxiv.org/abs/2602.22963"
@@ -18,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22963v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic Framework"
-  - "Video Misinformation Detection"
-  - "Multimodal LLM (MLLM)"
-  - "Reinforcement Learning"
-  - "Tool Use"
-  - "Iterative Reasoning"
-  - "Decision Making"
-  - "Agent Training"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "FactGuard (two-stage training: agentic supervised fine-tuning and decision-aware reinforcement learning)"
+  primary_benchmark: "FakeSV, FakeTT, FakeVV"
 ---
 
 # FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning

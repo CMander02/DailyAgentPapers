@@ -6,7 +6,6 @@ authors:
   - "Jonathan K. Kummerfeld"
   - "Denis Peskoff"
   - "Jonathan May"
-  - "Jordan Boyd-Graber"
 date: "2024-11-14"
 arxiv_id: "2411.09109"
 arxiv_url: "https://arxiv.org/abs/2411.09109"
@@ -14,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2411.09109v4"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 评测/基准"
-  - "人机交互"
-  - "个性化 Agent"
-  - "游戏 AI"
-  - "自然语言 Agent"
-  - "策略建议"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Multi-Agent Systems"
+  domain: "Games & Entertainment"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "augmented CICERO for personalized advice generation"
+  primary_benchmark: "N/A"
 ---
 
 # Personalized Help for Optimizing Low-Skilled Users' Strategy

@@ -13,15 +13,19 @@ categories:
   - "cs.LG"
   - "math.OC"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划与推理"
-  - "LLM 微调"
-  - "领域特定 Agent"
-  - "闭环系统"
-  - "自我优化"
-  - "决策支持系统"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3-8B, Llama-3.1-8B"
+  key_technique: "OptiRepair (two-phase: IIS-guided repair and domain-specific rationality checks)"
+  primary_benchmark: "N/A"
 ---
 
 # OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents

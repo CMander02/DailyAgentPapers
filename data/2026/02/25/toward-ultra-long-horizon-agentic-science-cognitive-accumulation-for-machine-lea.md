@@ -6,12 +6,6 @@ authors:
   - "Zexi Liu"
   - "Bingyang Zheng"
   - "Cheng Wang"
-  - "Rui Ye"
-  - "Yuzhi Zhang"
-  - "Linfeng Zhang"
-  - "Weinan E"
-  - "Siheng Chen"
-  - "Yanfeng Wang"
 date: "2026-01-15"
 arxiv_id: "2601.10402"
 arxiv_url: "https://arxiv.org/abs/2601.10402"
@@ -19,17 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2601.10402v4"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Ultra-Long-Horizon Autonomy"
-  - "Cognitive Accumulation"
-  - "Memory Management"
-  - "Machine Learning Engineering"
-  - "Hierarchical Cognitive Caching"
-  - "Agentic Science"
-  - "Context Management"
-  - "Multi-Tiered Architecture"
-  - "Autonomous Exploration"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Learning & Optimization"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Hierarchical Cognitive Caching (HCC)"
+  primary_benchmark: "MLE-Bench"
 ---
 
 # Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering

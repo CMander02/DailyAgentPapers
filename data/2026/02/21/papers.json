@@ -1,33 +1,5 @@
 [
   {
-    "arxiv_id": "2602.18968",
-    "version": 1,
-    "title": "Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction",
-    "authors": [
-      "Tao Zhe",
-      "Haoyu Wang",
-      "Bo Luo",
-      "Min Wu",
-      "Wei Fan"
-    ],
-    "author_count": 9,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18968",
-    "pdf_url": "https://arxiv.org/pdf/2602.18968v1",
-    "published": "2026-02-21",
-    "tags": [
-      "Agent 架构",
-      "工具使用",
-      "规划",
-      "错误处理与鲁棒性",
-      "执行优化"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/02/21/robust-and-efficient-tool-orchestration-via-layered-execution-structures-with-re.md"
-  },
-  {
     "arxiv_id": "2602.18940",
     "version": 1,
     "title": "DREAM: Deep Research Evaluation with Agentic Metrics",
@@ -44,18 +16,66 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18940",
     "pdf_url": "https://arxiv.org/pdf/2602.18940v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 评测/基准",
-      "Agent 架构",
-      "工具使用",
-      "研究智能体",
-      "评估框架",
-      "能力对等",
-      "无参考评估"
+      "Tool Use & API Interaction",
+      "Benchmark/Evaluation"
     ],
-    "relevance_score": 9.0,
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Benchmark/Evaluation"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "DREAM (Deep Research Evaluation with Agentic Metrics)",
+      "primary_benchmark": "DREAM"
+    },
     "md_path": "data/2026/02/21/dream-deep-research-evaluation-with-agentic-metrics.md"
+  },
+  {
+    "arxiv_id": "2602.18968",
+    "version": 1,
+    "title": "Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction",
+    "authors": [
+      "Tao Zhe",
+      "Haoyu Wang",
+      "Bo Luo",
+      "Min Wu",
+      "Wei Fan"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18968",
+    "pdf_url": "https://arxiv.org/pdf/2602.18968v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "layered execution structure with schema-aware reflective correction",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/robust-and-efficient-tool-orchestration-via-layered-execution-structures-with-re.md"
   },
   {
     "arxiv_id": "2602.18916",
@@ -76,20 +96,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18916",
     "pdf_url": "https://arxiv.org/pdf/2602.18916v1",
+    "github_url": "https://github.com/loc110504/ACAL",
     "published": "2026-02-21",
     "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "神经符号系统",
-      "可解释性",
-      "法律推理",
-      "人机交互",
-      "辩论框架",
-      "不确定性处理"
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
     ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/02/21/adaptive-collaboration-of-arena-based-argumentative-llms-for-explainable-and-con.md",
-    "github_url": "https://github.com/loc110504/ACAL"
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "Legal & Financial",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Gemini-2.5-Flash-Lite, Gemini-2.5-Flash",
+      "key_technique": "Adaptive Collaboration of Argumentative LLMs (ACAL)",
+      "primary_benchmark": "LegalBench"
+    },
+    "md_path": "data/2026/02/21/adaptive-collaboration-of-arena-based-argumentative-llms-for-explainable-and-con.md"
   },
   {
     "arxiv_id": "2602.18773",
@@ -106,49 +133,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18773",
     "pdf_url": "https://arxiv.org/pdf/2602.18773v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 架构",
-      "工具使用",
-      "医疗智能体",
-      "多模态智能体",
-      "规划与推理",
-      "领域自适应",
-      "智能体微调"
+      "Tool Use & API Interaction",
+      "Architecture & Frameworks"
     ],
-    "relevance_score": 9.0,
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Architecture & Frameworks"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Atomic Execution Nodes (AENs), tool-centric bottom-up architecture, trajectory-aware fine-tuning",
+      "primary_benchmark": "N/A"
+    },
     "md_path": "data/2026/02/21/lammi-pathology-a-tool-centric-bottom-up-lvlm-agent-framework-for-molecularly-in.md"
-  },
-  {
-    "arxiv_id": "2602.18705",
-    "version": 1,
-    "title": "EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education",
-    "authors": [
-      "Wenjing Zhai",
-      "Jianbin Zhang",
-      "Tao Liu"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.MA",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18705",
-    "pdf_url": "https://arxiv.org/pdf/2602.18705v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "社会模拟",
-      "数字孪生",
-      "认知模型",
-      "规则注入",
-      "知识合成",
-      "涌现行为",
-      "教育应用"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/02/21/edu-matrix-a-society-centric-generative-cognitive-digital-twin-architecture-for.md"
   },
   {
     "arxiv_id": "2602.18922",
@@ -165,54 +170,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18922",
     "pdf_url": "https://arxiv.org/pdf/2602.18922v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 架构",
-      "Agent 数据合成",
-      "Agent 评测/基准",
-      "工具使用",
-      "成本优化",
-      "意图识别",
-      "缓存机制",
-      "结构化表示",
-      "少样本学习"
+      "Memory & Context Management",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 8.5,
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "BERT, SetFit, 20B-parameter LLM",
+      "key_technique": "W5H2 structured intent decomposition framework, five-tier cascade architecture",
+      "primary_benchmark": "MASSIVE, BANKING77, CLINC150, NyayaBench v2"
+    },
     "md_path": "data/2026/02/21/why-agent-caching-fails-and-how-to-fix-it-structured-intent-canonicalization-wit.md"
-  },
-  {
-    "arxiv_id": "2602.18832",
-    "version": 1,
-    "title": "OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale",
-    "authors": [
-      "Eason Chen",
-      "Ce Guan",
-      "Ahmed Elshafiey",
-      "Zhonghao Zhao",
-      "Joshua Zekeri"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.HC",
-      "cs.AI",
-      "cs.CY",
-      "cs.SI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18832",
-    "pdf_url": "https://arxiv.org/pdf/2602.18832v1",
-    "published": "2026-02-21",
-    "tags": [
-      "AI Agents",
-      "Multi-Agent Systems",
-      "Agent Community",
-      "Agent Behavior Analysis",
-      "Human-AI Interaction",
-      "Informal Learning",
-      "Social Network Analysis",
-      "Agentic Systems"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/02/21/openclaw-ai-agents-as-informal-learners-at-moltbook-characterizing-an-emergent-l.md"
   },
   {
     "arxiv_id": "2602.18734",
@@ -230,15 +208,26 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18734",
     "pdf_url": "https://arxiv.org/pdf/2602.18734v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "多智能体系统",
-      "检索增强生成",
-      "协同决策",
-      "Agent 架构",
-      "任务规划"
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
     ],
-    "relevance_score": 8.5,
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Cooperative Retrieval-Augmented Generation (CoRAG)",
+      "primary_benchmark": "PopQA"
+    },
     "md_path": "data/2026/02/21/rethinking-retrieval-augmented-generation-as-a-cooperative-decision-making-probl.md"
   },
   {
@@ -259,72 +248,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18920",
     "pdf_url": "https://arxiv.org/pdf/2602.18920v1",
+    "github_url": "https://github.com/HKUDS/DeepInnovator",
     "published": "2026-02-21",
     "tags": [
-      "Agent 架构",
-      "Agent 数据合成",
-      "Agent 评测/基准",
-      "LLM 训练",
-      "科学发现"
+      "Reasoning & Planning",
+      "Learning & Optimization"
     ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/02/21/deepinnovator-triggering-the-innovative-capabilities-of-llms.md",
-    "github_url": "https://github.com/HKUDS/DeepInnovator"
-  },
-  {
-    "arxiv_id": "2602.18891",
-    "version": 1,
-    "title": "Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation",
-    "authors": [
-      "Yuan An"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.CY",
-      "cs.AI",
-      "cs.HC"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18891",
-    "pdf_url": "https://arxiv.org/pdf/2602.18891v1",
-    "published": "2026-02-21",
-    "tags": [
-      "Agent Orchestration",
-      "Multi-Agent System",
-      "Agentic Workflow",
-      "LLM Agents",
-      "Scientific Research",
-      "Agent Evaluation",
-      "Human-Agent Collaboration",
-      "AI Research Operations"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/02/21/orchestrating-llm-agents-for-scientific-research-a-pilot-study-of-multiple-choic.md"
-  },
-  {
-    "arxiv_id": "2602.18764",
-    "version": 1,
-    "title": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol",
-    "authors": [
-      "Andreas Schlapbach"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18764",
-    "pdf_url": "https://arxiv.org/pdf/2602.18764v1",
-    "published": "2026-02-21",
-    "tags": [
-      "Agent 架构",
-      "工具使用",
-      "Agent 系统设计",
-      "LLM 交互协议",
-      "可审计性",
-      "模式设计"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/02/21/the-convergence-of-schema-guided-dialogue-systems-and-the-model-context-protocol.md"
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Qwen-14B-Instruct",
+      "key_technique": "Next Idea Prediction training paradigm",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/deepinnovator-triggering-the-innovative-capabilities-of-llms.md"
   },
   {
     "arxiv_id": "2602.18731",
@@ -342,126 +286,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18731",
     "pdf_url": "https://arxiv.org/pdf/2602.18731v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 架构",
-      "多智能体系统",
-      "多模态智能体",
-      "规划与推理",
-      "Agent 评测/基准"
+      "Multi-Agent Systems",
+      "Perception & Multimodal"
     ],
-    "relevance_score": 8.0,
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Perception & Multimodal"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Chart Insight Agent Flow (CIAF)",
+      "primary_benchmark": "ChartSummInsights"
+    },
     "md_path": "data/2026/02/21/beyond-description-a-multimodal-agent-framework-for-insightful-chart-summarizati.md"
-  },
-  {
-    "arxiv_id": "2602.18710",
-    "version": 1,
-    "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
-    "authors": [
-      "Martin Bertran",
-      "Riccardo Fogliato",
-      "Zhiwei Steven Wu"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18710",
-    "pdf_url": "https://arxiv.org/pdf/2602.18710v1",
-    "published": "2026-02-21",
-    "tags": [
-      "Agentic Data Science",
-      "AI Analyst",
-      "Analytic Diversity",
-      "LLM-based Agent",
-      "Methodological Validity",
-      "Multi-Agent System",
-      "Agent Evaluation"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/02/21/many-ai-analysts-one-dataset-navigating-the-agentic-data-science-multiverse.md"
-  },
-  {
-    "arxiv_id": "2602.18966",
-    "version": 1,
-    "title": "Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation",
-    "authors": [
-      "Yonathan Ron",
-      "Shiri Gilboa",
-      "Tammuz Dubnov"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18966",
-    "pdf_url": "https://arxiv.org/pdf/2602.18966v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体系统",
-      "LLM应用",
-      "工具使用",
-      "领域适应",
-      "自动语音识别"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/whisper-courtside-edition-enhancing-asr-performance-through-llm-driven-context-g.md"
-  },
-  {
-    "arxiv_id": "2602.18971",
-    "version": 1,
-    "title": "When Do LLM Preferences Predict Downstream Behavior?",
-    "authors": [
-      "Katarina Slama",
-      "Alexandra Souly",
-      "Dishank Bansal",
-      "Henry Davidson",
-      "Christopher Summerfield"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18971",
-    "pdf_url": "https://arxiv.org/pdf/2602.18971v1",
-    "published": "2026-02-21",
-    "tags": [
-      "Agent 评测/基准",
-      "LLM 偏好",
-      "AI 安全",
-      "Agent 行为分析",
-      "下游任务预测"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/when-do-llm-preferences-predict-downstream-behavior.md"
-  },
-  {
-    "arxiv_id": "2602.18981",
-    "version": 1,
-    "title": "How Far Can We Go with Pixels Alone? A Pilot Study on Screen-Only Navigation in Commercial 3D ARPGs",
-    "authors": [
-      "Kaijie Xu",
-      "Mustafa Bugti",
-      "Clark Verbrugge"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18981",
-    "pdf_url": "https://arxiv.org/pdf/2602.18981v1",
-    "published": "2026-02-21",
-    "tags": [
-      "视觉导航",
-      "游戏智能体",
-      "视觉感知",
-      "环境理解",
-      "基准测试",
-      "有限状态机"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/how-far-can-we-go-with-pixels-alone-a-pilot-study-on-screen-only-navigation-in-c.md"
   },
   {
     "arxiv_id": "2602.18914",
@@ -480,138 +325,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18914",
     "pdf_url": "https://arxiv.org/pdf/2602.18914v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 评测/基准",
-      "工具使用",
-      "Agent 安全",
-      "MCP",
-      "软件工程"
+      "Tool Use & API Interaction",
+      "Safety & Alignment"
     ],
     "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "four-dimensional quality standard (accuracy, functionality, information completeness, conciseness) for MCP tool descriptions",
+      "primary_benchmark": "constructed dataset of 10,831 MCP servers"
+    },
     "md_path": "data/2026/02/21/from-docs-to-descriptions-smell-aware-evaluation-of-mcp-server-descriptions.md"
-  },
-  {
-    "arxiv_id": "2602.18962",
-    "version": 1,
-    "title": "NeuroWise: A Multi-Agent LLM \"Glass-Box\" System for Practicing Double-Empathy Communication with Autistic Partners",
-    "authors": [
-      "Albert Tang",
-      "Yifan Mo",
-      "Jie Li",
-      "Yue Su",
-      "Mengyuan Zhang"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.HC",
-      "cs.AI",
-      "cs.CY",
-      "cs.IR",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18962",
-    "pdf_url": "https://arxiv.org/pdf/2602.18962v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体系统",
-      "LLM应用",
-      "人机交互",
-      "社会智能体",
-      "AI辅助沟通",
-      "心理健康"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/neurowise-a-multi-agent-llm-glass-box-system-for-practicing-double-empathy-commu.md"
-  },
-  {
-    "arxiv_id": "2602.18824",
-    "version": 1,
-    "title": "UniRank: A Multi-Agent Calibration Pipeline for Estimating University Rankings from Anonymized Bibliometric Signals",
-    "authors": [
-      "Pedram Riyazimehr",
-      "Seyyed Ehsan Mahmoudi"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.SI",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18824",
-    "pdf_url": "https://arxiv.org/pdf/2602.18824v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体系统",
-      "LLM 管道",
-      "工具增强",
-      "校准",
-      "基准/评测",
-      "推理",
-      "数据合成"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/unirank-a-multi-agent-calibration-pipeline-for-estimating-university-rankings-fr.md"
-  },
-  {
-    "arxiv_id": "2602.18767",
-    "version": 1,
-    "title": "Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4",
-    "authors": [
-      "Leni Aniva",
-      "Iori Oikawa",
-      "David Dill",
-      "Clark Barrett"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.LO",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18767",
-    "pdf_url": "https://arxiv.org/pdf/2602.18767v1",
-    "published": "2026-02-21",
-    "tags": [
-      "定理证明",
-      "智能体",
-      "图神经网络",
-      "自动推理",
-      "形式化验证",
-      "工具使用"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/nazrin-atomic-tactics-for-graph-neural-networks-for-theorem-proving-in-lean-4.md"
-  },
-  {
-    "arxiv_id": "2602.18740",
-    "version": 1,
-    "title": "HONEST-CAV: Hierarchical Optimization of Network Signals and Trajectories for Connected and Automated Vehicles with Multi-Agent Reinforcement Learning",
-    "authors": [
-      "Ziyan Zhang",
-      "Changxin Wan",
-      "Peng Hao",
-      "Kanok Boriboonsomsin",
-      "Matthew J. Barth"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "eess.SY"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18740",
-    "pdf_url": "https://arxiv.org/pdf/2602.18740v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体强化学习",
-      "交通信号控制",
-      "自动驾驶车辆",
-      "分层优化",
-      "网络级控制",
-      "能效优化",
-      "去中心化智能体"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/honest-cav-hierarchical-optimization-of-network-signals-and-trajectories-for-con.md"
   },
   {
     "arxiv_id": "2602.18700",
@@ -631,71 +365,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.18700",
     "pdf_url": "https://arxiv.org/pdf/2602.18700v1",
+    "github_url": "",
     "published": "2026-02-21",
     "tags": [
-      "Agent 安全",
-      "Agent 数据合成",
-      "Agent 评测/基准",
-      "版权保护",
-      "水印技术"
+      "Memory & Context Management",
+      "Safety & Alignment"
     ],
     "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Qwen-2.5-Coder-7B",
+      "key_technique": "ActHook",
+      "primary_benchmark": "N/A"
+    },
     "md_path": "data/2026/02/21/watermarking-llm-agent-trajectories.md"
-  },
-  {
-    "arxiv_id": "2602.18673",
-    "version": 1,
-    "title": "When Coordination Is Avoidable: A Monotonicity Analysis of Organizational Tasks",
-    "authors": [
-      "Harang Ju"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.MA",
-      "cs.DC"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18673",
-    "pdf_url": "https://arxiv.org/pdf/2602.18673v1",
-    "published": "2026-02-21",
-    "tags": [
-      "多智能体系统",
-      "协调机制",
-      "组织理论",
-      "任务分析",
-      "分布式系统理论",
-      "工作流分类",
-      "效率优化"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/02/21/when-coordination-is-avoidable-a-monotonicity-analysis-of-organizational-tasks.md"
-  },
-  {
-    "arxiv_id": "2602.18850",
-    "version": 1,
-    "title": "When the Inference Meets the Explicitness or Why Multimodality Can Make Us Forget About the Perfect Predictor",
-    "authors": [
-      "J. E. Domínguez-Vidal",
-      "Alberto Sanfeliu"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.18850",
-    "pdf_url": "https://arxiv.org/pdf/2602.18850v1",
-    "published": "2026-02-21",
-    "tags": [
-      "人机协作",
-      "意图预测",
-      "显式通信",
-      "机器人",
-      "多模态交互",
-      "人机交互",
-      "实验评估"
-    ],
-    "relevance_score": 7.0,
-    "md_path": "data/2026/02/21/when-the-inference-meets-the-explicitness-or-why-multimodality-can-make-us-forge.md"
   },
   {
     "arxiv_id": "2602.18925",
@@ -811,6 +501,81 @@
     "md_path": "data/2026/02/21/temporal-action-representation-learning-for-tactical-resource-control-and-subseq.md"
   },
   {
+    "arxiv_id": "2602.18710",
+    "version": 1,
+    "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
+    "authors": [
+      "Martin Bertran",
+      "Riccardo Fogliato",
+      "Zhiwei Steven Wu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18710",
+    "pdf_url": "https://arxiv.org/pdf/2602.18710v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Data Science & Analytics"
+    ],
+    "relevance_score": 6.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Data Science & Analytics"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "GPT-4, Claude 3 Opus, Llama 3.1 70B, Mixtral 8x22B",
+      "key_technique": "AI analyst framework with autonomous analysis pipeline and AI auditor",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/many-ai-analysts-one-dataset-navigating-the-agentic-data-science-multiverse.md"
+  },
+  {
+    "arxiv_id": "2602.18981",
+    "version": 1,
+    "title": "How Far Can We Go with Pixels Alone? A Pilot Study on Screen-Only Navigation in Commercial 3D ARPGs",
+    "authors": [
+      "Kaijie Xu",
+      "Mustafa Bugti",
+      "Clark Verbrugge"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18981",
+    "pdf_url": "https://arxiv.org/pdf/2602.18981v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Perception & Multimodal",
+      "World Modeling & Simulation"
+    ],
+    "relevance_score": 6.0,
+    "taxonomy": {
+      "capability": [
+        "Perception & Multimodal",
+        "World Modeling & Simulation"
+      ],
+      "domain": "Games & Entertainment",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Screen-only navigation agent using visual affordance detector and finite-state controller",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/how-far-can-we-go-with-pixels-alone-a-pilot-study-on-screen-only-navigation-in-c.md"
+  },
+  {
     "arxiv_id": "2602.18857",
     "version": 1,
     "title": "VariBASed: Variational Bayes-Adaptive Sequential Monte-Carlo Planning for Deep Reinforcement Learning",
@@ -837,5 +602,465 @@
     ],
     "relevance_score": 5.5,
     "md_path": "data/2026/02/21/varibased-variational-bayes-adaptive-sequential-monte-carlo-planning-for-deep-re.md"
+  },
+  {
+    "arxiv_id": "2602.18705",
+    "version": 1,
+    "title": "EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education",
+    "authors": [
+      "Wenjing Zhai",
+      "Jianbin Zhang",
+      "Tao Liu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18705",
+    "pdf_url": "https://arxiv.org/pdf/2602.18705v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Environment Context Injection Engine (ECIE), Modular Logic Evolution Protocol (MLEP), Endogenous Alignment via Role-Topology",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/edu-matrix-a-society-centric-generative-cognitive-digital-twin-architecture-for.md"
+  },
+  {
+    "arxiv_id": "2602.18832",
+    "version": 1,
+    "title": "OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale",
+    "authors": [
+      "Eason Chen",
+      "Ce Guan",
+      "Ahmed Elshafiey",
+      "Zhonghao Zhao",
+      "Joshua Zekeri"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CY",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18832",
+    "pdf_url": "https://arxiv.org/pdf/2602.18832v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "N/A",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/openclaw-ai-agents-as-informal-learners-at-moltbook-characterizing-an-emergent-l.md"
+  },
+  {
+    "arxiv_id": "2602.18891",
+    "version": 1,
+    "title": "Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation",
+    "authors": [
+      "Yuan An"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18891",
+    "pdf_url": "https://arxiv.org/pdf/2602.18891v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AI-orchestrated research workflow with multiple LLM-based agents",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/orchestrating-llm-agents-for-scientific-research-a-pilot-study-of-multiple-choic.md"
+  },
+  {
+    "arxiv_id": "2602.18764",
+    "version": 1,
+    "title": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol",
+    "authors": [
+      "Andreas Schlapbach"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18764",
+    "pdf_url": "https://arxiv.org/pdf/2602.18764v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Schema-Guided Dialogue (SGD), Model Context Protocol (MCP) convergence analysis and design principles",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/the-convergence-of-schema-guided-dialogue-systems-and-the-model-context-protocol.md"
+  },
+  {
+    "arxiv_id": "2602.18966",
+    "version": 1,
+    "title": "Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation",
+    "authors": [
+      "Yonathan Ron",
+      "Shiri Gilboa",
+      "Tammuz Dubnov"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18966",
+    "pdf_url": "https://arxiv.org/pdf/2602.18966v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Games & Entertainment",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "multi-agent LLM pipeline for domain-aware prompt generation",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/whisper-courtside-edition-enhancing-asr-performance-through-llm-driven-context-g.md"
+  },
+  {
+    "arxiv_id": "2602.18971",
+    "version": 1,
+    "title": "When Do LLM Preferences Predict Downstream Behavior?",
+    "authors": [
+      "Katarina Slama",
+      "Alexandra Souly",
+      "Dishank Bansal",
+      "Henry Davidson",
+      "Christopher Summerfield"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18971",
+    "pdf_url": "https://arxiv.org/pdf/2602.18971v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Reasoning & Planning",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "N/A",
+      "primary_benchmark": "BoolQ"
+    },
+    "md_path": "data/2026/02/21/when-do-llm-preferences-predict-downstream-behavior.md"
+  },
+  {
+    "arxiv_id": "2602.18962",
+    "version": 1,
+    "title": "NeuroWise: A Multi-Agent LLM \"Glass-Box\" System for Practicing Double-Empathy Communication with Autistic Partners",
+    "authors": [
+      "Albert Tang",
+      "Yifan Mo",
+      "Jie Li",
+      "Yue Su",
+      "Mengyuan Zhang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CY",
+      "cs.IR",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18962",
+    "pdf_url": "https://arxiv.org/pdf/2602.18962v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Multi-agent LLM architecture coordinating autistic partner simulation, stress estimation, interpretation, and coaching",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/neurowise-a-multi-agent-llm-glass-box-system-for-practicing-double-empathy-commu.md"
+  },
+  {
+    "arxiv_id": "2602.18824",
+    "version": 1,
+    "title": "UniRank: A Multi-Agent Calibration Pipeline for Estimating University Rankings from Anonymized Bibliometric Signals",
+    "authors": [
+      "Pedram Riyazimehr",
+      "Seyyed Ehsan Mahmoudi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18824",
+    "pdf_url": "https://arxiv.org/pdf/2602.18824v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "three-stage multi-agent architecture (MAgICoRe-inspired)",
+      "primary_benchmark": "Times Higher Education (THE) World University Rankings"
+    },
+    "md_path": "data/2026/02/21/unirank-a-multi-agent-calibration-pipeline-for-estimating-university-rankings-fr.md"
+  },
+  {
+    "arxiv_id": "2602.18767",
+    "version": 1,
+    "title": "Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4",
+    "authors": [
+      "Leni Aniva",
+      "Iori Oikawa",
+      "David Dill",
+      "Clark Barrett"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LO",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18767",
+    "pdf_url": "https://arxiv.org/pdf/2602.18767v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Reasoning & Planning",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Code & Software Engineering"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Atomic Tactics, Transposing Atomization algorithm, ExprGraph data structure, Nazrin Prover (GNN-based agent)",
+      "primary_benchmark": "Lean's standard library, Mathlib"
+    },
+    "md_path": "data/2026/02/21/nazrin-atomic-tactics-for-graph-neural-networks-for-theorem-proving-in-lean-4.md"
+  },
+  {
+    "arxiv_id": "2602.18673",
+    "version": 1,
+    "title": "When Coordination Is Avoidable: A Monotonicity Analysis of Organizational Tasks",
+    "authors": [
+      "Harang Ju"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA",
+      "cs.DC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18673",
+    "pdf_url": "https://arxiv.org/pdf/2602.18673v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 5.0,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Thompson-CALM Bridge Theorem, Coordination Tax",
+      "primary_benchmark": "APQC Process Classification Framework, O*NET database"
+    },
+    "md_path": "data/2026/02/21/when-coordination-is-avoidable-a-monotonicity-analysis-of-organizational-tasks.md"
+  },
+  {
+    "arxiv_id": "2602.18740",
+    "version": 1,
+    "title": "HONEST-CAV: Hierarchical Optimization of Network Signals and Trajectories for Connected and Automated Vehicles with Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Ziyan Zhang",
+      "Changxin Wan",
+      "Peng Hao",
+      "Kanok Boriboonsomsin",
+      "Matthew J. Barth"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18740",
+    "pdf_url": "https://arxiv.org/pdf/2602.18740v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 2.0,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "Robotics & Embodied",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Hierarchical co-optimization framework with Multi-Agent Reinforcement Learning (MARL) using Value Decomposition Network (VDN) and Imitation Learning (IL)-based Eco-Approach and Departure (EAD) strategy",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/honest-cav-hierarchical-optimization-of-network-signals-and-trajectories-for-con.md"
+  },
+  {
+    "arxiv_id": "2602.18850",
+    "version": 1,
+    "title": "When the Inference Meets the Explicitness or Why Multimodality Can Make Us Forget About the Perfect Predictor",
+    "authors": [
+      "J. E. Domínguez-Vidal",
+      "Alberto Sanfeliu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.18850",
+    "pdf_url": "https://arxiv.org/pdf/2602.18850v1",
+    "github_url": "",
+    "published": "2026-02-21",
+    "tags": [
+      "Human-Agent Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 2.0,
+    "taxonomy": {
+      "capability": [
+        "Human-Agent Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "Robotics & Embodied",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Intention predictors (force-based and velocity-based) and explicit communication methods (button interface, voice-command)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/02/21/when-the-inference-meets-the-explicitness-or-why-multimodality-can-make-us-forge.md"
   }
 ]

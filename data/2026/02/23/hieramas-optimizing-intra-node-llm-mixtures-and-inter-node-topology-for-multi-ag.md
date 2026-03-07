@@ -11,15 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20229v1"
 categories:
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "LLM混合"
-  - "通信拓扑"
-  - "强化学习"
-  - "信用分配"
-  - "角色分配"
-  - "系统优化"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "HieraMAS (hierarchical collaboration framework with intra-node LLM mixtures and inter-node topology, two-stage algorithm with multi-level reward attribution and graph classification)"
+  primary_benchmark: "N/A"
 ---
 
 # HieraMAS: Optimizing Intra-Node LLM Mixtures and Inter-Node Topology for Multi-Agent Systems

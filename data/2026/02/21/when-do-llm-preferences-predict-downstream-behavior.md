@@ -6,7 +6,6 @@ authors:
   - "Dishank Bansal"
   - "Henry Davidson"
   - "Christopher Summerfield"
-  - "Lennart Luettgau"
 date: "2026-02-21"
 arxiv_id: "2602.18971"
 arxiv_url: "https://arxiv.org/abs/2602.18971"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18971v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "LLM 偏好"
-  - "AI 安全"
-  - "Agent 行为分析"
-  - "下游任务预测"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "BoolQ"
 ---
 
 # When Do LLM Preferences Predict Downstream Behavior?

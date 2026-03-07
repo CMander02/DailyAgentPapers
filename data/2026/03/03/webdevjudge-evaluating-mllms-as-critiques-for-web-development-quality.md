@@ -6,9 +6,6 @@ authors:
   - "Xinting Huang"
   - "Tianqing Fang"
   - "Jiahao Xu"
-  - "Lihui Chen"
-  - "Yangqiu Song"
-  - "Han Hu"
 date: "2025-10-21"
 arxiv_id: "2510.18560"
 arxiv_url: "https://arxiv.org/abs/2510.18560"
@@ -18,13 +15,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "LLM-as-a-Judge"
-  - "Benchmark"
-  - "Web Development"
-  - "Multi-Modal LLM"
-  - "Agentic Workflow"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, GPT-4o-mini, Claude-3.5-Sonnet, Llama-3.1-70B, Llama-3.1-8B, Qwen-2.5-72B, Qwen-2.5-7B, Gemini-1.5-Pro, Gemini-1.5-Flash, Command-R-Plus, Yi-1.5-34B, Yi-1.5-9B"
+  key_technique: "LLM-as-a-judge paradigm, structured and query-grounded rubrics"
+  primary_benchmark: "WebDevJudge"
 ---
 
 # WebDevJudge: Evaluating (M)LLMs as Critiques for Web Development Quality

@@ -6,9 +6,6 @@ authors:
   - "Kai Fronsdal"
   - "Isha Gupta"
   - "Samuel R. Bowman"
-  - "Sara Price"
-  - "Samuel Marks"
-  - "Rowan Wang"
 date: "2026-02-26"
 arxiv_id: "2602.22755"
 arxiv_url: "https://arxiv.org/abs/2602.22755"
@@ -16,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22755v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Evaluation"
-  - "Alignment Auditing"
-  - "Benchmark"
-  - "Agentic Investigation"
-  - "Tool Use"
-  - "Black-Box Tools"
-  - "Safety"
+  - "Safety & Alignment"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "investigator agent with configurable auditing tools (scaffolded black-box tools, white-box interpretability tools)"
+  primary_benchmark: "AuditBench"
 ---
 
 # AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors

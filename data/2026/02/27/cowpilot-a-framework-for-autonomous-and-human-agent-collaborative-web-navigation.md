@@ -6,8 +6,6 @@ authors:
   - "Frank F. Xu"
   - "Tianyue Ou"
   - "Shuyan Zhou"
-  - "Jeffrey P. Bigham"
-  - "Graham Neubig"
 date: "2025-01-28"
 arxiv_id: "2501.16609"
 arxiv_url: "https://arxiv.org/abs/2501.16609"
@@ -17,14 +15,19 @@ categories:
   - "cs.CL"
   - "cs.HC"
 tags:
-  - "Human-Agent Collaboration"
-  - "Web Navigation Agent"
-  - "Agent Framework"
-  - "Agent Evaluation"
-  - "Interactive Agent"
-  - "Agent Autonomy"
-  - "Task Efficiency"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+  - "Web & Browser Automation"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Web & Browser Automation"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "CowPilot framework for human-agent collaborative web navigation"
+  primary_benchmark: "N/A"
 ---
 
 # CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation

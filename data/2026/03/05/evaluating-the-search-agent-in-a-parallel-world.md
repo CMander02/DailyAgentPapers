@@ -6,11 +6,6 @@ authors:
   - "Lihao Zheng"
   - "Lifu Mu"
   - "Haoyi Sun"
-  - "Ning Mao"
-  - "Hao Ma"
-  - "Tao Wei"
-  - "Pan Zhou"
-  - "Kun Zhan"
 date: "2026-03-05"
 arxiv_id: "2603.04751"
 arxiv_url: "https://arxiv.org/abs/2603.04751"
@@ -18,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04751v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Search Agent"
-  - "Benchmark"
-  - "Tool Use"
-  - "Reasoning"
+  - "Tool Use & API Interaction"
+  - "Benchmark/Evaluation"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Mind-ParaWorld (MPW)"
+  primary_benchmark: "MPW-Bench"
 ---
 
 # Evaluating the Search Agent in a Parallel World

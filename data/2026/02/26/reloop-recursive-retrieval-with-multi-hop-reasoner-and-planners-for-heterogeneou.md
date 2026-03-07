@@ -14,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "检索增强生成 (RAG)"
-  - "多步推理"
-  - "工具使用"
-  - "规划"
-  - "问答 (QA)"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "RELOOP, Hierarchical Sequence (HSEQ)"
+  primary_benchmark: "HotpotQA, HybridQA, TAT-QA, MetaQA"
 ---
 
 # RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous QA

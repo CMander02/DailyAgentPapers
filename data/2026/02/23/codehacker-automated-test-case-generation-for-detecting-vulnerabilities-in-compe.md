@@ -15,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CR"
 tags:
-  - "Agent 架构"
-  - "自动化测试"
-  - "代码生成"
-  - "LLM 评测"
-  - "对抗性测试"
-  - "多策略规划"
-  - "自我校准"
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "CodeHacker (multi-strategy adversarial test case generation with Calibration Phase)"
+  primary_benchmark: "LiveCodeBench"
 ---
 
 # CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions

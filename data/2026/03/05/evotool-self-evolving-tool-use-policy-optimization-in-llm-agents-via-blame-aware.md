@@ -6,7 +6,6 @@ authors:
   - "Xueqi Ma"
   - "Yan Li"
   - "Mohammad Reza Ghasemi Madani"
-  - "Eduard Hovy"
 date: "2026-03-05"
 arxiv_id: "2603.04900"
 arxiv_url: "https://arxiv.org/abs/2603.04900"
@@ -14,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04900v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "策略优化"
-  - "自演化"
-  - "模块化"
-  - "进化算法"
-  - "信用分配"
-  - "长视野任务"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4.1, Qwen3-8B"
+  key_technique: "EvoTool (Trajectory-Grounded Blame Attribution, Feedback-Guided Targeted Mutation, Diversity-Aware Population Selection)"
+  primary_benchmark: "N/A"
 ---
 
 # EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection

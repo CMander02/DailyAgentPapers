@@ -12,12 +12,19 @@ github_url: "https://github.com/YqjMartin/AgenticRAGTracer"
 categories:
   - "cs.CL"
 tags:
-  - "Agentic RAG"
-  - "评测基准"
-  - "多步推理"
-  - "诊断工具"
-  - "数据合成"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-5"
+  key_technique: "AgenticRAGTracer benchmark construction pipeline"
+  primary_benchmark: "AgenticRAGTracer"
 ---
 
 # AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG

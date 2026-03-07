@@ -14,14 +14,17 @@ categories:
   - "cs.HC"
   - "econ.GN"
 tags:
-  - "Human-AI Teaming"
-  - "Agentic AI"
-  - "Team Situation Awareness"
-  - "Alignment"
-  - "Structural Uncertainty"
-  - "Multi-Agent Systems"
-  - "Agent Theory"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Extension of Team Situation Awareness (Team SA) theory"
+  primary_benchmark: "N/A"
 ---
 
 # Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research

@@ -14,14 +14,19 @@ categories:
   - "cs.AI"
   - "eess.SY"
 tags:
-  - "Agent 架构"
-  - "强化学习"
-  - "工具使用"
-  - "LLM 应用于 Agent 场景"
-  - "策略生成"
-  - "多任务适应"
-  - "动态环境"
-relevance_score: 8.0
+  - "Learning & Optimization"
+  - "Tool Use & API Interaction"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DCoPilot (hybrid framework combining LLM for symbolic reward generation and hypernetwork for parametric policy weight generation)"
+  primary_benchmark: "N/A"
 ---
 
 # DCoPilot: Generative AI-Empowered Policy Adaptation for Dynamic Data Center Operations

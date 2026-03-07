@@ -13,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02542v1"
 categories:
   - "cs.AI"
 tags:
-  - "LLM Agent"
-  - "Agent Planning/Reasoning"
-  - "Agent Simulation"
-  - "Agent Evaluation"
-  - "Multi-Agent System"
-  - "Safety-Critical Scenarios"
-  - "Controllable Generation"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "World Modeling & Simulation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "World Modeling & Simulation"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AnchorDrive (two-stage framework: LLM driver agent with plan assessor for controllable rollout, followed by anchor-guided diffusion regeneration)"
+  primary_benchmark: "highD dataset"
 ---
 
 # AnchorDrive: LLM Scenario Rollout with Anchor-Guided Diffusion Regeneration for Safety-Critical Scenario Generation

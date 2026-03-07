@@ -12,12 +12,19 @@ categories:
   - "cs.HC"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent行为分析"
-  - "Agent评测"
-  - "社交模拟"
-  - "角色建模"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Persona Ecosystem Playground (PEP), k-means clustering, retrieval-augmented generation"
+  primary_benchmark: "N/A"
 ---
 
 # How to Model AI Agents as Personas?: Applying the Persona Ecosystem Playground to 41,300 Posts on Moltbook for Behavioral Insights

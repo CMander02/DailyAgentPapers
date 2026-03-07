@@ -6,8 +6,6 @@ authors:
   - "Tung Vu Duy"
   - "Cuong Duc Van"
   - "Huy N. Phan"
-  - "Hoang N. Phan"
-  - "Tien N. Nguyen"
 date: "2026-02-24"
 arxiv_id: "2602.20610"
 arxiv_url: "https://arxiv.org/abs/2602.20610"
@@ -16,13 +14,19 @@ categories:
   - "cs.SE"
   - "cs.CL"
 tags:
-  - "Agent 推理"
-  - "多轮交互"
-  - "反馈驱动"
-  - "LLM 应用"
-  - "代码理解"
-  - "迭代优化"
+  - "Reasoning & Planning"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o, GPT-4, Llama-3-70B, Qwen-2.5"
+  key_technique: "SpecMind (feedback-driven multi-turn prompting with exploratory attempts)"
+  primary_benchmark: "EvalPlus"
 ---
 
 # SpecMind: Cognitively Inspired, Interactive Multi-Turn Framework for Postcondition Inference

@@ -6,8 +6,6 @@ authors:
   - "Ruofan Wu"
   - "Boyi Liu"
   - "Zhewei Yao"
-  - "Yuxiong He"
-  - "Feng Yan"
 date: "2026-02-27"
 arxiv_id: "2602.24288"
 arxiv_url: "https://arxiv.org/abs/2602.24288"
@@ -16,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Benchmark"
-  - "Instruction Following"
-  - "Tool Use"
-  - "Data Synthesis"
-  - "Evaluation"
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "Data Science & Analytics"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "gpt-4o-mini, Qwen3-32B, Qwen3-4B"
+  key_technique: "DARE-bench"
+  primary_benchmark: "DARE-bench"
 ---
 
 # DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science

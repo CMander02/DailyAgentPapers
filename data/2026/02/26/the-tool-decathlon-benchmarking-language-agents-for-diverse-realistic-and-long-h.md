@@ -6,21 +6,6 @@ authors:
   - "Jian Zhao"
   - "Weihao Zeng"
   - "Haoze Wu"
-  - "Xiaochen Wang"
-  - "Rui Ge"
-  - "Yuxuan Cao"
-  - "Yuzhen Huang"
-  - "Wei Liu"
-  - "Junteng Liu"
-  - "Zhaochen Su"
-  - "Yiyang Guo"
-  - "Fan Zhou"
-  - "Lueyang Zhang"
-  - "Juan Michelini"
-  - "Xingyao Wang"
-  - "Xiang Yue"
-  - "Shuyan Zhou"
-  - "Graham Neubig"
 date: "2025-10-29"
 arxiv_id: "2510.25726"
 arxiv_url: "https://arxiv.org/abs/2510.25726"
@@ -29,13 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Tool Use"
-  - "Long-Horizon Tasks"
-  - "Multi-App Workflow"
-  - "Evaluation Framework"
-  - "Real-World Simulation"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+relevance_score: 9.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude-4.5-Sonnet, DeepSeek-V3.2-Exp"
+  key_technique: "Tool Decathlon (Toolathlon) benchmark"
+  primary_benchmark: "Tool Decathlon (Toolathlon)"
 ---
 
 # The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution

@@ -6,9 +6,6 @@ authors:
   - "Ang Chen"
   - "Alexander P. Ellis"
   - "Warren Hunt"
-  - "Zijian Wang"
-  - "John Yang"
-  - "Samuel Thompson"
 date: "2026-02-25"
 arxiv_id: "2602.22124"
 arxiv_url: "https://arxiv.org/abs/2602.22124"
@@ -19,14 +16,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agentic 强化学习"
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "多智能体系统"
-  - "软件工程 Agent"
-relevance_score: 9.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-Coder-7B-Instruct"
+  key_technique: "SWE-Protégé (expert-protégé collaboration framework combining SFT on expert-augmented trajectories and agentic reinforcement learning with GRPO)"
+  primary_benchmark: "SWE-bench Verified"
 ---
 
 # SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents

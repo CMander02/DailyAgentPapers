@@ -6,10 +6,6 @@ authors:
   - "Terry Yue Zhuo"
   - "Fan Zhang"
   - "Kecen Li"
-  - "Zheng Liu"
-  - "Zhou Yang"
-  - "Chengkun Wei"
-  - "Wenzhi Chen"
 date: "2026-02-21"
 arxiv_id: "2602.18700"
 arxiv_url: "https://arxiv.org/abs/2602.18700"
@@ -18,12 +14,19 @@ categories:
   - "cs.CR"
   - "cs.CL"
 tags:
-  - "Agent 安全"
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "版权保护"
-  - "水印技术"
+  - "Memory & Context Management"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen-2.5-Coder-7B"
+  key_technique: "ActHook"
+  primary_benchmark: "N/A"
 ---
 
 # Watermarking LLM Agent Trajectories

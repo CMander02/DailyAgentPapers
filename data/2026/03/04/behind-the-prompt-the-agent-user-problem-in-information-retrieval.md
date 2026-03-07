@@ -6,9 +6,6 @@ authors:
   - "Dang Hai Dang"
   - "Jelena Mitrovic"
   - "Florian Lemmerich"
-  - "Annette Hautli-Janisz"
-  - "Stefan Katzenbeisser"
-  - "Kanishka Ghosh Dastidar"
 date: "2026-03-04"
 arxiv_id: "2603.03630"
 arxiv_url: "https://arxiv.org/abs/2603.03630"
@@ -17,13 +14,19 @@ categories:
   - "cs.IR"
   - "cs.MA"
 tags:
-  - "Agent-User Problem"
-  - "Information Retrieval"
-  - "Agent Behavior"
-  - "Platform Analysis"
-  - "Agent Impact"
-  - "User Modeling"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agent Attribution Problem analysis, SIS epidemic model adaptation"
+  primary_benchmark: "N/A"
 ---
 
 # Behind the Prompt: The Agent-User Problem in Information Retrieval

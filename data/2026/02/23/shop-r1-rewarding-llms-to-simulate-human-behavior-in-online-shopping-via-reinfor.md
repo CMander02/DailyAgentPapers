@@ -6,18 +6,6 @@ authors:
   - "Jiri Gesi"
   - "Ziyi Wang"
   - "Yuxuan Lu"
-  - "Jiacheng Lin"
-  - "Sinong Zhan"
-  - "Vianne Gao"
-  - "Ruochen Jiao"
-  - "Junze Liu"
-  - "Kun Qian"
-  - "Yuxin Tang"
-  - "Ran Xue"
-  - "Houyu Zhang"
-  - "Qingjun Cui"
-  - "Yufan Guo"
-  - "Dakuo Wang"
 date: "2025-07-23"
 arxiv_id: "2507.17842"
 arxiv_url: "https://arxiv.org/abs/2507.17842"
@@ -25,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2507.17842v2"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 行为模拟"
-  - "强化学习"
-  - "LLM 推理"
-  - "奖励设计"
-  - "在线环境交互"
-  - "Agent 评测"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Shop-R1 (two-stage RL framework with hierarchical reward and difficulty-aware scaling)"
+  primary_benchmark: "N/A"
 ---
 
 # Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning

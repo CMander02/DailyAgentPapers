@@ -14,12 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent 安全"
-  - "工具使用"
-  - "Agent 架构"
-  - "安全治理"
-  - "协议规范"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "OpenPort Protocol (OPP)"
+  primary_benchmark: "N/A"
 ---
 
 # OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access

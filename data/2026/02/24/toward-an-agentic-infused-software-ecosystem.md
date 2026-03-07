@@ -11,12 +11,19 @@ categories:
   - "cs.AI"
   - "cs.PL"
 tags:
-  - "Agent 架构"
-  - "软件工程"
-  - "工具使用"
-  - "人机协作"
-  - "生态系统"
-relevance_score: 9.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Infused Software Ecosystem (AISE) framework"
+  primary_benchmark: "N/A"
 ---
 
 # Toward an Agentic Infused Software Ecosystem

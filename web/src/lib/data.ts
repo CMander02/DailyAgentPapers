@@ -30,7 +30,8 @@ export async function fetchPapersForDate(dateStr: string): Promise<PaperMeta[]> 
       `${BASE_PATH}/data/${year}/${month}/${day}/papers.json`
     );
     if (!res.ok) return [];
-    const papers: PaperMeta[] = await res.json();
+    const all: PaperMeta[] = await res.json();
+    const papers = all.filter((p) => p.relevance_score >= 8);
     cachedDayPapers[dateStr] = papers;
     return papers;
   } catch {

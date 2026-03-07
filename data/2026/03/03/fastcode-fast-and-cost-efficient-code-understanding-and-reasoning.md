@@ -6,9 +6,6 @@ authors:
   - "Yuxuan Chen"
   - "Han Shi"
   - "Jiawei Li"
-  - "Jierun Chen"
-  - "Haoli Bai"
-  - "Chao Huang"
 date: "2026-03-01"
 arxiv_id: "2603.01012"
 arxiv_url: "https://arxiv.org/abs/2603.01012"
@@ -18,13 +15,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "成本效率"
-  - "代码理解"
-  - "规划与推理"
-  - "软件工程"
-relevance_score: 7.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "FastCode (structural scouting mechanism, cost-aware policy)"
+  primary_benchmark: "SWE-QA, LongCodeQA, LOC-BENCH, GitTaskBench"
 ---
 
 # FastCode: Fast and Cost-Efficient Code Understanding and Reasoning

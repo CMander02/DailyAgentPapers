@@ -13,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23864v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "多智能体辩论"
-  - "强化学习"
-  - "Agent架构"
-  - "Agent协调"
-  - "Agent推理"
-  - "动态通信拓扑"
-  - "资源效率"
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "RUMAD (Reinforcement-Unifying Multi-Agent Debate)"
+  primary_benchmark: "MMLU, GSM8K, GPQA"
 ---
 
 # RUMAD: Reinforcement-Unifying Multi-Agent Debate

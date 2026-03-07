@@ -10,12 +10,19 @@ github_url: "https://github.com/drbillwang/rlm-reproduction"
 categories:
   - "cs.CL"
 tags:
-  - "Agent架构"
-  - "工具使用"
-  - "推理"
-  - "记忆"
-  - "基准评测"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "DeepSeek v3.2, Kimi K2"
+  key_technique: "Recursive Language Models (RLM) with varying recursion depth"
+  primary_benchmark: "S-NIAH, OOLONG"
 ---
 
 # Think, But Don't Overthink: Reproducing Recursive Language Models

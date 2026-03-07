@@ -6,7 +6,6 @@ authors:
   - "Peter Kirgis"
   - "Kangheng Liu"
   - "Saiteja Utpala"
-  - "Arvind Narayanan"
 date: "2026-02-18"
 arxiv_id: "2602.16666"
 arxiv_url: "https://arxiv.org/abs/2602.16666"
@@ -16,15 +15,19 @@ categories:
   - "cs.CY"
   - "cs.LG"
 tags:
-  - "Agent Reliability"
-  - "Agent Evaluation"
-  - "Agent Safety"
-  - "Agent Benchmarking"
-  - "Agent Performance Metrics"
-  - "AI Safety"
-  - "Agent Robustness"
-  - "Agent Consistency"
-relevance_score: 8.5
+  - "Safety & Alignment"
+  - "Benchmark/Evaluation"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Twelve reliability metrics across four dimensions (consistency, robustness, predictability, safety)"
+  primary_benchmark: "N/A"
 ---
 
 # Towards a Science of AI Agent Reliability

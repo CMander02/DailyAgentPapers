@@ -6,10 +6,6 @@ authors:
   - "Yizheng Zhang"
   - "Yuzhen Liu"
   - "Zhong Zhang"
-  - "Yufeng Zhang"
-  - "Cheng Zhou"
-  - "Zhengyou Zhang"
-  - "Lei Han"
 date: "2026-02-24"
 arxiv_id: "2602.21119"
 arxiv_url: "https://arxiv.org/abs/2602.21119"
@@ -18,14 +14,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "机器人"
-  - "Sim2Real迁移"
-  - "合作与竞争"
-  - "分布式学习"
-  - "策略训练"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Out of Distribution State Initialization (OODSI)"
+  primary_benchmark: "N/A"
 ---
 
 # Cooperative-Competitive Team Play of Real-World Craft Robots

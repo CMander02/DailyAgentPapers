@@ -6,27 +6,29 @@ authors:
   - "Zhiyuan Tian"
   - "Pengzhou Cheng"
   - "Tianjie Ju"
-  - "Zheng Wu"
-  - "Lingzhong Dong"
-  - "Haiyue Sheng"
-  - "Zhuosheng Zhang"
-  - "Gongshen Liu"
 date: "2025-09-17"
 arxiv_id: "2509.13615"
 arxiv_url: "https://arxiv.org/abs/2509.13615"
 pdf_url: "https://arxiv.org/pdf/2509.13615v3"
+github_url: "https://github.com/ZrW00/StaR"
 categories:
   - "cs.AI"
   - "cs.CL"
   - "cs.HC"
 tags:
-  - "多模态智能体"
-  - "GUI交互"
-  - "状态感知推理"
-  - "基准测试"
-  - "工具使用"
-  - "指令执行"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "State-aware Reasoning (StaR)"
+  primary_benchmark: "state control benchmark (constructed by the authors)"
 ---
 
 # See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles

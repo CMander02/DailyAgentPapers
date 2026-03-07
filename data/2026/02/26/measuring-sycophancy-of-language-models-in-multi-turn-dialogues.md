@@ -14,12 +14,17 @@ github_url: "https://github.com/JiseungHong/SYCON-Bench"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Safety"
-  - "Agent Evaluation"
-  - "LLM Alignment"
-  - "Multi-turn Dialogue"
-  - "Sycophancy"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "SYCON Bench"
+  primary_benchmark: "SYCON Bench"
 ---
 
 # Measuring Sycophancy of Language Models in Multi-turn Dialogues

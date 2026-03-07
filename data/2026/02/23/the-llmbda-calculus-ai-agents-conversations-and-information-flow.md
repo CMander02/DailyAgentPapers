@@ -13,14 +13,19 @@ categories:
   - "cs.AI"
   - "cs.CR"
 tags:
-  - "Agent 架构"
-  - "Agent 安全"
-  - "形式化方法"
-  - "信息流控制"
-  - "编程语言理论"
-  - "提示注入"
-  - "语义基础"
-relevance_score: 9.0
+  - "Safety & Alignment"
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLMbda calculus (an untyped call-by-value lambda calculus enriched with dynamic information-flow control and primitives for constructing prompt-response conversations)"
+  primary_benchmark: "N/A"
 ---
 
 # The LLMbda Calculus: AI Agents, Conversations, and Information Flow

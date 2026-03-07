@@ -6,8 +6,6 @@ authors:
   - "Haohao Qu"
   - "Shanru Lin"
   - "Kanglong Liu"
-  - "Wenqi Fan"
-  - "Qing Li"
 date: "2026-02-26"
 arxiv_id: "2602.22683"
 arxiv_url: "https://arxiv.org/abs/2602.22683"
@@ -16,14 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Vision Language Models"
-  - "Agent Benchmarking"
-  - "Multimodal Interaction"
-  - "Visual Question Answering"
-  - "Retrieval-Augmented Generation"
-  - "Egocentric Vision"
-  - "Tool Use"
+  - "Perception & Multimodal"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, 26 representative VLMs (unspecified)"
+  key_technique: "SUPERLENS (integrates automatic object detection, query decoupling, multimodal web search)"
+  primary_benchmark: "SUPERGLASSES"
 ---
 
 # SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses

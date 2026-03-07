@@ -6,7 +6,6 @@ authors:
   - "Jooyeol Yun"
   - "Soyoung Yang"
   - "Jaehyeok Jang"
-  - "Jaegul Choo"
 date: "2025-05-16"
 arxiv_id: "2505.11604"
 arxiv_url: "https://arxiv.org/abs/2505.11604"
@@ -15,11 +14,19 @@ github_url: "https://github.com/KyuDan1/Talk-to-Your-Slides"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "多模态 Agent"
-  - "Agent 评测/基准"
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "language-driven structured data manipulation, hierarchical architecture"
+  primary_benchmark: "TSBench"
 ---
 
 # Talk to Your Slides: High-Efficiency Slide Editing via Language-Driven Structured Data Manipulation

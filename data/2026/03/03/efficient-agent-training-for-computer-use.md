@@ -14,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 数据合成"
-  - "Agent 训练框架"
-  - "计算机使用智能体"
-  - "Agent 基准评测"
-  - "工具使用"
-  - "轨迹数据增强"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Claude 3.7 Sonnet"
+  key_technique: "PC Agent-E (efficient agent training framework with AI-synthesized trajectory augmentation)"
+  primary_benchmark: "WindowsAgentArena-V2"
 ---
 
 # Efficient Agent Training for Computer Use

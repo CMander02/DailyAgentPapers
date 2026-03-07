@@ -6,12 +6,6 @@ authors:
   - "Jiarui Jin"
   - "Shijian Wang"
   - "Guanting Dong"
-  - "Jiajie Jin"
-  - "Hao Wang"
-  - "Yinuo Wang"
-  - "Ji-Rong Wen"
-  - "Yuan Lu"
-  - "Zhicheng Dou"
 date: "2026-02-26"
 arxiv_id: "2602.22897"
 arxiv_url: "https://arxiv.org/abs/2602.22897"
@@ -23,14 +17,19 @@ categories:
   - "cs.LG"
   - "cs.MM"
 tags:
-  - "Agent 架构"
-  - "多模态 Agent"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "推理"
-  - "Agent 数据合成"
-  - "Agent 训练"
+  - "Perception & Multimodal"
+  - "Tool Use & API Interaction"
 relevance_score: 9.5
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "omni-modal event graph, hindsight-guided tree exploration, OmniDPO"
+  primary_benchmark: "OmniGAIA"
 ---
 
 # OmniGAIA: Towards Native Omni-Modal AI Agents

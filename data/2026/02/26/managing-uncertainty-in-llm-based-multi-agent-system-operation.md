@@ -11,14 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23005v1"
 categories:
   - "cs.SE"
 tags:
-  - "多智能体系统"
-  - "不确定性管理"
-  - "系统操作"
-  - "安全关键领域"
-  - "软件工程"
-  - "运行时控制"
-  - "诊断推理"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "lifecycle-based uncertainty management framework (representation, identification, evolution, adaptation)"
+  primary_benchmark: "N/A"
 ---
 
 # Managing Uncertainty in LLM-based Multi-Agent System Operation

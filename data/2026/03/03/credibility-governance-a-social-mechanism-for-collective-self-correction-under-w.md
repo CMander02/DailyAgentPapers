@@ -6,9 +6,6 @@ authors:
   - "Ziheng Zhou"
   - "Xue Feng"
   - "Min Peng"
-  - "Qianqian Xie"
-  - "Zilong Zheng"
-  - "Yipeng Kang"
 date: "2026-03-03"
 arxiv_id: "2603.02640"
 arxiv_url: "https://arxiv.org/abs/2603.02640"
@@ -21,13 +18,19 @@ categories:
   - "cs.MA"
   - "cs.SI"
 tags:
-  - "多智能体系统"
-  - "社会模拟"
-  - "可信度评估"
-  - "集体决策"
-  - "信息动态"
-  - "机制设计"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Credibility Governance (CG)"
+  primary_benchmark: "POLIS"
 ---
 
 # Credibility Governance: A Social Mechanism for Collective Self-Correction under Weak Truth Signals

@@ -12,14 +12,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agentic Data Science"
-  - "AI Analyst"
-  - "Analytic Diversity"
-  - "LLM-based Agent"
-  - "Methodological Validity"
-  - "Multi-Agent System"
-  - "Agent Evaluation"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Data Science & Analytics"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Data Science & Analytics"
+  domain: "Data Science & Analytics"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "GPT-4, Claude 3 Opus, Llama 3.1 70B, Mixtral 8x22B"
+  key_technique: "AI analyst framework with autonomous analysis pipeline and AI auditor"
+  primary_benchmark: "N/A"
 ---
 
 # Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse

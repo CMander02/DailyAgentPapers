@@ -6,9 +6,6 @@ authors:
   - "Jiwen Chen"
   - "Zhengxiang Wu"
   - "Songtao Sun"
-  - "Fuyang Li"
-  - "Yang Cao"
-  - "Qiang Liu"
 date: "2026-02-27"
 arxiv_id: "2602.23845"
 arxiv_url: "https://arxiv.org/abs/2602.23845"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23845v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agentic Workflows"
-  - "LLM-based Correction"
-  - "Retrieval-Augmented Generation"
-  - "Task-Specific Agent"
-  - "Text Correction"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, Qwen-2.5, Llama-3-70B"
+  key_technique: "Retrieval-Augmented Generation (RAG), agentic workflows"
+  primary_benchmark: "CLFEC"
 ---
 
 # CLFEC: A New Task for Unified Linguistic and Factual Error Correction in paragraph-level Chinese Professional Writing

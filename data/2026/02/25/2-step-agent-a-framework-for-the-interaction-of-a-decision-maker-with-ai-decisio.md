@@ -12,13 +12,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "AI决策支持"
-  - "人机交互"
-  - "因果推理"
-  - "贝叶斯建模"
-  - "决策框架"
-  - "AI采纳影响"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "2-Step Agent framework, Bayesian causal inference"
+  primary_benchmark: "N/A"
 ---
 
 # 2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support

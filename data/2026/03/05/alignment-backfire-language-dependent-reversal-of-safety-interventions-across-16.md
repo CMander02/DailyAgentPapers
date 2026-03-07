@@ -10,13 +10,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent安全"
-  - "对齐"
-  - "语言与文化"
-  - "Agent评测"
-  - "集体行为"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Llama 3.3 70B, GPT-4o-mini, Qwen3-Next-80B-A3B"
+  key_technique: "alignment intervention, multi-agent simulation"
+  primary_benchmark: "N/A"
 ---
 
 # Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems

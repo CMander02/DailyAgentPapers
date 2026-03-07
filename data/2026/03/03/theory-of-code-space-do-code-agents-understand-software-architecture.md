@@ -11,14 +11,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Code Agent"
-  - "Agent Benchmark"
-  - "Architectural Understanding"
-  - "Partial Observability"
-  - "Belief State"
-  - "Tool Use"
-  - "Agent Evaluation"
-relevance_score: 8.5
+  - "Code & Software Engineering"
+  - "Memory & Context Management"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Theory of Code Space (ToCS)"
+  primary_benchmark: "Theory of Code Space (ToCS)"
 ---
 
 # Theory of Code Space: Do Code Agents Understand Software Architecture?

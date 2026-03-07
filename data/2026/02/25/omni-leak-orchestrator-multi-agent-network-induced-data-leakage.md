@@ -6,8 +6,6 @@ authors:
   - "Yarin Gal"
   - "Philip Torr"
   - "Rahaf Aljundi"
-  - "Alasdair Paren"
-  - "Adel Bibi"
 date: "2026-02-13"
 arxiv_id: "2602.13477"
 arxiv_url: "https://arxiv.org/abs/2602.13477"
@@ -15,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.13477v2"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent安全"
-  - "安全漏洞"
-  - "威胁建模"
-  - "提示注入攻击"
-  - "数据泄露"
-  - "编排器架构"
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "OMNI-LEAK attack"
+  primary_benchmark: "N/A"
 ---
 
 # OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage

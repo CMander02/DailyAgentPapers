@@ -16,14 +16,19 @@ categories:
   - "cs.LG"
   - "eess.SY"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "集中训练分散执行"
-  - "深度强化学习"
-  - "决策优化"
-  - "约束处理"
-  - "基准环境"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DDMAC-CTDE (Deep Decentralized Multi-Agent Actor-Critic with Centralized Training and Decentralized Execution)"
+  primary_benchmark: "N/A"
 ---
 
 # Multi-agent deep reinforcement learning with centralized training and decentralized execution for transportation infrastructure management

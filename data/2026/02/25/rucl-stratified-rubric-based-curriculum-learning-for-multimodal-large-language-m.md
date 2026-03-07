@@ -6,14 +6,6 @@ authors:
   - "Longze Chen"
   - "Ze Gong"
   - "Jingpeng Li"
-  - "Zhen Qin"
-  - "Hengyu Chang"
-  - "Ancheng Xu"
-  - "Zhihao Yang"
-  - "Hamid Alinejad-Rokny"
-  - "Qiang Qu"
-  - "Bo Zheng"
-  - "Min Yang"
 date: "2026-02-25"
 arxiv_id: "2602.21628"
 arxiv_url: "https://arxiv.org/abs/2602.21628"
@@ -21,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21628v1"
 categories:
   - "cs.CL"
 tags:
-  - "强化学习"
-  - "多模态大语言模型"
-  - "Agent推理"
-  - "课程学习"
-  - "奖励设计"
-  - "视觉推理"
-  - "基准评测"
-relevance_score: 7.5
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-VL-7B"
+  key_technique: "Stratified Rubric-based Curriculum Learning (RuCL)"
+  primary_benchmark: "N/A"
 ---
 
 # RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning

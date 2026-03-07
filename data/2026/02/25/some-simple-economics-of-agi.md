@@ -15,15 +15,19 @@ categories:
   - "cs.LG"
   - "cs.SI"
 tags:
-  - "AGI经济学"
-  - "人机验证"
-  - "智能体部署"
-  - "责任与安全"
-  - "技术变革"
-  - "经济模型"
-  - "人机协作"
-  - "Agentic AI"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Measurability Gap, Cost to Automate vs Cost to Verify model"
+  primary_benchmark: "N/A"
 ---
 
 # Some Simple Economics of AGI

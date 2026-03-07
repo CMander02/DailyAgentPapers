@@ -6,8 +6,6 @@ authors:
   - "Zhikai Hu"
   - "Hechang Chen"
   - "Lele Cong"
-  - "Yunyun Wang"
-  - "Shuchao Pang"
 date: "2026-03-05"
 arxiv_id: "2603.05129"
 arxiv_url: "https://arxiv.org/abs/2603.05129"
@@ -16,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "Multi-Agent System"
-  - "Retrieval-Augmented Generation (RAG)"
-  - "Agent Collaboration"
-  - "Interpretable Reasoning"
-  - "Medical Diagnosis"
-  - "Tool Use"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MedCoRAG (Medical Collaborative RAG)"
+  primary_benchmark: "MIMIC-IV"
 ---
 
 # MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus

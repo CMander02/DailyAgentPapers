@@ -12,12 +12,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "检索增强生成"
-  - "协同决策"
-  - "Agent 架构"
-  - "任务规划"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Cooperative Retrieval-Augmented Generation (CoRAG)"
+  primary_benchmark: "PopQA"
 ---
 
 # Rethinking Retrieval-Augmented Generation as a Cooperative Decision-Making Problem

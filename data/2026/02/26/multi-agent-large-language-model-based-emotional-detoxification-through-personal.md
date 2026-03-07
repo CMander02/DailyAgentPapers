@@ -9,14 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23123v1"
 categories:
   - "cs.AI"
 tags:
-  - "Multi-Agent System"
-  - "LLM Application"
-  - "Information Sanitization"
-  - "Personalization"
-  - "Emotion Analysis"
-  - "Text Rewriting"
-  - "Consumer Protection"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-Agent LLM-based Emotional deToxification (MALLET)"
+  primary_benchmark: "AG News"
 ---
 
 # Multi-Agent Large Language Model Based Emotional Detoxification Through Personalized Intensity Control for Consumer Protection

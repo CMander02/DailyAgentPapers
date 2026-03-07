@@ -12,17 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20934v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Multi-Agent Systems"
-  - "Agent Reasoning"
-  - "Agent Memory"
-  - "System-Level Intelligence"
-  - "Cognitive Systems"
-  - "LLM as Agent"
-  - "AgentOS"
-  - "Context Management"
-  - "Self-Evolving Systems"
-relevance_score: 9.5
+  - "Architecture & Frameworks"
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentOS, Deep Context Management, Semantic Slicing, Temporal Alignment"
+  primary_benchmark: "N/A"
 ---
 
 # Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence

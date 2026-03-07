@@ -14,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "Agent评测"
-  - "多轮对话"
-  - "协作规划"
-  - "语言模型评估"
-  - "私有信息管理"
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "MT-PingEval (Multi-Turn Private Information Games Evaluation)"
+  primary_benchmark: "MT-PingEval"
 ---
 
 # MT-PingEval: Evaluating Multi-Turn Collaboration with Private Information Games

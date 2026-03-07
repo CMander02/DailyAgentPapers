@@ -6,7 +6,6 @@ authors:
   - "Zhenchang Xing"
   - "Alexandros Apostolopoulos"
   - "Yu Lin Lee"
-  - "Liang Zheng"
 date: "2026-02-22"
 arxiv_id: "2602.19218"
 arxiv_url: "https://arxiv.org/abs/2602.19218"
@@ -15,12 +14,19 @@ categories:
   - "cs.SE"
   - "cs.MA"
 tags:
-  - "Agent 工具使用"
-  - "Agent 评测/基准"
-  - "Agent 模拟环境"
-  - "Agent 迭代优化"
-  - "Agent 反馈机制"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "World Modeling & Simulation"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "World Modeling & Simulation"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "GPT-4o, GPT-5, Gemini-3.0-pro"
+  key_technique: "GATS (grounding agent test-time scaling)"
+  primary_benchmark: "BFCLv3, τ²-bench"
 ---
 
 # Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls

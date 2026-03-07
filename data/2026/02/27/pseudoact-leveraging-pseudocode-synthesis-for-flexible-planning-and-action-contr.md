@@ -12,14 +12,19 @@ categories:
   - "cs.AI"
   - "eess.SY"
 tags:
-  - "Agent 架构"
-  - "规划"
-  - "推理"
-  - "工具使用"
-  - "长视野任务"
-  - "决策制定"
-  - "代码合成"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "PseudoAct"
+  primary_benchmark: "FEVER, HotpotQA"
 ---
 
 # PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents

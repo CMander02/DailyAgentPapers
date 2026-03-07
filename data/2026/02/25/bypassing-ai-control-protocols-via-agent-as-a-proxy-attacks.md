@@ -11,14 +11,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent Security"
-  - "Agent Attacks"
-  - "Prompt Injection"
-  - "Agent Monitoring"
-  - "Agent Defense"
-  - "Agent Evaluation"
-  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+  - "Tool Use & API Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Tool Use & API Interaction"
+  domain: "Cybersecurity"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-72B, GPT-4o mini, Llama-3.1-70B"
+  key_technique: "Agent-as-a-Proxy attack, Parallel-GCG"
+  primary_benchmark: "AgentDojo"
 ---
 
 # Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks

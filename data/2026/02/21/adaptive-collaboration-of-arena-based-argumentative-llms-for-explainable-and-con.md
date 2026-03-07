@@ -6,7 +6,6 @@ authors:
   - "Truong Thanh Hung Nguyen"
   - "Phuc Truong Loc Nguyen"
   - "Dinh Thien Loc Nguyen"
-  - "Hung Cao"
 date: "2026-02-21"
 arxiv_id: "2602.18916"
 arxiv_url: "https://arxiv.org/abs/2602.18916"
@@ -17,15 +16,19 @@ categories:
   - "cs.AI"
   - "cs.SC"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "神经符号系统"
-  - "可解释性"
-  - "法律推理"
-  - "人机交互"
-  - "辩论框架"
-  - "不确定性处理"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Legal & Financial"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Gemini-2.5-Flash-Lite, Gemini-2.5-Flash"
+  key_technique: "Adaptive Collaboration of Argumentative LLMs (ACAL)"
+  primary_benchmark: "LegalBench"
 ---
 
 # Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning

@@ -13,13 +13,19 @@ categories:
   - "cs.AI"
   - "q-fin.TR"
 tags:
-  - "Multi-Agent System"
-  - "Financial Trading"
-  - "Task Decomposition"
-  - "LLM Application"
-  - "Decision-Making"
-  - "System Design"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent LLM trading framework with fine-grained task decomposition"
+  primary_benchmark: "N/A"
 ---
 
 # Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks

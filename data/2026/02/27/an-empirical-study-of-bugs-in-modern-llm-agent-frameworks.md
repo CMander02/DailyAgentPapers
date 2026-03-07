@@ -6,10 +6,6 @@ authors:
   - "Xiaoyu Zhang"
   - "Tianlin Li"
   - "Yanzhou Mu"
-  - "Juan Zhai"
-  - "Chao Shen"
-  - "Chunrong Fang"
-  - "Yang Liu"
 date: "2026-02-25"
 arxiv_id: "2602.21806"
 arxiv_url: "https://arxiv.org/abs/2602.21806"
@@ -17,13 +13,17 @@ pdf_url: "https://arxiv.org/pdf/2602.21806v3"
 categories:
   - "cs.SE"
 tags:
-  - "Agent 框架"
-  - "实证研究"
-  - "系统可靠性"
-  - "Agent 评测/基准"
-  - "Agent 生命周期"
-  - "多智能体系统"
-relevance_score: 8.0
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Empirical study and taxonomy construction for LLM agent framework bugs"
+  primary_benchmark: "N/A"
 ---
 
 # An Empirical Study of Bugs in Modern LLM Agent Frameworks

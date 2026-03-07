@@ -6,7 +6,6 @@ authors:
   - "Yao Zhu"
   - "Jianing Li"
   - "Gege Qi"
-  - "Yunjian Zhang"
 date: "2025-11-26"
 arxiv_id: "2511.21471"
 arxiv_url: "https://arxiv.org/abs/2511.21471"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2511.21471v2"
 categories:
   - "cs.AI"
 tags:
-  - "多模态大语言模型"
-  - "智能体评测"
-  - "空间认知"
-  - "基准测试"
-  - "推理能力"
-relevance_score: 7.5
+  - "Perception & Multimodal"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "hierarchical spatial cognition framework, high-level capability–oriented metric"
+  primary_benchmark: "SpatialBench"
 ---
 
 # SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition

@@ -6,10 +6,6 @@ authors:
   - "Zhong-Ren Peng"
   - "Zijun Yao"
   - "Han Wang"
-  - "Zhengzhang Chen"
-  - "Kunpeng Liu"
-  - "Yanjie Fu"
-  - "Dongjie Wang"
 date: "2026-02-22"
 arxiv_id: "2602.19326"
 arxiv_url: "https://arxiv.org/abs/2602.19326"
@@ -18,13 +14,19 @@ categories:
   - "cs.MA"
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Hierarchical Planning"
-  - "Tool Use"
-  - "Multimodal Reasoning"
-  - "Iterative Execution"
-  - "Spatial Constraint Propagation"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "hierarchical agentic framework with iterative execution-validation mechanism"
+  primary_benchmark: "N/A"
 ---
 
 # City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification

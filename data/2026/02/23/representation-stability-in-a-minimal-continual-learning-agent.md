@@ -10,12 +10,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Continual Learning"
-  - "Agent Architecture"
-  - "Representation Learning"
-  - "Stability-Plasticity Dilemma"
-  - "Minimal Agent"
-relevance_score: 7.5
+  - "Memory & Context Management"
+  - "Learning & Optimization"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "minimal continual learning agent with persistent state vector and cosine similarity-based stability metric"
+  primary_benchmark: "N/A"
 ---
 
 # Representation Stability in a Minimal Continual Learning Agent

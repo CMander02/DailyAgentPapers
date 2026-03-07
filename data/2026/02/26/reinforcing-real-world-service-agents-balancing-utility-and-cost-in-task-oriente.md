@@ -6,10 +6,6 @@ authors:
   - "Yuqin Dai"
   - "Ling Shi"
   - "Ziyin Wang"
-  - "Yujie Wang"
-  - "Wei He"
-  - "Jinpeng Wang"
-  - "Chaozheng Wang"
 date: "2026-02-26"
 arxiv_id: "2602.22697"
 arxiv_url: "https://arxiv.org/abs/2602.22697"
@@ -18,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Task-oriented Dialogue"
-  - "Reinforcement Learning"
-  - "Multi-turn Policy Optimization"
-  - "Cost-aware Decision-making"
-  - "Agent Training Framework"
-  - "User Simulation"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "InteractCS-RL, Cost-aware Multi-turn Policy Optimization (CMPO)"
+  primary_benchmark: "N/A"
 ---
 
 # Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue

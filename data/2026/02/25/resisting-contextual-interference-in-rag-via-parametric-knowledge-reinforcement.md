@@ -6,9 +6,6 @@ authors:
   - "Du Su"
   - "Hexiang Tan"
   - "Fei Sun"
-  - "Muhan Chen"
-  - "Chenfu Bao"
-  - "Zhonghou Lyu"
 date: "2025-06-05"
 arxiv_id: "2506.05154"
 arxiv_url: "https://arxiv.org/abs/2506.05154"
@@ -19,13 +16,19 @@ categories:
   - "cs.AI"
   - "cs.IR"
 tags:
-  - "Agent 推理"
-  - "工具使用"
-  - "检索增强生成"
-  - "强化学习"
-  - "知识冲突"
-  - "鲁棒性"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Knowledgeable-R1"
+  primary_benchmark: "N/A"
 ---
 
 # Resisting Contextual Interference in RAG via Parametric-Knowledge Reinforcement

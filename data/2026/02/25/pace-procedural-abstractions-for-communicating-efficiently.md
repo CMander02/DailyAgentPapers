@@ -12,15 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2409.20120v4"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent通信"
-  - "抽象与推理"
-  - "协作任务"
-  - "神经符号方法"
-  - "强化学习"
-  - "语言涌现"
-  - "库学习"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "PACE (Procedural Abstractions for Communicating Efficiently)"
+  primary_benchmark: "Architect-Builder game"
 ---
 
 # PACE: Procedural Abstractions for Communicating Efficiently

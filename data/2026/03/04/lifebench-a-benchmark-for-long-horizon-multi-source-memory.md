@@ -6,19 +6,6 @@ authors:
   - "Yu Zhao"
   - "Ziyang Ren"
   - "Jiaxuan Chen"
-  - "Ruiyang Xu"
-  - "Shuai Huang"
-  - "Yang Chen"
-  - "Guowei Li"
-  - "Mengshi Wang"
-  - "Yi Xie"
-  - "Ren Zhu"
-  - "Zeren Jiang"
-  - "Keda Lu"
-  - "Yihong Li"
-  - "Xiaoliang Wang"
-  - "Liwei Liu"
-  - "Cam-Tu Nguyen"
 date: "2026-03-04"
 arxiv_id: "2603.03781"
 arxiv_url: "https://arxiv.org/abs/2603.03781"
@@ -27,13 +14,17 @@ github_url: "https://github.com/1754955896/LifeBench"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Long-term Memory"
-  - "Memory Reasoning"
-  - "Personalized Agent"
-  - "Multi-Source Integration"
-  - "Event Simulation"
+  - "Memory & Context Management"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "LifeBench (long-horizon event simulation with partonomic hierarchy)"
+  primary_benchmark: "LifeBench"
 ---
 
 # LifeBench: A Benchmark for Long-Horizon Multi-Source Memory

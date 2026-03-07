@@ -6,21 +6,6 @@ authors:
   - "Chen Yang"
   - "Qing Gao"
   - "Yunbin Zhao"
-  - "Yongsheng Liu"
-  - "Xinwei Geng"
-  - "Xiang Li"
-  - "Demei Yan"
-  - "Yanqing Li"
-  - "Chenhao Huang"
-  - "Dingwei Zhu"
-  - "Junjie Ye"
-  - "Boxuan Yue"
-  - "Yingnan Fu"
-  - "Mengzhe Lv"
-  - "Zezeng Feng"
-  - "Boshen Zhou"
-  - "Bocheng Wang"
-  - "Xuanjing Huang"
 date: "2026-02-22"
 arxiv_id: "2602.19000"
 arxiv_url: "https://arxiv.org/abs/2602.19000"
@@ -29,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 规划"
-  - "工具使用"
-  - "Agentic 强化学习"
-  - "多任务训练"
-  - "基础模型"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MagicAgent (two-stage training paradigm: supervised fine-tuning followed by multi-objective reinforcement learning)"
+  primary_benchmark: "Worfbench, NaturalPlan, τ^2-Bench, BFCL-v3, ACEBench, MagicEval"
 ---
 
 # MagicAgent: Towards Generalized Agent Planning

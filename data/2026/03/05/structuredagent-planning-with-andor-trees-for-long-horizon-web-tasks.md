@@ -6,9 +6,6 @@ authors:
   - "Jingjing Meng"
   - "Nan Xi"
   - "Yang Jiao"
-  - "Chirag Agarwal"
-  - "Yair Zick"
-  - "Yan Gao"
 date: "2026-03-05"
 arxiv_id: "2603.05294"
 arxiv_url: "https://arxiv.org/abs/2603.05294"
@@ -16,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.05294v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Planning"
-  - "Hierarchical Planning"
-  - "Long-Horizon Tasks"
-  - "Web Agent"
-  - "Memory"
-  - "Sequential Decision-Making"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "STRUCTUREDAGENT (hierarchical planning with dynamic AND/OR trees and structured memory)"
+  primary_benchmark: "WebVoyager, WebArena, custom shopping benchmarks"
 ---
 
 # STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks

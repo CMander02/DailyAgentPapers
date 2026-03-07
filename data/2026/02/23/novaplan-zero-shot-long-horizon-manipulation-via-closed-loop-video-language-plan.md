@@ -6,9 +6,6 @@ authors:
   - "Lingfeng Sun"
   - "Hongyu Li"
   - "Jianing Qian"
-  - "Jennifer L. Barry"
-  - "Kris Kitani"
-  - "George Konidaris"
 date: "2026-02-23"
 arxiv_id: "2602.20119"
 arxiv_url: "https://arxiv.org/abs/2602.20119"
@@ -18,16 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agent 架构"
-  - "规划"
-  - "工具使用"
-  - "机器人"
-  - "视觉语言模型"
-  - "分层规划"
-  - "零样本学习"
-  - "长视野任务"
-  - "闭环控制"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "NovaPlan (hierarchical framework unifying closed-loop VLM and video planning with geometrically grounded robot execution)"
+  primary_benchmark: "Functional Manipulation Benchmark (FMB)"
 ---
 
 # NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning

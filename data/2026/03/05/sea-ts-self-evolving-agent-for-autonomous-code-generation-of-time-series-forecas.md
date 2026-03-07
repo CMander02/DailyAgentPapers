@@ -12,13 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04873v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "自演化"
-  - "代码生成"
-  - "规划与推理"
-  - "工具使用"
-  - "强化学习"
-relevance_score: 9.0
+  - "Code & Software Engineering"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Learning & Optimization"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Metric-Advantage Monte Carlo Tree Search (MA-MCTS), Code Review with running prompt refinement, Global Steerable Reasoning"
+  primary_benchmark: "Solar-Energy benchmark"
 ---
 
 # SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms

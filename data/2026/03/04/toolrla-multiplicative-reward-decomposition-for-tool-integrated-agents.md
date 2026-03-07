@@ -9,14 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2603.01620v2"
 categories:
   - "cs.AI"
 tags:
-  - "工具使用"
-  - "强化学习"
-  - "奖励设计"
-  - "领域特定Agent"
-  - "后训练"
-  - "Agent对齐"
-  - "Agent评测"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ToolRLA (fine-grained multiplicative reward decomposition, SFT → GRPO → DPO pipeline)"
+  primary_benchmark: "ToolBench, API-Bank"
 ---
 
 # ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents

@@ -6,13 +6,6 @@ authors:
   - "Ines Bouissou"
   - "Aaron Murali John"
   - "Raj Thota"
-  - "Josh Koe"
-  - "Vivek Sarath Putta"
-  - "G K Dharesan"
-  - "Alexander Spangher"
-  - "Shikhar Murty"
-  - "Tenghao Huang"
-  - "Christopher D. Manning"
 date: "2025-08-02"
 arxiv_id: "2508.01222"
 arxiv_url: "https://arxiv.org/abs/2508.01222"
@@ -21,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Tool Use"
-  - "Web Interaction"
-  - "Data Science"
-  - "Multi-step Reasoning"
-  - "Agent Evaluation"
+  - "Tool Use & API Interaction"
+  - "Web & Browser Automation"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Web & Browser Automation"
+  domain: "Data Science & Analytics"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "WebDS benchmark design"
+  primary_benchmark: "WebDS"
 ---
 
 # WebDS: An End-to-End Benchmark for Web-based Data Science

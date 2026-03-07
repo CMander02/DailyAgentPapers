@@ -12,13 +12,19 @@ categories:
   - "cs.HC"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "人机协作"
-  - "Agent 工具使用"
-  - "协作环境"
-  - "AI 交互设计"
-  - "用户研究"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Integrating AI agents into collaborative writing environments via user-defined agent profiles and tasks"
+  primary_benchmark: "N/A"
 ---
 
 # Collaborative Document Editing with Multiple Users and AI Agents

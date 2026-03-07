@@ -6,8 +6,6 @@ authors:
   - "Xinkai Liu"
   - "Mahdi Boloursaz Mashhadi"
   - "Mohammad Shojafar"
-  - "Merouane Debbah"
-  - "Rahim Tafazolli"
 date: "2026-02-27"
 arxiv_id: "2602.24115"
 arxiv_url: "https://arxiv.org/abs/2602.24115"
@@ -15,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.24115v1"
 categories:
   - "cs.LG"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Planning"
-  - "Memory"
-  - "Self-Management"
-  - "Multi-Agent Systems"
-  - "Agentic AI"
-  - "Network Control"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Plan-Act-Observe-Reflect, skills as tool use, memory and evidence, self-management gates"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence

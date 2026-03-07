@@ -6,8 +6,6 @@ authors:
   - "Yu Han"
   - "Ye Shang"
   - "Chunrong Fang"
-  - "Zhenyu Chen"
-  - "Liang Xiao"
 date: "2026-02-27"
 arxiv_id: "2602.23647"
 arxiv_url: "https://arxiv.org/abs/2602.23647"
@@ -15,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23647v1"
 categories:
   - "cs.SE"
 tags:
-  - "Multi-Agent System"
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Planning and Reasoning"
-  - "Software Engineering Agent"
-  - "Repository-Level Reasoning"
-  - "Knowledge Graph"
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Claude-3.5"
+  key_technique: "Suggestion-Guided multi-Agent framework (localize-suggest-fix paradigm), Knowledge Graph (KG) based toolkit"
+  primary_benchmark: "SWE-Bench, VUL4J, VJBench"
 ---
 
 # SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair

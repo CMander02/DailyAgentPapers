@@ -6,12 +6,6 @@ authors:
   - "Yuhan Liu"
   - "Ziqi Wang"
   - "Zeyi Liao"
-  - "Lin Chen"
-  - "Feng Wei"
-  - "Yuxi Qian"
-  - "Bo Zheng"
-  - "Keting Yin"
-  - "Shengyu Zhang"
 date: "2025-10-01"
 arxiv_id: "2510.00507"
 arxiv_url: "https://arxiv.org/abs/2510.00507"
@@ -20,15 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Benchmark Generation"
-  - "Multimodal Agent"
-  - "Knowledge Graph"
-  - "Task Synthesis"
-  - "RAG Agent"
-  - "Web Agent"
-  - "Agent Capability Assessment"
+  - "Benchmark/Evaluation"
+  - "Architecture & Frameworks"
 relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Benchmark/Evaluation"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Graph2Eval"
+  primary_benchmark: "Graph2Eval-Bench"
 ---
 
 # Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs

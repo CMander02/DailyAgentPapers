@@ -6,7 +6,6 @@ authors:
   - "Aravind V Kuruvikkattil"
   - "Zhenan Yin"
   - "Rashmita Kudamala"
-  - "Saptarshi Purkayastha"
 date: "2026-02-23"
 arxiv_id: "2602.19502"
 arxiv_url: "https://arxiv.org/abs/2602.19502"
@@ -15,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agentic AI"
-  - "多模态"
-  - "临床预测"
-  - "人机协作"
-  - "基准评测"
-  - "特征工程"
-  - "医疗AI"
-relevance_score: 8.0
+  - "Human-Agent Interaction"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Learning & Optimization"
+  domain: "Healthcare & Bio"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Human-guided agentic workflow for multimodal feature engineering and model selection"
+  primary_benchmark: "AgentDS Healthcare benchmark"
 ---
 
 # Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark

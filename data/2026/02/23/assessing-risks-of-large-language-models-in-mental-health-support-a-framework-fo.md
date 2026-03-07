@@ -17,13 +17,19 @@ categories:
   - "cs.HC"
   - "cs.MA"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "多智能体系统"
-  - "模拟环境"
-  - "AI 安全"
-  - "医疗健康"
-relevance_score: 7.5
+  - "Safety & Alignment"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Human-Agent Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "ChatGPT, Gemini, Character.AI"
+  key_technique: "Automated Clinical AI Red Teaming Framework with simulated patient agents and dynamic cognitive-affective models"
+  primary_benchmark: "N/A"
 ---
 
 # Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming

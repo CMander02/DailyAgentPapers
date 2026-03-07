@@ -13,17 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03233v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "代码生成"
-  - "规划与推理"
-  - "Agent协作"
-  - "科学AI"
-  - "低代码平台"
-  - "贝叶斯优化"
-  - "对抗性学习"
-  - "工作流管理"
-  - "评估与反馈"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Bayesian adversarial multi-agent framework"
+  primary_benchmark: "N/A"
 ---
 
 # AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework

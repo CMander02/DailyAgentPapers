@@ -6,9 +6,6 @@ authors:
   - "Ahmed Elshafiey"
   - "Zhonghao Zhao"
   - "Joshua Zekeri"
-  - "Afeez Edeifo Shaibu"
-  - "Emmanuel Osadebe Prince"
-  - "Cyuan Jhen Wu"
 date: "2026-02-21"
 arxiv_id: "2602.18832"
 arxiv_url: "https://arxiv.org/abs/2602.18832"
@@ -19,15 +16,19 @@ categories:
   - "cs.CY"
   - "cs.SI"
 tags:
-  - "AI Agents"
   - "Multi-Agent Systems"
-  - "Agent Community"
-  - "Agent Behavior Analysis"
-  - "Human-AI Interaction"
-  - "Informal Learning"
-  - "Social Network Analysis"
-  - "Agentic Systems"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale

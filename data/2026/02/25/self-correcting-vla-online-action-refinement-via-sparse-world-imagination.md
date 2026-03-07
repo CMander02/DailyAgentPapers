@@ -6,8 +6,6 @@ authors:
   - "Lei Zhu"
   - "Fengling Li"
   - "Jingjing Li"
-  - "Guoli Yang"
-  - "Heng Tao Shen"
 date: "2026-02-25"
 arxiv_id: "2602.21633"
 arxiv_url: "https://arxiv.org/abs/2602.21633"
@@ -18,15 +16,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agent 架构"
-  - "机器人操作"
-  - "世界模型"
-  - "在线规划"
-  - "动作精炼"
-  - "自我改进"
-  - "视觉-语言-动作模型"
-  - "强化学习"
-relevance_score: 8.5
+  - "World Modeling & Simulation"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "World Modeling & Simulation"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Self-Correcting VLA (SC-VLA), Sparse World Imagination (SPI), Online Action Refinement (OAR)"
+  primary_benchmark: "ManiSkill, ARX5"
 ---
 
 # Self-Correcting VLA: Online Action Refinement via Sparse World Imagination

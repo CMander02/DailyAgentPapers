@@ -13,13 +13,19 @@ categories:
   - "cs.LO"
   - "cs.LG"
 tags:
-  - "定理证明"
-  - "智能体"
-  - "图神经网络"
-  - "自动推理"
-  - "形式化验证"
-  - "工具使用"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Code & Software Engineering"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Atomic Tactics, Transposing Atomization algorithm, ExprGraph data structure, Nazrin Prover (GNN-based agent)"
+  primary_benchmark: "Lean's standard library, Mathlib"
 ---
 
 # Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4

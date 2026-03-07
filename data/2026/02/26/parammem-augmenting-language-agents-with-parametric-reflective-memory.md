@@ -6,23 +6,27 @@ authors:
   - "Yujia Zheng"
   - "Pan Li"
   - "Zhiqiang Shen"
-  - "Kun Zhang"
 date: "2026-02-26"
 arxiv_id: "2602.23320"
 arxiv_url: "https://arxiv.org/abs/2602.23320"
-pdf_url: "https://arxiv.org/pdf/2602.23320v2"
+pdf_url: "https://arxiv.org/pdf/2602.23320v1"
 categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "Agent Architecture"
-  - "Memory"
-  - "Self-Reflection"
-  - "Reasoning"
-  - "Self-Improvement"
-  - "Parametric Memory"
-  - "Agent Framework"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Memory & Context Management"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ParamMem, ParamAgent"
+  primary_benchmark: "N/A"
 ---
 
 # ParamMem: Augmenting Language Agents with Parametric Reflective Memory

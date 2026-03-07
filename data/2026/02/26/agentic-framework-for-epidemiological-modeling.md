@@ -6,9 +6,6 @@ authors:
   - "Baltazar Espinoza"
   - "Yiqi Su"
   - "Priya Pitre"
-  - "Srini Venkatramanan"
-  - "Naren Ramakrishnan"
-  - "Anil Vullikanti"
 date: "2026-01-30"
 arxiv_id: "2602.00299"
 arxiv_url: "https://arxiv.org/abs/2602.00299"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.00299v2"
 categories:
   - "cs.LG"
 tags:
-  - "Agentic Framework"
-  - "Program Synthesis"
-  - "Iterative Refinement"
-  - "Automated Modeling"
-  - "Simulation"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "retrieval-augmented flow graph synthesis, graph-to-model compilation, multi-agent verification and validation architecture"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic Framework for Epidemiological Modeling

@@ -6,34 +6,29 @@ authors:
   - "Sang-hyun Kim"
   - "Carlo Pagano"
   - "Sergei Gukov"
-  - "Chiang-Chiang Tsai"
-  - "David Woodruff"
-  - "Adel Javanmard"
-  - "Aryan Mokhtari"
-  - "Dawsen Hwang"
-  - "Yuri Chervonyi"
-  - "Jonathan N. Lee"
-  - "Garrett Bingham"
-  - "Trieu H. Trinh"
-  - "Vahab Mirrokni"
-  - "Quoc V. Le"
-  - "Thang Luong"
 date: "2026-02-24"
 arxiv_id: "2602.21201"
 arxiv_url: "https://arxiv.org/abs/2602.21201"
 pdf_url: "https://arxiv.org/pdf/2602.21201v1"
+github_url: "https://github.com/google-deepmind/superhuman"
 categories:
   - "cs.AI"
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "自主推理"
-  - "数学问题求解"
-  - "Agent 评测"
-  - "Agent 规划"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Gemini 3 Deep Think"
+  key_technique: "Aletheia"
+  primary_benchmark: "FirstProof"
 ---
 
 # Aletheia tackles FirstProof autonomously

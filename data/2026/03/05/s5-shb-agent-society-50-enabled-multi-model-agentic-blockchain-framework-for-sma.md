@@ -6,7 +6,6 @@ authors:
   - "Incheon Paik"
   - "Keitaro Naruse"
   - "Isuru Jayanada"
-  - "Vishmika Devindi"
 date: "2026-03-05"
 arxiv_id: "2603.05027"
 arxiv_url: "https://arxiv.org/abs/2603.05027"
@@ -14,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.05027v1"
 categories:
   - "cs.AI"
 tags:
-  - "Multi-Agent System"
-  - "Agent Architecture"
-  - "LLM-based Decision Making"
-  - "Blockchain"
-  - "Smart Home"
-  - "Governance"
-  - "Autonomous Systems"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Robotics & Embodied"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Society 5.0-driven human-centered governance-enabled smart home blockchain agent (S5-SHB-Agent)"
+  primary_benchmark: "N/A"
 ---
 
 # S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home

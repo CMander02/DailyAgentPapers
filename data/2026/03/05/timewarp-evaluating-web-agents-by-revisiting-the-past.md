@@ -13,13 +13,19 @@ categories:
   - "cs.CV"
   - "cs.LG"
 tags:
-  - "Web Agent"
-  - "Agent Benchmark"
-  - "Agent Robustness"
-  - "Behavior Cloning"
-  - "Plan Distillation"
-  - "Agent Generalization"
+  - "Web & Browser Automation"
+  - "Learning & Optimization"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Web & Browser Automation"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Qwen-3 4B, Llama-3.1 8B"
+  key_technique: "TimeTraj (plan distillation algorithm)"
+  primary_benchmark: "TimeWarp"
 ---
 
 # TimeWarp: Evaluating Web Agents by Revisiting the Past

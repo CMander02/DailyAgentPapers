@@ -6,7 +6,6 @@ authors:
   - "Lorenz Wolf"
   - "Shyam Sundhar Ramesh"
   - "Xiaohang Tang"
-  - "Ilija Bogunovic"
 date: "2026-02-18"
 arxiv_id: "2602.16902"
 arxiv_url: "https://arxiv.org/abs/2602.16902"
@@ -15,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Benchmark"
-  - "Planning"
-  - "Reasoning"
-  - "World Knowledge"
-  - "Knowledge Graph"
-  - "Long-Horizon Task"
-  - "Evaluation"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "World Modeling & Simulation"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "World Modeling & Simulation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Gemini-3, GPT-5, Claude Opus 4.5"
+  key_technique: "LLM-Wikirace benchmark"
+  primary_benchmark: "LLM-Wikirace"
 ---
 
 # LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?

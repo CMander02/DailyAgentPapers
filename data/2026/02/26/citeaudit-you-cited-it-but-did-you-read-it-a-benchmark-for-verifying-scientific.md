@@ -6,7 +6,6 @@ authors:
   - "Zheyuan Zhang"
   - "Lichao Sun"
   - "Nitesh V. Chawla"
-  - "Yanfang Ye"
 date: "2026-02-26"
 arxiv_id: "2602.23452"
 arxiv_url: "https://arxiv.org/abs/2602.23452"
@@ -15,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.DL"
 tags:
-  - "多智能体系统"
-  - "Agent评测/基准"
-  - "工具使用"
-  - "科学写作"
-  - "幻觉检测"
-  - "可信AI"
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent verification pipeline (claim extraction, evidence retrieval, passage matching, reasoning, calibrated judgment)"
+  primary_benchmark: "CiteAudit"
 ---
 
 # CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era

@@ -12,12 +12,19 @@ categories:
   - "cs.SI"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent评测/基准"
-  - "Agent社会模拟"
-  - "Agent交互"
-  - "网络拓扑分析"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Social & Behavioral Science"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Social & Behavioral Science"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Comparative network topology analysis"
+  primary_benchmark: "N/A"
 ---
 
 # A Comparative Analysis of Social Network Topology in Reddit and Moltbook

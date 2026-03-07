@@ -6,9 +6,6 @@ authors:
   - "Jiahang Sun"
   - "Zhiwei Shang"
   - "Mingze Kong"
-  - "Xiangyi Wang"
-  - "Yao Shu"
-  - "Zhongxiang Dai"
 date: "2026-03-03"
 arxiv_id: "2603.02630"
 arxiv_url: "https://arxiv.org/abs/2603.02630"
@@ -17,13 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "提示优化"
-  - "强化学习"
-  - "图神经网络"
-  - "样本效率"
-  - "决策优化"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MASPOB (Multi-Agent System Prompt Optimization via Bandits)"
+  primary_benchmark: "N/A"
 ---
 
 # MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks

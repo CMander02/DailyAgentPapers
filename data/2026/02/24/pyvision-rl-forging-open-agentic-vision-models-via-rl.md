@@ -6,8 +6,6 @@ authors:
   - "Ming Li"
   - "Haoquan Zhang"
   - "Wenshuo Peng"
-  - "Kaipeng Zhang"
-  - "Chen Wei"
 date: "2026-02-24"
 arxiv_id: "2602.20739"
 arxiv_url: "https://arxiv.org/abs/2602.20739"
@@ -16,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Multimodal Agent"
-  - "Tool Use"
-  - "Multi-turn Reasoning"
-  - "Agent Architecture"
-  - "Training Framework"
-  - "Video Understanding"
-  - "Efficiency Optimization"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-VL-72B"
+  key_technique: "PyVision-RL (oversampling-filtering-ranking rollout strategy, accumulative tool reward, on-demand context construction)"
+  primary_benchmark: "N/A"
 ---
 
 # PyVision-RL: Forging Open Agentic Vision Models via RL

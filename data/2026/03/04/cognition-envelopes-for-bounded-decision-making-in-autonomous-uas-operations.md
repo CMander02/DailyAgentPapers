@@ -6,9 +6,6 @@ authors:
   - "Sofia Nelson"
   - "Demetrius Hernandez"
   - "Maureen Petterson"
-  - "Michael Murphy"
-  - "Walter J. Scheirer"
-  - "Jane Cleland-Huang"
 date: "2025-10-30"
 arxiv_id: "2510.26905"
 arxiv_url: "https://arxiv.org/abs/2510.26905"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2510.26905v3"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Safety"
-  - "Agent Planning"
-  - "Agent Reasoning"
-  - "LLM/VLM Application"
-  - "Cyber-Physical Systems"
-  - "Decision Making"
-relevance_score: 7.5
+  - "Safety & Alignment"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Cognition Envelopes"
+  primary_benchmark: "N/A"
 ---
 
 # Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations

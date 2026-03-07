@@ -12,15 +12,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "任务规划"
-  - "提示优化"
-  - "分层架构"
-  - "LLM-based Agent"
-  - "Agent 规划"
-  - "Agent 协作"
-  - "Agent 自演化"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "hierarchical multi-agent LLM-based planner with TextGrad-inspired prompt optimization and meta-prompt sharing"
+  primary_benchmark: "MAT-THOR"
 ---
 
 # Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning

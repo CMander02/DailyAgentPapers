@@ -11,12 +11,19 @@ categories:
   - "cs.CY"
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "Agent 规划/推理"
-  - "多智能体系统"
-  - "Agent 自演化"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "BioBlue benchmark suite"
+  primary_benchmark: "BioBlue"
 ---
 
 # BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format

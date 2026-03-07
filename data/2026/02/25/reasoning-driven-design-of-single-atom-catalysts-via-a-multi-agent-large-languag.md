@@ -13,14 +13,19 @@ categories:
   - "cond-mat.mtrl-sci"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "科学发现"
-  - "材料设计"
-  - "推理与规划"
-  - "上下文学习"
-  - "工具使用"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Multi-Agent Systems"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-Agent-based Electrocatalyst Search Through Reasoning and Optimization (MAESTRO)"
+  primary_benchmark: "N/A"
 ---
 
 # Reasoning-Driven Design of Single Atom Catalysts via a Multi-Agent Large Language Model Framework

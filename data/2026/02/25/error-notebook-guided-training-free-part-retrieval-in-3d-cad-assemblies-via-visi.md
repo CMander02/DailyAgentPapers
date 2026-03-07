@@ -11,15 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2509.01350v3"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 工具使用"
-  - "推理增强"
-  - "检索增强生成 (RAG)"
-  - "视觉语言模型 (VLM)"
-  - "工程自动化"
-  - "训练免调优"
-  - "链式思考 (CoT)"
-  - "反思精炼"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o, Gemini, Qwen2-VL-2B-Instruct, Aya-Vision-8B"
+  key_technique: "Error Notebook-Guided Retrieval-Augmented Generation (RAG) with grammar-constraint (GC) verifier"
+  primary_benchmark: "N/A"
 ---
 
 # Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models

@@ -6,8 +6,6 @@ authors:
   - "Xiaoliang Fu"
   - "Cong Qin"
   - "Haolin Shi"
-  - "Chang Liu"
-  - "Peilin Zhao"
 date: "2026-02-22"
 arxiv_id: "2602.19225"
 arxiv_url: "https://arxiv.org/abs/2602.19225"
@@ -15,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19225v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Training"
-  - "Credit Assignment"
-  - "Policy Optimization"
-  - "Multi-Turn Agent"
-  - "LLM Agent"
-  - "Reinforcement Learning"
-  - "Sample Efficiency"
-relevance_score: 9.0
+  - "Learning & Optimization"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Proximity-based Multi-turn Optimization (ProxMO)"
+  primary_benchmark: "ALFWorld, WebShop"
 ---
 
 # Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training

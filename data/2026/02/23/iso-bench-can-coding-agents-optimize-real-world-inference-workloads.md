@@ -12,13 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19594v1"
 categories:
   - "cs.LG"
 tags:
-  - "Agent Benchmark"
-  - "Coding Agent"
-  - "Inference Optimization"
-  - "LLM Serving"
-  - "Evaluation Metrics"
-  - "Tool Use"
+  - "Code & Software Engineering"
+  - "Benchmark/Evaluation"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "ISO-Bench (dual evaluation framework combining hard execution-based and soft LLM-based metrics)"
+  primary_benchmark: "ISO-Bench"
 ---
 
 # ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?

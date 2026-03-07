@@ -6,11 +6,6 @@ authors:
   - "Keyu Pan"
   - "Xinrun Xu"
   - "Yinxiu Zhao"
-  - "Miao Chen"
-  - "Yang Du"
-  - "Lin Li"
-  - "Jun Song"
-  - "Tong Xu"
 date: "2026-02-24"
 arxiv_id: "2602.20687"
 arxiv_url: "https://arxiv.org/abs/2602.20687"
@@ -18,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20687v1"
 categories:
   - "cs.AI"
 tags:
-  - "Embodied AI"
-  - "Vision-Language Models"
-  - "Agent Benchmark"
-  - "Skill Evaluation"
-  - "Low-level Control"
-relevance_score: 8.0
+  - "Perception & Multimodal"
+  - "World Modeling & Simulation"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "World Modeling & Simulation"
+  domain: "Robotics & Embodied"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "NativeEmbodied benchmark"
+  primary_benchmark: "NativeEmbodied"
 ---
 
 # How Foundational Skills Influence VLM-based Embodied Agents:A Native Perspective

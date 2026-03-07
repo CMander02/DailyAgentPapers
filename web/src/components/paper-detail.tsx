@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { ScoreBadge } from "./score-badge";
-import { ExternalLink, FileText, ArrowLeft, Loader2, Github } from "lucide-react";
+import { ExternalLink, FileText, ArrowLeft, Loader2, Github, Globe, FlaskConical } from "lucide-react";
 
 const QA_COLORS = [
   "bg-blue-50 text-blue-700 ring-blue-200/60 dark:bg-blue-950/50 dark:text-blue-300 dark:ring-blue-800/40",
@@ -121,7 +121,9 @@ export function PaperDetail({ paper, loading, onBack }: PaperDetailProps) {
           <h1 className="text-xl md:text-2xl font-bold leading-snug tracking-tight">
             {paper.title}
           </h1>
-          <ScoreBadge score={paper.relevance_score} />
+          <div className="shrink-0 md:mt-0.5">
+            <ScoreBadge score={paper.relevance_score} />
+          </div>
         </div>
 
         {/* Tags */}
@@ -132,6 +134,22 @@ export function PaperDetail({ paper, loading, onBack }: PaperDetailProps) {
             </Badge>
           ))}
         </div>
+
+        {/* Taxonomy */}
+        {paper.taxonomy && (
+          <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-1.5 text-xs text-muted-foreground">
+            <span className="inline-flex items-center gap-1">
+              <Globe className="h-3 w-3 shrink-0" />
+              <span className="text-foreground/40">领域</span>
+              {paper.taxonomy.domain}
+            </span>
+            <span className="inline-flex items-center gap-1">
+              <FlaskConical className="h-3 w-3 shrink-0" />
+              <span className="text-foreground/40">类型</span>
+              {paper.taxonomy.research_type}
+            </span>
+          </div>
+        )}
 
         {/* Meta */}
         <div className="mt-4 space-y-1 text-sm text-muted-foreground">

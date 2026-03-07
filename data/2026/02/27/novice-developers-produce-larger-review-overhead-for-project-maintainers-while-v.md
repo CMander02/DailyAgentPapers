@@ -13,11 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23905v1"
 categories:
   - "cs.SE"
 tags:
-  - "AI Coding Agent"
-  - "Agent Evaluation"
+  - "Code & Software Engineering"
   - "Human-Agent Interaction"
-  - "Software Engineering"
-relevance_score: 7.0
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "AIDev dataset"
 ---
 
 # Novice Developers Produce Larger Review Overhead for Project Maintainers while Vibe Coding

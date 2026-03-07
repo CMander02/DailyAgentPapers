@@ -6,8 +6,6 @@ authors:
   - "Qing Liu"
   - "Xiwei Xu"
   - "Xin Yuan"
-  - "Liming Zhu"
-  - "Wenjie Zhang"
 date: "2025-10-15"
 arxiv_id: "2510.13614"
 arxiv_url: "https://arxiv.org/abs/2510.13614"
@@ -15,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2510.13614v3"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Reasoning"
-  - "Memory-Augmented Systems"
-  - "Knowledge Graph Integration"
-  - "Tool Use"
-  - "Experience Reuse"
-  - "Multi-Hop Reasoning"
-  - "Temporal Understanding"
-  - "LLM Enhancement"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4-Turbo, Qwen3-4B"
+  key_technique: "MemoTime (hierarchical Tree of Time decomposition, operator-aware reasoning, dynamic evidence retrieval, self-evolving experience memory)"
+  primary_benchmark: "multiple temporal QA benchmarks (names not specified)"
 ---
 
 # MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning

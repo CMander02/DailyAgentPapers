@@ -6,7 +6,6 @@ authors:
   - "Xingyu Jiang"
   - "Mukang You"
   - "Mohan Zhang"
-  - "Yue Deng"
 date: "2026-02-27"
 arxiv_id: "2602.23876"
 arxiv_url: "https://arxiv.org/abs/2602.23876"
@@ -16,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划与推理"
-  - "Agentic 强化学习"
-  - "自动化奖励设计"
-  - "语言智能体"
-  - "蒙特卡洛树搜索"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4, GPT-4o, Llama-3-70B, Qwen-2.5"
+  key_technique: "RF-Agent (Language Agent Tree Search integrating Monte Carlo Tree Search)"
+  primary_benchmark: "17 diverse low-level control tasks (e.g., locomotion, manipulation)"
 ---
 
 # RF-Agent: Automated Reward Function Design via Language Agent Tree Search

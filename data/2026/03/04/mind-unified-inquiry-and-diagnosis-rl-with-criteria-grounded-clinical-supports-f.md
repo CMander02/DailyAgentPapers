@@ -6,7 +6,6 @@ authors:
   - "Jiatong Ma"
   - "Yunyun Han"
   - "Jianhua Chen"
-  - "Yafeng Deng"
 date: "2026-03-04"
 arxiv_id: "2603.03677"
 arxiv_url: "https://arxiv.org/abs/2603.03677"
@@ -15,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "医疗对话Agent"
-  - "强化学习"
-  - "诊断推理"
-  - "多轮交互"
-  - "Agent规划"
-  - "临床决策支持"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MIND (unified inquiry-diagnosis reinforcement learning framework with Criteria-Grounded Psychiatric Reasoning Bank, rubric-based process rewards, value-aware trajectory rectification)"
+  primary_benchmark: "N/A"
 ---
 
 # MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation

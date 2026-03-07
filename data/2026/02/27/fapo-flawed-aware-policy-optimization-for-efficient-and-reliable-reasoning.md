@@ -13,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2510.22543v2"
 categories:
   - "cs.LG"
 tags:
-  - "强化学习"
-  - "策略优化"
-  - "推理"
-  - "奖励模型"
-  - "训练稳定性"
-  - "过程奖励"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Flawed-Aware Policy Optimization (FAPO)"
+  primary_benchmark: "N/A"
 ---
 
 # FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable Reasoning

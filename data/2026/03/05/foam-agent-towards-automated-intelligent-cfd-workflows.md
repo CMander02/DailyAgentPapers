@@ -6,8 +6,6 @@ authors:
   - "Tingwen Zhang"
   - "Yadi Cao"
   - "Zhangze Chen"
-  - "Shimin Di"
-  - "Shaowu Pan"
 date: "2025-05-08"
 arxiv_id: "2505.04997"
 arxiv_url: "https://arxiv.org/abs/2505.04997"
@@ -16,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "工具使用"
-  - "工作流自动化"
-  - "检索增强生成"
-  - "依赖感知调度"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "dependency-aware scheduling, retrieval-augmented generation (RAG), Model Context Protocol (MCP)"
+  primary_benchmark: "N/A"
 ---
 
 # Foam-Agent: Towards Automated Intelligent CFD Workflows

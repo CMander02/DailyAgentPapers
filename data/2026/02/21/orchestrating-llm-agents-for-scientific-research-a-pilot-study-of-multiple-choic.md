@@ -11,15 +11,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "Agent Orchestration"
-  - "Multi-Agent System"
-  - "Agentic Workflow"
-  - "LLM Agents"
-  - "Scientific Research"
-  - "Agent Evaluation"
-  - "Human-Agent Collaboration"
-  - "AI Research Operations"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "AI-orchestrated research workflow with multiple LLM-based agents"
+  primary_benchmark: "N/A"
 ---
 
 # Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation

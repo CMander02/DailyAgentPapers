@@ -6,8 +6,6 @@ authors:
   - "Luis França"
   - "Tanakorn Leesatapornwongsa"
   - "Adriana Szekeres"
-  - "Kexin Rong"
-  - "Suman Nath"
 date: "2026-02-24"
 arxiv_id: "2602.20502"
 arxiv_url: "https://arxiv.org/abs/2602.20502"
@@ -16,17 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "GUI Agent"
-  - "程序合成"
-  - "状态机记忆"
-  - "多智能体系统"
-  - "工具使用"
-  - "Agent 规划"
-  - "离线探索"
-  - "在线执行"
-  - "基准评测"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Memory & Context Management"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ActionEngine (two-agent architecture with Crawling Agent and Execution Agent, state machine memory, vision-based re-grounding fallback)"
+  primary_benchmark: "WebArena"
 ---
 
 # ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory

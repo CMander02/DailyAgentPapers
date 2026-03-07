@@ -9,14 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19065v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 可靠性"
-  - "系统工程"
-  - "形式化规范"
-  - "闭环控制"
-  - "领域智能体"
-  - "Agent 评测"
-relevance_score: 9.0
+  - "Architecture & Frameworks"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Problem Frames (APF), Act-Verify-Refine (AVR) loop, Agentic Job Description (AJD)"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic Problem Frames: A Systematic Approach to Engineering Reliable Domain Agents

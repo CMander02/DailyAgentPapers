@@ -10,14 +10,17 @@ categories:
   - "cs.MA"
   - "cs.DC"
 tags:
-  - "多智能体系统"
-  - "协调机制"
-  - "组织理论"
-  - "任务分析"
-  - "分布式系统理论"
-  - "工作流分类"
-  - "效率优化"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+  domain: "Enterprise & Workflow"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Thompson-CALM Bridge Theorem, Coordination Tax"
+  primary_benchmark: "APQC Process Classification Framework, O*NET database"
 ---
 
 # When Coordination Is Avoidable: A Monotonicity Analysis of Organizational Tasks

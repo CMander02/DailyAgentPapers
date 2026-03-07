@@ -12,14 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2511.09710v3"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 交互"
-  - "Agent 失败模式"
-  - "Agent 评测"
-  - "Agent 行为分析"
-  - "Agent 对话"
-  - "Agent 身份"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "GPT-4o, GPT-4, GPT-3.5-Turbo, Claude-3-Opus, Llama-3-70B, Llama-3-8B, Mixtral-8x7B, Gemma-2-9B"
+  key_technique: "protocol-level mitigation using structured response"
+  primary_benchmark: "N/A"
 ---
 
 # Echoing: Identity Failures when LLM Agents Talk to Each Other

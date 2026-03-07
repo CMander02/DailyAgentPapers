@@ -6,12 +6,6 @@ authors:
   - "Ruiqi Zhou"
   - "Zhengxi Yao"
   - "Shuai Chen"
-  - "Tianyi Zhang"
-  - "Shijie Zhang"
-  - "Wei Qiang Zhang"
-  - "Yongfeng Huang"
-  - "Haixin Duan"
-  - "Yunqi Zhang"
 date: "2026-02-25"
 arxiv_id: "2602.21728"
 arxiv_url: "https://arxiv.org/abs/2602.21728"
@@ -19,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21728v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "Agent 规划/推理"
-  - "强化学习"
-  - "工具使用"
-  - "知识图谱"
-  - "自主探索"
-  - "奖励建模"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Explore-on-Graph (EoG) with path-refined reward modeling"
+  primary_benchmark: "five KGQA benchmark datasets (names not specified)"
 ---
 
 # Explore-on-Graph: Incentivizing Autonomous Exploration of Large Language Models on Knowledge Graphs with Path-refined Reward Modeling

@@ -6,23 +6,24 @@ date: "2026-02-23"
 arxiv_id: "2602.20214"
 arxiv_url: "https://arxiv.org/abs/2602.20214"
 pdf_url: "https://arxiv.org/pdf/2602.20214v1"
-github_url: "https://github.com/PunkGo/punkgo-kernel"
 categories:
   - "cs.CR"
   - "cs.AI"
   - "cs.OS"
 tags:
-  - "AI Agent"
-  - "Agent Security"
-  - "Verifiable Execution"
-  - "Agent Governance"
-  - "Agent Logging"
-  - "System Architecture"
-  - "Capability-based Security"
-  - "Merkle Tree"
-  - "AI Regulation"
-  - "Sovereignty Kernel"
-relevance_score: 8.5
+  - "Architecture & Frameworks"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "PunkGo sovereignty kernel (unifying RFC 6962 Merkle tree audit logs, capability-based isolation, energy-budget governance, and human-approval mechanism)"
+  primary_benchmark: "N/A"
 ---
 
 # Right to History: A Sovereignty Kernel for Verifiable AI Agent Execution

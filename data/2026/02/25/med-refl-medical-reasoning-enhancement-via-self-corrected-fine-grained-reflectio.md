@@ -6,8 +6,6 @@ authors:
   - "Zegao Peng"
   - "Haoyu Zhang"
   - "Yu-An Huang"
-  - "KC Tan"
-  - "Zhi-An Huang"
 date: "2025-06-11"
 arxiv_id: "2506.13793"
 arxiv_url: "https://arxiv.org/abs/2506.13793"
@@ -16,14 +14,19 @@ github_url: "https://github.com/TianYin123/Med-REFL"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Reasoning"
-  - "Self-Correction"
-  - "Tree-of-Thoughts"
-  - "Medical AI"
-  - "Reasoning Enhancement"
-  - "Preference Optimization"
-  - "High-Stakes Applications"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama3.1-8B, Huatuo-o1"
+  key_technique: "Med-REFL (deterministic structural assessment of reasoning space, automated generation of DPO pairs)"
+  primary_benchmark: "MedQA"
 ---
 
 # Med-REFL: Medical Reasoning Enhancement via Self-Corrected Fine-grained Reflection

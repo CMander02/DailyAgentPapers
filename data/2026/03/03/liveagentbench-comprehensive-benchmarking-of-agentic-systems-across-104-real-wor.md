@@ -6,7 +6,6 @@ authors:
   - "Jinjie Gu"
   - "Wenjie Wang"
   - "Chenyi Zhuang"
-  - "Sikang Bian"
 date: "2026-03-03"
 arxiv_id: "2603.02586"
 arxiv_url: "https://arxiv.org/abs/2603.02586"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02586v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Agent Evaluation"
-  - "Real-World Tasks"
-  - "Data Generation"
-  - "Agent Systems"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Social Perception-Driven Data Generation (SPDG)"
+  primary_benchmark: "LiveAgentBench"
 ---
 
 # LiveAgentBench: Comprehensive Benchmarking of Agentic Systems Across 104 Real-World Challenges

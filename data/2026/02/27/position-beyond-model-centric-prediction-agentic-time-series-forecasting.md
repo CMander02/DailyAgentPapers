@@ -13,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.01776v2"
 categories:
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 规划/推理"
-  - "Agentic 强化学习"
-  - "工具使用"
-  - "记忆"
-  - "多轮交互"
-  - "工作流"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Time Series Forecasting (ATSF)"
+  primary_benchmark: "N/A"
 ---
 
 # Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting

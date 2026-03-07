@@ -6,9 +6,6 @@ authors:
   - "Matija Franklin"
   - "Manon Revel"
   - "Geoff Keeling"
-  - "Roberta Fischli"
-  - "Bilva Chandra"
-  - "Iason Gabriel"
 date: "2026-03-03"
 arxiv_id: "2603.02960"
 arxiv_url: "https://arxiv.org/abs/2603.02960"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02960v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "多智能体系统"
-  - "知识推理"
-relevance_score: 7.5
+  - "Safety & Alignment"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Normative framework for trustworthy epistemic agents"
+  primary_benchmark: "N/A"
 ---
 
 # Architecting Trust in Artificial Epistemic Agents

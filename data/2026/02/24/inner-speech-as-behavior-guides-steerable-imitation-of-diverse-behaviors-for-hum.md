@@ -13,15 +13,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "模仿学习"
-  - "人机协作"
-  - "行为多样性"
-  - "语言引导"
-  - "推理"
-  - "条件生成模型"
-  - "视觉语言模型"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MIMIC (Modeling Inner Motivations for Imitation and Control)"
+  primary_benchmark: "N/A"
 ---
 
 # Inner Speech as Behavior Guides: Steerable Imitation of Diverse Behaviors for Human-AI coordination

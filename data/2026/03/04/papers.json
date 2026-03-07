@@ -1,5 +1,45 @@
 [
   {
+    "arxiv_id": "2602.22769",
+    "version": 1,
+    "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+    "authors": [
+      "Yujie Zhao",
+      "Boqin Yuan",
+      "Junbo Huang",
+      "Haocheng Yuan",
+      "Zhongming Yu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.22769",
+    "pdf_url": "https://arxiv.org/pdf/2602.22769v2",
+    "github_url": "",
+    "published": "2026-02-26",
+    "tags": [
+      "Memory & Context Management",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/04/ama-bench-evaluating-long-horizon-memory-for-agentic-applications.md",
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AMA-Agent (causality graph and tool-augmented retrieval)",
+      "primary_benchmark": "AMA-Bench"
+    }
+  },
+  {
     "arxiv_id": "2603.04257",
     "version": 1,
     "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
@@ -16,544 +56,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04257",
     "pdf_url": "https://arxiv.org/pdf/2603.04257v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "Agent 架构",
-      "记忆机制",
-      "长程规划",
-      "强化学习",
-      "工具使用",
-      "经验索引",
-      "上下文管理"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/04/memexrl-scaling-long-horizon-llm-agents-via-indexed-experience-memory.md"
-  },
-  {
-    "arxiv_id": "2603.03655",
-    "version": 1,
-    "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-    "authors": [
-      "He Cao",
-      "Siyu Liu",
-      "Fan Zhang",
-      "Zijing Liu",
-      "Hao Li"
-    ],
-    "author_count": 10,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03655",
-    "pdf_url": "https://arxiv.org/pdf/2603.03655v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Architecture",
-      "Tool Use",
-      "Governance & Safety",
-      "Scientific Agent",
-      "Multi-Agent System",
-      "Planning & Reasoning",
-      "Human-in-the-Loop",
-      "Agent Benchmarking"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/04/mozi-governed-autonomy-for-drug-discovery-llm-agents.md"
-  },
-  {
-    "arxiv_id": "2602.19810",
-    "version": 3,
-    "title": "From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science",
-    "authors": [
-      "Lukas Weidener",
-      "Marko Brkić",
-      "Phillip Lee",
-      "Martin Karlsson",
-      "Kevin Noessler"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.19810",
-    "pdf_url": "https://arxiv.org/pdf/2602.19810v3",
-    "published": "2026-02-23",
-    "tags": [
-      "多智能体系统",
-      "Agent架构",
-      "自主科学研究",
-      "Agent社会网络",
-      "平台设计"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/04/from-agent-only-social-networks-to-autonomous-scientific-research-lessons-from-o.md"
-  },
-  {
-    "arxiv_id": "2505.02888",
-    "version": 2,
-    "title": "When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger",
-    "authors": [
-      "Rintaro Ando"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2505.02888",
-    "pdf_url": "https://arxiv.org/pdf/2505.02888v2",
-    "published": "2025-05-05",
-    "tags": [
-      "Agent 架构",
-      "多智能体系统",
-      "Agent 自演化",
-      "理论模型",
-      "递归自我改进",
-      "形式化分析"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/04/when-your-own-output-becomes-your-training-data-noise-to-meaning-loops-and-a-for.md"
-  },
-  {
-    "arxiv_id": "2505.07757",
-    "version": 2,
-    "title": "Emotion-Gradient Metacognitive RSI (Part I): Theoretical Foundations and Single-Agent Architecture",
-    "authors": [
-      "Rintaro Ando"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2505.07757",
-    "pdf_url": "https://arxiv.org/pdf/2505.07757v2",
-    "published": "2025-05-12",
-    "tags": [
-      "Agent Architecture",
-      "Recursive Self-Improvement",
-      "Metacognition",
-      "Intrinsic Motivation",
-      "Theoretical Framework",
-      "Safety"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/04/emotion-gradient-metacognitive-rsi-part-i-theoretical-foundations-and-single-age.md"
-  },
-  {
-    "arxiv_id": "2603.04384",
-    "version": 1,
-    "title": "AgentIR: Reasoning-Aware Retrival for Deep Research Agents",
-    "authors": [
-      "Zijian Chen",
-      "Xueguang Ma",
-      "Shengyao Zhuang",
-      "Jimmy Lin",
-      "Akari Asai"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04384",
-    "pdf_url": "https://arxiv.org/pdf/2603.04384v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent 架构",
-      "工具使用",
-      "检索增强",
-      "推理",
-      "数据合成",
-      "智能体评测"
+      "Memory & Context Management",
+      "Learning & Optimization"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/agentir-reasoning-aware-retrival-for-deep-research-agents.md"
-  },
-  {
-    "arxiv_id": "2603.04241",
-    "version": 1,
-    "title": "Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows",
-    "authors": [
-      "Alfio Massimiliano Gliozzo",
-      "Junkyu Lee",
-      "Nahuel Defosse"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04241",
-    "pdf_url": "https://arxiv.org/pdf/2603.04241v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent 架构",
-      "Agent 数据合成",
-      "Agent 规划/推理",
-      "工具使用",
-      "框架/库"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/agentics-20-logical-transduction-algebra-for-agentic-data-workflows.md"
-  },
-  {
-    "arxiv_id": "2603.03780",
-    "version": 1,
-    "title": "MACC: Multi-Agent Collaborative Competition for Scientific Exploration",
-    "authors": [
-      "Satoshi Oyama",
-      "Yuko Sakurai",
-      "Hisashi Kashima"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.MA",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03780",
-    "pdf_url": "https://arxiv.org/pdf/2603.03780v1",
-    "published": "2026-03-04",
-    "tags": [
-      "多智能体系统",
-      "科学探索",
-      "协作与竞争",
-      "机构设计",
-      "激励",
-      "可复现性",
-      "MA4Science"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/macc-multi-agent-collaborative-competition-for-scientific-exploration.md"
-  },
-  {
-    "arxiv_id": "2603.03753",
-    "version": 1,
-    "title": "Agentic Peer-to-Peer Networks: From Content Distribution to Capability and Action Sharing",
-    "authors": [
-      "Taotao Wang",
-      "Lizhao You",
-      "Jingwen Tong",
-      "Chonghe Zhao",
-      "Shengli Zhang"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.NI",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03753",
-    "pdf_url": "https://arxiv.org/pdf/2603.03753v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent 架构",
-      "多智能体系统",
-      "工具使用",
-      "Agent 协作",
-      "去中心化系统",
-      "安全与验证"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/agentic-peer-to-peer-networks-from-content-distribution-to-capability-and-action.md"
-  },
-  {
-    "arxiv_id": "2603.03680",
-    "version": 1,
-    "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-    "authors": [
-      "Lu Yang",
-      "Zelai Xu",
-      "Minyang Xie",
-      "Jiaxuan Gao",
-      "Zhao Shok"
-    ],
-    "author_count": 7,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03680",
-    "pdf_url": "https://arxiv.org/pdf/2603.03680v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agentic Reinforcement Learning",
-      "Meta-Reinforcement Learning",
-      "Multi-Agent Systems",
-      "Strategic Exploration",
-      "Strategic Exploitation",
-      "Agent Adaptation",
-      "Agent Learning Framework"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/mage-meta-reinforcement-learning-for-language-agents-toward-strategic-exploratio.md",
-    "github_url": "https://github.com/Lu-Yang666/MAGE"
-  },
-  {
-    "arxiv_id": "2511.22235",
-    "version": 2,
-    "title": "Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation",
-    "authors": [
-      "Zehao Deng",
-      "Tianjie Ju",
-      "Zheng Wu",
-      "Zhuosheng Zhang",
-      "Gongshen Liu"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2511.22235",
-    "pdf_url": "https://arxiv.org/pdf/2511.22235v2",
-    "published": "2025-11-27",
-    "tags": [
-      "多智能体系统",
-      "Agent架构",
-      "任务规划",
-      "状态管理",
-      "强化学习",
-      "GUI自动化",
-      "长视野任务"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/training-high-level-schedulers-with-execution-feedback-reinforcement-learning-fo.md",
-    "github_url": "https://github.com/hehehahi4/CES"
-  },
-  {
-    "arxiv_id": "2603.01620",
-    "version": 2,
-    "title": "ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents",
-    "authors": [
-      "Pengbo Liu"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.01620",
-    "pdf_url": "https://arxiv.org/pdf/2603.01620v2",
-    "published": "2026-03-02",
-    "tags": [
-      "工具使用",
-      "强化学习",
-      "奖励设计",
-      "领域特定Agent",
-      "后训练",
-      "Agent对齐",
-      "Agent评测"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/toolrla-multiplicative-reward-decomposition-for-tool-integrated-agents.md"
-  },
-  {
-    "arxiv_id": "2603.03202",
-    "version": 2,
-    "title": "Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?",
-    "authors": [
-      "Dadi Guo",
-      "Yuejin Xie",
-      "Qingyu Liu",
-      "Jiayu Liu",
-      "Zhiyuan Fan"
-    ],
-    "author_count": 10,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03202",
-    "pdf_url": "https://arxiv.org/pdf/2603.03202v2",
-    "published": "2026-03-03",
-    "tags": [
-      "多智能体系统",
-      "Agent 自演化",
-      "Agent 规划/推理",
-      "Agent 数据合成",
-      "代码智能体"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md",
-    "github_url": "https://github.com/TarferSoul/Code2Math"
-  },
-  {
-    "arxiv_id": "2510.24702",
-    "version": 2,
-    "title": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",
-    "authors": [
-      "Yueqi Song",
-      "Ketan Ramaneti",
-      "Zaid Sheikh",
-      "Ziru Chen",
-      "Boyu Gou"
-    ],
-    "author_count": 21,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2510.24702",
-    "pdf_url": "https://arxiv.org/pdf/2510.24702v2",
-    "published": "2025-10-28",
-    "tags": [
-      "Agent 数据合成",
-      "Agent 训练",
-      "监督微调",
-      "数据集标准化",
-      "工具使用",
-      "Agent 架构"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/agent-data-protocol-unifying-datasets-for-diverse-effective-fine-tuning-of-llm-a.md"
-  },
-  {
-    "arxiv_id": "2509.25541",
-    "version": 2,
-    "title": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play",
-    "authors": [
-      "Qinsi Wang",
-      "Bo Liu",
-      "Tianyi Zhou",
-      "Jing Shi",
-      "Yueqian Lin"
-    ],
-    "author_count": 9,
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2509.25541",
-    "pdf_url": "https://arxiv.org/pdf/2509.25541v2",
-    "published": "2025-09-29",
-    "tags": [
-      "VLM Self-Improvement",
-      "Multi-Agent Self-Play",
-      "Agentic Reinforcement Learning",
-      "Agent Data Synthesis",
-      "Strategic Reasoning",
-      "Agent Architecture"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/04/vision-zero-scalable-vlm-self-improvement-via-strategic-gamified-self-play.md",
-    "github_url": "https://github.com/wangqinsi1/Vision-Zero"
-  },
-  {
-    "arxiv_id": "2603.04390",
-    "version": 1,
-    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
-    "authors": [
-      "Boyuan",
-      "Guan",
-      "Wencong Cui",
-      "Levente Juhasz"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI",
-      "cs.SE"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04390",
-    "pdf_url": "https://arxiv.org/pdf/2603.04390v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Architecture",
-      "Agent Reliability",
-      "Tool Use",
-      "Knowledge Management",
-      "Multi-Agent System",
-      "Agent Evaluation"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/a-dual-helix-governance-approach-towards-reliable-agentic-ai-for-webgis-developm.md"
-  },
-  {
-    "arxiv_id": "2603.04378",
-    "version": 1,
-    "title": "Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization",
-    "authors": [
-      "Furkan Mumcu",
-      "Yasin Yilmaz"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CR",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04378",
-    "pdf_url": "https://arxiv.org/pdf/2603.04378v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Robustness",
-      "Multi-Agent Systems",
-      "Adversarial Training",
-      "LLM Security",
-      "Policy Optimization",
-      "Minimax Optimization"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/robustness-of-agentic-ai-systems-via-adversarially-aligned-jacobian-regularizati.md"
-  },
-  {
-    "arxiv_id": "2603.04370",
-    "version": 1,
-    "title": "$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge",
-    "authors": [
-      "Quan Shi",
-      "Alexandra Zytek",
-      "Pedram Razavi",
-      "Karthik Narasimhan",
-      "Victor Barres"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.IR"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04370",
-    "pdf_url": "https://arxiv.org/pdf/2603.04370v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Evaluation",
-      "Agent Benchmark",
-      "Tool Use",
-      "Knowledge Retrieval",
-      "Long-Horizon Interaction",
-      "Conversational Agent"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/τ-knowledge-evaluating-conversational-agents-over-unstructured-knowledge.md"
-  },
-  {
-    "arxiv_id": "2603.04364",
-    "version": 1,
-    "title": "Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks",
-    "authors": [
-      "Haoyu Liu",
-      "Dingcheng Li",
-      "Lukas Rutishauser",
-      "Zeyu Zheng"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04364",
-    "pdf_url": "https://arxiv.org/pdf/2603.04364v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Safety",
-      "Multimodal Agent",
-      "Adversarial Training",
-      "Web Agent",
-      "Agent Robustness",
-      "Agent Training Framework",
-      "Multi-Stage Training",
-      "Self-Play"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/dual-modality-multi-stage-adversarial-safety-training-robustifying-multimodal-we.md"
+    "md_path": "data/2026/03/04/memexrl-scaling-long-horizon-llm-agents-via-indexed-experience-memory.md",
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Memex (indexed experience memory mechanism), MemexRL (reinforcement learning framework)",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2603.03823",
@@ -574,22 +97,963 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.03823",
     "pdf_url": "https://arxiv.org/pdf/2603.03823v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "Agent Benchmark",
-      "Code Generation",
-      "Software Engineering",
-      "Long-Term Reasoning",
-      "Iterative Task",
-      "Agent Evaluation",
-      "Maintainability"
+      "Code & Software Engineering",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/04/swe-ci-evaluating-agent-capabilities-in-maintaining-codebases-via-continuous-int.md",
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "SWE-CI benchmark, Architect–Programmer dual-agent evaluation protocol, EvoScore",
+      "primary_benchmark": "SWE-CI"
+    }
+  },
+  {
+    "arxiv_id": "2509.25541",
+    "version": 1,
+    "title": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play",
+    "authors": [
+      "Qinsi Wang",
+      "Bo Liu",
+      "Tianyi Zhou",
+      "Jing Shi",
+      "Yueqian Lin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2509.25541",
+    "pdf_url": "https://arxiv.org/pdf/2509.25541v2",
+    "github_url": "https://github.com/wangqinsi1/Vision-Zero",
+    "published": "2025-09-29",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/04/vision-zero-scalable-vlm-self-improvement-via-strategic-gamified-self-play.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Vision-Zero, Iterative Self-Play Policy Optimization (Iterative-SPO)",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.04384",
+    "version": 1,
+    "title": "AgentIR: Reasoning-Aware Retrival for Deep Research Agents",
+    "authors": [
+      "Zijian Chen",
+      "Xueguang Ma",
+      "Shengyao Zhuang",
+      "Jimmy Lin",
+      "Akari Asai"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04384",
+    "pdf_url": "https://arxiv.org/pdf/2603.04384v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/swe-ci-evaluating-agent-capabilities-in-maintaining-codebases-via-continuous-int.md"
+    "md_path": "data/2026/03/04/agentir-reasoning-aware-retrival-for-deep-research-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Tongyi-DeepResearch, gpt-oss-120B, GLM-4.7",
+      "key_technique": "Reasoning-Aware Retrieval, DR-Synth",
+      "primary_benchmark": "BrowseComp-Plus"
+    }
+  },
+  {
+    "arxiv_id": "2603.04364",
+    "version": 1,
+    "title": "Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks",
+    "authors": [
+      "Haoyu Liu",
+      "Dingcheng Li",
+      "Lukas Rutishauser",
+      "Zeyu Zheng"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04364",
+    "pdf_url": "https://arxiv.org/pdf/2603.04364v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/04/dual-modality-multi-stage-adversarial-safety-training-robustifying-multimodal-we.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Dual-Modality Multi-Stage Adversarial Safety Training (DMAST), Group Relative Policy Optimization (GRPO), zero-acknowledgment strategy",
+      "primary_benchmark": "MiniWob++, VisualWebArena"
+    }
+  },
+  {
+    "arxiv_id": "2602.19810",
+    "version": 1,
+    "title": "From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science",
+    "authors": [
+      "Lukas Weidener",
+      "Marko Brkić",
+      "Phillip Lee",
+      "Martin Karlsson",
+      "Kevin Noessler"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.19810",
+    "pdf_url": "https://arxiv.org/pdf/2602.19810v3",
+    "github_url": "",
+    "published": "2026-02-23",
+    "tags": [
+      "Multi-Agent Systems",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/04/from-agent-only-social-networks-to-autonomous-scientific-research-lessons-from-o.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Architecture & Frameworks"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "composable third-tier architecture with hard role restrictions, structured adversarial critique, PI-led governance, multi-model orchestration, external tool verification",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03800",
+    "version": 1,
+    "title": "A Rubric-Supervised Critic from Sparse Real-World Outcomes",
+    "authors": [
+      "Xingyao Wang",
+      "Valerie Chen",
+      "Heng Ji",
+      "Graham Neubig"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03800",
+    "pdf_url": "https://arxiv.org/pdf/2603.03800v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Code & Software Engineering",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/a-rubric-supervised-critic-from-sparse-real-world-outcomes.md",
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Critic Rubrics",
+      "primary_benchmark": "SWE-bench"
+    }
+  },
+  {
+    "arxiv_id": "2510.24702",
+    "version": 1,
+    "title": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",
+    "authors": [
+      "Yueqi Song",
+      "Ketan Ramaneti",
+      "Zaid Sheikh",
+      "Ziru Chen",
+      "Boyu Gou"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2510.24702",
+    "pdf_url": "https://arxiv.org/pdf/2510.24702v2",
+    "github_url": "",
+    "published": "2025-10-28",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/agent-data-protocol-unifying-datasets-for-diverse-effective-fine-tuning-of-llm-a.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Code & Software Engineering"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Agent Data Protocol (ADP)",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.01896",
+    "version": 1,
+    "title": "Agentic Code Reasoning",
+    "authors": [
+      "Shubham Ugare",
+      "Satish Chandra"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01896",
+    "pdf_url": "https://arxiv.org/pdf/2603.01896v2",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Code & Software Engineering",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/agentic-code-reasoning.md",
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "semi-formal reasoning",
+      "primary_benchmark": "RubberDuckBench, Defects4J"
+    }
+  },
+  {
+    "arxiv_id": "2603.04241",
+    "version": 1,
+    "title": "Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows",
+    "authors": [
+      "Alfio Massimiliano Gliozzo",
+      "Junkyu Lee",
+      "Nahuel Defosse"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04241",
+    "pdf_url": "https://arxiv.org/pdf/2603.04241v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Architecture & Frameworks",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/agentics-20-logical-transduction-algebra-for-agentic-data-workflows.md",
+    "taxonomy": {
+      "capability": [
+        "Architecture & Frameworks",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Logical Transduction Algebra, transducible function",
+      "primary_benchmark": "DiscoveryBench, Archer"
+    }
+  },
+  {
+    "arxiv_id": "2603.03761",
+    "version": 1,
+    "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
+    "authors": [
+      "Yunxiao Shi",
+      "Wujiang Xu",
+      "Tingwei Chen",
+      "Haoning Shang",
+      "Ling Yang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03761",
+    "pdf_url": "https://arxiv.org/pdf/2603.03761v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/agentselect-benchmark-for-narrative-query-to-agent-recommendation.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AgentSelect benchmark (narrative query-to-agent recommendation over capability profiles)",
+      "primary_benchmark": "AgentSelect"
+    }
+  },
+  {
+    "arxiv_id": "2509.21782",
+    "version": 1,
+    "title": "Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",
+    "authors": [
+      "Junliang Liu",
+      "Jingyu Xiao",
+      "Wenxin Tang",
+      "Zhixian Wang",
+      "Zipeng Xie"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2509.21782",
+    "pdf_url": "https://arxiv.org/pdf/2509.21782v2",
+    "github_url": "",
+    "published": "2025-09-26",
+    "tags": [
+      "Reasoning & Planning",
+      "Perception & Multimodal"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/benchmarking-mllm-based-web-understanding-reasoning-robustness-and-safety.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Perception & Multimodal"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "WebRRSBench",
+      "primary_benchmark": "WebRRSBench"
+    }
+  },
+  {
+    "arxiv_id": "2603.03202",
+    "version": 1,
+    "title": "Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?",
+    "authors": [
+      "Dadi Guo",
+      "Yuejin Xie",
+      "Qingyu Liu",
+      "Jiayu Liu",
+      "Zhiyuan Fan"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03202",
+    "pdf_url": "https://arxiv.org/pdf/2603.03202v2",
+    "github_url": "https://github.com/TarferSoul/Code2Math",
+    "published": "2026-03-03",
+    "tags": [
+      "Multi-Agent Systems",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/code2math-can-your-code-agent-effectively-evolve-math-problems-through-explorati.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Code & Software Engineering"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "multi-agent framework for problem evolution",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03781",
+    "version": 1,
+    "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
+    "authors": [
+      "Zihao Cheng",
+      "Weixin Wang",
+      "Yu Zhao",
+      "Ziyang Ren",
+      "Jiaxuan Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03781",
+    "pdf_url": "https://arxiv.org/pdf/2603.03781v1",
+    "github_url": "https://github.com/1754955896/LifeBench",
+    "published": "2026-03-04",
+    "tags": [
+      "Memory & Context Management"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/lifebench-a-benchmark-for-long-horizon-multi-source-memory.md",
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "LifeBench (long-horizon event simulation with partonomic hierarchy)",
+      "primary_benchmark": "LifeBench"
+    }
+  },
+  {
+    "arxiv_id": "2603.03680",
+    "version": 1,
+    "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+    "authors": [
+      "Lu Yang",
+      "Zelai Xu",
+      "Minyang Xie",
+      "Jiaxuan Gao",
+      "Zhao Shok"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03680",
+    "pdf_url": "https://arxiv.org/pdf/2603.03680v1",
+    "github_url": "https://github.com/Lu-Yang666/MAGE",
+    "published": "2026-03-04",
+    "tags": [
+      "Learning & Optimization",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/mage-meta-reinforcement-learning-for-language-agents-toward-strategic-exploratio.md",
+    "taxonomy": {
+      "capability": [
+        "Learning & Optimization",
+        "Multi-Agent Systems"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "MAGE (Meta-Reinforcement Learning for Language Agents with population-based training and agent-specific advantage normalization)",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03655",
+    "version": 1,
+    "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+    "authors": [
+      "He Cao",
+      "Siyu Liu",
+      "Fan Zhang",
+      "Zijing Liu",
+      "Hao Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03655",
+    "pdf_url": "https://arxiv.org/pdf/2603.03655v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/mozi-governed-autonomy-for-drug-discovery-llm-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Multi-Agent Systems"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Mozi (dual-layer architecture with Control Plane and Workflow Plane, governed supervisor-worker hierarchy, stateful composable skill graphs)",
+      "primary_benchmark": "PharmaBench"
+    }
+  },
+  {
+    "arxiv_id": "2509.13615",
+    "version": 1,
+    "title": "See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles",
+    "authors": [
+      "Zongru Wu",
+      "Rui Mao",
+      "Zhiyuan Tian",
+      "Pengzhou Cheng",
+      "Tianjie Ju"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2509.13615",
+    "pdf_url": "https://arxiv.org/pdf/2509.13615v4",
+    "github_url": "https://github.com/ZrW00/StaR",
+    "published": "2025-09-17",
+    "tags": [
+      "Reasoning & Planning",
+      "Perception & Multimodal"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Perception & Multimodal"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "State-aware Reasoning (StaR)",
+      "primary_benchmark": "state control benchmark (constructed by authors)"
+    }
+  },
+  {
+    "arxiv_id": "2603.01620",
+    "version": 1,
+    "title": "ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents",
+    "authors": [
+      "Pengbo Liu"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01620",
+    "pdf_url": "https://arxiv.org/pdf/2603.01620v2",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/toolrla-multiplicative-reward-decomposition-for-tool-integrated-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "Finance & Trading",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "ToolRLA (fine-grained multiplicative reward decomposition, SFT → GRPO → DPO pipeline)",
+      "primary_benchmark": "ToolBench, API-Bank"
+    }
+  },
+  {
+    "arxiv_id": "2508.03284",
+    "version": 1,
+    "title": "ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools",
+    "authors": [
+      "Shaofeng Yin",
+      "Ting Lei",
+      "Yang Liu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2508.03284",
+    "pdf_url": "https://arxiv.org/pdf/2508.03284v2",
+    "github_url": "",
+    "published": "2025-08-05",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Perception & Multimodal"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/toolvqa-a-dataset-for-multi-step-reasoning-vqa-with-external-tools.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Perception & Multimodal"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "LLaVA-7B, GPT-3.5-turbo",
+      "key_technique": "ToolEngine (image-guided Depth-First Search with LCS-based example matching)",
+      "primary_benchmark": "ToolVQA"
+    }
+  },
+  {
+    "arxiv_id": "2511.22235",
+    "version": 1,
+    "title": "Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation",
+    "authors": [
+      "Zehao Deng",
+      "Tianjie Ju",
+      "Zheng Wu",
+      "Zhuosheng Zhang",
+      "Gongshen Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2511.22235",
+    "pdf_url": "https://arxiv.org/pdf/2511.22235v2",
+    "github_url": "https://github.com/hehehahi4/CES",
+    "published": "2025-11-27",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/training-high-level-schedulers-with-execution-feedback-reinforcement-learning-fo.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Coordinator-Executor-State Tracker (CES) multi-agent framework, staged execution-feedback reinforcement learning",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2508.01222",
+    "version": 1,
+    "title": "WebDS: An End-to-End Benchmark for Web-based Data Science",
+    "authors": [
+      "Ethan Hsu",
+      "Hong Meng Yam",
+      "Ines Bouissou",
+      "Aaron Murali John",
+      "Raj Thota"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2508.01222",
+    "pdf_url": "https://arxiv.org/pdf/2508.01222v2",
+    "github_url": "",
+    "published": "2025-08-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Web & Browser Automation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/webds-an-end-to-end-benchmark-for-web-based-data-science.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Web & Browser Automation"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "WebDS benchmark design",
+      "primary_benchmark": "WebDS"
+    }
+  },
+  {
+    "arxiv_id": "2602.09937",
+    "version": 1,
+    "title": "Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?",
+    "authors": [
+      "Taeyoon Kim",
+      "Woohyeok Park",
+      "Hoyeong Yun",
+      "Kyungyong Lee"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.DC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.09937",
+    "pdf_url": "https://arxiv.org/pdf/2602.09937v2",
+    "github_url": "",
+    "published": "2026-02-10",
+    "tags": [
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/why-do-ai-agents-systematically-fail-at-cloud-root-cause-analysis.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "Gemini 2.5 Pro, GPT-5 mini, GPT-OSS 120B, Solar Pro 2, Claude Sonnet 4",
+      "key_technique": "Process-level failure analysis methodology and pitfall taxonomy",
+      "primary_benchmark": "OpenRCA"
+    }
+  },
+  {
+    "arxiv_id": "2603.04370",
+    "version": 1,
+    "title": "$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge",
+    "authors": [
+      "Quan Shi",
+      "Alexandra Zytek",
+      "Pedram Razavi",
+      "Karthik Narasimhan",
+      "Victor Barres"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04370",
+    "pdf_url": "https://arxiv.org/pdf/2603.04370v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/04/τ-knowledge-evaluating-conversational-agents-over-unstructured-knowledge.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "Finance & Trading",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "τ-Knowledge (extension of τ-Bench)",
+      "primary_benchmark": "τ-Knowledge (τ-Banking domain)"
+    }
+  },
+  {
+    "arxiv_id": "2603.04390",
+    "version": 1,
+    "title": "A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development",
+    "authors": [
+      "Boyuan",
+      "Guan",
+      "Wencong Cui",
+      "Levente Juhasz"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04390",
+    "pdf_url": "https://arxiv.org/pdf/2603.04390v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Memory & Context Management",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/a-dual-helix-governance-approach-towards-reliable-agentic-ai-for-webgis-developm.md",
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Code & Software Engineering"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "dual-helix governance framework, 3-track architecture (Knowledge, Behavior, Skills) with knowledge graph substrate",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03753",
+    "version": 1,
+    "title": "Agentic Peer-to-Peer Networks: From Content Distribution to Capability and Action Sharing",
+    "authors": [
+      "Taotao Wang",
+      "Lizhao You",
+      "Jingwen Tong",
+      "Chonghe Zhao",
+      "Shengli Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.NI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03753",
+    "pdf_url": "https://arxiv.org/pdf/2603.03753v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/agentic-peer-to-peer-networks-from-content-distribution-to-capability-and-action.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "plane-based reference architecture, signed soft-state capability descriptors, tiered verification spectrum",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03686",
+    "version": 1,
+    "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+    "authors": [
+      "Jiangyu Chen"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03686",
+    "pdf_url": "https://arxiv.org/pdf/2603.03686v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Reasoning & Planning",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/ai4s-sds-a-neuro-symbolic-solvent-design-system-via-sparse-mcts-and-differentiab.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Multi-Agent Systems"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Sparse State Storage with Dynamic Path Reconstruction, Global-Local Search Strategy, Sibling-Aware Expansion, Differentiable Physics Engine",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2509.13471",
-    "version": 2,
+    "version": 1,
     "title": "An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software",
     "authors": [
       "Sina Gogani-Khiabani",
@@ -604,22 +1068,416 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2509.13471",
     "pdf_url": "https://arxiv.org/pdf/2509.13471v2",
+    "github_url": "",
     "published": "2025-09-16",
     "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "工具使用",
-      "代码合成",
-      "测试生成",
-      "法律应用",
-      "可靠性"
+      "Multi-Agent Systems",
+      "Code & Software Engineering"
     ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/an-llm-agentic-approach-for-legal-critical-software-a-case-study-for-tax-prep-so.md"
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/an-llm-agentic-approach-for-legal-critical-software-a-case-study-for-tax-prep-so.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Code & Software Engineering"
+      ],
+      "domain": "Legal & Financial",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "GPT-4o-mini, GPT-4o, Claude 3.5",
+      "key_technique": "higher-order metamorphic relations, LLM-driven role-based framework",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2511.07441",
+    "version": 1,
+    "title": "AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents",
+    "authors": [
+      "Ye Zheng",
+      "Yimin Chen",
+      "Yidan Hu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2511.07441",
+    "pdf_url": "https://arxiv.org/pdf/2511.07441v5",
+    "github_url": "",
+    "published": "2025-11-03",
+    "tags": [
+      "Safety & Alignment",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/audagent-automated-auditing-of-privacy-policy-compliance-in-ai-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "Claude, Gemini, DeepSeek",
+      "key_technique": "cross-LLM voting mechanism, ontology graphs and automata-based checking",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2512.12594",
+    "version": 1,
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "authors": [
+      "Luoxi Meng",
+      "Henry Feng",
+      "Ilia Shumailov",
+      "Earlence Fernandes"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2512.12594",
+    "pdf_url": "https://arxiv.org/pdf/2512.12594v2",
+    "github_url": "",
+    "published": "2025-12-14",
+    "tags": [
+      "Safety & Alignment",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/cellmate-sandboxing-browser-ai-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "ceLLMate (HTTP-layer sandboxing framework)",
+      "primary_benchmark": "WASP"
+    }
+  },
+  {
+    "arxiv_id": "2603.04177",
+    "version": 1,
+    "title": "CodeTaste: Can LLMs Generate Human-Level Code Refactorings?",
+    "authors": [
+      "Alex Thillen",
+      "Niels Mündler",
+      "Veselin Raychev",
+      "Martin Vechev"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04177",
+    "pdf_url": "https://arxiv.org/pdf/2603.04177v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/codetaste-can-llms-generate-human-level-code-refactorings.md",
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "propose-then-implement decomposition",
+      "primary_benchmark": "CodeTaste"
+    }
+  },
+  {
+    "arxiv_id": "2603.03752",
+    "version": 1,
+    "title": "Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning",
+    "authors": [
+      "Chuang Zhang",
+      "Zizhen Zhu",
+      "Yihao Wei",
+      "Bing Tian",
+      "Junyi Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03752",
+    "pdf_url": "https://arxiv.org/pdf/2603.03752v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/confidence-calibrated-small-large-language-model-collaboration-for-cost-efficien.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Llama-3.1-8B, Llama-3.1-70B, Qwen-2.5-7B, Qwen-2.5-72B",
+      "key_technique": "COREA (Collaborative REAsoner) with RL-based confidence calibration",
+      "primary_benchmark": "GSM8K, MATH, ARC, MMLU, BBH"
+    }
+  },
+  {
+    "arxiv_id": "2603.03824",
+    "version": 1,
+    "title": "In-Context Environments Induce Evaluation-Awareness in Language Models",
+    "authors": [
+      "Maheep Chaudhary"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03824",
+    "pdf_url": "https://arxiv.org/pdf/2603.03824v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Safety & Alignment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/in-context-environments-induce-evaluation-awareness-in-language-models.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "Claude-3.5-Haiku, GPT-4o-mini, Llama-3.3-70B",
+      "key_technique": "black-box adversarial optimization framework for in-context prompts",
+      "primary_benchmark": "Arithmetic, GSM8K, MMLU, HumanEval"
+    }
+  },
+  {
+    "arxiv_id": "2603.02909",
+    "version": 1,
+    "title": "Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction",
+    "authors": [
+      "Guangjun Zhang",
+      "Hu Zhang",
+      "Yazhou Han",
+      "Yue Fan",
+      "Yuhang Shao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02909",
+    "pdf_url": "https://arxiv.org/pdf/2603.02909v2",
+    "github_url": "",
+    "published": "2026-03-03",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/learning-to-generate-and-extract-a-multi-agent-collaboration-framework-for-zero.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "multi-agent collaboration framework with reinforcement learning (Propose-Evaluate-Revise)",
+      "primary_benchmark": "RAMS, WikiEvents"
+    }
+  },
+  {
+    "arxiv_id": "2603.03780",
+    "version": 1,
+    "title": "MACC: Multi-Agent Collaborative Competition for Scientific Exploration",
+    "authors": [
+      "Satoshi Oyama",
+      "Yuko Sakurai",
+      "Hisashi Kashima"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03780",
+    "pdf_url": "https://arxiv.org/pdf/2603.03780v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/macc-multi-agent-collaborative-competition-for-scientific-exploration.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "MACC (Multi-Agent Collaborative Competition) architecture",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03677",
+    "version": 1,
+    "title": "MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation",
+    "authors": [
+      "Guoyi Li",
+      "Shihao Xu",
+      "Jiatong Ma",
+      "Yunyun Han",
+      "Jianhua Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03677",
+    "pdf_url": "https://arxiv.org/pdf/2603.03677v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/mind-unified-inquiry-and-diagnosis-rl-with-criteria-grounded-clinical-supports-f.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "MIND (unified inquiry-diagnosis reinforcement learning framework with Criteria-Grounded Psychiatric Reasoning Bank, rubric-based process rewards, value-aware trajectory rectification)",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2509.23124",
+    "version": 1,
+    "title": "Non-Collaborative User Simulators for Tool Agents",
+    "authors": [
+      "Jeonghoon Shim",
+      "Woojung Song",
+      "Cheyon Jin",
+      "Seungwon KooK",
+      "Yohan Jo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2509.23124",
+    "pdf_url": "https://arxiv.org/pdf/2509.23124v5",
+    "github_url": "https://github.com/holi-lab/NCUser",
+    "published": "2025-09-27",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/non-collaborative-user-simulators-for-tool-agents.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Human-Agent Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "GPT-4, GPT-4o, Llama-3-70B-Instruct, Qwen-2.5-72B-Instruct",
+      "key_technique": "Non-Collaborative User Simulator (NCUser)",
+      "primary_benchmark": "MultiWOZ, τ-bench"
+    }
+  },
+  {
+    "arxiv_id": "2603.03915",
+    "version": 1,
+    "title": "Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects",
+    "authors": [
+      "Ji-Lun Peng",
+      "Yun-Nung Chen"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03915",
+    "pdf_url": "https://arxiv.org/pdf/2603.03915v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Human-Agent Interaction",
+      "Memory & Context Management"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/rethinking-role-playing-evaluation-anonymous-benchmarking-and-a-systematic-study.md",
+    "taxonomy": {
+      "capability": [
+        "Human-Agent Interaction",
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "GPT-4, Llama-3-70B, Qwen-2.5",
+      "key_technique": "anonymous evaluation method, personality augmentation",
+      "primary_benchmark": "CharacterBox, MMRole, Raiden"
+    }
   },
   {
     "arxiv_id": "2508.06803",
-    "version": 2,
+    "version": 1,
     "title": "SEVADE: Self-Evolving Multi-Agent Analysis with Decoupled Evaluation for Hallucination-Resistant Irony Detection",
     "authors": [
       "Ziqi Liu",
@@ -628,172 +1486,152 @@
       "Mingxuan Hu",
       "Yushan Pan"
     ],
-    "author_count": 7,
+    "author_count": 5,
     "categories": [
       "cs.CL",
       "cs.MA"
     ],
     "arxiv_url": "https://arxiv.org/abs/2508.06803",
     "pdf_url": "https://arxiv.org/pdf/2508.06803v2",
+    "github_url": "",
     "published": "2025-08-09",
     "tags": [
-      "多智能体系统",
-      "Agent架构",
-      "Agent推理",
-      "幻觉缓解",
-      "任务导向Agent",
-      "自然语言处理"
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
     ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/sevade-self-evolving-multi-agent-analysis-with-decoupled-evaluation-for-hallucin.md"
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/sevade-self-evolving-multi-agent-analysis-with-decoupled-evaluation-for-hallucin.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "SEVADE (Self-Evolving multi-agent Analysis with Decoupled Evaluation), Dynamic Agentive Reasoning Engine (DARE)",
+      "primary_benchmark": "N/A"
+    }
   },
   {
-    "arxiv_id": "2602.22769",
-    "version": 2,
-    "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+    "arxiv_id": "2603.03784",
+    "version": 1,
+    "title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
     "authors": [
-      "Yujie Zhao",
-      "Boqin Yuan",
-      "Junbo Huang",
-      "Haocheng Yuan",
-      "Zhongming Yu"
-    ],
-    "author_count": 12,
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.22769",
-    "pdf_url": "https://arxiv.org/pdf/2602.22769v2",
-    "published": "2026-02-26",
-    "tags": [
-      "Agent 评测/基准",
-      "Agent 记忆",
-      "长视野任务",
-      "Agent 架构",
-      "工具使用"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/ama-bench-evaluating-long-horizon-memory-for-agentic-applications.md"
-  },
-  {
-    "arxiv_id": "2508.03284",
-    "version": 2,
-    "title": "ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools",
-    "authors": [
-      "Shaofeng Yin",
-      "Ting Lei",
-      "Yang Liu"
+      "Zheyu Chen",
+      "Zhuohuan Li",
+      "Chuanhao Li"
     ],
     "author_count": 3,
     "categories": [
       "cs.AI"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2508.03284",
-    "pdf_url": "https://arxiv.org/pdf/2508.03284v2",
-    "published": "2025-08-05",
+    "arxiv_url": "https://arxiv.org/abs/2603.03784",
+    "pdf_url": "https://arxiv.org/pdf/2603.03784v1",
+    "github_url": "",
+    "published": "2026-03-04",
     "tags": [
-      "工具使用",
-      "视觉问答",
-      "多步推理",
-      "数据集",
-      "基准评测",
-      "Agent能力增强"
+      "World Modeling & Simulation",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/toolvqa-a-dataset-for-multi-step-reasoning-vqa-with-external-tools.md"
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/specification-driven-generation-and-evaluation-of-discrete-event-world-models-vi.md",
+    "taxonomy": {
+      "capability": [
+        "World Modeling & Simulation",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "DEVS formalism, staged LLM-based generation pipeline",
+      "primary_benchmark": "N/A"
+    }
   },
   {
-    "arxiv_id": "2511.19524",
-    "version": 2,
-    "title": "VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2601.16529",
+    "version": 1,
+    "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
     "authors": [
-      "Boyu Chen",
-      "Zikang Wang",
-      "Zhengrong Yue",
-      "Kainan Yan",
-      "Chenyun Yu"
+      "Dongshen Peng",
+      "Yi Wang",
+      "Austin Schoeffler",
+      "Carl Preiksaitis",
+      "Christian Rose"
     ],
-    "author_count": 12,
-    "categories": [
-      "cs.CV",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2511.19524",
-    "pdf_url": "https://arxiv.org/pdf/2511.19524v2",
-    "published": "2025-11-24",
-    "tags": [
-      "多智能体系统",
-      "视频理解",
-      "工具调用",
-      "策略规划",
-      "多智能体强化学习",
-      "协作",
-      "MLLM"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/videochat-m1-collaborative-policy-planning-for-video-understanding-via-multi-age.md"
-  },
-  {
-    "arxiv_id": "2509.13615",
-    "version": 4,
-    "title": "See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles",
-    "authors": [
-      "Zongru Wu",
-      "Rui Mao",
-      "Zhiyuan Tian",
-      "Pengzhou Cheng",
-      "Tianjie Ju"
-    ],
-    "author_count": 10,
+    "author_count": 5,
     "categories": [
       "cs.AI",
-      "cs.CL",
       "cs.HC"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2509.13615",
-    "pdf_url": "https://arxiv.org/pdf/2509.13615v4",
-    "published": "2025-09-17",
+    "arxiv_url": "https://arxiv.org/abs/2601.16529",
+    "pdf_url": "https://arxiv.org/pdf/2601.16529v2",
+    "github_url": "",
+    "published": "2026-01-23",
     "tags": [
-      "Multimodal Agent",
-      "GUI Interaction",
-      "Agent Reasoning",
-      "State Awareness",
-      "Agent Benchmark",
-      "Tool Use",
-      "Agent Architecture"
+      "Multi-Agent Systems",
+      "Safety & Alignment"
     ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/see-think-act-teaching-multimodal-agents-to-effectively-interact-with-gui-by-ide.md",
-    "github_url": "https://github.com/ZrW00/StaR"
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/sycoeval-em-sycophancy-evaluation-of-large-language-models-in-simulated-clinical.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Safety & Alignment"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "SycoEval-EM",
+      "primary_benchmark": "SycoEval-EM"
+    }
   },
   {
-    "arxiv_id": "2603.01896",
-    "version": 2,
-    "title": "Agentic Code Reasoning",
+    "arxiv_id": "2509.25106",
+    "version": 1,
+    "title": "Towards Personalized Deep Research: Benchmarks and Evaluations",
     "authors": [
-      "Shubham Ugare",
-      "Satish Chandra"
+      "Yuan Liang",
+      "Jiaxian Li",
+      "Yuqing Wang",
+      "Piaohong Wang",
+      "Motong Tian"
     ],
-    "author_count": 2,
+    "author_count": 5,
     "categories": [
-      "cs.SE",
+      "cs.CL",
       "cs.AI",
-      "cs.PL"
+      "cs.IR"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2603.01896",
-    "pdf_url": "https://arxiv.org/pdf/2603.01896v2",
-    "published": "2026-03-02",
+    "arxiv_url": "https://arxiv.org/abs/2509.25106",
+    "pdf_url": "https://arxiv.org/pdf/2509.25106v3",
+    "github_url": "",
+    "published": "2025-09-29",
     "tags": [
-      "Agent Reasoning",
-      "Agent Planning",
-      "Structured Prompting",
-      "Code Analysis",
-      "Agent Evaluation",
-      "Tool Use"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/04/agentic-code-reasoning.md"
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/04/towards-personalized-deep-research-benchmarks-and-evaluations.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "PQR Evaluation Framework",
+      "primary_benchmark": "Personalized Deep Research Bench (PDR-Bench)"
+    }
   },
   {
     "arxiv_id": "2603.03881",
@@ -814,280 +1652,180 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.03881",
     "pdf_url": "https://arxiv.org/pdf/2603.03881v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "LLM-Driven Agent",
-      "Agent Application",
-      "Web Navigation",
-      "Agent Evaluation",
-      "Agent Safety",
-      "Human-Computer Interaction"
+      "Tool Use & API Interaction",
+      "Web & Browser Automation"
     ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/on-the-suitability-of-llm-driven-agents-for-dark-pattern-audits.md"
+    "relevance_score": 7.0,
+    "md_path": "data/2026/03/04/on-the-suitability-of-llm-driven-agents-for-dark-pattern-audits.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Web & Browser Automation"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "LLM-driven auditing agent for end-to-end workflow traversal and structured evidence gathering",
+      "primary_benchmark": "N/A"
+    }
   },
   {
-    "arxiv_id": "2603.03800",
+    "arxiv_id": "2603.04142",
     "version": 1,
-    "title": "A Rubric-Supervised Critic from Sparse Real-World Outcomes",
+    "title": "A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series",
     "authors": [
-      "Xingyao Wang",
-      "Valerie Chen",
-      "Heng Ji",
-      "Graham Neubig"
+      "Davide Gabrielli",
+      "Paola Velardi",
+      "Stefano Faralli",
+      "Bardh Prenkaj"
     ],
     "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04142",
+    "pdf_url": "https://arxiv.org/pdf/2603.04142v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/a-multi-agent-framework-for-interpreting-multivariate-physiological-time-series.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Vivaldi (role-structured multi-agent system)",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.03630",
+    "version": 1,
+    "title": "Behind the Prompt: The Agent-User Problem in Information Retrieval",
+    "authors": [
+      "Saber Zerhoudi",
+      "Michael Granitzer",
+      "Dang Hai Dang",
+      "Jelena Mitrovic",
+      "Florian Lemmerich"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.IR",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03630",
+    "pdf_url": "https://arxiv.org/pdf/2603.03630v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/behind-the-prompt-the-agent-user-problem-in-information-retrieval.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Agent Attribution Problem analysis, SIS epidemic model adaptation",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2510.26905",
+    "version": 1,
+    "title": "Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations",
+    "authors": [
+      "Pedro Antonio Alarcon Granadeno",
+      "Arturo Miguel Bernal Russell",
+      "Sofia Nelson",
+      "Demetrius Hernandez",
+      "Maureen Petterson"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2510.26905",
+    "pdf_url": "https://arxiv.org/pdf/2510.26905v3",
+    "github_url": "",
+    "published": "2025-10-30",
+    "tags": [
+      "Safety & Alignment",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/cognition-envelopes-for-bounded-decision-making-in-autonomous-uas-operations.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment",
+        "Reasoning & Planning"
+      ],
+      "domain": "Robotics & Embodied",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Cognition Envelopes",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2505.07757",
+    "version": 1,
+    "title": "Emotion-Gradient Metacognitive RSI (Part I): Theoretical Foundations and Single-Agent Architecture",
+    "authors": [
+      "Rintaro Ando"
+    ],
+    "author_count": 1,
     "categories": [
       "cs.AI",
       "cs.LG"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03800",
-    "pdf_url": "https://arxiv.org/pdf/2603.03800v1",
-    "published": "2026-03-04",
+    "arxiv_url": "https://arxiv.org/abs/2505.07757",
+    "pdf_url": "https://arxiv.org/pdf/2505.07757v2",
+    "github_url": "",
+    "published": "2025-05-12",
     "tags": [
-      "Agent 评测/基准",
-      "Agent 强化学习",
-      "Agent 数据合成",
-      "Agent 规划/推理",
-      "工具使用"
+      "Reasoning & Planning",
+      "Learning & Optimization"
     ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/a-rubric-supervised-critic-from-sparse-real-world-outcomes.md"
-  },
-  {
-    "arxiv_id": "2603.03781",
-    "version": 1,
-    "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
-    "authors": [
-      "Zihao Cheng",
-      "Weixin Wang",
-      "Yu Zhao",
-      "Ziyang Ren",
-      "Jiaxuan Chen"
-    ],
-    "author_count": 18,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03781",
-    "pdf_url": "https://arxiv.org/pdf/2603.03781v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Benchmark",
-      "Long-term Memory",
-      "Memory Reasoning",
-      "Personalized Agent",
-      "Multi-Source Integration",
-      "Event Simulation"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/lifebench-a-benchmark-for-long-horizon-multi-source-memory.md",
-    "github_url": "https://github.com/1754955896/LifeBench"
-  },
-  {
-    "arxiv_id": "2603.03761",
-    "version": 1,
-    "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
-    "authors": [
-      "Yunxiao Shi",
-      "Wujiang Xu",
-      "Tingwei Chen",
-      "Haoning Shang",
-      "Ling Yang"
-    ],
-    "author_count": 10,
-    "categories": [
-      "cs.AI",
-      "cs.IR"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03761",
-    "pdf_url": "https://arxiv.org/pdf/2603.03761v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Benchmark",
-      "Agent Recommendation",
-      "Agent Selection",
-      "Tool Use",
-      "Agent Ecosystem",
-      "Evaluation"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/agentselect-benchmark-for-narrative-query-to-agent-recommendation.md"
-  },
-  {
-    "arxiv_id": "2603.03140",
-    "version": 2,
-    "title": "How to Model AI Agents as Personas?: Applying the Persona Ecosystem Playground to 41,300 Posts on Moltbook for Behavioral Insights",
-    "authors": [
-      "Danial Amin",
-      "Joni Salminen",
-      "Bernard J. Jansen"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.HC",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03140",
-    "pdf_url": "https://arxiv.org/pdf/2603.03140v2",
-    "published": "2026-03-03",
-    "tags": [
-      "多智能体系统",
-      "Agent行为分析",
-      "Agent评测/基准",
-      "Agent建模",
-      "社交平台"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/how-to-model-ai-agents-as-personas-applying-the-persona-ecosystem-playground-to.md"
-  },
-  {
-    "arxiv_id": "2509.23124",
-    "version": 5,
-    "title": "Non-Collaborative User Simulators for Tool Agents",
-    "authors": [
-      "Jeonghoon Shim",
-      "Woojung Song",
-      "Cheyon Jin",
-      "Seungwon KooK",
-      "Yohan Jo"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2509.23124",
-    "pdf_url": "https://arxiv.org/pdf/2509.23124v5",
-    "published": "2025-09-27",
-    "tags": [
-      "Tool Agent",
-      "User Simulation",
-      "Agent Robustness",
-      "Agent Evaluation",
-      "Multi-turn Dialogue"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/non-collaborative-user-simulators-for-tool-agents.md",
-    "github_url": "https://github.com/holi-lab/NCUser"
-  },
-  {
-    "arxiv_id": "2602.09937",
-    "version": 2,
-    "title": "Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?",
-    "authors": [
-      "Taeyoon Kim",
-      "Woohyeok Park",
-      "Hoyeong Yun",
-      "Kyungyong Lee"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI",
-      "cs.DC"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.09937",
-    "pdf_url": "https://arxiv.org/pdf/2602.09937v2",
-    "published": "2026-02-10",
-    "tags": [
-      "Agent评测/基准",
-      "Agent架构",
-      "多智能体系统",
-      "Agent推理",
-      "Agent工具使用",
-      "Agent失败分析"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/why-do-ai-agents-systematically-fail-at-cloud-root-cause-analysis.md"
-  },
-  {
-    "arxiv_id": "2508.01222",
-    "version": 2,
-    "title": "WebDS: An End-to-End Benchmark for Web-based Data Science",
-    "authors": [
-      "Ethan Hsu",
-      "Hong Meng Yam",
-      "Ines Bouissou",
-      "Aaron Murali John",
-      "Raj Thota"
-    ],
-    "author_count": 12,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2508.01222",
-    "pdf_url": "https://arxiv.org/pdf/2508.01222v2",
-    "published": "2025-08-02",
-    "tags": [
-      "Agent Benchmark",
-      "Tool Use",
-      "Web Interaction",
-      "Data Science",
-      "Multi-step Reasoning",
-      "Agent Evaluation"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/webds-an-end-to-end-benchmark-for-web-based-data-science.md"
-  },
-  {
-    "arxiv_id": "2509.25106",
-    "version": 3,
-    "title": "Towards Personalized Deep Research: Benchmarks and Evaluations",
-    "authors": [
-      "Yuan Liang",
-      "Jiaxian Li",
-      "Yuqing Wang",
-      "Piaohong Wang",
-      "Motong Tian"
-    ],
-    "author_count": 14,
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.IR"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2509.25106",
-    "pdf_url": "https://arxiv.org/pdf/2509.25106v3",
-    "published": "2025-09-29",
-    "tags": [
-      "Agent Benchmark",
-      "Agent Evaluation",
-      "Deep Research Agent",
-      "Personalization",
-      "Agentic Workflow"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/04/towards-personalized-deep-research-benchmarks-and-evaluations.md"
-  },
-  {
-    "arxiv_id": "2603.04277",
-    "version": 1,
-    "title": "VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments",
-    "authors": [
-      "Yifei Chen",
-      "Xupeng Chen",
-      "Feng Wang",
-      "Niangang Jiao",
-      "Jiayin Liu"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04277",
-    "pdf_url": "https://arxiv.org/pdf/2603.04277v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Tools",
-      "Geometric Perception",
-      "Spatial Reasoning",
-      "VLM Hallucination",
-      "Autonomous Systems",
-      "Safety"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/vanguard-vehicle-anchored-ground-sample-distance-estimation-for-uavs-in-gps-deni.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/emotion-gradient-metacognitive-rsi-part-i-theoretical-foundations-and-single-age.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Emotion-Gradient Metacognitive Recursive Self-Improvement (EG-MRSI) framework",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2603.04244",
@@ -1106,104 +1844,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04244",
     "pdf_url": "https://arxiv.org/pdf/2603.04244v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "Agent 工具使用",
-      "上下文感知",
-      "多模态 LLM",
-      "人机交互",
-      "反馈生成"
+      "Reasoning & Planning",
+      "Human-Agent Interaction"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/feedaide-guiding-app-users-to-submit-rich-feedback-reports-by-asking-context-awa.md"
-  },
-  {
-    "arxiv_id": "2603.04177",
-    "version": 1,
-    "title": "CodeTaste: Can LLMs Generate Human-Level Code Refactorings?",
-    "authors": [
-      "Alex Thillen",
-      "Niels Mündler",
-      "Veselin Raychev",
-      "Martin Vechev"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.SE",
-      "cs.AI",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04177",
-    "pdf_url": "https://arxiv.org/pdf/2603.04177v1",
-    "published": "2026-03-04",
-    "tags": [
-      "LLM Agent",
-      "Code Agent",
-      "Agent Benchmark",
-      "Agent Evaluation",
-      "Tool Use",
-      "Agent Planning"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/codetaste-can-llms-generate-human-level-code-refactorings.md"
-  },
-  {
-    "arxiv_id": "2603.04142",
-    "version": 1,
-    "title": "A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series",
-    "authors": [
-      "Davide Gabrielli",
-      "Paola Velardi",
-      "Stefano Faralli",
-      "Bardh Prenkaj"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04142",
-    "pdf_url": "https://arxiv.org/pdf/2603.04142v1",
-    "published": "2026-03-04",
-    "tags": [
-      "多智能体系统",
-      "医疗健康",
-      "时间序列解释",
-      "Agent架构",
-      "工具使用",
-      "专家评估",
-      "可解释AI"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/a-multi-agent-framework-for-interpreting-multivariate-physiological-time-series.md"
-  },
-  {
-    "arxiv_id": "2603.04069",
-    "version": 1,
-    "title": "Monitoring Emergent Reward Hacking During Generation via Internal Activations",
-    "authors": [
-      "Patrick Wilhelm",
-      "Thorsten Wittkopp",
-      "Odej Kao"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04069",
-    "pdf_url": "https://arxiv.org/pdf/2603.04069v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Safety",
-      "Reward Hacking",
-      "Emergent Misalignment",
-      "Internal Monitoring",
-      "Fine-tuning",
-      "Post-deployment Safety",
-      "Activation Analysis"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/monitoring-emergent-reward-hacking-during-generation-via-internal-activations.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/feedaide-guiding-app-users-to-submit-rich-feedback-reports-by-asking-context-awa.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Code & Software Engineering",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "FeedAIde",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2603.03911",
@@ -1223,185 +1884,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.03911",
     "pdf_url": "https://arxiv.org/pdf/2603.03911v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "多智能体系统",
-      "工具使用",
-      "专家系统",
-      "网络安全",
-      "神经符号AI",
-      "自动化"
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/from-threat-intelligence-to-firewall-rules-semantic-relations-in-hybrid-ai-agent.md"
-  },
-  {
-    "arxiv_id": "2603.03915",
-    "version": 1,
-    "title": "Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects",
-    "authors": [
-      "Ji-Lun Peng",
-      "Yun-Nung Chen"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03915",
-    "pdf_url": "https://arxiv.org/pdf/2603.03915v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Role-Playing Agent",
-      "Agent Evaluation",
-      "Agent Benchmarking",
-      "Agent Personality",
-      "Agent Robustness"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/rethinking-role-playing-evaluation-anonymous-benchmarking-and-a-systematic-study.md"
-  },
-  {
-    "arxiv_id": "2603.03824",
-    "version": 1,
-    "title": "In-Context Environments Induce Evaluation-Awareness in Language Models",
-    "authors": [
-      "Maheep Chaudhary"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03824",
-    "pdf_url": "https://arxiv.org/pdf/2603.03824v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent Safety",
-      "Evaluation Benchmark",
-      "Adversarial Prompting",
-      "Model Behavior",
-      "Strategic Underperformance"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/in-context-environments-induce-evaluation-awareness-in-language-models.md"
-  },
-  {
-    "arxiv_id": "2603.03784",
-    "version": 1,
-    "title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
-    "authors": [
-      "Zheyu Chen",
-      "Zhuohuan Li",
-      "Chuanhao Li"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03784",
-    "pdf_url": "https://arxiv.org/pdf/2603.03784v1",
-    "published": "2026-03-04",
-    "tags": [
-      "World Models",
-      "Agent Planning",
-      "Specification-Driven",
-      "LLM-Based Generation",
-      "Multi-Agent Coordination",
-      "Discrete-Event Simulation",
-      "Verification",
-      "Online Adaptation"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/specification-driven-generation-and-evaluation-of-discrete-event-world-models-vi.md"
-  },
-  {
-    "arxiv_id": "2603.03752",
-    "version": 1,
-    "title": "Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning",
-    "authors": [
-      "Chuang Zhang",
-      "Zizhen Zhu",
-      "Yihao Wei",
-      "Bing Tian",
-      "Junyi Liu"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03752",
-    "pdf_url": "https://arxiv.org/pdf/2603.03752v1",
-    "published": "2026-03-04",
-    "tags": [
-      "LLM-SLM协作",
-      "成本效率",
-      "置信度校准",
-      "推理系统",
-      "强化学习训练",
-      "级联系统"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/confidence-calibrated-small-large-language-model-collaboration-for-cost-efficien.md"
-  },
-  {
-    "arxiv_id": "2603.03686",
-    "version": 1,
-    "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-    "authors": [
-      "Jiangyu Chen"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03686",
-    "pdf_url": "https://arxiv.org/pdf/2603.03686v1",
-    "published": "2026-03-04",
-    "tags": [
-      "LLM Agent",
-      "Multi-Agent Collaboration",
-      "Planning and Reasoning",
-      "Monte Carlo Tree Search (MCTS)",
-      "Neuro-Symbolic AI",
-      "Scientific Discovery",
-      "Closed-loop System"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/ai4s-sds-a-neuro-symbolic-solvent-design-system-via-sparse-mcts-and-differentiab.md"
-  },
-  {
-    "arxiv_id": "2603.03677",
-    "version": 1,
-    "title": "MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation",
-    "authors": [
-      "Guoyi Li",
-      "Shihao Xu",
-      "Jiatong Ma",
-      "Yunyun Han",
-      "Jianhua Chen"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03677",
-    "pdf_url": "https://arxiv.org/pdf/2603.03677v1",
-    "published": "2026-03-04",
-    "tags": [
-      "医疗对话Agent",
-      "强化学习",
-      "诊断推理",
-      "多轮交互",
-      "Agent规划",
-      "临床决策支持"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/mind-unified-inquiry-and-diagnosis-rl-with-criteria-grounded-clinical-supports-f.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/from-threat-intelligence-to-firewall-rules-semantic-relations-in-hybrid-ai-agent.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "hypernym-hyponym semantic relation extraction, neuro-symbolic multi-agent system",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2603.03633",
@@ -1418,199 +1921,142 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.03633",
     "pdf_url": "https://arxiv.org/pdf/2603.03633v1",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "Agent安全",
-      "LLM系统安全",
-      "风险评估",
-      "威胁建模",
-      "医疗保健应用",
-      "攻击路径分析"
+      "Safety & Alignment"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/goal-driven-risk-assessment-for-llm-powered-systems-a-healthcare-case-study.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/goal-driven-risk-assessment-for-llm-powered-systems-a-healthcare-case-study.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Goal-driven risk assessment approach using attack trees",
+      "primary_benchmark": "N/A"
+    }
   },
   {
-    "arxiv_id": "2603.03630",
+    "arxiv_id": "2603.03140",
     "version": 1,
-    "title": "Behind the Prompt: The Agent-User Problem in Information Retrieval",
+    "title": "How to Model AI Agents as Personas?: Applying the Persona Ecosystem Playground to 41,300 Posts on Moltbook for Behavioral Insights",
     "authors": [
-      "Saber Zerhoudi",
-      "Michael Granitzer",
-      "Dang Hai Dang",
-      "Jelena Mitrovic",
-      "Florian Lemmerich"
+      "Danial Amin",
+      "Joni Salminen",
+      "Bernard J. Jansen"
     ],
-    "author_count": 8,
+    "author_count": 3,
     "categories": [
-      "cs.IR",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03630",
-    "pdf_url": "https://arxiv.org/pdf/2603.03630v1",
-    "published": "2026-03-04",
-    "tags": [
-      "Agent-User Problem",
-      "Information Retrieval",
-      "Agent Behavior",
-      "Platform Analysis",
-      "Agent Impact",
-      "User Modeling"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/behind-the-prompt-the-agent-user-problem-in-information-retrieval.md"
-  },
-  {
-    "arxiv_id": "2510.26905",
-    "version": 3,
-    "title": "Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations",
-    "authors": [
-      "Pedro Antonio Alarcon Granadeno",
-      "Arturo Miguel Bernal Russell",
-      "Sofia Nelson",
-      "Demetrius Hernandez",
-      "Maureen Petterson"
-    ],
-    "author_count": 8,
-    "categories": [
+      "cs.HC",
       "cs.AI"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2510.26905",
-    "pdf_url": "https://arxiv.org/pdf/2510.26905v3",
-    "published": "2025-10-30",
+    "arxiv_url": "https://arxiv.org/abs/2603.03140",
+    "pdf_url": "https://arxiv.org/pdf/2603.03140v2",
+    "github_url": "",
+    "published": "2026-03-03",
     "tags": [
-      "Agent Safety",
-      "Agent Planning",
-      "Agent Reasoning",
-      "LLM/VLM Application",
-      "Cyber-Physical Systems",
-      "Decision Making"
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/cognition-envelopes-for-bounded-decision-making-in-autonomous-uas-operations.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/how-to-model-ai-agents-as-personas-applying-the-persona-ecosystem-playground-to.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Persona Ecosystem Playground (PEP), k-means clustering, retrieval-augmented generation",
+      "primary_benchmark": "N/A"
+    }
   },
   {
-    "arxiv_id": "2509.21782",
-    "version": 2,
-    "title": "Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",
+    "arxiv_id": "2603.04069",
+    "version": 1,
+    "title": "Monitoring Emergent Reward Hacking During Generation via Internal Activations",
     "authors": [
-      "Junliang Liu",
-      "Jingyu Xiao",
-      "Wenxin Tang",
-      "Zhixian Wang",
-      "Zipeng Xie"
+      "Patrick Wilhelm",
+      "Thorsten Wittkopp",
+      "Odej Kao"
     ],
-    "author_count": 8,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2509.21782",
-    "pdf_url": "https://arxiv.org/pdf/2509.21782v2",
-    "published": "2025-09-26",
-    "tags": [
-      "Agent Benchmark",
-      "Multimodal Agent",
-      "Web Agent",
-      "Agent Reasoning",
-      "Agent Safety",
-      "Agent Robustness"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/benchmarking-mllm-based-web-understanding-reasoning-robustness-and-safety.md"
-  },
-  {
-    "arxiv_id": "2601.16529",
-    "version": 2,
-    "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
-    "authors": [
-      "Dongshen Peng",
-      "Yi Wang",
-      "Austin Schoeffler",
-      "Carl Preiksaitis",
-      "Christian Rose"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.AI",
-      "cs.HC"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2601.16529",
-    "pdf_url": "https://arxiv.org/pdf/2601.16529v2",
-    "published": "2026-01-23",
-    "tags": [
-      "多智能体系统",
-      "Agent评测/基准",
-      "Agent安全",
-      "模拟环境",
-      "临床决策支持"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/sycoeval-em-sycophancy-evaluation-of-large-language-models-in-simulated-clinical.md"
-  },
-  {
-    "arxiv_id": "2509.21465",
-    "version": 2,
-    "title": "Talking Trees: Reasoning-Assisted Induction of Decision Trees for Tabular Data",
-    "authors": [
-      "George Yakushev",
-      "Alina Shutova",
-      "Ivan Rubachev",
-      "Natalia Bereberdina",
-      "Renat Sergazinov"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2509.21465",
-    "pdf_url": "https://arxiv.org/pdf/2509.21465v2",
-    "published": "2025-09-25",
-    "tags": [
-      "Agentic Reasoning",
-      "Decision Trees",
-      "Tool Use",
-      "Interpretability",
-      "Tabular Data",
-      "LLM Agent"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/talking-trees-reasoning-assisted-induction-of-decision-trees-for-tabular-data.md",
-    "github_url": ""
-  },
-  {
-    "arxiv_id": "2603.02909",
-    "version": 2,
-    "title": "Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction",
-    "authors": [
-      "Guangjun Zhang",
-      "Hu Zhang",
-      "Yazhou Han",
-      "Yue Fan",
-      "Yuhang Shao"
-    ],
-    "author_count": 7,
+    "author_count": 3,
     "categories": [
       "cs.CL",
       "cs.AI"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2603.02909",
-    "pdf_url": "https://arxiv.org/pdf/2603.02909v2",
-    "published": "2026-03-03",
+    "arxiv_url": "https://arxiv.org/abs/2603.04069",
+    "pdf_url": "https://arxiv.org/pdf/2603.04069v1",
+    "github_url": "",
+    "published": "2026-03-04",
     "tags": [
-      "多智能体系统",
-      "Agent协作",
-      "Agent数据合成",
-      "Agent规划/推理",
-      "Agentic强化学习",
-      "零样本学习",
-      "事件抽取"
+      "Safety & Alignment"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/learning-to-generate-and-extract-a-multi-agent-collaboration-framework-for-zero.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/monitoring-emergent-reward-hacking-during-generation-via-internal-activations.md",
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "activation-based monitoring with sparse autoencoders and lightweight linear classifiers",
+      "primary_benchmark": "N/A"
+    }
+  },
+  {
+    "arxiv_id": "2603.04378",
+    "version": 1,
+    "title": "Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization",
+    "authors": [
+      "Furkan Mumcu",
+      "Yasin Yilmaz"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CR",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04378",
+    "pdf_url": "https://arxiv.org/pdf/2603.04378v1",
+    "github_url": "",
+    "published": "2026-03-04",
+    "tags": [
+      "Multi-Agent Systems",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/robustness-of-agentic-ai-systems-via-adversarially-aligned-jacobian-regularizati.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Adversarially-Aligned Jacobian Regularization (AAJR)",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2511.21471",
-    "version": 2,
+    "version": 1,
     "title": "SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition",
     "authors": [
       "Peiran Xu",
@@ -1619,26 +2065,76 @@
       "Jianing Li",
       "Gege Qi"
     ],
-    "author_count": 6,
+    "author_count": 5,
     "categories": [
       "cs.AI"
     ],
     "arxiv_url": "https://arxiv.org/abs/2511.21471",
     "pdf_url": "https://arxiv.org/pdf/2511.21471v2",
+    "github_url": "",
     "published": "2025-11-26",
     "tags": [
-      "多模态大语言模型",
-      "智能体评测",
-      "空间认知",
-      "基准测试",
-      "推理能力"
+      "Perception & Multimodal",
+      "Reasoning & Planning"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/spatialbench-benchmarking-multimodal-large-language-models-for-spatial-cognition.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/spatialbench-benchmarking-multimodal-large-language-models-for-spatial-cognition.md",
+    "taxonomy": {
+      "capability": [
+        "Perception & Multimodal",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "hierarchical spatial cognition framework, high-level capability–oriented metric",
+      "primary_benchmark": "SpatialBench"
+    }
+  },
+  {
+    "arxiv_id": "2509.21465",
+    "version": 1,
+    "title": "Talking Trees: Reasoning-Assisted Induction of Decision Trees for Tabular Data",
+    "authors": [
+      "George Yakushev",
+      "Alina Shutova",
+      "Ivan Rubachev",
+      "Natalia Bereberdina",
+      "Renat Sergazinov"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2509.21465",
+    "pdf_url": "https://arxiv.org/pdf/2509.21465v2",
+    "github_url": "",
+    "published": "2025-09-25",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/talking-trees-reasoning-assisted-induction-of-decision-trees-for-tabular-data.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "GPT-5, DeepSeek R1, GLM-4.5",
+      "key_technique": "agentic thought-action-observation loop with a toolkit for decision-tree construction and refinement",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2602.10625",
-    "version": 3,
+    "version": 1,
     "title": "To Think or Not To Think, That is The Question for Large Reasoning Models in Theory of Mind Tasks",
     "authors": [
       "Nanxu Gong",
@@ -1647,83 +2143,115 @@
       "Jianxun Lian",
       "Yanjie Fu"
     ],
-    "author_count": 6,
+    "author_count": 5,
     "categories": [
       "cs.AI",
       "cs.CL"
     ],
     "arxiv_url": "https://arxiv.org/abs/2602.10625",
     "pdf_url": "https://arxiv.org/pdf/2602.10625v3",
+    "github_url": "",
     "published": "2026-02-11",
     "tags": [
-      "Theory of Mind",
-      "Agent Reasoning",
-      "LLM Evaluation",
-      "Social Reasoning",
-      "Cognitive Skills"
+      "Reasoning & Planning",
+      "Human-Agent Interaction"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/to-think-or-not-to-think-that-is-the-question-for-large-reasoning-models-in-theo.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/to-think-or-not-to-think-that-is-the-question-for-large-reasoning-models-in-theo.md",
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "DeepSeek-R1, Qwen3-8B-Reasoning, DeepSeek-V3, Qwen3-8B",
+      "key_technique": "Slow-to-Fast (S2F) adaptive reasoning, Think-to-Match (T2M) shortcut prevention",
+      "primary_benchmark": "HiToM, ToMATO, ToMBench"
+    }
   },
   {
-    "arxiv_id": "2512.12594",
-    "version": 2,
-    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "arxiv_id": "2603.04277",
+    "version": 1,
+    "title": "VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments",
     "authors": [
-      "Luoxi Meng",
-      "Henry Feng",
-      "Ilia Shumailov",
-      "Earlence Fernandes"
+      "Yifei Chen",
+      "Xupeng Chen",
+      "Feng Wang",
+      "Niangang Jiao",
+      "Jiayin Liu"
     ],
-    "author_count": 4,
+    "author_count": 5,
     "categories": [
-      "cs.CR",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2512.12594",
-    "pdf_url": "https://arxiv.org/pdf/2512.12594v2",
-    "published": "2025-12-14",
-    "tags": [
-      "Agent Security",
-      "Browser Agent",
-      "Prompt Injection",
-      "Sandboxing",
-      "Agent Framework",
-      "Agent Evaluation"
-    ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/cellmate-sandboxing-browser-ai-agents.md"
-  },
-  {
-    "arxiv_id": "2511.07441",
-    "version": 5,
-    "title": "AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents",
-    "authors": [
-      "Ye Zheng",
-      "Yimin Chen",
-      "Yidan Hu"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.CR",
+      "cs.RO",
       "cs.AI"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2511.07441",
-    "pdf_url": "https://arxiv.org/pdf/2511.07441v5",
-    "published": "2025-11-03",
+    "arxiv_url": "https://arxiv.org/abs/2603.04277",
+    "pdf_url": "https://arxiv.org/pdf/2603.04277v1",
+    "github_url": "",
+    "published": "2026-03-04",
     "tags": [
-      "Agent 安全",
-      "Agent 评测/基准",
-      "工具使用",
-      "隐私合规",
-      "运行时监控"
+      "Tool Use & API Interaction",
+      "Perception & Multimodal"
     ],
-    "relevance_score": 7.5,
-    "md_path": "data/2026/03/04/audagent-automated-auditing-of-privacy-policy-compliance-in-ai-agents.md"
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/vanguard-vehicle-anchored-ground-sample-distance-estimation-for-uavs-in-gps-deni.md",
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Perception & Multimodal"
+      ],
+      "domain": "Robotics & Embodied",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "VANGUARD (Vehicle-Anchored Ground Sample Distance Estimation)",
+      "primary_benchmark": "DOTA v1.5"
+    }
+  },
+  {
+    "arxiv_id": "2505.02888",
+    "version": 1,
+    "title": "When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger",
+    "authors": [
+      "Rintaro Ando"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2505.02888",
+    "pdf_url": "https://arxiv.org/pdf/2505.02888v2",
+    "github_url": "",
+    "published": "2025-05-05",
+    "tags": [
+      "Learning & Optimization",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 5.5,
+    "md_path": "data/2026/03/04/when-your-own-output-becomes-your-training-data-noise-to-meaning-loops-and-a-for.md",
+    "taxonomy": {
+      "capability": [
+        "Learning & Optimization",
+        "Multi-Agent Systems"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Noise-to-Meaning Recursive Self-Improvement (N2M-RSI)",
+      "primary_benchmark": "N/A"
+    }
   },
   {
     "arxiv_id": "2603.02512",
-    "version": 2,
+    "version": 1,
     "title": "Human-Certified Module Repositories for the AI Age",
     "authors": [
       "Szilárd Enyedi"
@@ -1736,16 +2264,66 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.02512",
     "pdf_url": "https://arxiv.org/pdf/2603.02512v2",
+    "github_url": "",
     "published": "2026-03-03",
     "tags": [
-      "AI辅助开发",
-      "软件供应链安全",
-      "模块化系统",
-      "可信AI",
-      "AI与软件工程",
-      "AI Agent工具使用"
+      "Architecture & Frameworks",
+      "Safety & Alignment"
     ],
-    "relevance_score": 7.0,
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Architecture & Frameworks",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Human-Certified Module Repositories (HCMRs)",
+      "primary_benchmark": "N/A"
+    },
     "md_path": "data/2026/03/04/human-certified-module-repositories-for-the-ai-age.md"
+  },
+  {
+    "arxiv_id": "2511.19524",
+    "version": 1,
+    "title": "VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Boyu Chen",
+      "Zikang Wang",
+      "Zhengrong Yue",
+      "Kainan Yan",
+      "Chenyun Yu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CV",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2511.19524",
+    "pdf_url": "https://arxiv.org/pdf/2511.19524v2",
+    "github_url": "",
+    "published": "2025-11-24",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 2.5,
+    "md_path": "data/2026/03/04/videochat-m1-collaborative-policy-planning-for-video-understanding-via-multi-age.md",
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Collaborative Policy Planning (CPP) with Multi-Agent Reinforcement Learning (MARL)",
+      "primary_benchmark": "LongVideoBench"
+    }
   }
 ]

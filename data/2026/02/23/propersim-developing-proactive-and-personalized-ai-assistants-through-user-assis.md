@@ -6,8 +6,6 @@ authors:
   - "Woosog Chay"
   - "Daeun Kyung"
   - "Yeonsu Kwon"
-  - "Yohan Jo"
-  - "Edward Choi"
 date: "2025-09-26"
 arxiv_id: "2509.21730"
 arxiv_url: "https://arxiv.org/abs/2509.21730"
@@ -15,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2509.21730v2"
 categories:
   - "cs.CL"
 tags:
-  - "AI助手"
-  - "主动性"
-  - "个性化"
-  - "用户模拟"
-  - "持续学习"
-  - "偏好对齐"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ProPerSim, ProPerAssistant"
+  primary_benchmark: "ProPerSim"
 ---
 
 # ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation

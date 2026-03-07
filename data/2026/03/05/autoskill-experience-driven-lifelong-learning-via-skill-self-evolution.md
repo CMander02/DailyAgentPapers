@@ -6,13 +6,6 @@ authors:
   - "Qianjun Pan"
   - "Bihao Zhan"
   - "Yuxuan Cai"
-  - "Lin Du"
-  - "Jie Zhou"
-  - "Kai Chen"
-  - "Qin Chen"
-  - "Xin Li"
-  - "Bo Zhang"
-  - "Liang He"
 date: "2026-03-01"
 arxiv_id: "2603.01145"
 arxiv_url: "https://arxiv.org/abs/2603.01145"
@@ -20,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.01145v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 自演化"
-  - "Agent 记忆"
-  - "个性化"
-  - "技能学习"
-  - "终身学习"
-  - "经验驱动"
-  - "模型无关"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "AutoSkill"
+  primary_benchmark: "N/A"
 ---
 
 # AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution

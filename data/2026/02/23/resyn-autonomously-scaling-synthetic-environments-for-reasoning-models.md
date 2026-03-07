@@ -6,8 +6,6 @@ authors:
   - "Kaj Bostrom"
   - "Allen Nie"
   - "Darion Cassel"
-  - "Sam Bayless"
-  - "Huzefa Rangwala"
 date: "2026-02-23"
 arxiv_id: "2602.20117"
 arxiv_url: "https://arxiv.org/abs/2602.20117"
@@ -16,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 数据合成"
-  - "Agentic 强化学习"
-  - "推理模型"
-  - "合成环境"
-  - "可验证奖励"
-  - "环境生成"
-  - "强化学习"
-  - "语言模型训练"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-7B-Instruct"
+  key_technique: "ReSyn"
+  primary_benchmark: "BBEH"
 ---
 
 # ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models

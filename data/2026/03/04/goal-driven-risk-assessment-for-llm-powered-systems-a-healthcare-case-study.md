@@ -11,13 +11,17 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent安全"
-  - "LLM系统安全"
-  - "风险评估"
-  - "威胁建模"
-  - "医疗保健应用"
-  - "攻击路径分析"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "Healthcare & Bio"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Goal-driven risk assessment approach using attack trees"
+  primary_benchmark: "N/A"
 ---
 
 # Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study

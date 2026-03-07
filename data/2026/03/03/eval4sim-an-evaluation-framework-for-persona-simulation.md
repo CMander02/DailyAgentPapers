@@ -12,12 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02876v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Evaluation"
-  - "Persona Simulation"
-  - "LLM-as-a-Judge"
-  - "Conversational Agent"
-  - "Evaluation Framework"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Memory & Context Management"
+  domain: "Social & Behavioral Science"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Eval4Sim"
+  primary_benchmark: "PersonaChat"
 ---
 
 # Eval4Sim: An Evaluation Framework for Persona Simulation

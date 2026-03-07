@@ -13,13 +13,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Theory of Mind"
-  - "Agent Reasoning"
-  - "LLM Evaluation"
-  - "Chain-of-Thought"
-  - "False-Belief Tasks"
-  - "Agent Capabilities"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Chain-of-Thought prompting (CoT)"
+  primary_benchmark: "handcrafted, richly annotated ToM dataset (classic and perturbed false belief tasks)"
 ---
 
 # Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models

@@ -17,13 +17,19 @@ categories:
   - "cs.HC"
   - "cs.RO"
 tags:
-  - "Agentic AI"
-  - "Autonomous Vehicles"
-  - "LLM Applications"
-  - "Agent Architecture"
+  - "Reasoning & Planning"
   - "Human-Agent Interaction"
-  - "Agentic Mobility Systems"
-relevance_score: 7.5
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Robotics & Embodied"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Vehicle (AgV) conceptual framework"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic Vehicles for Human-Centered Mobility

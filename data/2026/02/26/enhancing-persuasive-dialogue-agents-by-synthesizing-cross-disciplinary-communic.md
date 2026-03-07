@@ -6,8 +6,6 @@ authors:
   - "Yotaro Watanabe"
   - "Meguru Takasaki"
   - "Shoji Moriya"
-  - "Reina Akama"
-  - "Jun Suzuki"
 date: "2026-02-26"
 arxiv_id: "2602.22696"
 arxiv_url: "https://arxiv.org/abs/2602.22696"
@@ -15,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22696v1"
 categories:
   - "cs.CL"
 tags:
-  - "对话智能体"
-  - "说服策略"
-  - "多学科方法"
-  - "Agent评测"
-  - "Agent架构"
+  - "Human-Agent Interaction"
+  - "Reasoning & Planning"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Reasoning & Planning"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "cross-disciplinary persuasive strategy synthesis framework"
+  primary_benchmark: "Persuasion for Good (P4G), DailyPersuasion"
 ---
 
 # Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies

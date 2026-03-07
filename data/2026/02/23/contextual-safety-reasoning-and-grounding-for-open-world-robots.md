@@ -6,7 +6,6 @@ authors:
   - "Alexander Robey"
   - "Hamed Hassani"
   - "Vijay Kumar"
-  - "George J. Pappas"
 date: "2026-02-23"
 arxiv_id: "2602.19983"
 arxiv_url: "https://arxiv.org/abs/2602.19983"
@@ -15,15 +14,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "机器人安全"
-  - "上下文推理"
-  - "视觉语言模型"
-  - "控制屏障函数"
-  - "开放世界机器人"
-  - "语义安全"
-  - "在线推理"
-  - "安全保证"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CORE (Contextual Safety Reasoning and Enforcement)"
+  primary_benchmark: "N/A"
 ---
 
 # Contextual Safety Reasoning and Grounding for Open-World Robots

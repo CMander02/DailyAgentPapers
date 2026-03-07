@@ -16,13 +16,19 @@ categories:
   - "cs.IR"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "数据合成/提取"
-  - "持续学习"
-  - "表格处理"
-  - "金融应用"
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Finance & Trading"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "TASER (Table Agents for Schema-guided Extraction and Recommendation)"
+  primary_benchmark: "TASERTab"
 ---
 
 # TASER: Table Agents for Schema-guided Extraction and Recommendation

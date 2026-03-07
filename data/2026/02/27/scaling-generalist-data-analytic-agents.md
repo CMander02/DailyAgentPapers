@@ -6,12 +6,6 @@ authors:
   - "Zhisong Qiu"
   - "Xiaobin Wang"
   - "Jintian Zhang"
-  - "Zhao Bin"
-  - "Ningyu Zhang"
-  - "Yong Jiang"
-  - "Pengjun Xie"
-  - "Fei Huang"
-  - "Huajun Chen"
 date: "2025-09-29"
 arxiv_id: "2509.25084"
 arxiv_url: "https://arxiv.org/abs/2509.25084"
@@ -22,15 +16,19 @@ categories:
   - "cs.IR"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 训练"
-  - "数据合成"
-  - "工具使用"
-  - "多步推理"
-  - "代码执行"
-  - "开源模型"
-  - "Agent 评测"
+  - "Code & Software Engineering"
+  - "Learning & Optimization"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Learning & Optimization"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DataMind (fine-grained task taxonomy, recursive easy-to-hard task composition, knowledge-augmented trajectory sampling, dynamically adjustable training objective, memory-frugal multi-turn rollout)"
+  primary_benchmark: "multiple data analysis benchmarks (unspecified)"
 ---
 
 # Scaling Generalist Data-Analytic Agents

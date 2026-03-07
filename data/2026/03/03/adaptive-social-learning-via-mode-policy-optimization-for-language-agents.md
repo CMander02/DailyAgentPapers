@@ -6,28 +6,28 @@ authors:
   - "Haobo Wang"
   - "Xinghua Zhang"
   - "Nan Xu"
-  - "Bingli Wu"
-  - "Fei Huang"
-  - "Haiyang Yu"
-  - "Wenji Mao"
 date: "2025-05-04"
 arxiv_id: "2505.02156"
 arxiv_url: "https://arxiv.org/abs/2505.02156"
 pdf_url: "https://arxiv.org/pdf/2505.02156v5"
-github_url: "https://github.com/MozerWang/AMPO"
 categories:
   - "cs.CL"
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Architecture"
-  - "Reasoning"
-  - "Planning"
-  - "Multi-Agent Systems"
-  - "Social Intelligence"
-  - "Adaptive Learning"
-  - "Policy Optimization"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Social & Behavioral Science"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "GPT-4o"
+  key_technique: "Adaptive Mode Policy Optimization (AMPO)"
+  primary_benchmark: "N/A"
 ---
 
 # Adaptive Social Learning via Mode Policy Optimization for Language Agents

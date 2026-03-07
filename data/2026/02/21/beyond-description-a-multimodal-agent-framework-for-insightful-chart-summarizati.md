@@ -12,12 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18731v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "多模态智能体"
-  - "规划与推理"
-  - "Agent 评测/基准"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Perception & Multimodal"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Perception & Multimodal"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Chart Insight Agent Flow (CIAF)"
+  primary_benchmark: "ChartSummInsights"
 ---
 
 # Beyond Description: A Multimodal Agent Framework for Insightful Chart Summarization

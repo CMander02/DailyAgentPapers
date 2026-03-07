@@ -12,12 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23271v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 架构"
-  - "Agent 数据合成/规划/推理"
-  - "多智能体系统"
-  - "Agent 自演化"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "information acquisition Markov Decision Process, variance decomposition framework, structured output and ensemble-based query generation"
+  primary_benchmark: "DeepSearchQA"
 ---
 
 # Evaluating Stochasticity in Deep Research Agents

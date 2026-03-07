@@ -6,11 +6,6 @@ authors:
   - "Xinru Yan"
   - "Qianhao Yuan"
   - "Wenkai Zhang"
-  - "Xuanang Chen"
-  - "Yaojie Lu"
-  - "Hongyu Lin"
-  - "Xianpei Han"
-  - "Le Sun"
 date: "2026-02-26"
 arxiv_id: "2602.22839"
 arxiv_url: "https://arxiv.org/abs/2602.22839"
@@ -19,15 +14,19 @@ github_url: "https://github.com/icip-cas/PPTAgent"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Agentic Planning"
-  - "Agentic Reflection"
-  - "Tool Use"
-  - "Long-Horizon Task"
-  - "Environment-Grounded Feedback"
-  - "Iterative Refinement"
-  - "Presentation Generation"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Environment-Grounded Reflection"
+  primary_benchmark: "N/A"
 ---
 
 # DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation

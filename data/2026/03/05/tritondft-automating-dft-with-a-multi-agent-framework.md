@@ -6,12 +6,6 @@ authors:
   - "Zhen Wang"
   - "Haseeb Ahmad"
   - "Yichen Lin"
-  - "Prabhleen Kaur"
-  - "Christopher Lane"
-  - "Elizabeth A. Peterson"
-  - "Zhiting Hu"
-  - "Elizabeth A. Nowadnick"
-  - "Yufei Ding"
 date: "2026-03-02"
 arxiv_id: "2603.03372"
 arxiv_url: "https://arxiv.org/abs/2603.03372"
@@ -21,12 +15,19 @@ categories:
   - "cond-mat.mtrl-sci"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "科学计算自动化"
-  - "工作流自动化"
-  - "Agent 评测/基准"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "expert-curated, extensible workflow design, Pareto-aware parameter inference, multi-source knowledge augmentation"
+  primary_benchmark: "DFTBench"
 ---
 
 # TritonDFT: Automating DFT with a Multi-Agent Framework

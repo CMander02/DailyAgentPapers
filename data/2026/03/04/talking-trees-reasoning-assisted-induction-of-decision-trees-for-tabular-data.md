@@ -6,22 +6,26 @@ authors:
   - "Ivan Rubachev"
   - "Natalia Bereberdina"
   - "Renat Sergazinov"
-  - "Artem Babenko"
 date: "2025-09-25"
 arxiv_id: "2509.21465"
 arxiv_url: "https://arxiv.org/abs/2509.21465"
 pdf_url: "https://arxiv.org/pdf/2509.21465v2"
-github_url: "https://github.com/yandex-research/TalkingTrees"
 categories:
   - "cs.LG"
 tags:
-  - "Agentic Reasoning"
-  - "Decision Trees"
-  - "Tool Use"
-  - "Interpretability"
-  - "Tabular Data"
-  - "LLM Agent"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-5, DeepSeek R1, GLM-4.5"
+  key_technique: "agentic thought-action-observation loop with a toolkit for decision-tree construction and refinement"
+  primary_benchmark: "N/A"
 ---
 
 # Talking Trees: Reasoning-Assisted Induction of Decision Trees for Tabular Data

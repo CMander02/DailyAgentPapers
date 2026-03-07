@@ -6,10 +6,6 @@ authors:
   - "David D. Baek"
   - "David Africa"
   - "Jim Weatherall"
-  - "Max Tegmark"
-  - "Christian Schroeder de Witt"
-  - "Mihaela van der Schaar"
-  - "David Krueger"
 date: "2026-02-26"
 arxiv_id: "2602.23163"
 arxiv_url: "https://arxiv.org/abs/2602.23163"
@@ -21,13 +17,17 @@ categories:
   - "cs.IT"
   - "cs.MA"
 tags:
-  - "Agent 安全"
-  - "LLM 监控"
-  - "信息论"
-  - "决策理论"
-  - "隐写术检测"
-  - "多智能体系统"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "decision-theoretic view of steganography, generalized V-information, steganographic gap"
+  primary_benchmark: "N/A"
 ---
 
 # A Decision-Theoretic Formalisation of Steganography With Applications to LLM Monitoring

@@ -6,15 +6,6 @@ authors:
   - "Asuka Yuxi Zheng"
   - "Xueqian Li"
   - "Xiang Li"
-  - "Haoqin Tu"
-  - "Jie Xiao"
-  - "Yifan Pang"
-  - "Dongdong Zhang"
-  - "Fuqiang Li"
-  - "Alfred Long"
-  - "Bill Shi"
-  - "Lynn Ai"
-  - "Eric Yang"
 date: "2026-03-03"
 arxiv_id: "2603.03378"
 arxiv_url: "https://arxiv.org/abs/2603.03378"
@@ -23,16 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "LLM Agent"
-  - "Multi-Agent System"
-  - "Agent Training"
-  - "Agentic Reinforcement Learning"
-  - "Agent Self-Evolution"
-  - "Tool Use"
-  - "Reasoning"
-  - "AIOps"
-  - "Autonomous Operations"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Group Relative Policy Optimization (GRPO), Failure Trajectory Closed-Loop Evolver"
+  primary_benchmark: "AIOpsLab"
 ---
 
 # AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis

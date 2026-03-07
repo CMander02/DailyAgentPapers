@@ -11,13 +11,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Multimodal Reasoning"
-  - "Benchmark"
-  - "Reasoning Process"
-  - "Faithfulness"
-  - "Vision-Language Models"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT4o, Llava-Next"
+  key_technique: "Reasoning Process Tree Score (RPTS)"
+  primary_benchmark: "RPTS-Eval"
 ---
 
 # RPTS: Tree-Structured Reasoning Process Scoring for Faithful Multimodal Evaluation

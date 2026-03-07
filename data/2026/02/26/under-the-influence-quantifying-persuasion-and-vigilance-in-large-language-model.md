@@ -15,12 +15,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "社会智能"
-  - "说服与警惕性"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Sokoban-based multi-turn evaluation framework"
+  primary_benchmark: "Sokoban puzzle game (custom)"
 ---
 
 # Under the Influence: Quantifying Persuasion and Vigilance in Large Language Models

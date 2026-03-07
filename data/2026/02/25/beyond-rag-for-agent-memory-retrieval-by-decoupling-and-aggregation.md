@@ -14,15 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 记忆"
-  - "检索增强生成"
-  - "多智能体系统"
-  - "Agent 数据合成"
-  - "Agent 规划/推理"
-  - "工具使用"
-  - "Agent 评测/基准"
-relevance_score: 9.5
+  - "Memory & Context Management"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "xMemory"
+  primary_benchmark: "LoCoMo, PerLTQA"
 ---
 
 # Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation

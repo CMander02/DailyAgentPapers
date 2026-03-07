@@ -6,9 +6,6 @@ authors:
   - "Fan Zhang"
   - "Yue Shen"
   - "Jinlin Wu"
-  - "Guohui Fan"
-  - "Zhu Zhang"
-  - "Zelin Zang"
 date: "2025-09-28"
 arxiv_id: "2509.23725"
 arxiv_url: "https://arxiv.org/abs/2509.23725"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2509.23725v3"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "逻辑推理"
-  - "医疗问答"
-  - "Agent架构"
-  - "LLM驱动"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MedLA (logic-driven multi-agent framework with syllogistic triad-based logical trees and graph-guided discussion)"
+  primary_benchmark: "MedDDx, standard medical QA tasks"
 ---
 
 # MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models

@@ -12,12 +12,19 @@ categories:
   - "cs.AI"
   - "cs.DL"
 tags:
-  - "Agent 仿真"
-  - "用户行为模拟"
-  - "数字图书馆"
-  - "Agent 评测/基准"
-  - "LLM 应用于 Agent 场景"
-relevance_score: 7.5
+  - "World Modeling & Simulation"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "World Modeling & Simulation"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agent4DL"
+  primary_benchmark: "SimIIR 2.0"
 ---
 
 # Generative Agents Navigating Digital Libraries

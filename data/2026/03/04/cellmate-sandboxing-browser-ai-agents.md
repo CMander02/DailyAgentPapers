@@ -13,13 +13,19 @@ categories:
   - "cs.CR"
   - "cs.LG"
 tags:
-  - "Agent Security"
-  - "Browser Agent"
-  - "Prompt Injection"
-  - "Sandboxing"
-  - "Agent Framework"
-  - "Agent Evaluation"
+  - "Safety & Alignment"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ceLLMate (HTTP-layer sandboxing framework)"
+  primary_benchmark: "WASP"
 ---
 
 # ceLLMate: Sandboxing Browser AI Agents

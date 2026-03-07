@@ -6,8 +6,6 @@ authors:
   - "Xuebo Liu"
   - "Wenkang Zhou"
   - "Liang Ding"
-  - "Miao Zhang"
-  - "Min Zhang"
 date: "2026-02-26"
 arxiv_id: "2602.23258"
 arxiv_url: "https://arxiv.org/abs/2602.23258"
@@ -17,15 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "信息流优化"
-  - "测试时剪枝"
-  - "错误纠正"
-  - "错误传播"
-  - "推理"
-  - "系统架构"
-  - "检索增强"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentDropoutV2 (test-time rectify-or-reject pruning framework with retrieval-augmented rectifier and failure-driven indicator pool)"
+  primary_benchmark: "N/A"
 ---
 
 # AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning

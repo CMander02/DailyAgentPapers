@@ -14,16 +14,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "MARL"
-  - "Dec-POMDP"
-  - "智能体评测"
-  - "基准测试"
-  - "协作智能体"
-  - "部分可观测性"
-  - "智能体推理"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "diagnostic suite combining performance comparisons and information-theoretic probes"
+  primary_benchmark: "MPE, SMAX, Overcooked, Hanabi, MaBrax"
 ---
 
 # Probing Dec-POMDP Reasoning in Cooperative MARL

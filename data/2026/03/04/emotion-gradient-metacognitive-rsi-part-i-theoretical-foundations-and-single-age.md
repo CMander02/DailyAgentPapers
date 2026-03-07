@@ -10,13 +10,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Architecture"
-  - "Recursive Self-Improvement"
-  - "Metacognition"
-  - "Intrinsic Motivation"
-  - "Theoretical Framework"
-  - "Safety"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Emotion-Gradient Metacognitive Recursive Self-Improvement (EG-MRSI) framework"
+  primary_benchmark: "N/A"
 ---
 
 # Emotion-Gradient Metacognitive RSI (Part I): Theoretical Foundations and Single-Agent Architecture

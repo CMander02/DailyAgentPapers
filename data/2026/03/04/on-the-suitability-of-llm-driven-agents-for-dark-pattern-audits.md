@@ -15,13 +15,19 @@ categories:
   - "cs.CY"
   - "cs.HC"
 tags:
-  - "LLM-Driven Agent"
-  - "Agent Application"
-  - "Web Navigation"
-  - "Agent Evaluation"
-  - "Agent Safety"
-  - "Human-Computer Interaction"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Web & Browser Automation"
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Web & Browser Automation"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLM-driven auditing agent for end-to-end workflow traversal and structured evidence gathering"
+  primary_benchmark: "N/A"
 ---
 
 # On the Suitability of LLM-Driven Agents for Dark Pattern Audits

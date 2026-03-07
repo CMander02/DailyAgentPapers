@@ -11,12 +11,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Role-Playing Agent"
-  - "Agent Evaluation"
-  - "Agent Benchmarking"
-  - "Agent Personality"
-  - "Agent Robustness"
+  - "Human-Agent Interaction"
+  - "Memory & Context Management"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4, Llama-3-70B, Qwen-2.5"
+  key_technique: "anonymous evaluation method, personality augmentation"
+  primary_benchmark: "CharacterBox, MMRole, Raiden"
 ---
 
 # Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects

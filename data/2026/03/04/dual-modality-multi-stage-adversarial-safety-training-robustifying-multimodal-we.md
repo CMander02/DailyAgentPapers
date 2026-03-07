@@ -14,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Safety"
-  - "Multimodal Agent"
-  - "Adversarial Training"
-  - "Web Agent"
-  - "Agent Robustness"
-  - "Agent Training Framework"
-  - "Multi-Stage Training"
-  - "Self-Play"
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
 relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Dual-Modality Multi-Stage Adversarial Safety Training (DMAST), Group Relative Policy Optimization (GRPO), zero-acknowledgment strategy"
+  primary_benchmark: "MiniWob++, VisualWebArena"
 ---
 
 # Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks

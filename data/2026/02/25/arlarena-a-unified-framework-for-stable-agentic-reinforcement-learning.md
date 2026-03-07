@@ -6,15 +6,6 @@ authors:
   - "Haixin Wang"
   - "Yidan Shi"
   - "Ruoyan Li"
-  - "Kaiqiao Han"
-  - "Chenyi Tong"
-  - "Haoran Deng"
-  - "Renliang Sun"
-  - "Alexander Taylor"
-  - "Yanqiao Zhu"
-  - "Jason Cong"
-  - "Yizhou Sun"
-  - "Wei Wang"
 date: "2026-02-25"
 arxiv_id: "2602.21534"
 arxiv_url: "https://arxiv.org/abs/2602.21534"
@@ -22,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21534v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Agent Training Stability"
-  - "Policy Optimization"
-  - "Agent Architecture"
-  - "Agent Training Framework"
-  - "Multi-step Interactive Tasks"
-  - "LLM-based Agent Training"
-relevance_score: 9.5
+  - "Learning & Optimization"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "SAMPO (stable agentic policy optimization)"
+  primary_benchmark: "ARLArena"
 ---
 
 # ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning

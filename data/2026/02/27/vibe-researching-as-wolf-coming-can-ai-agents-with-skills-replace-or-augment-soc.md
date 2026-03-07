@@ -10,15 +10,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "AI Agent"
-  - "Tool Use"
-  - "Multi-step Reasoning"
-  - "Research Automation"
-  - "Workflow"
-  - "Human-AI Collaboration"
-  - "Skill Specialization"
-  - "Social Science Application"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Claude Code"
+  key_technique: "vibe researching, cognitive task framework (codifiability and tacit knowledge)"
+  primary_benchmark: "N/A"
 ---
 
 # Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?

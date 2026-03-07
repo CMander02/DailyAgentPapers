@@ -13,13 +13,17 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "AI Safety"
-  - "Adversarial Attacks"
-  - "Jailbreaking"
-  - "Dataset Evaluation"
-  - "Model Safety"
-  - "Benchmarking"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Gemini 3 Pro, Claude Sonnet 3.7"
+  key_technique: "intent laundering"
+  primary_benchmark: "N/A"
 ---
 
 # Intent Laundering: AI Safety Datasets Are Not What They Seem

@@ -6,9 +6,6 @@ authors:
   - "Yifei Xie"
   - "Ruijian Han"
   - "Binyan Jiang"
-  - "Defeng Sun"
-  - "Yancheng Yuan"
-  - "Jian Huang"
 date: "2026-03-05"
 arxiv_id: "2603.04743"
 arxiv_url: "https://arxiv.org/abs/2603.04743"
@@ -18,12 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "工具使用"
-  - "检索增强"
-  - "代码生成"
-  - "Agent评测"
-  - "领域特定Agent"
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DARE (Distribution-Aware Retrieval Embedding)"
+  primary_benchmark: "N/A"
 ---
 
 # DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval

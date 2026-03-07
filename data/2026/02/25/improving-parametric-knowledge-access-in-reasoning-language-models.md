@@ -10,12 +10,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22193v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 推理"
-  - "知识访问"
-  - "强化学习"
-  - "语言模型训练"
-  - "思维链"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-OSS-20B"
+  key_technique: "Reinforcement Learning from Verifiable Rewards (RLVR) for knowledge access"
+  primary_benchmark: "TriviaQA, Natural Questions, HotpotQA, SimpleQA, StrategyQA"
 ---
 
 # Improving Parametric Knowledge Access in Reasoning Language Models

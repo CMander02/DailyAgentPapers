@@ -12,12 +12,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent 安全"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "隐私合规"
-  - "运行时监控"
+  - "Safety & Alignment"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Tool Use & API Interaction"
+  domain: "Cybersecurity"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Claude, Gemini, DeepSeek"
+  key_technique: "cross-LLM voting mechanism, ontology graphs and automata-based checking"
+  primary_benchmark: "N/A"
 ---
 
 # AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents

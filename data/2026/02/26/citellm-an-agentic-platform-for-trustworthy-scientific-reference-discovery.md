@@ -6,9 +6,6 @@ authors:
   - "Chen Jason Zhang"
   - "Zichang Guo"
   - "Yawen Li"
-  - "Jun Chen"
-  - "Shaobo Cui"
-  - "Zhiyang Su"
 date: "2026-02-26"
 arxiv_id: "2602.23075"
 arxiv_url: "https://arxiv.org/abs/2602.23075"
@@ -17,14 +14,19 @@ categories:
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agentic Platform"
-  - "Tool Use"
-  - "Trustworthy AI"
-  - "Scientific Research"
-  - "Information Retrieval"
+  - "Tool Use & API Interaction"
   - "Human-Agent Interaction"
-  - "Hallucination Mitigation"
-relevance_score: 8.0
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Human-Agent Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "dynamic discipline-aware routing, paragraph-level semantic matching"
+  primary_benchmark: "N/A"
 ---
 
 # CiteLLM: An Agentic Platform for Trustworthy Scientific Reference Discovery

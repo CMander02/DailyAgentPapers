@@ -15,15 +15,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "LLM 应用于 Agent 场景"
-  - "幻觉缓解"
-  - "查询优化"
-  - "上下文赌博机"
-  - "在线学习"
-  - "模型不可知"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "QueryBandits (contextual bandit framework with Thompson Sampling)"
+  primary_benchmark: "N/A"
 ---
 
 # No One Size Fits All: QueryBandits for Hallucination Mitigation

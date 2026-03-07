@@ -6,13 +6,6 @@ authors:
   - "Zhihao Dou"
   - "Donghao Zhou"
   - "Yu Zhang"
-  - "Xin Wang"
-  - "Hui Shen"
-  - "Jing Xiong"
-  - "Chaofan Tao"
-  - "Zixuan Zhong"
-  - "Peizhou Huang"
-  - "Mi Zhang"
 date: "2026-02-23"
 arxiv_id: "2602.19895"
 arxiv_url: "https://arxiv.org/abs/2602.19895"
@@ -22,13 +15,19 @@ categories:
   - "cs.LG"
   - "cs.CL"
 tags:
-  - "强化学习"
-  - "LLM推理"
-  - "探索策略"
-  - "多样性正则化"
-  - "策略优化"
-  - "Agentic强化学习"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DSDR (Dual-Scale Diversity Regularization)"
+  primary_benchmark: "N/A"
 ---
 
 # DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning

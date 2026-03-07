@@ -13,12 +13,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 推理"
-  - "Agent 规划"
-  - "Agentic 强化学习"
-  - "多轮交互"
-  - "LLM 训练方法"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Reinforcement Learning with Single-Turn Anchors (RLSTA)"
+  primary_benchmark: "N/A"
 ---
 
 # Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction

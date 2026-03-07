@@ -6,9 +6,6 @@ authors:
   - "Katherine M. Guerrerio"
   - "Jianzhi Shen"
   - "Yifan Yin"
-  - "Daniel Khashabi"
-  - "Chien-Ming Huang"
-  - "Tianmin Shu"
 date: "2026-02-22"
 arxiv_id: "2602.19304"
 arxiv_url: "https://arxiv.org/abs/2602.19304"
@@ -19,15 +16,19 @@ categories:
   - "cs.HC"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "路径规划"
-  - "人机协作"
-  - "语言通信"
-  - "安全规划"
-  - "可解释性"
-  - "视觉语言模型"
-  - "模型规划"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CaPE (Code as Path Editor)"
+  primary_benchmark: "N/A"
 ---
 
 # Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation

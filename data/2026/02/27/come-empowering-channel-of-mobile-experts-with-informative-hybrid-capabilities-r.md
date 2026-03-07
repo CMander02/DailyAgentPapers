@@ -6,13 +6,6 @@ authors:
   - "Kun Huang"
   - "Changyu Chen"
   - "Jiankun Zhao"
-  - "Pengzhi Gao"
-  - "Wei Liu"
-  - "Jian Luan"
-  - "Shuo Shang"
-  - "Bo Du"
-  - "Ji-Rong Wen"
-  - "Rui Yan"
 date: "2026-02-27"
 arxiv_id: "2602.24142"
 arxiv_url: "https://arxiv.org/abs/2602.24142"
@@ -21,16 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Mobile Agent"
-  - "Multi-Expert System"
-  - "Reasoning"
-  - "Planning"
-  - "Decision Making"
-  - "Tool Use"
-  - "Training Strategy"
-  - "Instruction Following"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Architecture & Frameworks"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Channel-of-Mobile-Experts (CoME), output-oriented activation, progressive training (Expert-FT, Router-FT, CoT-FT), InfoGain-Driven DPO (Info-DPO)"
+  primary_benchmark: "AITZ, AMEX"
 ---
 
 # CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning

@@ -6,10 +6,6 @@ authors:
   - "Afnan Shaik"
   - "Tyson Tsay"
   - "Atharva Mohan"
-  - "James Begin"
-  - "Kevin Zhu"
-  - "Archana Vaidheeswaran"
-  - "Vasu Sharma"
 date: "2025-11-18"
 arxiv_id: "2511.17621"
 arxiv_url: "https://arxiv.org/abs/2511.17621"
@@ -19,15 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent协调"
-  - "Agent架构"
-  - "可信AI"
-  - "可解释性"
-  - "市场机制"
-  - "信念更新"
-  - "集体推理"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "market-making framework for multi-agent LLM coordination"
+  primary_benchmark: "N/A"
 ---
 
 # From Competition to Coordination: Market Making as a Scalable Framework for Safe and Aligned Multi-Agent LLM Systems

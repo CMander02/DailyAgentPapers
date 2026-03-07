@@ -13,14 +13,19 @@ categories:
   - "cs.SI"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "Agent 规划与推理"
-  - "LLM 应用于 Agent 场景"
-  - "Agent 工具使用"
-  - "Agent 评测/基准"
-  - "Agent 自动化研究"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "GPT 4.1, GPT 4.1 Mini"
+  key_technique: "EpidemIQs multi-agent framework with scientist and task-expert agents"
+  primary_benchmark: "N/A"
 ---
 
 # EpidemIQs: Prompt-to-Paper LLM Agents for Epidemic Modeling and Analysis

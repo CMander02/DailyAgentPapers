@@ -6,21 +6,6 @@ authors:
   - "Avery Yen"
   - "Gabriele Sarti"
   - "Koyena Pal"
-  - "Olivia Floody"
-  - "Adam Belfki"
-  - "Alex Loftus"
-  - "Aditya Ratan Jannali"
-  - "Nikhil Prakash"
-  - "Jasmine Cui"
-  - "Giordano Rogers"
-  - "Jannik Brinkmann"
-  - "Can Rager"
-  - "Amir Zur"
-  - "Michael Ripa"
-  - "Aruna Sankaranarayanan"
-  - "David Atkinson"
-  - "Rohit Gandikota"
-  - "Jaden Fiotto-Kaufman"
 date: "2026-02-23"
 arxiv_id: "2602.20021"
 arxiv_url: "https://arxiv.org/abs/2602.20021"
@@ -29,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CY"
 tags:
-  - "Agent 安全"
-  - "Agent 评测/基准"
-  - "Agent 架构"
-  - "多智能体系统"
-  - "工具使用"
-  - "记忆"
-  - "红队测试"
-  - "自主智能体"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Red-teaming study in live laboratory environment"
+  primary_benchmark: "N/A"
 ---
 
 # Agents of Chaos

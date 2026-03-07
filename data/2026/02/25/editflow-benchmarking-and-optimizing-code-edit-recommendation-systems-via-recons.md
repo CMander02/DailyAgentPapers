@@ -6,9 +6,6 @@ authors:
   - "Jiaxin Chang"
   - "Jiawei Liu"
   - "Binhang Qi"
-  - "Bo Jiang"
-  - "Zhiyong Huang"
-  - "Jin Song Dong"
 date: "2026-02-25"
 arxiv_id: "2602.21697"
 arxiv_url: "https://arxiv.org/abs/2602.21697"
@@ -16,11 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21697v1"
 categories:
   - "cs.SE"
 tags:
-  - "Agent 评测/基准"
-  - "LLM 应用于 Agent 场景"
-  - "工具使用"
-  - "人机交互"
-relevance_score: 7.5
+  - "Code & Software Engineering"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "EditFlow (prompt auto-tuning mechanism, digital twin simulation, unified optimization strategy)"
+  primary_benchmark: "EditFlow"
 ---
 
 # EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows

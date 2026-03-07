@@ -12,15 +12,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "策略梯度"
-  - "可扩展性"
-  - "合作学习"
-  - "方差缩减"
-  - "样本复杂度"
-  - "MARL"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Enterprise & Workflow"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "Descent-Guided Policy Gradient (DG-PG)"
+  primary_benchmark: "heterogeneous cloud scheduling task"
 ---
 
 # Descent-Guided Policy Gradient for Scalable Cooperative Multi-Agent Learning

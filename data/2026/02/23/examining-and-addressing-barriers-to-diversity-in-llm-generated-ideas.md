@@ -13,13 +13,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "LLM应用"
-  - "Agent评测/基准"
-  - "人类-AI协作"
-  - "提示工程"
-  - "认知心理学"
-  - "创新与多样性"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Chain-of-Thought prompting, persona-based prompting"
+  primary_benchmark: "N/A"
 ---
 
 # Examining and Addressing Barriers to Diversity in LLM-Generated Ideas

@@ -6,9 +6,6 @@ authors:
   - "Radha Reddy"
   - "Atefeh Hajijamali Arani"
   - "Biliang Wang"
-  - "Kai Li"
-  - "Luis Almeida"
-  - "Zhu Han"
 date: "2026-02-23"
 arxiv_id: "2602.19534"
 arxiv_url: "https://arxiv.org/abs/2602.19534"
@@ -17,14 +14,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "LLM应用于Agent场景"
-  - "多智能体系统"
-  - "任务规划"
-  - "自主决策"
-  - "人机交互"
-  - "Agent评测/基准"
-  - "Agent安全"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # Large Language Model-Assisted UAV Operations and Communications: A Multifaceted Survey and Tutorial

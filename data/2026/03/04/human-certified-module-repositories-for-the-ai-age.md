@@ -11,13 +11,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "AI辅助开发"
-  - "软件供应链安全"
-  - "模块化系统"
-  - "可信AI"
-  - "AI与软件工程"
-  - "AI Agent工具使用"
-relevance_score: 7.0
+  - "Architecture & Frameworks"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Human-Certified Module Repositories (HCMRs)"
+  primary_benchmark: "N/A"
 ---
 
 # Human-Certified Module Repositories for the AI Age

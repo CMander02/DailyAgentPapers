@@ -13,12 +13,19 @@ github_url: "https://github.com/sherryzyh/llmbn"
 categories:
   - "cs.LG"
 tags:
-  - "Agent 推理"
-  - "LLM 应用于 Agent 场景"
-  - "知识表示与推理"
-  - "数据合成/规划"
-  - "贝叶斯网络"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o, GPT-4, Llama-3-70B, Qwen-2.5-Max"
+  key_technique: "PromptBN, ReActBN"
+  primary_benchmark: "N/A"
 ---
 
 # Bayesian Network Structure Discovery Using Large Language Models

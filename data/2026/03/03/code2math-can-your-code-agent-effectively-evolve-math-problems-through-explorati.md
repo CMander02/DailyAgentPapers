@@ -6,25 +6,27 @@ authors:
   - "Qingyu Liu"
   - "Jiayu Liu"
   - "Zhiyuan Fan"
-  - "Qihan Ren"
-  - "Shuai Shao"
-  - "Tianyi Zhou"
-  - "Dongrui Liu"
-  - "Yi R. Fung"
 date: "2026-03-03"
 arxiv_id: "2603.03202"
 arxiv_url: "https://arxiv.org/abs/2603.03202"
 pdf_url: "https://arxiv.org/pdf/2603.03202v1"
+github_url: "https://github.com/TarferSoul/Code2Math"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent 自演化"
-  - "Agent 推理"
-  - "Agent 数据合成"
-  - "代码智能体"
-  - "数学推理"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent framework for problem evolution"
+  primary_benchmark: "N/A"
 ---
 
 # Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?

@@ -11,14 +11,19 @@ categories:
   - "cs.SI"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "LLM 管道"
-  - "工具增强"
-  - "校准"
-  - "基准/评测"
-  - "推理"
-  - "数据合成"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "three-stage multi-agent architecture (MAgICoRe-inspired)"
+  primary_benchmark: "Times Higher Education (THE) World University Rankings"
 ---
 
 # UniRank: A Multi-Agent Calibration Pipeline for Estimating University Rankings from Anonymized Bibliometric Signals

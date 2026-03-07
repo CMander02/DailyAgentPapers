@@ -11,15 +11,19 @@ categories:
   - "cs.SI"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "社会模拟"
-  - "Agent行为分析"
-  - "Agent安全"
-  - "Agent交互"
-  - "Agent评测"
-  - "Agent偏见"
-  - "Agent控制方法"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Chain of Social Thought (CoST)"
+  primary_benchmark: "N/A"
 ---
 
 # An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents

@@ -12,13 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20333v1"
 categories:
   - "cs.AI"
 tags:
-  - "因果发现"
-  - "LLM应用"
-  - "统计验证"
-  - "语义先验"
-  - "图结构学习"
-  - "多阶段框架"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DMCD (DataMap Causal Discovery)"
+  primary_benchmark: "N/A"
 ---
 
 # DMCD: Semantic-Statistical Framework for Causal Discovery

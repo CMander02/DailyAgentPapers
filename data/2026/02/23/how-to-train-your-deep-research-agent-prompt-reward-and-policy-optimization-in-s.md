@@ -6,9 +6,6 @@ authors:
   - "Jianjie Cheng"
   - "Meng Wang"
   - "Qianlong Xie"
-  - "Xingxing Wang"
-  - "Ran He"
-  - "Jian Liang"
 date: "2026-02-23"
 arxiv_id: "2602.19526"
 arxiv_url: "https://arxiv.org/abs/2602.19526"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19526v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "Agentic 强化学习"
-  - "工具使用"
-  - "Agent 评测/基准"
-  - "多轮检索"
-  - "决策生成"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Qwen2.5-7B, Qwen2.5-3B"
+  key_technique: "Fast Thinking template, REINFORCE with F1 rewards and action-level penalties"
+  primary_benchmark: "Search-R1"
 ---
 
 # How to Train Your Deep Research Agent? Prompt, Reward, and Policy Optimization in Search-R1

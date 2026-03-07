@@ -6,10 +6,6 @@ authors:
   - "Prabhleen Kaur"
   - "Vibha Murthy"
   - "Zhongkai Yu"
-  - "Yue Guan"
-  - "Zhen Wang"
-  - "Steven Swanson"
-  - "Yufei Ding"
 date: "2026-02-25"
 arxiv_id: "2602.21477"
 arxiv_url: "https://arxiv.org/abs/2602.21477"
@@ -17,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21477v1"
 categories:
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "Agent记忆"
-  - "LLM推理服务"
-  - "系统优化"
-  - "近似最近邻搜索"
-  - "GPU加速"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Architecture & Frameworks"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Pancake (multi-tier agentic memory system with multi-level index caching, coordinated index management, and collaborative GPU-CPU acceleration)"
+  primary_benchmark: "N/A"
 ---
 
 # Pancake: Hierarchical Memory System for Multi-Agent LLM Serving

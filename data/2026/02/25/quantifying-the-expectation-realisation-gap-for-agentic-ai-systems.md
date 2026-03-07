@@ -10,13 +10,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent评测/基准"
-  - "Agent部署与评估"
-  - "期望-现实差距"
-  - "实证研究"
-  - "工作流集成"
-  - "人机协作"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # Quantifying the Expectation-Realisation Gap for Agentic AI Systems

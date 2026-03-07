@@ -12,13 +12,19 @@ categories:
   - "cs.DB"
   - "cs.LG"
 tags:
-  - "Agent 系统架构"
-  - "Agent 工作负载"
-  - "ML 管道"
-  - "系统优化"
-  - "Agent 规划与执行"
-  - "Agent 评测/基准"
-relevance_score: 8.5
+  - "Architecture & Frameworks"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Tool Use & API Interaction"
+  domain: "Data Science & Analytics"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "stratum system infrastructure (decouples pipeline execution from planning, compiles batches of pipelines into optimized execution graphs, uses Rust-based runtime)"
+  primary_benchmark: "N/A"
 ---
 
 # stratum: A System Infrastructure for Massive Agent-Centric ML Workloads

@@ -6,9 +6,6 @@ authors:
   - "Hao Kang"
   - "Emma Chen"
   - "Zhiqiang Xie"
-  - "Tushar Krishna"
-  - "Vijay Janapa Reddi"
-  - "Yilun Du"
 date: "2025-10-06"
 arxiv_id: "2510.05077"
 arxiv_url: "https://arxiv.org/abs/2510.05077"
@@ -17,12 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "模型编排"
-  - "小语言模型"
-  - "推理"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama 3.1 8B, Mistral 8×7B, Gemma 2 27B, DeepSeek V3, Gemini 2.0 Flash, GPT-4o"
+  key_technique: "SLM-MUX (multi-model orchestration architecture with model selection search and test-time scaling)"
+  primary_benchmark: "MATH, GPQA, GSM8K"
 ---
 
 # Slm-mux: Orchestrating small language models for reasoning

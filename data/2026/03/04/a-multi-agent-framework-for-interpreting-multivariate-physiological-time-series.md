@@ -12,14 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04142v1"
 categories:
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "医疗健康"
-  - "时间序列解释"
-  - "Agent架构"
-  - "工具使用"
-  - "专家评估"
-  - "可解释AI"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Vivaldi (role-structured multi-agent system)"
+  primary_benchmark: "N/A"
 ---
 
 # A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series

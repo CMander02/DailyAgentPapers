@@ -9,19 +9,22 @@ date: "2026-02-05"
 arxiv_id: "2602.05182"
 arxiv_url: "https://arxiv.org/abs/2602.05182"
 pdf_url: "https://arxiv.org/pdf/2602.05182v2"
-github_url: "https://github.com/BunsenFeng/moco_distill"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 自演化"
-  - "多智能体系统"
-  - "模型协作"
-  - "知识蒸馏"
-  - "自我改进"
-  - "集体智能"
-  - "推理"
-  - "问答"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "single-multi evolution loop (collaboration-distillation iterative process)"
+  primary_benchmark: "N/A"
 ---
 
 # The Single-Multi Evolution Loop for Self-Improving Model Collaboration Systems

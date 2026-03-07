@@ -10,12 +10,17 @@ pdf_url: "https://arxiv.org/pdf/2602.20059v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 评测/基准"
-  - "Agent 交互分析"
-  - "LLM-as-Judge"
-  - "大规模实证研究"
-relevance_score: 8.0
+
+relevance_score: 7.5
+taxonomy:
+  capability:
+
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # Interaction Theater: A case of LLM Agents Interacting at Scale

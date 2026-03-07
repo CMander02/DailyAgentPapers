@@ -11,13 +11,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agentic 推理"
-  - "医疗应用"
-  - "文本摘要"
-  - "幻觉缓解"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgenticSum"
+  primary_benchmark: "MIMIC-IV-Ext-BHC, SOAP summary dataset"
 ---
 
 # AgenticSum: An Agentic Inference-Time Framework for Faithful Clinical Text Summarization

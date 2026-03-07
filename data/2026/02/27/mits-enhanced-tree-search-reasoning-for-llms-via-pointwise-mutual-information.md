@@ -14,13 +14,17 @@ github_url: "https://github.com/plusnli/MITS"
 categories:
   - "cs.AI"
 tags:
-  - "推理"
-  - "树搜索"
-  - "信息论"
-  - "计算效率"
-  - "测试时优化"
-  - "规划"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4, GPT-3.5-turbo, Llama-3-70B, Qwen-2.5-72B"
+  key_technique: "Mutual Information Tree Search (MITS)"
+  primary_benchmark: "GSM8K, MATH, AQuA, StrategyQA, PrOntoQA, Date Understanding"
 ---
 
 # MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information

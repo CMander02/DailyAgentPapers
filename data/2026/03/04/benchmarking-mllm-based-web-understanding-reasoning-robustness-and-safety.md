@@ -6,9 +6,6 @@ authors:
   - "Wenxin Tang"
   - "Zhixian Wang"
   - "Zipeng Xie"
-  - "Wenxuan Wang"
-  - "Minrui Zhang"
-  - "Shuanghe Yu"
 date: "2025-09-26"
 arxiv_id: "2509.21782"
 arxiv_url: "https://arxiv.org/abs/2509.21782"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2509.21782v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Multimodal Agent"
-  - "Web Agent"
-  - "Agent Reasoning"
-  - "Agent Safety"
-  - "Agent Robustness"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "WebRRSBench"
+  primary_benchmark: "WebRRSBench"
 ---
 
 # Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety

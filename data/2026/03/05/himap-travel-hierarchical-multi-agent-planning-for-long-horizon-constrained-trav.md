@@ -12,15 +12,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "分层规划"
-  - "长程规划"
-  - "约束满足"
-  - "资源分配"
-  - "并行执行"
-  - "协调机制"
-  - "Agent架构"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3-8B"
+  key_technique: "HiMAP-Travel (Hierarchical Multi-Agent Planning with synchronized global state, cooperative bargaining protocol, and unified role-conditioned policy trained with GRPO)"
+  primary_benchmark: "TravelPlanner, FlexTravelBench"
 ---
 
 # HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel

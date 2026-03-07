@@ -6,7 +6,6 @@ authors:
   - "Martin Tutek"
   - "Itay Itzhak"
   - "Idan Szpektor"
-  - "Yonatan Belinkov"
 date: "2025-10-01"
 arxiv_id: "2510.00857"
 arxiv_url: "https://arxiv.org/abs/2510.00857"
@@ -14,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2510.00857v2"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Safety"
-  - "Agent Evaluation"
-  - "Agent Benchmark"
-  - "Decision-Making"
-  - "LLM Alignment"
-  - "Autonomous Agents"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, GPT-4, Claude-3.5-Sonnet, Llama-3.1-70B, Llama-3.1-8B, Qwen-2.5-72B, Qwen-2.5-7B"
+  key_technique: "ManagerBench benchmark design"
+  primary_benchmark: "ManagerBench"
 ---
 
 # ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs

@@ -6,9 +6,6 @@ authors:
   - "Jagat Sesh Challa"
   - "Parth Agarwal"
   - "Navya Kommuri"
-  - "Trizal Garg"
-  - "Prisha Singhal"
-  - "Dhruv Shah"
 date: "2025-12-26"
 arxiv_id: "2512.21877"
 arxiv_url: "https://arxiv.org/abs/2512.21877"
@@ -17,12 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent评测/基准"
-  - "领域特定Agent"
-  - "多语言Agent"
-  - "Text-to-SQL"
-  - "体育分析"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, Claude 3.7 Sonnet, DeepSeek R1, Llama 3, Qwen 2.5"
+  key_technique: "CricBench benchmark suite, dynamic complexity router for context injection"
+  primary_benchmark: "CricBench"
 ---
 
 # CricBench: A Multilingual Benchmark for Evaluating LLMs in Cricket Analytics

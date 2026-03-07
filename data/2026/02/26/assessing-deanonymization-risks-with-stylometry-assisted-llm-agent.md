@@ -12,12 +12,19 @@ categories:
   - "cs.CR"
   - "cs.LG"
 tags:
-  - "LLM Agent"
-  - "Agent 安全"
-  - "Agent 评测/基准"
-  - "推理"
-  - "结构化流程"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SALA (Stylometry-Assisted LLM Analysis)"
+  primary_benchmark: "N/A"
 ---
 
 # Assessing Deanonymization Risks with Stylometry-Assisted LLM Agent

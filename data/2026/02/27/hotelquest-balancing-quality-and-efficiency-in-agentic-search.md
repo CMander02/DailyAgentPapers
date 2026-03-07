@@ -6,7 +6,6 @@ authors:
   - "Oren Kalinsky"
   - "Sofia Tolmach"
   - "Ran Levy"
-  - "Haggai Roitman"
 date: "2026-02-27"
 arxiv_id: "2602.23949"
 arxiv_url: "https://arxiv.org/abs/2602.23949"
@@ -15,13 +14,19 @@ categories:
   - "cs.IR"
   - "cs.AI"
 tags:
-  - "Agentic Search"
-  - "Agent Benchmark"
-  - "Agent Efficiency"
-  - "Tool Use"
-  - "Query Understanding"
-  - "Cost Optimization"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "HotelQuEST"
 ---
 
 # HotelQuEST: Balancing Quality and Efficiency in Agentic Search

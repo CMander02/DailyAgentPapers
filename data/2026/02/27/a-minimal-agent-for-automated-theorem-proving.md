@@ -13,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.24273v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "规划与推理"
-  - "工具使用"
-  - "基准与评测"
-  - "开源实现"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Memory & Context Management"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Memory & Context Management"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "minimal agentic baseline for theorem proving"
+  primary_benchmark: "N/A"
 ---
 
 # A Minimal Agent for Automated Theorem Proving

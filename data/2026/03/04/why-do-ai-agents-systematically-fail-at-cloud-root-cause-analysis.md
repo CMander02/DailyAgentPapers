@@ -13,13 +13,19 @@ categories:
   - "cs.AI"
   - "cs.DC"
 tags:
-  - "Agent评测/基准"
-  - "Agent架构"
-  - "多智能体系统"
-  - "Agent推理"
-  - "Agent工具使用"
-  - "Agent失败分析"
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Enterprise & Workflow"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Gemini 2.5 Pro, GPT-5 mini, GPT-OSS 120B, Solar Pro 2, Claude Sonnet 4"
+  key_technique: "Process-level failure analysis methodology and pitfall taxonomy"
+  primary_benchmark: "OpenRCA"
 ---
 
 # Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?

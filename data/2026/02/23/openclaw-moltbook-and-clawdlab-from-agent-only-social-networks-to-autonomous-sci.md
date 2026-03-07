@@ -6,7 +6,6 @@ authors:
   - "Mihailo Jovanović"
   - "Ritvik Singh"
   - "Emre Ulgac"
-  - "Aakaash Meduri"
 date: "2026-02-23"
 arxiv_id: "2602.19810"
 arxiv_url: "https://arxiv.org/abs/2602.19810"
@@ -14,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19810v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "自主科学研究"
-  - "Agent架构"
-  - "社会网络"
-  - "设计科学"
-  - "安全与治理"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Architecture & Frameworks"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ClawdLab architecture (hard role restrictions, structured adversarial critique, PI-led governance, multi-model orchestration, domain-specific evidence requirements)"
+  primary_benchmark: "N/A"
 ---
 
 # OpenClaw, Moltbook, and ClawdLab: From Agent-Only Social Networks to Autonomous Scientific Research

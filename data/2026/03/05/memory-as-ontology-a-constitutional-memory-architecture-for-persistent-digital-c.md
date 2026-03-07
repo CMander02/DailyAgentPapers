@@ -10,14 +10,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "Agent 架构"
-  - "记忆系统"
-  - "数字身份"
-  - "长期智能体"
-  - "本体论"
-  - "治理框架"
-  - "多智能体系统"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Architecture & Frameworks"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Memory-as-Ontology paradigm, Constitutional Memory Architecture (CMA), Animesis system"
+  primary_benchmark: "N/A"
 ---
 
 # Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens

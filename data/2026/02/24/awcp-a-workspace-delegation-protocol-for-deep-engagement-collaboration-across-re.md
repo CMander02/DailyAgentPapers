@@ -15,15 +15,19 @@ categories:
   - "cs.NI"
   - "cs.MA"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 协作"
-  - "工具使用"
-  - "Agentic Web"
-  - "协议设计"
-  - "工作空间管理"
-  - "开源实现"
-relevance_score: 9.5
+  - "Architecture & Frameworks"
+  - "Multi-Agent Systems"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agent Workspace Collaboration Protocol (AWCP)"
+  primary_benchmark: "N/A"
 ---
 
 # AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents

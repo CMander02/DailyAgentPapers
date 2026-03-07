@@ -6,10 +6,6 @@ authors:
   - "Pan Dong"
   - "Xiaoxiang Fang"
   - "Zhenling Duan"
-  - "Tinglue Wang"
-  - "Yuchen Hu"
-  - "Jie Yu"
-  - "Zhe Jiang"
 date: "2026-02-25"
 arxiv_id: "2602.21681"
 arxiv_url: "https://arxiv.org/abs/2602.21681"
@@ -17,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21681v1"
 categories:
   - "cs.SE"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "工具使用"
-  - "LLM 应用于 Agent 场景"
-  - "规划/推理"
-  - "代码生成与修复"
+  - "Code & Software Engineering"
+  - "Multi-Agent Systems"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "feedback-guided thinking switch, dual-mode reasoning strategy, waveform-driven transition controller"
+  primary_benchmark: "N/A"
 ---
 
 # AkiraRust: Re-thinking LLM-aided Rust Repair Using a Feedback-guided Thinking Switch

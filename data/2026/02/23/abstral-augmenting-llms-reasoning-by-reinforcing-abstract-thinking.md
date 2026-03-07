@@ -14,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.SC"
 tags:
-  - "Agent 推理"
-  - "强化学习"
-  - "抽象思维"
-  - "分布外泛化"
-  - "数学推理"
-  - "数据合成"
-  - "鲁棒性"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AbstRaL (reinforced abstraction learning)"
+  primary_benchmark: "GSM-Symbolic, GSM-Plus"
 ---
 
 # AbstRaL: Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking

@@ -6,7 +6,6 @@ authors:
   - "Kaihua Qin"
   - "Dawn Song"
   - "Arthur Gervais"
-  - "Liyi Zhou"
 date: "2026-02-01"
 arxiv_id: "2602.01317"
 arxiv_url: "https://arxiv.org/abs/2602.01317"
@@ -15,13 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "多智能体系统"
-  - "LLM 应用于 Agent 场景"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Cybersecurity"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "TxRay (LLM agentic postmortem system with semantic oracles and PoCEvaluator)"
+  primary_benchmark: "DeFiHackLabs (114 incidents)"
 ---
 
 # TxRay: Agentic Postmortem of Live Blockchain Attacks

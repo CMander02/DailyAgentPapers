@@ -6,12 +6,6 @@ authors:
   - "Lior Vaknin"
   - "Eran Aizikovich"
   - "Amit Baras"
-  - "Etai Ohana"
-  - "Amit Giloni"
-  - "Shamik Bose"
-  - "Chiara Picardi"
-  - "Yuval Elovici"
-  - "Asaf Shabtai"
 date: "2025-08-17"
 arxiv_id: "2508.12412"
 arxiv_url: "https://arxiv.org/abs/2508.12412"
@@ -20,13 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "系统监控"
-  - "可观测性"
-  - "异常检测"
-  - "故障诊断"
-  - "Agent评测"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "LumiMAS (monitoring and logging layer, anomaly detection layer, anomaly explanation layer)"
+  primary_benchmark: "N/A"
 ---
 
 # LumiMAS: A Comprehensive Framework for Real-Time Monitoring and Enhanced Observability in Multi-Agent Systems

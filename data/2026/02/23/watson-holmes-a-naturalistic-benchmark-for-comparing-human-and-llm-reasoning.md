@@ -10,12 +10,17 @@ pdf_url: "https://arxiv.org/pdf/2602.19914v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "推理评估"
-  - "自然主义基准"
-  - "人机比较"
-  - "开放答案评估"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Watson & Holmes (WnH) benchmark adaptation and automated grading system"
+  primary_benchmark: "Watson & Holmes (WnH) benchmark"
 ---
 
 # Watson & Holmes: A Naturalistic Benchmark for Comparing Human and LLM Reasoning

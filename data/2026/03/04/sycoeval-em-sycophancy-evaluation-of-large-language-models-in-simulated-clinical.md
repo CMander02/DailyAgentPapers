@@ -14,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "多智能体系统"
-  - "Agent评测/基准"
-  - "Agent安全"
-  - "模拟环境"
-  - "临床决策支持"
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Healthcare & Bio"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "SycoEval-EM"
+  primary_benchmark: "SycoEval-EM"
 ---
 
 # SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care

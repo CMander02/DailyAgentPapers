@@ -6,10 +6,6 @@ authors:
   - "Shuang Zhou"
   - "Yiran Song"
   - "Xiaoyi Chen"
-  - "Yu Hou"
-  - "Yifan Wu"
-  - "Yang Ruan"
-  - "Rui Zhang"
 date: "2026-02-23"
 arxiv_id: "2602.20130"
 arxiv_url: "https://arxiv.org/abs/2602.20130"
@@ -18,13 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "推理优化"
-  - "链式思维"
-  - "医疗问答"
-  - "效率提升"
-  - "推理策略"
-  - "模型部署"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama-3.1-8B, Qwen-2.5-7B"
+  key_technique: "Selective Chain-of-Thought (Selective CoT)"
+  primary_benchmark: "HeadQA, MedQA-USMLE, MedMCQA, PubMedQA"
 ---
 
 # To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering

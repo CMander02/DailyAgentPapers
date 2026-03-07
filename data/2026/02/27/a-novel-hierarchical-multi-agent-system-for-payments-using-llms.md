@@ -12,12 +12,19 @@ categories:
   - "cs.MA"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "工具使用"
-  - "Agent评测"
-  - "支付领域"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Finance & Trading"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Hierarchical Multi-Agent System for Payments (HMASP)"
+  primary_benchmark: "N/A"
 ---
 
 # A Novel Hierarchical Multi-Agent System for Payments Using LLMs

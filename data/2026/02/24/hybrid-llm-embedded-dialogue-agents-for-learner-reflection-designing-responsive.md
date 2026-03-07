@@ -6,10 +6,6 @@ authors:
   - "Janet Shufor Bih Epse Fofang"
   - "Brayden Yan"
   - "Jess A. Turner"
-  - "Nicole Balay"
-  - "Hubert O. Asare"
-  - "Angela E. B. Stewart"
-  - "Erin Walker"
 date: "2026-02-24"
 arxiv_id: "2602.20486"
 arxiv_url: "https://arxiv.org/abs/2602.20486"
@@ -18,15 +14,19 @@ categories:
   - "cs.HC"
   - "cs.AI"
 tags:
-  - "对话系统"
-  - "LLM应用"
-  - "混合架构"
-  - "教育Agent"
-  - "人机交互"
-  - "反思支持"
-  - "理论驱动设计"
-  - "上下文响应"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Hybrid LLM-embedded dialogue system (LLM responsiveness within a theory-aligned, rule-based framework)"
+  primary_benchmark: "N/A"
 ---
 
 # Hybrid LLM-Embedded Dialogue Agents for Learner Reflection: Designing Responsive and Theory-Driven Interactions

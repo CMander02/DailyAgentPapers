@@ -6,11 +6,6 @@ authors:
   - "Minxuan Zhou"
   - "Zirong Chen"
   - "Meiyi Qiang"
-  - "Mingan Lin"
-  - "Tianpeng Li"
-  - "Fan Yang"
-  - "Zenan Zhou"
-  - "Wentao Zhang"
 date: "2024-08-14"
 arxiv_id: "2408.07543"
 arxiv_url: "https://arxiv.org/abs/2408.07543"
@@ -19,12 +14,19 @@ categories:
   - "cs.CV"
   - "cs.CL"
 tags:
-  - "Agent Benchmarking"
-  - "Multimodal Reasoning"
-  - "Mathematical Reasoning"
-  - "Real-World Scenarios"
-  - "MLLM Evaluation"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "MathScape benchmark construction and evaluation pipeline"
+  primary_benchmark: "MathScape"
 ---
 
 # MathScape: Benchmarking Multimodal Large Language Models in Real-World Mathematical Contexts

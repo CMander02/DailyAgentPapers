@@ -6,7 +6,6 @@ authors:
   - "Jianxun Lian"
   - "Xiaoyuan Yi"
   - "Xing Xie"
-  - "Diyi Yang"
 date: "2026-03-03"
 arxiv_id: "2603.02983"
 arxiv_url: "https://arxiv.org/abs/2603.02983"
@@ -16,13 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 安全"
-  - "隐私保护"
-  - "强化学习"
-  - "Agent 架构"
-  - "Agent 执行"
-  - "Agent 评测"
-relevance_score: 8.0
+  - "Safety & Alignment"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3-4B, Qwen3-32B, gpt-4.1-mini"
+  key_technique: "Contextualized Defense Instructing (CDI)"
+  primary_benchmark: "N/A"
 ---
 
 # Contextualized Privacy Defense for LLM Agents

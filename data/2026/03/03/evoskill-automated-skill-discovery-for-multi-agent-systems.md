@@ -14,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "技能发现"
-  - "自动化演化"
-  - "Agent技能"
-  - "自我演化"
-  - "Agent架构"
-  - "代码智能体"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "EvoSkill"
+  primary_benchmark: "OfficeQA, SealQA"
 ---
 
 # EvoSkill: Automated Skill Discovery for Multi-Agent Systems

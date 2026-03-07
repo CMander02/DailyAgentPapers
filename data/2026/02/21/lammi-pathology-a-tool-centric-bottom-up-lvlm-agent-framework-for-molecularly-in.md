@@ -11,14 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18773v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "医疗智能体"
-  - "多模态智能体"
-  - "规划与推理"
-  - "领域自适应"
-  - "智能体微调"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Atomic Execution Nodes (AENs), tool-centric bottom-up architecture, trajectory-aware fine-tuning"
+  primary_benchmark: "N/A"
 ---
 
 # LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology

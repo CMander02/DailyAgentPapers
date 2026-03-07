@@ -6,21 +6,6 @@ authors:
   - "Abby Fennelly"
   - "John Wright Stanly"
   - "Lucas Rothman"
-  - "Marco Burstein"
-  - "Julien Benchek"
-  - "David Ostrofsky"
-  - "Anirudh Ravichandran"
-  - "Debnil Sur"
-  - "Neel Venugopal"
-  - "Alannah Hsia"
-  - "Isaac Robinson"
-  - "Calix Huang"
-  - "Olivia Varones"
-  - "Daniyal Khan"
-  - "Michael Haines"
-  - "Austin Bridges"
-  - "Jesse Boyle"
-  - "Koby Twist"
 date: "2026-01-20"
 arxiv_id: "2601.14242"
 arxiv_url: "https://arxiv.org/abs/2601.14242"
@@ -30,13 +15,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Benchmark"
-  - "Agent Evaluation"
-  - "Long-Horizon Tasks"
-  - "Tool Use"
-  - "Cross-Application"
-  - "Agent Infrastructure"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Enterprise & Workflow"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Gemini 3 Flash, GPT-5.2, Claude Opus 4.5, Gemini 3 Pro"
+  key_technique: "APEX-Agents benchmark"
+  primary_benchmark: "APEX-Agents"
 ---
 
 # APEX-Agents

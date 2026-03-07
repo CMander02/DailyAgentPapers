@@ -6,16 +6,6 @@ authors:
   - "Lilach Eden"
   - "Yehoshua Sagron"
   - "Yotam Perlitz"
-  - "Elad Venezian"
-  - "Natalia Razinkov"
-  - "Natan Ergas"
-  - "Shlomit Shachor Ifergan"
-  - "Segev Shlomov"
-  - "Michal Jacovi"
-  - "Leshem Choshen"
-  - "Liat Ein-Dor"
-  - "Yoav Katz"
-  - "Michal Shmueli-Scheuer"
 date: "2026-02-26"
 arxiv_id: "2602.22953"
 arxiv_url: "https://arxiv.org/abs/2602.22953"
@@ -23,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22953v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Benchmark"
-  - "General-Purpose Agent"
-  - "Agent Framework"
-  - "Agent Leaderboard"
-  - "Agent Protocol"
-relevance_score: 8.5
+  - "Architecture & Frameworks"
+  - "Benchmark/Evaluation"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude Opus 4.5, Gemini 3"
+  key_technique: "Unified Protocol, Exgentic"
+  primary_benchmark: "Open General Agent Leaderboard (AppWorld, BrowseComp+, SWE-Bench Verified, Tau 2-Bench)"
 ---
 
 # General Agent Evaluation

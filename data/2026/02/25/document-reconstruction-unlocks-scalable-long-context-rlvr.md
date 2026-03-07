@@ -6,10 +6,6 @@ authors:
   - "Yue Deng"
   - "Guanzheng Chen"
   - "Ziqi Jin"
-  - "Jung-jae Kim"
-  - "Xiaoli Li"
-  - "Roy Ka-wei Lee"
-  - "Lidong Bing"
 date: "2026-02-09"
 arxiv_id: "2602.08237"
 arxiv_url: "https://arxiv.org/abs/2602.08237"
@@ -17,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.08237v2"
 categories:
   - "cs.CL"
 tags:
-  - "强化学习"
-  - "长上下文处理"
-  - "无监督学习"
-  - "能力增强"
-  - "文档重建"
-  - "奖励设计"
-  - "基准评测"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-7B-Instruct-1M, LLaMA-3.1-8B-Instruct"
+  key_technique: "Unsupervised RLVR via document reconstruction"
+  primary_benchmark: "RULER, LongBench v2"
 ---
 
 # Document Reconstruction Unlocks Scalable Long-Context RLVR

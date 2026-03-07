@@ -12,12 +12,19 @@ categories:
   - "cs.AI"
   - "cs.RO"
 tags:
-  - "多智能体系统"
-  - "实时路径规划"
-  - "预算分配"
-  - "机器人学"
-  - "决策算法"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Budget Allocation Policies (BAPs) for windowed MAPF-LNS2"
+  primary_benchmark: "N/A"
 ---
 
 # Budget Allocation Policies for Real-Time Multi-Agent Path Finding

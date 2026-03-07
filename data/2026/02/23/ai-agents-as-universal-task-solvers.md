@@ -11,15 +11,17 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 推理"
-  - "Agent 规划"
-  - "Agent 自演化"
-  - "Agent 理论基础"
-  - "Agent 可扩展性"
-  - "Agent 学习理论"
-  - "任务求解"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "transductive inference for learning to reason"
+  primary_benchmark: "N/A"
 ---
 
 # AI Agents as Universal Task Solvers

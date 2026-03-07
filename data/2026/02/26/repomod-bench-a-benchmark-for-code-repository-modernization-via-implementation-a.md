@@ -6,7 +6,6 @@ authors:
   - "Yotam Raz"
   - "Belal Ahmed"
   - "Doron Serebro"
-  - "Antoine Raux"
 date: "2026-02-26"
 arxiv_id: "2602.22518"
 arxiv_url: "https://arxiv.org/abs/2602.22518"
@@ -15,12 +14,19 @@ github_url: "https://github.com/Modelcode-ai/mcode-benchmark"
 categories:
   - "cs.SE"
 tags:
-  - "Agent Benchmark"
-  - "Code Agent"
-  - "Agent Evaluation"
-  - "Repository-Level Task"
-  - "Autonomous Engineering"
+  - "Code & Software Engineering"
+  - "Benchmark/Evaluation"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "implementation-agnostic evaluation paradigm"
+  primary_benchmark: "RepoMod-Bench"
 ---
 
 # RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing

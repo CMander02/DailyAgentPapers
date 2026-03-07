@@ -12,13 +12,19 @@ categories:
   - "cs.SI"
   - "physics.soc-ph"
 tags:
-  - "多智能体系统"
-  - "资源分配"
-  - "社会行为模拟"
-  - "Agent行为分析"
-  - "系统涌现"
-  - "Agent评测"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "El Farol Bar problem framework applied to LLM agents"
+  primary_benchmark: "N/A"
 ---
 
 # Three AI-agents walk into a bar . . . . `Lord of the Flies' tribalism emerges among smart AI-Agents

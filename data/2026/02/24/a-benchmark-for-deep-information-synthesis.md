@@ -6,18 +6,6 @@ authors:
   - "Milan Gritta"
   - "Ronald Cardenas"
   - "Victor Prokhorov"
-  - "Lena Sophia Bolliger"
-  - "Aysim Toker"
-  - "Roy Miles"
-  - "Andreea-Maria Oncescu"
-  - "Jasivan Alex Sivakumar"
-  - "Philipp Borchert"
-  - "Ismail Elezi"
-  - "Meiru Zhang"
-  - "Ka Yiu Lee"
-  - "Guchun Zhang"
-  - "Jun Wang"
-  - "Gerasimos Lampouras"
 date: "2026-02-24"
 arxiv_id: "2602.21143"
 arxiv_url: "https://arxiv.org/abs/2602.21143"
@@ -28,12 +16,19 @@ categories:
   - "cs.IR"
   - "cs.LG"
 tags:
-  - "Agent Benchmark"
-  - "Information Synthesis"
-  - "Tool Use"
-  - "Reasoning"
-  - "Evaluation"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "DEEPSYNTH benchmark construction pipeline"
+  primary_benchmark: "DEEPSYNTH"
 ---
 
 # A Benchmark for Deep Information Synthesis

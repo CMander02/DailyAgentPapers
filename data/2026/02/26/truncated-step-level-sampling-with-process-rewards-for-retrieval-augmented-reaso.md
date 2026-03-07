@@ -12,14 +12,19 @@ categories:
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Reasoning"
-  - "Tool Use"
-  - "Search Engine"
-  - "Policy Gradient"
-  - "LLM-as-Judge"
-  - "Multi-step Reasoning"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SLATE (Step-Level Advantage estimation for Truncated Exploration), truncated step-level sampling, dense LLM-as-judge rewards"
+  primary_benchmark: "N/A"
 ---
 
 # Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning

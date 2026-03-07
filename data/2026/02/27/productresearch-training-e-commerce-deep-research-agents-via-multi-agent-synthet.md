@@ -13,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23716v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 数据合成"
-  - "工具使用"
-  - "Agent 训练/微调"
-  - "电子商务"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3-30B-A3B"
+  key_technique: "Multi-Agent Synthetic Trajectory Distillation"
+  primary_benchmark: "RACE"
 ---
 
 # ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation

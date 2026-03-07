@@ -6,7 +6,6 @@ authors:
   - "Andrea Tirinzoni"
   - "Marc G. Bellemare"
   - "Alessandro Lazaric"
-  - "Ahmed Touati"
 date: "2026-02-23"
 arxiv_id: "2602.19634"
 arxiv_url: "https://arxiv.org/abs/2602.19634"
@@ -16,13 +15,19 @@ categories:
   - "cs.AI"
   - "stat.ML"
 tags:
-  - "强化学习"
-  - "世界模型"
-  - "分层规划"
-  - "策略组合"
-  - "长时程预测"
-  - "离线学习"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "World Modeling & Simulation"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "World Modeling & Simulation"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "jumpy world models, Temporal Difference Flows with consistency objective"
+  primary_benchmark: "N/A"
 ---
 
 # Compositional Planning with Jumpy World Models

@@ -11,12 +11,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "任务导向对话"
-  - "LLM 推理"
-  - "多轮对话"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLM-driven multi-turn dialogue synthesis with trilevel optimization"
+  primary_benchmark: "RealReasoning (proposed dataset)"
 ---
 
 # LLM-Driven Multi-Turn Task-Oriented Dialogue Synthesis for Realistic Reasoning

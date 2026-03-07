@@ -6,9 +6,6 @@ authors:
   - "Yuxuan Hou"
   - "Zixun Sun"
   - "Yue Zhang"
-  - "Liang Zhang"
-  - "Siyuan Zhao"
-  - "Hehe Fan"
 date: "2026-02-28"
 arxiv_id: "2603.00582"
 arxiv_url: "https://arxiv.org/abs/2603.00582"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.00582v2"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "规划"
-  - "工具使用"
-  - "Agent 评测/基准"
-  - "自主研究"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Super Research (structured decomposition, super wide retrieval, super deep investigation)"
+  primary_benchmark: "Super Research Benchmark (300 expert-written questions)"
 ---
 
 # Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research

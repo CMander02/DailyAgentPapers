@@ -9,12 +9,17 @@ pdf_url: "https://arxiv.org/pdf/2602.15090v2"
 categories:
   - "cs.SE"
 tags:
-  - "Agent 设计框架"
-  - "Agent 治理与评估"
-  - "多智能体系统"
-  - "Agent 工具使用"
-  - "Agent 项目管理"
-relevance_score: 8.0
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Automation Canvas (AAC)"
+  primary_benchmark: "N/A"
 ---
 
 # The Agentic Automation Canvas: a structured framework for agentic AI project design

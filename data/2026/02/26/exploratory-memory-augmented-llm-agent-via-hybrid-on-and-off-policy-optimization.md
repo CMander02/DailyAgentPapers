@@ -14,13 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "强化学习"
-  - "记忆"
-  - "探索"
-  - "混合优化"
-  - "泛化性"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Learning & Optimization"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Exploratory Memory-Augmented On- and Off-Policy Optimization (EMPO^2)"
+  primary_benchmark: "ScienceWorld, WebShop"
 ---
 
 # Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization

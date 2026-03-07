@@ -6,11 +6,6 @@ authors:
   - "Huahui Yi"
   - "Kun Wang"
   - "Xi Chen"
-  - "Gongli Xi"
-  - "Qiankun Li"
-  - "Kang Li"
-  - "Yang Liu"
-  - "Zhigang Zeng"
 date: "2026-03-03"
 arxiv_id: "2603.02635"
 arxiv_url: "https://arxiv.org/abs/2603.02635"
@@ -19,13 +14,19 @@ github_url: "https://github.com/Duebassx/SaFeR_ToolKit"
 categories:
   - "cs.LG"
 tags:
-  - "Agent Safety"
-  - "Tool Use"
-  - "Structured Reasoning"
-  - "Multimodal Agent"
-  - "Agent Alignment"
-  - "Agent Training"
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-VL"
+  key_technique: "SaFeR-ToolKit, three-stage curriculum (SFT → DPO → GRPO)"
+  primary_benchmark: "N/A"
 ---
 
 # SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety

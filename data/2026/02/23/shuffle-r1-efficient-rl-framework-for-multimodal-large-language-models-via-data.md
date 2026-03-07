@@ -6,10 +6,6 @@ authors:
   - "Dingkang Liang"
   - "Jianzhong Ju"
   - "Zhenbo Luo"
-  - "Bin Qin"
-  - "Jian Luan"
-  - "Yuliang Liu"
-  - "Xiang Bai"
 date: "2025-08-07"
 arxiv_id: "2508.05612"
 arxiv_url: "https://arxiv.org/abs/2508.05612"
@@ -18,14 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "强化学习"
-  - "多模态大语言模型"
-  - "后训练"
-  - "推理能力"
-  - "数据效率"
-  - "训练优化"
-  - "Agentic 强化学习"
-relevance_score: 7.5
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 4.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Shuffle-R1 (Pairwise Trajectory Sampling, Advantage-based Trajectory Shuffle)"
+  primary_benchmark: "N/A"
 ---
 
 # Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle

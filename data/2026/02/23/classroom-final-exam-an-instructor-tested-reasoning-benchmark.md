@@ -6,8 +6,6 @@ authors:
   - "Shuyan Zhou"
   - "Xichen Yan"
   - "Luchuan Song"
-  - "Shuo Li"
-  - "Kezhen Chen"
 date: "2026-02-23"
 arxiv_id: "2602.19517"
 arxiv_url: "https://arxiv.org/abs/2602.19517"
@@ -19,14 +17,17 @@ categories:
   - "cs.CL"
   - "cs.CV"
 tags:
-  - "Agent Benchmark"
-  - "Reasoning Evaluation"
-  - "Multimodal Benchmark"
-  - "STEM"
-  - "Diagnostic Analysis"
-  - "Step Efficiency"
-  - "Error Accumulation"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Gemini-3.1-pro-preview, Gemini-3-flash-preview, Qwen 3.5"
+  key_technique: "variable-based verification protocol"
+  primary_benchmark: "CFE (Classroom Final Exam)"
 ---
 
 # Classroom Final Exam: An Instructor-Tested Reasoning Benchmark

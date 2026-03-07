@@ -6,11 +6,6 @@ authors:
   - "Tingwei Chen"
   - "Haoning Shang"
   - "Ling Yang"
-  - "Yunfeng Wan"
-  - "Zhuo Cao"
-  - "Xing Zi"
-  - "Dimitris N. Metaxas"
-  - "Min Xu"
 date: "2026-03-04"
 arxiv_id: "2603.03761"
 arxiv_url: "https://arxiv.org/abs/2603.03761"
@@ -19,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.IR"
 tags:
-  - "Agent Benchmark"
-  - "Agent Recommendation"
-  - "Agent Selection"
-  - "Tool Use"
-  - "Agent Ecosystem"
-  - "Evaluation"
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentSelect benchmark (narrative query-to-agent recommendation over capability profiles)"
+  primary_benchmark: "AgentSelect"
 ---
 
 # AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation

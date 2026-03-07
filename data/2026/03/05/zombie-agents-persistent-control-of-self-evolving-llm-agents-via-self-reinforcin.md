@@ -14,14 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent Security"
-  - "Self-Evolving Agents"
-  - "Long-Term Memory"
-  - "Persistent Attack"
-  - "Agent Architecture"
-  - "Multi-Session Agents"
-  - "Agent Vulnerabilities"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Safety & Alignment"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Zombie Agent attack framework (infection and trigger phases with mechanism-specific persistence strategies)"
+  primary_benchmark: "N/A"
 ---
 
 # Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections

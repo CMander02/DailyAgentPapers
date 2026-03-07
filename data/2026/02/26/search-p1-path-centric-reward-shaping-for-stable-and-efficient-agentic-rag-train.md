@@ -6,11 +6,6 @@ authors:
   - "Lingxiang Hu"
   - "Yiding Sun"
   - "Wenwei Li"
-  - "Linfang Shang"
-  - "Liqun Liu"
-  - "Peng Shu"
-  - "Huan Yu"
-  - "Jie Jiang"
 date: "2026-02-26"
 arxiv_id: "2602.22576"
 arxiv_url: "https://arxiv.org/abs/2602.22576"
@@ -20,14 +15,19 @@ categories:
   - "cs.IR"
   - "cs.LG"
 tags:
-  - "Agentic RAG"
-  - "Agent 训练"
-  - "强化学习"
-  - "奖励塑形"
-  - "推理轨迹"
-  - "多步推理"
-  - "工具使用"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-7B, Qwen2.5-3B"
+  key_technique: "Search-P1 (Path-Centric Reward Shaping, Dual-Track Path Scoring)"
+  primary_benchmark: "N/A"
 ---
 
 # Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training

@@ -14,15 +14,19 @@ categories:
   - "cs.MA"
   - "cs.CY"
 tags:
-  - "多智能体系统"
-  - "因果责任"
-  - "空间交互"
-  - "自主系统"
-  - "责任度量"
-  - "群体智能"
-  - "人机交互"
-  - "自动驾驶"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Feasible Action-Space Reduction by Groups (FeAR), tiering algorithm for identifying assertive agents"
+  primary_benchmark: "N/A"
 ---
 
 # Using Feasible Action-Space Reduction by Groups to fill Causal Responsibility Gaps in Spatial Interactions

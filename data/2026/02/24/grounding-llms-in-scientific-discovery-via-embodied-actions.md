@@ -6,7 +6,6 @@ authors:
   - "Yuxuan Chen"
   - "Jianing Yin"
   - "Minlie Huang"
-  - "Hongning Wang"
 date: "2026-02-24"
 arxiv_id: "2602.20639"
 arxiv_url: "https://arxiv.org/abs/2602.20639"
@@ -14,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20639v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "科学发现"
-  - "具身智能"
-  - "感知-执行循环"
-  - "长期规划"
-  - "仿真环境"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "World Modeling & Simulation"
+relevance_score: 4.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "World Modeling & Simulation"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "EmbodiedAct"
+  primary_benchmark: "N/A"
 ---
 
 # Grounding LLMs in Scientific Discovery via Embodied Actions

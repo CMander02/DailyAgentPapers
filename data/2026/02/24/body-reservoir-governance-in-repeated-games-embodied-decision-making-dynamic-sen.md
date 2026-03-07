@@ -12,16 +12,19 @@ categories:
   - "cs.NE"
   - "nlin.AO"
 tags:
-  - "Agent Architecture"
+  - "Reasoning & Planning"
   - "Multi-Agent Systems"
-  - "Embodied AI"
-  - "Decision-Making"
-  - "Reinforcement Learning"
-  - "Game Theory"
-  - "Dynamical Systems"
-  - "Computational Cost"
-  - "Adaptive Systems"
-relevance_score: 8.5
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Body-Reservoir Governance (BRG) architecture, dynamic sentinel model"
+  primary_benchmark: "N/A"
 ---
 
 # Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization

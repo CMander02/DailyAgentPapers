@@ -6,12 +6,6 @@ authors:
   - "Songtao Wei"
   - "Jinxin Yang"
   - "Ayushi Kishore"
-  - "Alysa Zhao"
-  - "Dingyi Kang"
-  - "Xu Hu"
-  - "Feng Chen"
-  - "Qiannan Li"
-  - "Bingzhe Li"
 date: "2026-02-22"
 arxiv_id: "2602.19320"
 arxiv_url: "https://arxiv.org/abs/2602.19320"
@@ -20,14 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 记忆"
-  - "Agent 评测"
-  - "系统分析"
-  - "LLM Agent"
-  - "长程推理"
-  - "个性化"
+  - "Memory & Context Management"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "Taxonomy of Memory-Augmented Generation (MAG) systems"
+  primary_benchmark: "N/A"
 ---
 
 # Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations

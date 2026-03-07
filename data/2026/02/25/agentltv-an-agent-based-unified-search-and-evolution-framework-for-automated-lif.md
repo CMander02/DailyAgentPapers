@@ -6,10 +6,6 @@ authors:
   - "Congde Yuan"
   - "Qirui Yang"
   - "Guoqing Song"
-  - "Yue Gao"
-  - "Li Luo"
-  - "Frank Youhua Chen"
-  - "Mengzhuo Guo"
 date: "2026-02-25"
 arxiv_id: "2602.21634"
 arxiv_url: "https://arxiv.org/abs/2602.21634"
@@ -18,14 +14,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 数据合成/规划/推理/记忆/工具使用"
-  - "LLM 应用于 Agent 场景"
-  - "自动化机器学习"
-  - "代码生成与执行"
-  - "搜索与演化算法"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentLTV (two-stage search with MCTS and Evolutionary Algorithm)"
+  primary_benchmark: "N/A"
 ---
 
 # AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction

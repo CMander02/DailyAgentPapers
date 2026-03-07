@@ -6,7 +6,6 @@ authors:
   - "Tae Soo Kim"
   - "Young-Ho Kim"
   - "Sangdoo Yun"
-  - "Juho Kim"
 date: "2025-09-18"
 arxiv_id: "2509.14537"
 arxiv_url: "https://arxiv.org/abs/2509.14537"
@@ -15,12 +14,19 @@ categories:
   - "cs.HC"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "人机协作"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Reasoning & Planning"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "CLEAR approach (Cognitive decision steps, in-situ questioning, rationale inference)"
+  primary_benchmark: "N/A"
 ---
 
 # ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference

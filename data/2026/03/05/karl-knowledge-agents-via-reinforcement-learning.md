@@ -6,21 +6,6 @@ authors:
   - "Shubham Toshniwal"
   - "Owen Oertell"
   - "Alexander Trott"
-  - "Jacob Portes"
-  - "Abhay Gupta"
-  - "Pallavi Koppol"
-  - "Ashutosh Baheti"
-  - "Sean Kulinski"
-  - "Ivan Zhou"
-  - "Irene Dea"
-  - "Krista Opsahl-Ong"
-  - "Simon Favreau-Lessard"
-  - "Sean Owen"
-  - "Jose Javier Gonzalez Ortiz"
-  - "Arnav Singhvi"
-  - "Xabi Andrade"
-  - "Cindy Wang"
-  - "Kartik Sreenivasan"
 date: "2026-03-05"
 arxiv_id: "2603.05218"
 arxiv_url: "https://arxiv.org/abs/2603.05218"
@@ -29,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "工具使用"
-  - "强化学习"
-  - "多任务训练"
-  - "企业搜索"
-  - "知识推理"
-  - "基准评测"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "iterative large-batch off-policy RL, agentic synthesis pipeline"
+  primary_benchmark: "KARLBench"
 ---
 
 # KARL: Knowledge Agents via Reinforcement Learning

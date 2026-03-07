@@ -11,15 +11,19 @@ categories:
   - "cs.HC"
   - "cs.MA"
 tags:
-  - "Agent Architecture"
-  - "Mobile Agent"
-  - "Personal Agent"
-  - "Agent Deployment"
-  - "On-Device AI"
-  - "Agent Wake/Sleep"
-  - "Agent Communication"
-  - "Agent-Centric Design"
-relevance_score: 8.5
+  - "Architecture & Frameworks"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Jagarin (Three-layer architecture: DAWN, ARIA, ACE)"
+  primary_benchmark: "N/A"
 ---
 
 # Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile

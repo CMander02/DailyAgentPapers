@@ -6,21 +6,6 @@ authors:
   - "Zaid Sheikh"
   - "Ziru Chen"
   - "Boyu Gou"
-  - "Tianbao Xie"
-  - "Yiheng Xu"
-  - "Danyang Zhang"
-  - "Apurva Gandhi"
-  - "Fan Yang"
-  - "Joseph Liu"
-  - "Tianyue Ou"
-  - "Zhihao Yuan"
-  - "Frank Xu"
-  - "Shuyan Zhou"
-  - "Xingyao Wang"
-  - "Xiang Yue"
-  - "Tao Yu"
-  - "Huan Sun"
-  - "Yu Su"
 date: "2025-10-28"
 arxiv_id: "2510.24702"
 arxiv_url: "https://arxiv.org/abs/2510.24702"
@@ -29,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 数据合成"
-  - "Agent 训练"
-  - "监督微调"
-  - "数据集标准化"
-  - "工具使用"
-  - "Agent 架构"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agent Data Protocol (ADP)"
+  primary_benchmark: "N/A"
 ---
 
 # Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents

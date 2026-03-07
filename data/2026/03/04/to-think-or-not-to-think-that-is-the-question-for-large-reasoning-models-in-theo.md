@@ -6,7 +6,6 @@ authors:
   - "Sixun Dong"
   - "Jianxun Lian"
   - "Yanjie Fu"
-  - "Xing Xie"
 date: "2026-02-11"
 arxiv_id: "2602.10625"
 arxiv_url: "https://arxiv.org/abs/2602.10625"
@@ -15,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Theory of Mind"
-  - "Agent Reasoning"
-  - "LLM Evaluation"
-  - "Social Reasoning"
-  - "Cognitive Skills"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "DeepSeek-R1, Qwen3-8B-Reasoning, DeepSeek-V3, Qwen3-8B"
+  key_technique: "Slow-to-Fast (S2F) adaptive reasoning, Think-to-Match (T2M) shortcut prevention"
+  primary_benchmark: "HiToM, ToMATO, ToMBench"
 ---
 
 # To Think or Not To Think, That is The Question for Large Reasoning Models in Theory of Mind Tasks

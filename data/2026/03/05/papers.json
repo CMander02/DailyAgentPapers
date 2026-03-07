@@ -16,165 +16,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04900",
     "pdf_url": "https://arxiv.org/pdf/2603.04900v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Agent 架构",
-      "工具使用",
-      "策略优化",
-      "自演化",
-      "模块化",
-      "进化算法",
-      "信用分配",
-      "长视野任务"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/05/evotool-self-evolving-tool-use-policy-optimization-in-llm-agents-via-blame-aware.md"
-  },
-  {
-    "arxiv_id": "2603.04815",
-    "version": 1,
-    "title": "EchoGuard: An Agentic Framework with Knowledge-Graph Memory for Detecting Manipulative Communication in Longitudinal Dialogue",
-    "authors": [
-      "Ratna Kandala",
-      "Niva Manchanda",
-      "Akshata Kishore Moharir",
-      "Ananth Kandala"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04815",
-    "pdf_url": "https://arxiv.org/pdf/2603.04815v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent Architecture",
-      "Knowledge Graph Memory",
-      "Agentic AI",
-      "Multi-Agent System",
-      "Longitudinal Memory",
-      "Tool Use",
-      "Reasoning",
-      "Personalized Agent"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/05/echoguard-an-agentic-framework-with-knowledge-graph-memory-for-detecting-manipul.md"
-  },
-  {
-    "arxiv_id": "2603.04740",
-    "version": 1,
-    "title": "Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens",
-    "authors": [
-      "Zhenghui Li"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04740",
-    "pdf_url": "https://arxiv.org/pdf/2603.04740v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent 架构",
-      "记忆系统",
-      "数字身份",
-      "长期智能体",
-      "本体论",
-      "治理框架",
-      "多智能体系统"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/05/memory-as-ontology-a-constitutional-memory-architecture-for-persistent-digital-c.md"
-  },
-  {
-    "arxiv_id": "2602.15654",
-    "version": 2,
-    "title": "Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections",
-    "authors": [
-      "Xianglin Yang",
-      "Yufei He",
-      "Shuo Ji",
-      "Bryan Hooi",
-      "Jin Song Dong"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.CR",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2602.15654",
-    "pdf_url": "https://arxiv.org/pdf/2602.15654v2",
-    "published": "2026-02-17",
-    "tags": [
-      "Agent Security",
-      "Self-Evolving Agents",
-      "Long-Term Memory",
-      "Persistent Attack",
-      "Agent Architecture",
-      "Multi-Session Agents",
-      "Agent Vulnerabilities"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/05/zombie-agents-persistent-control-of-self-evolving-llm-agents-via-self-reinforcin.md"
-  },
-  {
-    "arxiv_id": "2603.01145",
-    "version": 2,
-    "title": "AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution",
-    "authors": [
-      "Yutao Yang",
-      "Junsong Li",
-      "Qianjun Pan",
-      "Bihao Zhan",
-      "Yuxuan Cai"
-    ],
-    "author_count": 12,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.01145",
-    "pdf_url": "https://arxiv.org/pdf/2603.01145v2",
-    "published": "2026-03-01",
-    "tags": [
-      "Agent 架构",
-      "Agent 自演化",
-      "Agent 记忆",
-      "个性化",
-      "技能学习",
-      "终身学习",
-      "经验驱动",
-      "模型无关"
-    ],
-    "relevance_score": 9.5,
-    "md_path": "data/2026/03/05/autoskill-experience-driven-lifelong-learning-via-skill-self-evolution.md"
-  },
-  {
-    "arxiv_id": "2603.05344",
-    "version": 1,
-    "title": "Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned",
-    "authors": [
-      "Nghi D. Q. Bui"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05344",
-    "pdf_url": "https://arxiv.org/pdf/2603.05344v1",
-    "published": "2026-03-05",
-    "tags": [
-      "AI Coding Agent",
-      "Agent Architecture",
-      "Tool Use",
-      "Planning and Execution",
-      "Context Management",
-      "Memory System",
-      "Compound AI System",
-      "Autonomous Software Engineering"
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
     ],
     "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/building-ai-coding-agents-for-the-terminal-scaffolding-harness-context-engineeri.md"
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "GPT-4.1, Qwen3-8B",
+      "key_technique": "EvoTool (Trajectory-Grounded Blame Attribution, Feedback-Guided Targeted Mutation, Diversity-Aware Population Selection)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/evotool-self-evolving-tool-use-policy-optimization-in-llm-agents-via-blame-aware.md"
   },
   {
     "arxiv_id": "2603.05294",
@@ -193,48 +55,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.05294",
     "pdf_url": "https://arxiv.org/pdf/2603.05294v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Agent Architecture",
-      "Planning",
-      "Hierarchical Planning",
-      "Long-Horizon Tasks",
-      "Web Agent",
-      "Memory",
-      "Sequential Decision-Making"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "STRUCTUREDAGENT (hierarchical planning with dynamic AND/OR trees and structured memory)",
+      "primary_benchmark": "WebVoyager, WebArena, custom shopping benchmarks"
+    },
     "md_path": "data/2026/03/05/structuredagent-planning-with-andor-trees-for-long-horizon-web-tasks.md"
-  },
-  {
-    "arxiv_id": "2603.05240",
-    "version": 1,
-    "title": "GCAgent: Enhancing Group Chat Communication through Dialogue Agents System",
-    "authors": [
-      "Zijie Meng",
-      "Zheyong Xie",
-      "Zheyu Ye",
-      "Chonggang Lu",
-      "Zuozhu Liu"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05240",
-    "pdf_url": "https://arxiv.org/pdf/2603.05240v1",
-    "published": "2026-03-05",
-    "tags": [
-      "多智能体系统",
-      "对话智能体",
-      "Agent架构",
-      "LLM驱动系统",
-      "群体对话",
-      "Agent协调",
-      "工具使用"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/gcagent-enhancing-group-chat-communication-through-dialogue-agents-system.md"
   },
   {
     "arxiv_id": "2603.05218",
@@ -254,107 +95,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.05218",
     "pdf_url": "https://arxiv.org/pdf/2603.05218v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Agent 架构",
-      "Agent 数据合成",
-      "工具使用",
-      "强化学习",
-      "多任务训练",
-      "企业搜索",
-      "知识推理",
-      "基准评测"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "iterative large-batch off-policy RL, agentic synthesis pipeline",
+      "primary_benchmark": "KARLBench"
+    },
     "md_path": "data/2026/03/05/karl-knowledge-agents-via-reinforcement-learning.md"
-  },
-  {
-    "arxiv_id": "2603.05044",
-    "version": 1,
-    "title": "WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents",
-    "authors": [
-      "Sicheng Fan",
-      "Qingyun Shi",
-      "Shengze Xu",
-      "Shengbo Cai",
-      "Tieyong Zeng"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05044",
-    "pdf_url": "https://arxiv.org/pdf/2603.05044v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent 架构",
-      "强化学习",
-      "工具使用",
-      "数据合成",
-      "Agent 评测",
-      "GUI Agent",
-      "Web Agent"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/webfactory-automated-compression-of-foundational-language-intelligence-into-grou.md"
-  },
-  {
-    "arxiv_id": "2603.04873",
-    "version": 1,
-    "title": "SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms",
-    "authors": [
-      "Longkun Xu",
-      "Xiaochun Zhang",
-      "Qiantu Tuo",
-      "Rui Li"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04873",
-    "pdf_url": "https://arxiv.org/pdf/2603.04873v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent 架构",
-      "自演化",
-      "代码生成",
-      "规划与推理",
-      "工具使用",
-      "强化学习"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/sea-ts-self-evolving-agent-for-autonomous-code-generation-of-time-series-forecas.md"
-  },
-  {
-    "arxiv_id": "2603.04750",
-    "version": 1,
-    "title": "HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel",
-    "authors": [
-      "The Viet Bui",
-      "Wenjun Li",
-      "Yong Liu"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04750",
-    "pdf_url": "https://arxiv.org/pdf/2603.04750v1",
-    "published": "2026-03-05",
-    "tags": [
-      "多智能体系统",
-      "分层规划",
-      "长程规划",
-      "约束满足",
-      "资源分配",
-      "并行执行",
-      "协调机制",
-      "Agent架构"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/himap-travel-hierarchical-multi-agent-planning-for-long-horizon-constrained-trav.md"
   },
   {
     "arxiv_id": "2603.04384",
@@ -373,69 +134,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04384",
     "pdf_url": "https://arxiv.org/pdf/2603.04384v2",
+    "github_url": "",
     "published": "2026-03-04",
     "tags": [
-      "Agent 架构",
-      "工具使用",
-      "检索增强",
-      "推理",
-      "数据合成",
-      "智能体评测"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Tongyi-DeepResearch, gpt-oss-120B, GLM-4.7",
+      "key_technique": "Reasoning-Aware Retrieval, DR-Synth",
+      "primary_benchmark": "BrowseComp-Plus"
+    },
     "md_path": "data/2026/03/05/agentir-reasoning-aware-retrieval-for-deep-research-agents.md"
-  },
-  {
-    "arxiv_id": "2601.14132",
-    "version": 2,
-    "title": "Toward architecting self-coding information systems",
-    "authors": [
-      "Rodrigo Falcão",
-      "Frank Elberzhager",
-      "Karthik Vaidhyanathan"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.SE"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2601.14132",
-    "pdf_url": "https://arxiv.org/pdf/2601.14132v2",
-    "published": "2026-01-20",
-    "tags": [
-      "Agent Architecture",
-      "Self-Evolving Agent",
-      "Tool Use",
-      "Code Generation",
-      "Autonomous Systems"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/toward-architecting-self-coding-information-systems.md"
-  },
-  {
-    "arxiv_id": "2603.01620",
-    "version": 3,
-    "title": "ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents",
-    "authors": [
-      "Pengbo Liu"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.01620",
-    "pdf_url": "https://arxiv.org/pdf/2603.01620v3",
-    "published": "2026-03-02",
-    "tags": [
-      "工具使用",
-      "强化学习",
-      "奖励设计",
-      "领域特定Agent",
-      "后训练",
-      "Agent对齐",
-      "Agent评测"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/toolrla-multiplicative-reward-decomposition-for-tool-integrated-agents.md"
   },
   {
     "arxiv_id": "2512.10534",
@@ -454,50 +173,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2512.10534",
     "pdf_url": "https://arxiv.org/pdf/2512.10534v3",
+    "github_url": "",
     "published": "2025-12-11",
     "tags": [
-      "LLM Agent",
-      "Agent Architecture",
-      "Mathematical Reasoning",
-      "Tool Use",
-      "Reinforcement Learning",
-      "Agentic RL",
-      "Planning",
-      "Memory",
-      "Agent Evaluation"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "InternThinker-32B",
+      "key_technique": "Complexity-Boosting Reinforcement Learning (CBRL)",
+      "primary_benchmark": "IMO geometry problems (2000-2024)"
+    },
     "md_path": "data/2026/03/05/achieving-olympia-level-geometry-large-language-model-agent-via-complexity-boost.md"
-  },
-  {
-    "arxiv_id": "2512.18832",
-    "version": 2,
-    "title": "From Word to World: Can Large Language Models be Implicit Text-based World Models?",
-    "authors": [
-      "Yixia Li",
-      "Hongru Wang",
-      "Jiahao Qiu",
-      "Zhenfei Yin",
-      "Dongdong Zhang"
-    ],
-    "author_count": 10,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2512.18832",
-    "pdf_url": "https://arxiv.org/pdf/2512.18832v2",
-    "published": "2025-12-21",
-    "tags": [
-      "World Model",
-      "Agentic Reinforcement Learning",
-      "Text-based Environment",
-      "LLM Evaluation",
-      "Simulated Experience",
-      "Agent Learning",
-      "Next-State Prediction"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/from-word-to-world-can-large-language-models-be-implicit-text-based-world-models.md"
   },
   {
     "arxiv_id": "2603.01209",
@@ -517,399 +213,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.01209",
     "pdf_url": "https://arxiv.org/pdf/2603.01209v2",
+    "github_url": "",
     "published": "2026-03-01",
     "tags": [
-      "Agent 架构",
-      "工具使用",
-      "Agent 训练",
-      "运行时状态",
-      "代码执行",
-      "微调",
-      "训练-部署对齐"
+      "Tool Use & API Interaction",
+      "Memory & Context Management"
     ],
     "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "Qwen3-8B",
+      "key_technique": "Opaque Knapsack (paired trace generation pipeline)",
+      "primary_benchmark": "Opaque Knapsack"
+    },
     "md_path": "data/2026/03/05/agents-learn-their-runtime-interpreter-persistence-as-training-time-semantics.md"
-  },
-  {
-    "arxiv_id": "2601.22571",
-    "version": 2,
-    "title": "PerfGuard: A Performance-Aware Agent for Visual Content Generation",
-    "authors": [
-      "Zhipeng Chen",
-      "Zhongrui Zhang",
-      "Chao Zhang",
-      "Yifan Xu",
-      "Lan Yang"
-    ],
-    "author_count": 8,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2601.22571",
-    "pdf_url": "https://arxiv.org/pdf/2601.22571v2",
-    "published": "2026-01-30",
-    "tags": [
-      "Agent 架构",
-      "工具使用",
-      "任务规划",
-      "性能建模",
-      "视觉内容生成",
-      "AIGC"
-    ],
-    "relevance_score": 9.0,
-    "md_path": "data/2026/03/05/perfguard-a-performance-aware-agent-for-visual-content-generation.md",
-    "github_url": "https://github.com/FelixChan9527/PerfGuard"
-  },
-  {
-    "arxiv_id": "2603.05120",
-    "version": 1,
-    "title": "Bidirectional Curriculum Generation: A Multi-Agent Framework for Data-Efficient Mathematical Reasoning",
-    "authors": [
-      "Boren Hu",
-      "Xiao Liu",
-      "Boci Peng",
-      "Xinping Zhao",
-      "Xiaoran Shang"
-    ],
-    "author_count": 7,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05120",
-    "pdf_url": "https://arxiv.org/pdf/2603.05120v1",
-    "published": "2026-03-05",
-    "tags": [
-      "多智能体系统",
-      "课程学习",
-      "数据合成",
-      "数学推理",
-      "Agent框架",
-      "数据效率"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/bidirectional-curriculum-generation-a-multi-agent-framework-for-data-efficient-m.md"
-  },
-  {
-    "arxiv_id": "2603.05069",
-    "version": 1,
-    "title": "Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile",
-    "authors": [
-      "Ravi Kiran Kadaboina"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.HC",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05069",
-    "pdf_url": "https://arxiv.org/pdf/2603.05069v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent Architecture",
-      "Mobile Agent",
-      "Personal Agent",
-      "Agent Deployment",
-      "On-Device AI",
-      "Agent Wake/Sleep",
-      "Agent Communication",
-      "Agent-Centric Design"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/jagarin-a-three-layer-architecture-for-hibernating-personal-duty-agents-on-mobil.md"
-  },
-  {
-    "arxiv_id": "2603.04904",
-    "version": 1,
-    "title": "Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems",
-    "authors": [
-      "Hiroki Fukui"
-    ],
-    "author_count": 1,
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04904",
-    "pdf_url": "https://arxiv.org/pdf/2603.04904v1",
-    "published": "2026-03-05",
-    "tags": [
-      "多智能体系统",
-      "Agent安全",
-      "对齐",
-      "语言与文化",
-      "Agent评测",
-      "集体行为"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/alignment-backfire-language-dependent-reversal-of-safety-interventions-across-16.md"
-  },
-  {
-    "arxiv_id": "2603.04814",
-    "version": 1,
-    "title": "Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents",
-    "authors": [
-      "Natchanon Pollertlam",
-      "Witchayut Kornsuwannawit"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04814",
-    "pdf_url": "https://arxiv.org/pdf/2603.04814v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent Memory",
-      "Persistent Agent",
-      "Cost-Performance Analysis",
-      "Long-Context LLM",
-      "Fact-Based Memory",
-      "Agent Architecture",
-      "Agent Evaluation"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/beyond-the-context-window-a-cost-performance-analysis-of-fact-based-memory-vs-lo.md"
-  },
-  {
-    "arxiv_id": "2603.04746",
-    "version": 1,
-    "title": "Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research",
-    "authors": [
-      "Bowen Lou",
-      "Tian Lu",
-      "T. S. Raghu",
-      "Yingjie Zhang"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI",
-      "cs.HC",
-      "econ.GN"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04746",
-    "pdf_url": "https://arxiv.org/pdf/2603.04746v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Human-AI Teaming",
-      "Agentic AI",
-      "Team Situation Awareness",
-      "Alignment",
-      "Structural Uncertainty",
-      "Multi-Agent Systems",
-      "Agent Theory"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/visioning-human-agentic-ai-teaming-continuity-tension-and-future-research.md"
-  },
-  {
-    "arxiv_id": "2510.17276",
-    "version": 2,
-    "title": "Breaking and Fixing Defenses Against Control-Flow Hijacking in Multi-Agent Systems",
-    "authors": [
-      "Rishi Jha",
-      "Harold Triedman",
-      "Justin Wagle",
-      "Vitaly Shmatikov"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.LG",
-      "cs.CR",
-      "eess.SY"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2510.17276",
-    "pdf_url": "https://arxiv.org/pdf/2510.17276v2",
-    "published": "2025-10-20",
-    "tags": [
-      "多智能体系统",
-      "Agent安全",
-      "Agent防御",
-      "控制流劫持",
-      "Agent编排",
-      "Agent通信",
-      "系统安全"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/breaking-and-fixing-defenses-against-control-flow-hijacking-in-multi-agent-syste.md"
-  },
-  {
-    "arxiv_id": "2511.21033",
-    "version": 2,
-    "title": "Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning",
-    "authors": [
-      "Linze Chen",
-      "Yufan Cai",
-      "Zhe Hou",
-      "Jin Song Dong"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2511.21033",
-    "pdf_url": "https://arxiv.org/pdf/2511.21033v2",
-    "published": "2025-11-26",
-    "tags": [
-      "LLM Agent",
-      "Multi-Agent System",
-      "Formal Reasoning",
-      "Tool Use",
-      "Reasoning",
-      "Trustworthy AI",
-      "Legal AI"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/towards-trustworthy-legal-ai-through-llm-agents-and-formal-reasoning.md"
-  },
-  {
-    "arxiv_id": "2603.03589",
-    "version": 2,
-    "title": "stratum: A System Infrastructure for Massive Agent-Centric ML Workloads",
-    "authors": [
-      "Arnab Phani",
-      "Elias Strauss",
-      "Sebastian Schelter"
-    ],
-    "author_count": 3,
-    "categories": [
-      "cs.DB",
-      "cs.LG"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03589",
-    "pdf_url": "https://arxiv.org/pdf/2603.03589v2",
-    "published": "2026-03-03",
-    "tags": [
-      "Agent 系统架构",
-      "Agent 工作负载",
-      "ML 管道",
-      "系统优化",
-      "Agent 规划与执行",
-      "Agent 评测/基准"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/stratum-a-system-infrastructure-for-massive-agent-centric-ml-workloads.md"
-  },
-  {
-    "arxiv_id": "2510.00507",
-    "version": 3,
-    "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
-    "authors": [
-      "Yurun Chen",
-      "Xavier Hu",
-      "Yuhan Liu",
-      "Ziqi Wang",
-      "Zeyi Liao"
-    ],
-    "author_count": 11,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2510.00507",
-    "pdf_url": "https://arxiv.org/pdf/2510.00507v3",
-    "published": "2025-10-01",
-    "tags": [
-      "Agent Evaluation",
-      "Benchmark Generation",
-      "Multimodal Agent",
-      "Knowledge Graph",
-      "Task Synthesis",
-      "RAG Agent",
-      "Web Agent",
-      "Agent Capability Assessment"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/graph2eval-automatic-multimodal-task-generation-for-agents-via-knowledge-graphs.md"
-  },
-  {
-    "arxiv_id": "2601.02663",
-    "version": 2,
-    "title": "When Do Tools and Planning Help Large Language Models Think? A Cost- and Latency-Aware Benchmark",
-    "authors": [
-      "Subha Ghoshal",
-      "Ali Al-Bustami"
-    ],
-    "author_count": 2,
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2601.02663",
-    "pdf_url": "https://arxiv.org/pdf/2601.02663v2",
-    "published": "2026-01-06",
-    "tags": [
-      "Agent 架构",
-      "工具使用",
-      "规划与推理",
-      "Agent 评测/基准",
-      "成本与效率分析"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/when-do-tools-and-planning-help-large-language-models-think-a-cost-and-latency-a.md"
-  },
-  {
-    "arxiv_id": "2603.03378",
-    "version": 2,
-    "title": "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis",
-    "authors": [
-      "Pei Yang",
-      "Wanyi Chen",
-      "Asuka Yuxi Zheng",
-      "Xueqian Li",
-      "Xiang Li"
-    ],
-    "author_count": 14,
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.03378",
-    "pdf_url": "https://arxiv.org/pdf/2603.03378v2",
-    "published": "2026-03-03",
-    "tags": [
-      "LLM Agent",
-      "Multi-Agent System",
-      "Agent Training",
-      "Agentic Reinforcement Learning",
-      "Agent Self-Evolution",
-      "Tool Use",
-      "Reasoning",
-      "AIOps",
-      "Autonomous Operations"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/aoi-turning-failed-trajectories-into-training-signals-for-autonomous-cloud-diagn.md"
-  },
-  {
-    "arxiv_id": "2505.04997",
-    "version": 2,
-    "title": "Foam-Agent: Towards Automated Intelligent CFD Workflows",
-    "authors": [
-      "Ling Yue",
-      "Nithin Somasekharan",
-      "Tingwen Zhang",
-      "Yadi Cao",
-      "Zhangze Chen"
-    ],
-    "author_count": 7,
-    "categories": [
-      "cs.AI",
-      "cs.MA"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2505.04997",
-    "pdf_url": "https://arxiv.org/pdf/2505.04997v2",
-    "published": "2025-05-08",
-    "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "工具使用",
-      "工作流自动化",
-      "检索增强生成",
-      "依赖感知调度"
-    ],
-    "relevance_score": 8.5,
-    "md_path": "data/2026/03/05/foam-agent-towards-automated-intelligent-cfd-workflows.md"
   },
   {
     "arxiv_id": "2603.05295",
@@ -929,46 +253,328 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.05295",
     "pdf_url": "https://arxiv.org/pdf/2603.05295v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Agent 数据合成",
-      "Agent 评测/基准",
-      "Web Agent",
-      "多模态交互",
-      "规划与推理"
+      "Tool Use & API Interaction",
+      "Web & Browser Automation"
     ],
-    "relevance_score": 8.0,
+    "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Web & Browser Automation"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Dual Mid-Training",
+      "primary_benchmark": "WebChainBench"
+    },
     "md_path": "data/2026/03/05/webchain-a-large-scale-human-annotated-dataset-of-real-world-web-interaction-tra.md"
   },
   {
-    "arxiv_id": "2603.05129",
+    "arxiv_id": "2603.05044",
     "version": 1,
-    "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus",
+    "title": "WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents",
     "authors": [
-      "Zheng Li",
-      "Jiayi Xu",
-      "Zhikai Hu",
-      "Hechang Chen",
-      "Lele Cong"
+      "Sicheng Fan",
+      "Qingyun Shi",
+      "Shengze Xu",
+      "Shengbo Cai",
+      "Tieyong Zeng"
     ],
-    "author_count": 7,
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05044",
+    "pdf_url": "https://arxiv.org/pdf/2603.05044v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "N/A",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/webfactory-automated-compression-of-foundational-language-intelligence-into-grou.md"
+  },
+  {
+    "arxiv_id": "2603.04750",
+    "version": 1,
+    "title": "HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel",
+    "authors": [
+      "The Viet Bui",
+      "Wenjun Li",
+      "Yong Liu"
+    ],
+    "author_count": 3,
     "categories": [
       "cs.AI",
-      "cs.MA"
+      "cs.CL"
     ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05129",
-    "pdf_url": "https://arxiv.org/pdf/2603.05129v1",
+    "arxiv_url": "https://arxiv.org/abs/2603.04750",
+    "pdf_url": "https://arxiv.org/pdf/2603.04750v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Multi-Agent System",
-      "Retrieval-Augmented Generation (RAG)",
-      "Agent Collaboration",
-      "Interpretable Reasoning",
-      "Medical Diagnosis",
-      "Tool Use"
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Qwen3-8B",
+      "key_technique": "HiMAP-Travel (Hierarchical Multi-Agent Planning with synchronized global state, cooperative bargaining protocol, and unified role-conditioned policy trained with GRPO)",
+      "primary_benchmark": "TravelPlanner, FlexTravelBench"
+    },
+    "md_path": "data/2026/03/05/himap-travel-hierarchical-multi-agent-planning-for-long-horizon-constrained-trav.md"
+  },
+  {
+    "arxiv_id": "2512.18832",
+    "version": 2,
+    "title": "From Word to World: Can Large Language Models be Implicit Text-based World Models?",
+    "authors": [
+      "Yixia Li",
+      "Hongru Wang",
+      "Jiahao Qiu",
+      "Zhenfei Yin",
+      "Dongdong Zhang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2512.18832",
+    "pdf_url": "https://arxiv.org/pdf/2512.18832v2",
+    "github_url": "",
+    "published": "2025-12-21",
+    "tags": [
+      "World Modeling & Simulation",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "World Modeling & Simulation",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "LLM-based world model evaluation framework (fidelity/consistency, scalability/robustness, agent utility)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/from-word-to-world-can-large-language-models-be-implicit-text-based-world-models.md"
+  },
+  {
+    "arxiv_id": "2510.00507",
+    "version": 3,
+    "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
+    "authors": [
+      "Yurun Chen",
+      "Xavier Hu",
+      "Yuhan Liu",
+      "Ziqi Wang",
+      "Zeyi Liao"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2510.00507",
+    "pdf_url": "https://arxiv.org/pdf/2510.00507v3",
+    "github_url": "",
+    "published": "2025-10-01",
+    "tags": [
+      "Benchmark/Evaluation",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Benchmark/Evaluation",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Graph2Eval",
+      "primary_benchmark": "Graph2Eval-Bench"
+    },
+    "md_path": "data/2026/03/05/graph2eval-automatic-multimodal-task-generation-for-agents-via-knowledge-graphs.md"
+  },
+  {
+    "arxiv_id": "2603.01145",
+    "version": 2,
+    "title": "AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution",
+    "authors": [
+      "Yutao Yang",
+      "Junsong Li",
+      "Qianjun Pan",
+      "Bihao Zhan",
+      "Yuxuan Cai"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01145",
+    "pdf_url": "https://arxiv.org/pdf/2603.01145v2",
+    "github_url": "",
+    "published": "2026-03-01",
+    "tags": [
+      "Memory & Context Management",
+      "Learning & Optimization"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/medcorag-interpretable-hepatology-diagnosis-via-hybrid-evidence-retrieval-and-mu.md"
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AutoSkill",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/autoskill-experience-driven-lifelong-learning-via-skill-self-evolution.md"
+  },
+  {
+    "arxiv_id": "2603.01620",
+    "version": 3,
+    "title": "ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents",
+    "authors": [
+      "Pengbo Liu"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01620",
+    "pdf_url": "https://arxiv.org/pdf/2603.01620v3",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "Finance & Trading",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "ToolRLA (SFT -> GRPO -> DPO pipeline with multiplicative reward decomposition)",
+      "primary_benchmark": "ToolBench, API-Bank"
+    },
+    "md_path": "data/2026/03/05/toolrla-multiplicative-reward-decomposition-for-tool-integrated-agents.md"
+  },
+  {
+    "arxiv_id": "2510.17276",
+    "version": 2,
+    "title": "Breaking and Fixing Defenses Against Control-Flow Hijacking in Multi-Agent Systems",
+    "authors": [
+      "Rishi Jha",
+      "Harold Triedman",
+      "Justin Wagle",
+      "Vitaly Shmatikov"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2510.17276",
+    "pdf_url": "https://arxiv.org/pdf/2510.17276v2",
+    "github_url": "",
+    "published": "2025-10-20",
+    "tags": [
+      "Multi-Agent Systems",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Safety & Alignment"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "ControlValve",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/breaking-and-fixing-defenses-against-control-flow-hijacking-in-multi-agent-syste.md"
+  },
+  {
+    "arxiv_id": "2601.02663",
+    "version": 2,
+    "title": "When Do Tools and Planning Help Large Language Models Think? A Cost- and Latency-Aware Benchmark",
+    "authors": [
+      "Subha Ghoshal",
+      "Ali Al-Bustami"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2601.02663",
+    "pdf_url": "https://arxiv.org/pdf/2601.02663v2",
+    "github_url": "",
+    "published": "2026-01-06",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "GPT-4o, GPT-4o-mini",
+      "key_technique": "plan-execute-replan agent",
+      "primary_benchmark": "Event-QA, ChangeMyView (CMV)"
+    },
+    "md_path": "data/2026/03/05/when-do-tools-and-planning-help-large-language-models-think-a-cost-and-latency-a.md"
   },
   {
     "arxiv_id": "2603.05028",
@@ -988,47 +594,25 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.05028",
     "pdf_url": "https://arxiv.org/pdf/2603.05028v1",
+    "github_url": "https://github.com/thu-coai/Survive-at-All-Costs",
     "published": "2026-03-05",
     "tags": [
-      "Agent Safety",
-      "Agent Benchmark",
-      "Agent Behavior",
-      "LLM Misalignment",
-      "Self-Preservation"
+      "Safety & Alignment"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/survive-at-all-costs-exploring-llms-risky-behaviors-under-survival-pressure.md",
-    "github_url": "https://github.com/thu-coai/Survive-at-All-Costs"
-  },
-  {
-    "arxiv_id": "2603.05027",
-    "version": 1,
-    "title": "S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home",
-    "authors": [
-      "Janani Rangila",
-      "Akila Siriweera",
-      "Incheon Paik",
-      "Keitaro Naruse",
-      "Isuru Jayanada"
-    ],
-    "author_count": 6,
-    "categories": [
-      "cs.AI"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.05027",
-    "pdf_url": "https://arxiv.org/pdf/2603.05027v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Multi-Agent System",
-      "Agent Architecture",
-      "LLM-based Decision Making",
-      "Blockchain",
-      "Smart Home",
-      "Governance",
-      "Autonomous Systems"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/s5-shb-agent-society-50-enabled-multi-model-agentic-blockchain-framework-for-sma.md"
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "SurvivalBench benchmark, persona vector analysis",
+      "primary_benchmark": "SurvivalBench"
+    },
+    "md_path": "data/2026/03/05/survive-at-all-costs-exploring-llms-risky-behaviors-under-survival-pressure.md"
   },
   {
     "arxiv_id": "2603.04949",
@@ -1047,105 +631,27 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04949",
     "pdf_url": "https://arxiv.org/pdf/2603.04949v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Web Agent",
-      "Agent Benchmark",
-      "Agent Robustness",
-      "Behavior Cloning",
-      "Plan Distillation",
-      "Agent Generalization"
+      "Web & Browser Automation",
+      "Learning & Optimization"
     ],
     "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Web & Browser Automation",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "Qwen-3 4B, Llama-3.1 8B",
+      "key_technique": "TimeTraj (plan distillation algorithm)",
+      "primary_benchmark": "TimeWarp"
+    },
     "md_path": "data/2026/03/05/timewarp-evaluating-web-agents-by-revisiting-the-past.md"
-  },
-  {
-    "arxiv_id": "2603.04855",
-    "version": 1,
-    "title": "HACHIMI: Scalable and Controllable Student Persona Generation via Orchestrated Agents",
-    "authors": [
-      "Yilin Jiang",
-      "Fei Tan",
-      "Xuanyu Yin",
-      "Jing Leng",
-      "Aimin Zhou"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04855",
-    "pdf_url": "https://arxiv.org/pdf/2603.04855v1",
-    "published": "2026-03-05",
-    "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "数据合成",
-      "社会模拟",
-      "Agent 评测"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/hachimi-scalable-and-controllable-student-persona-generation-via-orchestrated-ag.md",
-    "github_url": "https://github.com/ZeroLoss-Lab/HACHIMI"
-  },
-  {
-    "arxiv_id": "2603.04783",
-    "version": 1,
-    "title": "Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction",
-    "authors": [
-      "Xingwu Chen",
-      "Zhanqiu Zhang",
-      "Yiwen Guo",
-      "Difan Zou"
-    ],
-    "author_count": 4,
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04783",
-    "pdf_url": "https://arxiv.org/pdf/2603.04783v1",
-    "published": "2026-03-05",
-    "tags": [
-      "Agent 推理",
-      "Agent 规划",
-      "Agentic 强化学习",
-      "多轮交互",
-      "LLM 训练方法"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/breaking-contextual-inertia-reinforcement-learning-with-single-turn-anchors-for.md"
-  },
-  {
-    "arxiv_id": "2603.04756",
-    "version": 1,
-    "title": "MOOSEnger -- a Domain-Specific AI Agent for the MOOSE Ecosystem",
-    "authors": [
-      "Mengnan Li",
-      "Jason Miller",
-      "Zachary Prince",
-      "Alexander Lindsay",
-      "Cody Permann"
-    ],
-    "author_count": 5,
-    "categories": [
-      "cs.AI",
-      "cs.CE",
-      "cs.SE"
-    ],
-    "arxiv_url": "https://arxiv.org/abs/2603.04756",
-    "pdf_url": "https://arxiv.org/pdf/2603.04756v1",
-    "published": "2026-03-05",
-    "tags": [
-      "工具使用",
-      "检索增强生成",
-      "领域特定智能体",
-      "工作流自动化",
-      "智能体架构",
-      "智能体评测"
-    ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/moosenger-a-domain-specific-ai-agent-for-the-moose-ecosystem.md"
   },
   {
     "arxiv_id": "2603.04751",
@@ -1164,15 +670,26 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04751",
     "pdf_url": "https://arxiv.org/pdf/2603.04751v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "Agent Evaluation",
-      "Search Agent",
-      "Benchmark",
-      "Tool Use",
-      "Reasoning"
+      "Tool Use & API Interaction",
+      "Benchmark/Evaluation"
     ],
     "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Benchmark/Evaluation"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Mind-ParaWorld (MPW)",
+      "primary_benchmark": "MPW-Bench"
+    },
     "md_path": "data/2026/03/05/evaluating-the-search-agent-in-a-parallel-world.md"
   },
   {
@@ -1194,15 +711,26 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.04743",
     "pdf_url": "https://arxiv.org/pdf/2603.04743v1",
+    "github_url": "",
     "published": "2026-03-05",
     "tags": [
-      "工具使用",
-      "检索增强",
-      "代码生成",
-      "Agent评测",
-      "领域特定Agent"
+      "Tool Use & API Interaction",
+      "Code & Software Engineering"
     ],
     "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Code & Software Engineering"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "DARE (Distribution-Aware Retrieval Embedding)",
+      "primary_benchmark": "N/A"
+    },
     "md_path": "data/2026/03/05/dare-aligning-llm-agents-with-the-r-statistical-ecosystem-via-distribution-aware.md"
   },
   {
@@ -1223,19 +751,679 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2601.18157",
     "pdf_url": "https://arxiv.org/pdf/2601.18157v2",
+    "github_url": "https://github.com/facebookresearch/egagent",
     "published": "2026-01-26",
     "tags": [
-      "Agent 架构",
-      "工具使用",
-      "规划与推理",
-      "多模态智能体",
-      "视频理解",
-      "长期记忆",
-      "检索增强生成"
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
     ],
     "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/agentic-very-long-video-understanding.md",
-    "github_url": "https://github.com/facebookresearch/egagent"
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "EGAgent (entity scene graph-based agentic framework)",
+      "primary_benchmark": "EgoLifeQA, Video-MME (Long)"
+    },
+    "md_path": "data/2026/03/05/agentic-very-long-video-understanding.md"
+  },
+  {
+    "arxiv_id": "2602.15654",
+    "version": 2,
+    "title": "Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections",
+    "authors": [
+      "Xianglin Yang",
+      "Yufei He",
+      "Shuo Ji",
+      "Bryan Hooi",
+      "Jin Song Dong"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2602.15654",
+    "pdf_url": "https://arxiv.org/pdf/2602.15654v2",
+    "github_url": "",
+    "published": "2026-02-17",
+    "tags": [
+      "Memory & Context Management",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Safety & Alignment"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Zombie Agent attack framework (infection and trigger phases with mechanism-specific persistence strategies)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/zombie-agents-persistent-control-of-self-evolving-llm-agents-via-self-reinforcin.md"
+  },
+  {
+    "arxiv_id": "2603.05344",
+    "version": 1,
+    "title": "Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned",
+    "authors": [
+      "Nghi D. Q. Bui"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05344",
+    "pdf_url": "https://arxiv.org/pdf/2603.05344v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Code & Software Engineering",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "compound AI system architecture with workload-specialized model routing, dual-agent architecture, lazy tool discovery, adaptive context compaction, automated memory system",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/building-ai-coding-agents-for-the-terminal-scaffolding-harness-context-engineeri.md"
+  },
+  {
+    "arxiv_id": "2603.05240",
+    "version": 1,
+    "title": "GCAgent: Enhancing Group Chat Communication through Dialogue Agents System",
+    "authors": [
+      "Zijie Meng",
+      "Zheyong Xie",
+      "Zheyu Ye",
+      "Chonggang Lu",
+      "Zuozhu Liu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05240",
+    "pdf_url": "https://arxiv.org/pdf/2603.05240v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "GCAgent system (Agent Builder, Dialogue Manager, Interface Plugins)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/gcagent-enhancing-group-chat-communication-through-dialogue-agents-system.md"
+  },
+  {
+    "arxiv_id": "2603.04873",
+    "version": 1,
+    "title": "SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms",
+    "authors": [
+      "Longkun Xu",
+      "Xiaochun Zhang",
+      "Qiantu Tuo",
+      "Rui Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04873",
+    "pdf_url": "https://arxiv.org/pdf/2603.04873v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Code & Software Engineering",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Learning & Optimization"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Metric-Advantage Monte Carlo Tree Search (MA-MCTS), Code Review with running prompt refinement, Global Steerable Reasoning",
+      "primary_benchmark": "Solar-Energy benchmark"
+    },
+    "md_path": "data/2026/03/05/sea-ts-self-evolving-agent-for-autonomous-code-generation-of-time-series-forecas.md"
+  },
+  {
+    "arxiv_id": "2601.22571",
+    "version": 2,
+    "title": "PerfGuard: A Performance-Aware Agent for Visual Content Generation",
+    "authors": [
+      "Zhipeng Chen",
+      "Zhongrui Zhang",
+      "Chao Zhang",
+      "Yifan Xu",
+      "Lan Yang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2601.22571",
+    "pdf_url": "https://arxiv.org/pdf/2601.22571v2",
+    "github_url": "https://github.com/FelixChan9527/PerfGuard",
+    "published": "2026-01-30",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Games & Entertainment",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Performance-Aware Selection Modeling (PASM), Adaptive Preference Update (APU), Capability-Aligned Planning Optimization (CAPO)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/perfguard-a-performance-aware-agent-for-visual-content-generation.md"
+  },
+  {
+    "arxiv_id": "2603.05120",
+    "version": 1,
+    "title": "Bidirectional Curriculum Generation: A Multi-Agent Framework for Data-Efficient Mathematical Reasoning",
+    "authors": [
+      "Boren Hu",
+      "Xiao Liu",
+      "Boci Peng",
+      "Xinping Zhao",
+      "Xiaoran Shang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05120",
+    "pdf_url": "https://arxiv.org/pdf/2603.05120v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Bidirectional Curriculum Generation (multi-agent framework with Difficulty-Reduction Agent, Difficulty-Increasing Agent, Reverse-Generation Agent, Diversity-Enhancement Agent)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/bidirectional-curriculum-generation-a-multi-agent-framework-for-data-efficient-m.md"
+  },
+  {
+    "arxiv_id": "2603.05069",
+    "version": 1,
+    "title": "Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile",
+    "authors": [
+      "Ravi Kiran Kadaboina"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05069",
+    "pdf_url": "https://arxiv.org/pdf/2603.05069v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Architecture & Frameworks",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Architecture & Frameworks",
+        "Human-Agent Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Jagarin (Three-layer architecture: DAWN, ARIA, ACE)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/jagarin-a-three-layer-architecture-for-hibernating-personal-duty-agents-on-mobil.md"
+  },
+  {
+    "arxiv_id": "2603.04904",
+    "version": 1,
+    "title": "Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems",
+    "authors": [
+      "Hiroki Fukui"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04904",
+    "pdf_url": "https://arxiv.org/pdf/2603.04904v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "Llama 3.3 70B, GPT-4o-mini, Qwen3-Next-80B-A3B",
+      "key_technique": "alignment intervention, multi-agent simulation",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/alignment-backfire-language-dependent-reversal-of-safety-interventions-across-16.md"
+  },
+  {
+    "arxiv_id": "2603.04814",
+    "version": 1,
+    "title": "Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents",
+    "authors": [
+      "Natchanon Pollertlam",
+      "Witchayut Kornsuwannawit"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04814",
+    "pdf_url": "https://arxiv.org/pdf/2603.04814v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Memory & Context Management"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "GPT-5-mini",
+      "key_technique": "fact-based memory system (Mem0 framework)",
+      "primary_benchmark": "LongMemEval, LoCoMo, PersonaMemv2"
+    },
+    "md_path": "data/2026/03/05/beyond-the-context-window-a-cost-performance-analysis-of-fact-based-memory-vs-lo.md"
+  },
+  {
+    "arxiv_id": "2511.21033",
+    "version": 2,
+    "title": "Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning",
+    "authors": [
+      "Linze Chen",
+      "Yufan Cai",
+      "Zhe Hou",
+      "Jin Song Dong"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2511.21033",
+    "pdf_url": "https://arxiv.org/pdf/2511.21033v2",
+    "github_url": "",
+    "published": "2025-11-26",
+    "tags": [
+      "Reasoning & Planning",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Multi-Agent Systems"
+      ],
+      "domain": "Legal & Financial",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "L4L (solver-centric framework integrating role-differentiated LLM agents with SMT-backed verification)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/towards-trustworthy-legal-ai-through-llm-agents-and-formal-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.03589",
+    "version": 2,
+    "title": "stratum: A System Infrastructure for Massive Agent-Centric ML Workloads",
+    "authors": [
+      "Arnab Phani",
+      "Elias Strauss",
+      "Sebastian Schelter"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.DB",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03589",
+    "pdf_url": "https://arxiv.org/pdf/2603.03589v2",
+    "github_url": "",
+    "published": "2026-03-03",
+    "tags": [
+      "Architecture & Frameworks",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Architecture & Frameworks",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "stratum system infrastructure (decouples pipeline execution from planning, compiles batches of pipelines into optimized execution graphs, uses Rust-based runtime)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/stratum-a-system-infrastructure-for-massive-agent-centric-ml-workloads.md"
+  },
+  {
+    "arxiv_id": "2603.03378",
+    "version": 2,
+    "title": "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis",
+    "authors": [
+      "Pei Yang",
+      "Wanyi Chen",
+      "Asuka Yuxi Zheng",
+      "Xueqian Li",
+      "Xiang Li"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03378",
+    "pdf_url": "https://arxiv.org/pdf/2603.03378v2",
+    "github_url": "",
+    "published": "2026-03-03",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Group Relative Policy Optimization (GRPO), Failure Trajectory Closed-Loop Evolver",
+      "primary_benchmark": "AIOpsLab"
+    },
+    "md_path": "data/2026/03/05/aoi-turning-failed-trajectories-into-training-signals-for-autonomous-cloud-diagn.md"
+  },
+  {
+    "arxiv_id": "2505.04997",
+    "version": 2,
+    "title": "Foam-Agent: Towards Automated Intelligent CFD Workflows",
+    "authors": [
+      "Ling Yue",
+      "Nithin Somasekharan",
+      "Tingwen Zhang",
+      "Yadi Cao",
+      "Zhangze Chen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2505.04997",
+    "pdf_url": "https://arxiv.org/pdf/2505.04997v2",
+    "github_url": "",
+    "published": "2025-05-08",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "dependency-aware scheduling, retrieval-augmented generation (RAG), Model Context Protocol (MCP)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/foam-agent-towards-automated-intelligent-cfd-workflows.md"
+  },
+  {
+    "arxiv_id": "2603.05129",
+    "version": 1,
+    "title": "MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus",
+    "authors": [
+      "Zheng Li",
+      "Jiayi Xu",
+      "Zhikai Hu",
+      "Hechang Chen",
+      "Lele Cong"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05129",
+    "pdf_url": "https://arxiv.org/pdf/2603.05129v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Reasoning & Planning"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "MedCoRAG (Medical Collaborative RAG)",
+      "primary_benchmark": "MIMIC-IV"
+    },
+    "md_path": "data/2026/03/05/medcorag-interpretable-hepatology-diagnosis-via-hybrid-evidence-retrieval-and-mu.md"
+  },
+  {
+    "arxiv_id": "2603.04855",
+    "version": 1,
+    "title": "HACHIMI: Scalable and Controllable Student Persona Generation via Orchestrated Agents",
+    "authors": [
+      "Yilin Jiang",
+      "Fei Tan",
+      "Xuanyu Yin",
+      "Jing Leng",
+      "Aimin Zhou"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04855",
+    "pdf_url": "https://arxiv.org/pdf/2603.04855v1",
+    "github_url": "https://github.com/ZeroLoss-Lab/HACHIMI",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Learning & Optimization"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "Qwen2.5-72B",
+      "key_technique": "multi-agent Propose-Validate-Revise framework, neuro-symbolic validator, stratified sampling with semantic deduplication",
+      "primary_benchmark": "CEPS, PISA 2022"
+    },
+    "md_path": "data/2026/03/05/hachimi-scalable-and-controllable-student-persona-generation-via-orchestrated-ag.md"
+  },
+  {
+    "arxiv_id": "2603.04783",
+    "version": 1,
+    "title": "Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction",
+    "authors": [
+      "Xingwu Chen",
+      "Zhanqiu Zhang",
+      "Yiwen Guo",
+      "Difan Zou"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04783",
+    "pdf_url": "https://arxiv.org/pdf/2603.04783v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Reinforcement Learning with Single-Turn Anchors (RLSTA)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/breaking-contextual-inertia-reinforcement-learning-with-single-turn-anchors-for.md"
+  },
+  {
+    "arxiv_id": "2603.04756",
+    "version": 1,
+    "title": "MOOSEnger -- a Domain-Specific AI Agent for the MOOSE Ecosystem",
+    "authors": [
+      "Mengnan Li",
+      "Jason Miller",
+      "Zachary Prince",
+      "Alexander Lindsay",
+      "Cody Permann"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CE",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04756",
+    "pdf_url": "https://arxiv.org/pdf/2603.04756v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Code & Software Engineering"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "core-plus-domain architecture with input-precheck pipeline (grammar-constrained loop, similarity search), RAG, MCP-backed execution backend",
+      "primary_benchmark": "125-prompt benchmark spanning diffusion, transient heat conduction, solid mechanics, porous flow, and incompressible Navier–Stokes"
+    },
+    "md_path": "data/2026/03/05/moosenger-a-domain-specific-ai-agent-for-the-moose-ecosystem.md"
   },
   {
     "arxiv_id": "2603.03372",
@@ -1255,17 +1443,101 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.03372",
     "pdf_url": "https://arxiv.org/pdf/2603.03372v2",
+    "github_url": "https://github.com/Leo9660/TritonDFT",
     "published": "2026-03-02",
     "tags": [
-      "多智能体系统",
-      "Agent 架构",
-      "科学计算自动化",
-      "工作流自动化",
-      "Agent 评测/基准"
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 8.0,
-    "md_path": "data/2026/03/05/tritondft-automating-dft-with-a-multi-agent-framework.md",
-    "github_url": "https://github.com/Leo9660/TritonDFT"
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "expert-curated, extensible workflow design, Pareto-aware parameter inference, multi-source knowledge augmentation",
+      "primary_benchmark": "DFTBench"
+    },
+    "md_path": "data/2026/03/05/tritondft-automating-dft-with-a-multi-agent-framework.md"
+  },
+  {
+    "arxiv_id": "2603.04815",
+    "version": 1,
+    "title": "EchoGuard: An Agentic Framework with Knowledge-Graph Memory for Detecting Manipulative Communication in Longitudinal Dialogue",
+    "authors": [
+      "Ratna Kandala",
+      "Niva Manchanda",
+      "Akshata Kishore Moharir",
+      "Ananth Kandala"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04815",
+    "pdf_url": "https://arxiv.org/pdf/2603.04815v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Memory & Context Management",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 6.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Log-Analyze-Reflect loop with Knowledge Graph memory",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/echoguard-an-agentic-framework-with-knowledge-graph-memory-for-detecting-manipul.md"
+  },
+  {
+    "arxiv_id": "2603.04740",
+    "version": 1,
+    "title": "Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens",
+    "authors": [
+      "Zhenghui Li"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04740",
+    "pdf_url": "https://arxiv.org/pdf/2603.04740v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Memory & Context Management",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 6.0,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Memory-as-Ontology paradigm, Constitutional Memory Architecture (CMA), Animesis system",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/memory-as-ontology-a-constitutional-memory-architecture-for-persistent-digital-c.md"
   },
   {
     "arxiv_id": "2512.07081",
@@ -1283,15 +1555,140 @@
     ],
     "arxiv_url": "https://arxiv.org/abs/2512.07081",
     "pdf_url": "https://arxiv.org/pdf/2512.07081v2",
+    "github_url": "",
     "published": "2025-12-08",
     "tags": [
-      "Multi-Agent System",
-      "LLM Application",
-      "Clinical Decision Support",
-      "Interpretability",
-      "Information Extraction"
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
     ],
-    "relevance_score": 8.0,
+    "relevance_score": 5.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "ClinNoteAgents",
+      "primary_benchmark": "N/A"
+    },
     "md_path": "data/2026/03/05/clinnoteagents-an-llm-multi-agent-system-for-predicting-and-interpreting-heart-f.md"
+  },
+  {
+    "arxiv_id": "2601.14132",
+    "version": 2,
+    "title": "Toward architecting self-coding information systems",
+    "authors": [
+      "Rodrigo Falcão",
+      "Frank Elberzhager",
+      "Karthik Vaidhyanathan"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2601.14132",
+    "pdf_url": "https://arxiv.org/pdf/2601.14132v2",
+    "github_url": "",
+    "published": "2026-01-20",
+    "tags": [
+      "Code & Software Engineering",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.0,
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Survey/Position Paper"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "self-coding information systems",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/toward-architecting-self-coding-information-systems.md"
+  },
+  {
+    "arxiv_id": "2603.04746",
+    "version": 1,
+    "title": "Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research",
+    "authors": [
+      "Bowen Lou",
+      "Tian Lu",
+      "T. S. Raghu",
+      "Yingjie Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "econ.GN"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.04746",
+    "pdf_url": "https://arxiv.org/pdf/2603.04746v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 5.0,
+    "taxonomy": {
+      "capability": [
+        "Human-Agent Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Survey/Position Paper"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Extension of Team Situation Awareness (Team SA) theory",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/visioning-human-agentic-ai-teaming-continuity-tension-and-future-research.md"
+  },
+  {
+    "arxiv_id": "2603.05027",
+    "version": 1,
+    "title": "S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home",
+    "authors": [
+      "Janani Rangila",
+      "Akila Siriweera",
+      "Incheon Paik",
+      "Keitaro Naruse",
+      "Isuru Jayanada"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05027",
+    "pdf_url": "https://arxiv.org/pdf/2603.05027v1",
+    "github_url": "",
+    "published": "2026-03-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 5.0,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Robotics & Embodied",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Society 5.0-driven human-centered governance-enabled smart home blockchain agent (S5-SHB-Agent)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/05/s5-shb-agent-society-50-enabled-multi-model-agentic-blockchain-framework-for-sma.md"
   }
 ]

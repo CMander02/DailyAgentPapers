@@ -6,7 +6,6 @@ authors:
   - "Shengyao Zhuang"
   - "Jimmy Lin"
   - "Akari Asai"
-  - "Victor Zhong"
 date: "2026-03-04"
 arxiv_id: "2603.04384"
 arxiv_url: "https://arxiv.org/abs/2603.04384"
@@ -14,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04384v2"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "检索增强"
-  - "推理"
-  - "数据合成"
-  - "智能体评测"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Tongyi-DeepResearch, gpt-oss-120B, GLM-4.7"
+  key_technique: "Reasoning-Aware Retrieval, DR-Synth"
+  primary_benchmark: "BrowseComp-Plus"
 ---
 
 # AgentIR: Reasoning-Aware Retrieval for Deep Research Agents

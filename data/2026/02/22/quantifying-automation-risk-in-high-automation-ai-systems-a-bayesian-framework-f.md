@@ -10,14 +10,17 @@ pdf_url: "https://arxiv.org/pdf/2602.18986v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Safety"
-  - "Risk Quantification"
-  - "Automation"
-  - "Bayesian Framework"
-  - "Failure Propagation"
-  - "Optimal Oversight"
-  - "Agent Governance"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Bayesian risk decomposition framework for failure propagation and optimal oversight"
+  primary_benchmark: "N/A"
 ---
 
 # Quantifying Automation Risk in High-Automation AI Systems: A Bayesian Framework for Failure Propagation and Optimal Oversight

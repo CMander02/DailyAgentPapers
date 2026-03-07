@@ -6,9 +6,6 @@ authors:
   - "Zhongwei Wang"
   - "Haokun Lin"
   - "Xin Wang"
-  - "Ziqi Wang"
-  - "Yingtie Lei"
-  - "Mi Zhang"
 date: "2026-02-23"
 arxiv_id: "2602.20309"
 arxiv_url: "https://arxiv.org/abs/2602.20309"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20309v1"
 categories:
   - "cs.LG"
 tags:
-  - "模型量化"
-  - "具身智能"
-  - "视觉-语言-动作模型"
-  - "后训练量化"
-  - "部署优化"
-  - "扩散变换器"
-relevance_score: 7.5
+  - "Architecture & Frameworks"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "QuantVLA (scale-calibrated post-training quantization framework with selective quantization layout, attention temperature matching, output head balancing)"
+  primary_benchmark: "LIBERO"
 ---
 
 # QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models

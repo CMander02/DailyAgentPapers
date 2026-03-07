@@ -6,33 +6,27 @@ authors:
   - "Jiale Zhao"
   - "Minghao Li"
   - "Daixuan Cheng"
-  - "Huatong Song"
-  - "Jie Chen"
-  - "Yuzhi Lin"
-  - "Hui Chen"
-  - "Xin Zhao"
-  - "Ruihua Song"
-  - "Chang Liu"
-  - "Cheng Chen"
-  - "Kai Jia"
-  - "Ji-Rong Wen"
 date: "2026-03-03"
 arxiv_id: "2603.03194"
 arxiv_url: "https://arxiv.org/abs/2603.03194"
 pdf_url: "https://arxiv.org/pdf/2603.03194v1"
-github_url: "https://github.com/AweAI-Team/BeyondSWE"
 categories:
   - "cs.CL"
   - "cs.SE"
 tags:
-  - "代码智能体"
-  - "基准测试"
-  - "工具使用"
-  - "推理"
-  - "多仓库任务"
-  - "代码生成"
-  - "代码修复"
-relevance_score: 8.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "SearchSWE"
+  primary_benchmark: "BeyondSWE"
 ---
 
 # BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?

@@ -6,8 +6,6 @@ authors:
   - "Minyang Xie"
   - "Jiaxuan Gao"
   - "Zhao Shok"
-  - "Yu Wang"
-  - "Yi Wu"
 date: "2026-03-04"
 arxiv_id: "2603.03680"
 arxiv_url: "https://arxiv.org/abs/2603.03680"
@@ -16,14 +14,19 @@ github_url: "https://github.com/Lu-Yang666/MAGE"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Meta-Reinforcement Learning"
+  - "Learning & Optimization"
   - "Multi-Agent Systems"
-  - "Strategic Exploration"
-  - "Strategic Exploitation"
-  - "Agent Adaptation"
-  - "Agent Learning Framework"
-relevance_score: 9.0
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MAGE (Meta-Reinforcement Learning for Language Agents with population-based training and agent-specific advantage normalization)"
+  primary_benchmark: "N/A"
 ---
 
 # MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation

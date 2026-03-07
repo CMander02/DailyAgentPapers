@@ -6,7 +6,6 @@ authors:
   - "Chang Li"
   - "Hannan Li"
   - "Liyao Fu"
-  - "Ji Tang"
 date: "2026-02-27"
 arxiv_id: "2602.23720"
 arxiv_url: "https://arxiv.org/abs/2602.23720"
@@ -14,17 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23720v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 框架"
-  - "多步工作流"
-  - "工具使用"
-  - "记忆系统"
-  - "安全与治理"
-  - "自演化"
-  - "推理与规划"
-  - "执行优化"
-  - "形式化模型"
-relevance_score: 9.5
+  - "Architecture & Frameworks"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Auton Agentic AI Framework, Cognitive Blueprint, Runtime Engine, Constraint Manifold, hierarchical memory consolidation, parallel graph execution"
+  primary_benchmark: "N/A"
 ---
 
 # The Auton Agentic AI Framework

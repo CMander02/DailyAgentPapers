@@ -13,14 +13,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "工具使用"
-  - "代码合成"
-  - "测试生成"
-  - "法律应用"
-  - "可靠性"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "Legal & Financial"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "GPT-4o-mini, GPT-4o, Claude 3.5"
+  key_technique: "higher-order metamorphic relations, LLM-driven role-based framework"
+  primary_benchmark: "N/A"
 ---
 
 # An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software

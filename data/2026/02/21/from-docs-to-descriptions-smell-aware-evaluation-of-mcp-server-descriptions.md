@@ -6,7 +6,6 @@ authors:
   - "Yuqiang Sun"
   - "Chengwei Liu"
   - "Yang Liu"
-  - "Yuan Tian"
 date: "2026-02-21"
 arxiv_id: "2602.18914"
 arxiv_url: "https://arxiv.org/abs/2602.18914"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18914v1"
 categories:
   - "cs.SE"
 tags:
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "Agent 安全"
-  - "MCP"
-  - "软件工程"
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "four-dimensional quality standard (accuracy, functionality, information completeness, conciseness) for MCP tool descriptions"
+  primary_benchmark: "constructed dataset of 10,831 MCP servers"
 ---
 
 # From Docs to Descriptions: Smell-Aware Evaluation of MCP Server Descriptions

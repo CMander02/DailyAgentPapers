@@ -6,7 +6,6 @@ authors:
   - "Winson Chen"
   - "Yuebo Luo"
   - "Mingyi Hong"
-  - "Caiwen Ding"
 date: "2026-03-03"
 arxiv_id: "2603.02637"
 arxiv_url: "https://arxiv.org/abs/2603.02637"
@@ -16,13 +15,19 @@ categories:
   - "cs.CL"
   - "cs.PL"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "Agentic强化学习"
-  - "工具使用"
-  - "代码生成"
-  - "自动化编程"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "rubric-based agentic reinforcement learning"
+  primary_benchmark: "KernelBench"
 ---
 
 # StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning

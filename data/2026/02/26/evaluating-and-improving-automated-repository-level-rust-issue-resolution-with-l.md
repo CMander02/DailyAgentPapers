@@ -13,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22764v1"
 categories:
   - "cs.SE"
 tags:
-  - "LLM-based Agent"
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Agent Benchmark"
-  - "Code Agent"
-  - "Software Engineering"
-  - "ReAct"
-  - "Automated Issue Resolution"
-relevance_score: 8.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude-Sonnet-3.7, GPT-4o, OpenAI o4-mini, Qwen3"
+  key_technique: "RUSTFORGER"
+  primary_benchmark: "Rust-SWE-bench"
 ---
 
 # Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents

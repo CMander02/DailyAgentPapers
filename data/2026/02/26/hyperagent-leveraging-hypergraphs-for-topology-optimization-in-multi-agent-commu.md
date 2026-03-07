@@ -6,9 +6,6 @@ authors:
   - "Xiaodong Gu"
   - "Zijian Zhang"
   - "Haochen You"
-  - "Lubin Gan"
-  - "Yilei Yuan"
-  - "Jin Huang"
 date: "2025-10-12"
 arxiv_id: "2510.10611"
 arxiv_url: "https://arxiv.org/abs/2510.10611"
@@ -18,14 +15,18 @@ categories:
   - "cs.GR"
 tags:
   - "Multi-Agent Systems"
-  - "Agent Communication"
-  - "Agent Architecture"
-  - "Topology Optimization"
-  - "Hypergraph"
-  - "Collaboration Modeling"
-  - "Task-Adaptive"
-  - "Efficiency"
-relevance_score: 9.0
+  - "Architecture & Frameworks"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "HyperAgent (hypergraph-based framework with hypergraph convolutional layers and variational autoencoder with sparsity regularization)"
+  primary_benchmark: "GSM8K"
 ---
 
 # HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication

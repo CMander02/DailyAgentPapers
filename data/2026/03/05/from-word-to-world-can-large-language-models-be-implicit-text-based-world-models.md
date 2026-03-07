@@ -6,11 +6,6 @@ authors:
   - "Jiahao Qiu"
   - "Zhenfei Yin"
   - "Dongdong Zhang"
-  - "Cheng Qian"
-  - "Zeping Li"
-  - "Pony Ma"
-  - "Guanhua Chen"
-  - "Heng Ji"
 date: "2025-12-21"
 arxiv_id: "2512.18832"
 arxiv_url: "https://arxiv.org/abs/2512.18832"
@@ -18,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2512.18832v2"
 categories:
   - "cs.CL"
 tags:
-  - "World Model"
-  - "Agentic Reinforcement Learning"
-  - "Text-based Environment"
-  - "LLM Evaluation"
-  - "Simulated Experience"
-  - "Agent Learning"
-  - "Next-State Prediction"
-relevance_score: 9.0
+  - "World Modeling & Simulation"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "World Modeling & Simulation"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLM-based world model evaluation framework (fidelity/consistency, scalability/robustness, agent utility)"
+  primary_benchmark: "N/A"
 ---
 
 # From Word to World: Can Large Language Models be Implicit Text-based World Models?

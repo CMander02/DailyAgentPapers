@@ -10,19 +10,23 @@ date: "2025-06-25"
 arxiv_id: "2506.20640"
 arxiv_url: "https://arxiv.org/abs/2506.20640"
 pdf_url: "https://arxiv.org/pdf/2506.20640v3"
-github_url: "https://github.com/comind-ml/CoMind"
 categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "工具使用"
-  - "社区交互"
-  - "机器学习工程"
-  - "知识共享"
-  - "评估框架"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CoMind (iterative parallel exploration mechanism)"
+  primary_benchmark: "MLE-Live"
 ---
 
 # CoMind: Towards Community-Driven Agents for Machine Learning Engineering

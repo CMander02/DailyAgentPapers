@@ -6,16 +6,6 @@ authors:
   - "Qiliang Liang"
   - "Hao Wang"
   - "Haofei Sun"
-  - "Changpeng Yang"
-  - "Yang Li"
-  - "Peng Zhou"
-  - "Shuai Nie"
-  - "Hongzhen Wang"
-  - "Linfeng Zhou"
-  - "Hao Jia"
-  - "Jiaming Xu"
-  - "Runyu Shi"
-  - "Ying Huang"
 date: "2026-02-25"
 arxiv_id: "2602.21858"
 arxiv_url: "https://arxiv.org/abs/2602.21858"
@@ -23,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21858v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Mobile Agent"
-  - "Proactive Intelligence"
-  - "Multimodal LLM"
-  - "Agent Evaluation"
-  - "Function Calling"
-  - "Contextual Reasoning"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Qwen2.5-VL-7B-Instruct, o1, GPT-5"
+  key_technique: "ProactiveMobile benchmark formalization (intent inference from contextual signals, executable function sequence generation)"
+  primary_benchmark: "ProactiveMobile"
 ---
 
 # ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices

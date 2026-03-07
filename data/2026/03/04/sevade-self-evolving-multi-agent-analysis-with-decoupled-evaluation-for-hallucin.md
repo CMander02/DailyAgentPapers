@@ -6,8 +6,6 @@ authors:
   - "Yilin Li"
   - "Mingxuan Hu"
   - "Yushan Pan"
-  - "Zhijie Xu"
-  - "Yangbin Chen"
 date: "2025-08-09"
 arxiv_id: "2508.06803"
 arxiv_url: "https://arxiv.org/abs/2508.06803"
@@ -16,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "Agent推理"
-  - "幻觉缓解"
-  - "任务导向Agent"
-  - "自然语言处理"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SEVADE (Self-Evolving multi-agent Analysis with Decoupled Evaluation), Dynamic Agentive Reasoning Engine (DARE)"
+  primary_benchmark: "N/A"
 ---
 
 # SEVADE: Self-Evolving Multi-Agent Analysis with Decoupled Evaluation for Hallucination-Resistant Irony Detection

@@ -6,12 +6,6 @@ authors:
   - "Yu Wang"
   - "Yesu Feng"
   - "Arjun Rao"
-  - "Rein Houthooft"
-  - "Shradha Sehgal"
-  - "Jin Wang"
-  - "Hao Zhen"
-  - "Ninghao Liu"
-  - "Linas Baltrunas"
 date: "2026-02-24"
 arxiv_id: "2602.20558"
 arxiv_url: "https://arxiv.org/abs/2602.20558"
@@ -20,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.IR"
 tags:
-  - "LLM应用"
-  - "推荐系统"
-  - "强化学习"
-  - "上下文构建"
-  - "数据合成"
-  - "Agent架构"
+  - "Learning & Optimization"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Group Relative Policy Optimization (GRPO) based verbalization learning framework"
+  primary_benchmark: "large-scale industrial streaming dataset (Netflix)"
 ---
 
 # From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production

@@ -14,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agentic Framework"
-  - "Multi-Agent System"
-  - "Workflow Generation"
-  - "Tool Use"
-  - "Verification and Validation"
-  - "Internet Measurement"
-  - "Problem Decomposition"
-  - "Expert Reasoning"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Cybersecurity"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Airavat framework with specialized agents (QueryMind, WorkflowScout, SolutionWeaver) and engines (Verification Engine, Validation Engine)"
+  primary_benchmark: "N/A"
 ---
 
 # Airavat: An Agentic Framework for Internet Measurement

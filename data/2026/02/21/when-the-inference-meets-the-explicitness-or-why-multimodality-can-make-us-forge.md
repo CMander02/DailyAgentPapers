@@ -11,14 +11,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "人机协作"
-  - "意图预测"
-  - "显式通信"
-  - "机器人"
-  - "多模态交互"
-  - "人机交互"
-  - "实验评估"
-relevance_score: 7.0
+  - "Human-Agent Interaction"
+  - "Reasoning & Planning"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Intention predictors (force-based and velocity-based) and explicit communication methods (button interface, voice-command)"
+  primary_benchmark: "N/A"
 ---
 
 # When the Inference Meets the Explicitness or Why Multimodality Can Make Us Forget About the Perfect Predictor

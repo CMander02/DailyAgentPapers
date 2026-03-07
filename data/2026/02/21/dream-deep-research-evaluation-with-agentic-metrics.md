@@ -6,12 +6,6 @@ authors:
   - "Ron Dorfman"
   - "Roy Ganz"
   - "Oren Nuriel"
-  - "Amir Dudai"
-  - "Aviad Aberdam"
-  - "Noah Flynn"
-  - "Elman Mansimov"
-  - "Adi Kalyanpur"
-  - "Ron Litman"
 date: "2026-02-21"
 arxiv_id: "2602.18940"
 arxiv_url: "https://arxiv.org/abs/2602.18940"
@@ -19,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18940v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 架构"
-  - "工具使用"
-  - "研究智能体"
-  - "评估框架"
-  - "能力对等"
-  - "无参考评估"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Benchmark/Evaluation"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Benchmark/Evaluation"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "DREAM (Deep Research Evaluation with Agentic Metrics)"
+  primary_benchmark: "DREAM"
 ---
 
 # DREAM: Deep Research Evaluation with Agentic Metrics

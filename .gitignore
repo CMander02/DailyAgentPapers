@@ -211,3 +211,14 @@ node_modules/
 web/.next/
 web/out/
 .DS_Store
+
+# Local research (papers, notes, experiments)
+research/
+
+# Editor / AI tool configs
+.claude/
+web/.agent/
+web/.agents/
+web/.claude/
+web/.windsurf/
+web/skills-lock.json

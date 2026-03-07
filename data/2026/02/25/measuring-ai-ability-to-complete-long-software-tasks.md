@@ -6,21 +6,6 @@ authors:
   - "Joel Becker"
   - "Amy Deng"
   - "Katharyn Garcia"
-  - "Max Hasin"
-  - "Sami Jawhar"
-  - "Megan Kinniment"
-  - "Nate Rush"
-  - "Sydney Von Arx"
-  - "Ryan Bloom"
-  - "Thomas Broadley"
-  - "Haoxing Du"
-  - "Brian Goodrich"
-  - "Nikola Jurkovic"
-  - "Luke Harold Miles"
-  - "Seraphina Nix"
-  - "Tao Lin"
-  - "Neev Parikh"
-  - "David Rein"
 date: "2025-03-18"
 arxiv_id: "2503.14499"
 arxiv_url: "https://arxiv.org/abs/2503.14499"
@@ -29,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent评测/基准"
-  - "Agent能力评估"
-  - "工具使用"
-  - "任务完成度"
-  - "长期任务"
-  - "软件工程Agent"
-  - "自主性"
-  - "趋势分析"
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude 3.7 Sonnet, o3"
+  key_technique: "50%-task-completion time horizon"
+  primary_benchmark: "RE-Bench, HCAST, 66 novel shorter tasks"
 ---
 
 # Measuring AI Ability to Complete Long Software Tasks

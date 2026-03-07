@@ -6,10 +6,6 @@ authors:
   - "Pranav Setlur"
   - "Abhijay Paladugu"
   - "Andy Tang"
-  - "Hao Kang"
-  - "Shuai Shao"
-  - "Rong Jin"
-  - "Chenyan Xiong"
 date: "2026-02-22"
 arxiv_id: "2602.18998"
 arxiv_url: "https://arxiv.org/abs/2602.18998"
@@ -19,13 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Benchmark"
-  - "General-Purpose Agent"
-  - "Test-Time Scaling"
-  - "Agent Evaluation"
-  - "Tool Use"
-  - "Multi-Domain"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "General AgentBench"
+  primary_benchmark: "General AgentBench"
 ---
 
 # Benchmark Test-Time Scaling of General LLM Agents

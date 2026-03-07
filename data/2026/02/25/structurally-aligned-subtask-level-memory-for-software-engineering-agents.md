@@ -14,13 +14,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "记忆"
-  - "软件工程智能体"
-  - "长程推理"
-  - "任务分解"
-  - "检索增强"
-relevance_score: 9.0
+  - "Memory & Context Management"
+  - "Code & Software Engineering"
+relevance_score: 9.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Gemini 2.5 Pro, GPT-4o, Claude 3.7 Sonnet, Claude 4"
+  key_technique: "Structurally Aligned Subtask-Level Memory"
+  primary_benchmark: "SWE-bench Verified"
 ---
 
 # Structurally Aligned Subtask-Level Memory for Software Engineering Agents

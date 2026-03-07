@@ -9,15 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23193v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Multi-Agent System"
-  - "Agent Planning"
-  - "Agent State Management"
-  - "Tool Use"
-  - "Deterministic Execution"
-  - "Event Sourcing"
-  - "Software Engineering Agent"
-relevance_score: 9.0
+  - "Architecture & Frameworks"
+  - "Multi-Agent Systems"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Multi-Agent Systems"
+  domain: "Code & Software Engineering"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Claude Sonnet 4.6, Codex GPT-5, Antigravity/Gemini 3 Pro, Claude Opus 4.6"
+  key_technique: "ESAA (Event Sourcing for Autonomous Agents) architecture"
+  primary_benchmark: "N/A"
 ---
 
 # ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering

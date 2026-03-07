@@ -6,7 +6,6 @@ authors:
   - "Arda Derbent"
   - "Katarzyna Budzynska"
   - "Jarosław A. Chudziak"
-  - "Maria Vanina Martinez"
 date: "2026-03-03"
 arxiv_id: "2603.02711"
 arxiv_url: "https://arxiv.org/abs/2603.02711"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02711v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "社会模拟"
-  - "LLM驱动智能体"
-  - "Agent评测/基准"
-  - "Agent架构"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "World Modeling & Simulation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "World Modeling & Simulation"
+  domain: "Social & Behavioral Science"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent model/platform for simulating social media discussions"
+  primary_benchmark: "N/A"
 ---
 
 # A Natural Language Agentic Approach to Study Affective Polarization

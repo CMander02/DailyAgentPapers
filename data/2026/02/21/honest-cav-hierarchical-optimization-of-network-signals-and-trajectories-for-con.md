@@ -6,9 +6,6 @@ authors:
   - "Peng Hao"
   - "Kanok Boriboonsomsin"
   - "Matthew J. Barth"
-  - "Yongkang Liu"
-  - "Seyhan Ucar"
-  - "Guoyuan Wu"
 date: "2026-02-21"
 arxiv_id: "2602.18740"
 arxiv_url: "https://arxiv.org/abs/2602.18740"
@@ -18,14 +15,19 @@ categories:
   - "cs.AI"
   - "eess.SY"
 tags:
-  - "多智能体强化学习"
-  - "交通信号控制"
-  - "自动驾驶车辆"
-  - "分层优化"
-  - "网络级控制"
-  - "能效优化"
-  - "去中心化智能体"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Hierarchical co-optimization framework with Multi-Agent Reinforcement Learning (MARL) using Value Decomposition Network (VDN) and Imitation Learning (IL)-based Eco-Approach and Departure (EAD) strategy"
+  primary_benchmark: "N/A"
 ---
 
 # HONEST-CAV: Hierarchical Optimization of Network Signals and Trajectories for Connected and Automated Vehicles with Multi-Agent Reinforcement Learning

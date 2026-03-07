@@ -14,14 +14,19 @@ github_url: "https://github.com/hehehahi4/CES"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "任务规划"
-  - "状态管理"
-  - "强化学习"
-  - "GUI自动化"
-  - "长视野任务"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Coordinator-Executor-State Tracker (CES) multi-agent framework, staged execution-feedback reinforcement learning"
+  primary_benchmark: "N/A"
 ---
 
 # Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation

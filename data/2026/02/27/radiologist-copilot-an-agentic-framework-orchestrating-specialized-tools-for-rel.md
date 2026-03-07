@@ -13,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2512.02814v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Planning"
-  - "Multi-stage Workflow"
-  - "Medical AI"
-  - "Vision-Language Model"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Radiologist Copilot (agentic framework with region analysis planning, strategic template selection, and feedback-driven quality control)"
+  primary_benchmark: "N/A"
 ---
 
 # Radiologist Copilot: An Agentic Framework Orchestrating Specialized Tools for Reliable Radiology Reporting

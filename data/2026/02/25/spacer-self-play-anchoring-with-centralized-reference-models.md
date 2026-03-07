@@ -6,8 +6,6 @@ authors:
   - "Kevin Joseph"
   - "Matthew Strong"
   - "Masayoshi Tomizuka"
-  - "Yihan Hu"
-  - "Wei Zhan"
 date: "2025-10-20"
 arxiv_id: "2510.18060"
 arxiv_url: "https://arxiv.org/abs/2510.18060"
@@ -17,15 +15,19 @@ categories:
   - "cs.AI"
   - "cs.RO"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "模仿学习"
-  - "自动驾驶"
-  - "智能体仿真"
-  - "自博弈"
-  - "参考模型"
-  - "策略锚定"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SPACeR (Self-Play Anchoring with Centralized Reference Models)"
+  primary_benchmark: "Waymo Sim Agents Challenge"
 ---
 
 # SPACeR: Self-Play Anchoring with Centralized Reference Models

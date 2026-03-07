@@ -6,8 +6,6 @@ authors:
   - "Yiding Sun"
   - "Jihua Zhu"
   - "Jinnan Yang"
-  - "Miao Xin"
-  - "Baoliang Tian"
 date: "2025-08-07"
 arxiv_id: "2508.05282"
 arxiv_url: "https://arxiv.org/abs/2508.05282"
@@ -15,13 +13,17 @@ pdf_url: "https://arxiv.org/pdf/2508.05282v4"
 categories:
   - "cs.CL"
 tags:
-  - "推理"
-  - "思维链"
-  - "自我纠正"
-  - "效率优化"
-  - "可靠性"
-  - "LLM能力提升"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "LLaMA-3.1-8B"
+  key_technique: "ASCoT (Adaptive Self-Correction Chain-of-Thought), Adaptive Verification Manager (AVM), Multi-Perspective Self-Correction Engine (MSCE)"
+  primary_benchmark: "GSM8K, MATH-500"
 ---
 
 # Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning

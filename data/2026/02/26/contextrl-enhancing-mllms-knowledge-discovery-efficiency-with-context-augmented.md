@@ -6,16 +6,6 @@ authors:
   - "YiFan Zhang"
   - "Shijie Ma"
   - "Xiao Hu"
-  - "Tianke Zhang"
-  - "Haonan fan"
-  - "Kaiyu Jiang"
-  - "Changyi Liu"
-  - "Kaiyu Tang"
-  - "Bin Wen"
-  - "Fan Yang"
-  - "Tingting Gao"
-  - "Han Li"
-  - "Chun Yuan"
 date: "2026-02-26"
 arxiv_id: "2602.22623"
 arxiv_url: "https://arxiv.org/abs/2602.22623"
@@ -25,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Reward Modeling"
-  - "Reasoning"
-  - "Knowledge Discovery"
-  - "Multi-Modal Large Language Model"
-  - "Policy Optimization"
-  - "Reward Hacking"
-relevance_score: 8.5
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3-VL-8B"
+  key_technique: "ContextRL"
+  primary_benchmark: "N/A"
 ---
 
 # ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL

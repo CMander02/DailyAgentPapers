@@ -14,12 +14,18 @@ categories:
   - "cs.AI"
 tags:
   - "Multi-Agent Systems"
-  - "Agent Architecture"
-  - "Privacy & Safety"
-  - "Reasoning"
-  - "LLM Application"
-  - "Benchmarking"
-relevance_score: 8.0
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o, several open-source and closed-sourced LLMs"
+  key_technique: "multi-agent framework with specialized subtasks (Extractor, Checker, Executor) and systematic ablation over information-flow topologies"
+  primary_benchmark: "ConfAIde, PrivacyLens"
 ---
 
 # 1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning

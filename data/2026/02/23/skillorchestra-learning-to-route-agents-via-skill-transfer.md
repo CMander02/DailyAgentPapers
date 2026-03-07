@@ -6,7 +6,6 @@ authors:
   - "Zixuan Ke"
   - "Shafiq Joty"
   - "Aws Albarghouthi"
-  - "Frederic Sala"
 date: "2026-02-23"
 arxiv_id: "2602.19672"
 arxiv_url: "https://arxiv.org/abs/2602.19672"
@@ -16,12 +15,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 规划/推理"
-  - "Agent 评测/基准"
-  - "强化学习"
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SkillOrchestra (skill-aware orchestration via skill transfer and competence/cost modeling)"
+  primary_benchmark: "N/A"
 ---
 
 # SkillOrchestra: Learning to Route Agents via Skill Transfer

@@ -14,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "记忆与检索"
-  - "决策规划"
-  - "医疗应用"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Memory & Context Management"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Experience-guided cascaded multi-agent framework (BUSD-Agent) with retrieval-conditioned in-context adaptation"
+  primary_benchmark: "10 breast ultrasound datasets"
 ---
 
 # Experience-Guided Self-Adaptive Cascaded Agents for Breast Cancer Screening and Diagnosis with Reduced Biopsy Referrals

@@ -6,7 +6,6 @@ authors:
   - "Minkyu Kim"
   - "Jonghyun Lee"
   - "Jae-Gil Lee"
-  - "Dongmin Park"
 date: "2026-02-24"
 arxiv_id: "2602.20951"
 arxiv_url: "https://arxiv.org/abs/2602.20951"
@@ -15,15 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 数据合成"
-  - "视觉语言模型"
-  - "扩散模型"
-  - "视觉伪影"
-  - "自动化标注"
-  - "工具使用"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Perception & Multimodal"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ArtiAgent"
+  primary_benchmark: "N/A"
 ---
 
 # See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis

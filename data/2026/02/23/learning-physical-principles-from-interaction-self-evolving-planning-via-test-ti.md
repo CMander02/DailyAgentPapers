@@ -13,17 +13,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 自演化"
-  - "Agent 规划"
-  - "Agent 记忆"
-  - "测试时学习"
-  - "具身智能"
-  - "机器人操作"
-  - "物理推理"
-  - "经验验证"
-  - "视觉语言模型"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Reasoning & Planning"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "PhysMem (Physics Memory framework)"
+  primary_benchmark: "N/A"
 ---
 
 # Learning Physical Principles from Interaction: Self-Evolving Planning via Test-Time Memory

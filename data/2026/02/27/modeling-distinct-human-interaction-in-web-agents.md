@@ -6,10 +6,6 @@ authors:
   - "Zhanqiu Guo"
   - "Venu Arvind Arangarajan"
   - "Tianyue Ou"
-  - "Frank Xu"
-  - "Shuyan Zhou"
-  - "Graham Neubig"
-  - "Jeffrey P. Bigham"
 date: "2026-02-19"
 arxiv_id: "2602.17588"
 arxiv_url: "https://arxiv.org/abs/2602.17588"
@@ -19,12 +15,18 @@ categories:
   - "cs.HC"
 tags:
   - "Human-Agent Interaction"
-  - "Web Agent"
-  - "Agent Collaboration"
-  - "Intervention Modeling"
-  - "Agent Adaptation"
-  - "Agent Evaluation"
-relevance_score: 8.0
+  - "Web & Browser Automation"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Web & Browser Automation"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "intervention-aware modeling, human intervention prediction"
+  primary_benchmark: "CowCorpus"
 ---
 
 # Modeling Distinct Human Interaction in Web Agents

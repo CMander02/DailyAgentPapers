@@ -15,13 +15,19 @@ categories:
   - "cs.CE"
   - "cs.SE"
 tags:
-  - "工具使用"
-  - "检索增强生成"
-  - "领域特定智能体"
-  - "工作流自动化"
-  - "智能体架构"
-  - "智能体评测"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "core-plus-domain architecture with input-precheck pipeline (grammar-constrained loop, similarity search), RAG, MCP-backed execution backend"
+  primary_benchmark: "125-prompt benchmark spanning diffusion, transient heat conduction, solid mechanics, porous flow, and incompressible Navier–Stokes"
 ---
 
 # MOOSEnger -- a Domain-Specific AI Agent for the MOOSE Ecosystem

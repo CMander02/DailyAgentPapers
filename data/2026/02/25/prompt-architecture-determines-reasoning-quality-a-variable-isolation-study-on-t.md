@@ -10,13 +10,17 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 推理"
-  - "提示工程"
-  - "结构化推理"
-  - "基准评测"
-  - "LLM 能力评估"
-  - "约束推理"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Claude 3.5 Sonnet"
+  key_technique: "STAR (Situation-Task-Action-Result) reasoning framework"
+  primary_benchmark: "Car Wash Problem"
 ---
 
 # Prompt Architecture Determines Reasoning Quality: A Variable Isolation Study on the Car Wash Problem

@@ -6,11 +6,6 @@ authors:
   - "Wenhao Zhao"
   - "Yiming Tang"
   - "Tingting Chen"
-  - "Samson Yu"
-  - "Tianyi Zhang"
-  - "Chang Liu"
-  - "Xiangyang Ji"
-  - "Dianbo Liu"
 date: "2025-10-12"
 arxiv_id: "2510.10472"
 arxiv_url: "https://arxiv.org/abs/2510.10472"
@@ -20,14 +15,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Scientific Research Agent"
-  - "Machine Learning Agent"
-  - "Agent Evaluation"
-  - "Exploration Strategy"
-  - "Research Process"
-  - "Autonomous Research"
-relevance_score: 8.0
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Exploration Diversity"
+  primary_benchmark: "FML-bench"
 ---
 
 # FML-bench: Benchmarking Machine Learning Agents for Scientific Research

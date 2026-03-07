@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18981v1"
 categories:
   - "cs.AI"
 tags:
-  - "视觉导航"
-  - "游戏智能体"
-  - "视觉感知"
-  - "环境理解"
-  - "基准测试"
-  - "有限状态机"
-relevance_score: 7.5
+  - "Perception & Multimodal"
+  - "World Modeling & Simulation"
+relevance_score: 6.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "World Modeling & Simulation"
+  domain: "Games & Entertainment"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Screen-only navigation agent using visual affordance detector and finite-state controller"
+  primary_benchmark: "N/A"
 ---
 
 # How Far Can We Go with Pixels Alone? A Pilot Study on Screen-Only Navigation in Commercial 3D ARPGs

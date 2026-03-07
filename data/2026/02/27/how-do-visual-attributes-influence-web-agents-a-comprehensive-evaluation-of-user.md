@@ -14,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "Web Agent"
-  - "Agent Evaluation"
-  - "Visual Attributes"
-  - "Decision-Making"
-  - "Human-Computer Interaction"
-  - "Benchmark"
-relevance_score: 8.0
+  - "Web & Browser Automation"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Web & Browser Automation"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4V, LLaVA-NeXT, CogAgent, Qwen-VL-Chat"
+  key_technique: "VAF (Visual Attribute Factors evaluation pipeline)"
+  primary_benchmark: "VAF (自建评测框架)"
 ---
 
 # How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors

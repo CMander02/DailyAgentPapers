@@ -10,16 +10,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent Testing"
-  - "Agent Workflow"
-  - "Regression Testing"
-  - "Agent Evaluation"
-  - "Agent Reliability"
-  - "Agent Deployment"
-  - "Agent Verification"
-  - "Agent Coverage"
-  - "Agent Benchmark"
-relevance_score: 8.0
+  - "Architecture & Frameworks"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "GPT-5.2, Claude Sonnet 4.6, Mistral-Large-3, Llama-4-Maverick, Phi-4"
+  key_technique: "AgentAssay (stochastic test semantics, behavioral fingerprinting, adaptive budget optimization, trace-first offline analysis)"
+  primary_benchmark: "N/A"
 ---
 
 # AgentAssay: Token-Efficient Regression Testing for Non-Deterministic AI Agent Workflows

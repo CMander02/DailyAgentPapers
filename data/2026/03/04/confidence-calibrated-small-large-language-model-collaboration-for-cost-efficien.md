@@ -6,9 +6,6 @@ authors:
   - "Yihao Wei"
   - "Bing Tian"
   - "Junyi Liu"
-  - "Henan Wang"
-  - "Xavier Wang"
-  - "Yaxiao Liu"
 date: "2026-03-04"
 arxiv_id: "2603.03752"
 arxiv_url: "https://arxiv.org/abs/2603.03752"
@@ -17,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "LLM-SLM协作"
-  - "成本效率"
-  - "置信度校准"
-  - "推理系统"
-  - "强化学习训练"
-  - "级联系统"
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama-3.1-8B, Llama-3.1-70B, Qwen-2.5-7B, Qwen-2.5-72B"
+  key_technique: "COREA (Collaborative REAsoner) with RL-based confidence calibration"
+  primary_benchmark: "GSM8K, MATH, ARC, MMLU, BBH"
 ---
 
 # Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning

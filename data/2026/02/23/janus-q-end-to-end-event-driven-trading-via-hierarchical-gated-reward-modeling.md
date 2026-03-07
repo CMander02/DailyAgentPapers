@@ -6,9 +6,6 @@ authors:
   - "Yiyan Qi"
   - "Wanyun Zhou"
   - "Xiang Liu"
-  - "Penglei Sun"
-  - "Yongqi Zhang"
-  - "Xiaowen Chu"
 date: "2026-02-23"
 arxiv_id: "2602.19919"
 arxiv_url: "https://arxiv.org/abs/2602.19919"
@@ -17,14 +14,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "强化学习"
-  - "决策"
-  - "工具使用"
-  - "多目标优化"
-  - "事件驱动"
-  - "金融交易"
-relevance_score: 7.5
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Janus-Q, Hierarchical Gated Reward Model (HGRM)"
+  primary_benchmark: "N/A"
 ---
 
 # Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling

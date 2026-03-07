@@ -6,15 +6,6 @@ authors:
   - "Yuxi Ren"
   - "Jianbin Zheng"
   - "Xuanda Wang"
-  - "Zhixia Zhang"
-  - "Hongyan Xie"
-  - "Songshi Liang"
-  - "Zehao Chen"
-  - "Xuefeng Xiao"
-  - "Fuzhen Zhuang"
-  - "Jianxin Li"
-  - "Yikun Ban"
-  - "Deqing Wang"
 date: "2026-02-09"
 arxiv_id: "2602.08354"
 arxiv_url: "https://arxiv.org/abs/2602.08354"
@@ -22,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.08354v2"
 categories:
   - "cs.AI"
 tags:
-  - "推理模型"
-  - "思维链"
-  - "采样方法"
-  - "推理效率"
-  - "强化学习"
-  - "模型自省"
-  - "数学推理"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SAGE (Self-Aware Guided Efficient Reasoning), SAGE-RL"
+  primary_benchmark: "AIME, OlympiadBench, IMO"
 ---
 
 # Does Your Reasoning Model Implicitly Know When to Stop Thinking?

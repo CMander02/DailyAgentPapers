@@ -6,8 +6,6 @@ authors:
   - "Cheng Tan"
   - "Wenbiao Yan"
   - "Ning Yang"
-  - "Jihua Zhu"
-  - "Haijun Zhang"
 date: "2026-01-20"
 arxiv_id: "2601.13879"
 arxiv_url: "https://arxiv.org/abs/2601.13879"
@@ -17,14 +15,19 @@ categories:
   - "cs.CL"
   - "cs.CV"
 tags:
-  - "多模态推理"
-  - "推理加速"
-  - "思维链"
-  - "视觉语言模型"
-  - "信息瓶颈"
-  - "效率优化"
-  - "视觉锚定"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2-VL, Llama-3.2"
+  key_technique: "V-Skip, Visual-Anchored Information Bottleneck (VA-IB), dual-path gating mechanism"
+  primary_benchmark: "DocVQA"
 ---
 
 # Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring

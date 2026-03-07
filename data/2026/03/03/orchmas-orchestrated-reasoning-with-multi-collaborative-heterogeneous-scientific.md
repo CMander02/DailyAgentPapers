@@ -6,8 +6,6 @@ authors:
   - "Zhenghong Lin"
   - "Yiqun Sun"
   - "Pengfei Wei"
-  - "Lawrence B. Hsieh"
-  - "Anh Tuan Luu"
 date: "2026-03-03"
 arxiv_id: "2603.03005"
 arxiv_url: "https://arxiv.org/abs/2603.03005"
@@ -15,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03005v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "规划与推理"
-  - "工具使用"
-  - "科学推理"
-  - "动态协作"
-  - "异构模型集成"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Interactive two-tier multi-model orchestration framework (OrchMAS)"
+  primary_benchmark: "N/A"
 ---
 
 # OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents

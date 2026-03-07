@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19633v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划"
-  - "约束执行"
-  - "自适应重规划"
-  - "Agent 评测"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Tool-guided Adaptive Planning with constrained Execution (TAPE)"
+  primary_benchmark: "Sokoban, ALFWorld, MuSiQue, GSM8K-Hard"
 ---
 
 # TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents

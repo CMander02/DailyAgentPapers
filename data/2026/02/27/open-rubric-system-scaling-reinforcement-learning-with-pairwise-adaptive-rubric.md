@@ -6,10 +6,6 @@ authors:
   - "Yuxin Wu"
   - "Yongbo Gai"
   - "Siyuan Tao"
-  - "Mengyu Zhou"
-  - "Jianhe Lin"
-  - "Xiaoxi Jiang"
-  - "Guanjun Jiang"
 date: "2026-02-15"
 arxiv_id: "2602.14069"
 arxiv_url: "https://arxiv.org/abs/2602.14069"
@@ -17,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.14069v2"
 categories:
   - "cs.CL"
 tags:
-  - "LLM-as-a-Judge"
-  - "Reward Modeling"
-  - "Alignment"
-  - "Reinforcement Learning"
-  - "Pairwise Comparison"
-  - "Agent Training"
+  - "Learning & Optimization"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Open Rubric System (OpenRS), Pairwise Adaptive Meta-Rubrics (PAMR), Pointwise Verifiable Rubrics (PVRs)"
+  primary_benchmark: "RM-Bench, JudgeBench, RewardBench v2, PPE Preference"
 ---
 
 # Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric

@@ -6,7 +6,6 @@ authors:
   - "Mohammad Shoeybi"
   - "Pooya Jannaty"
   - "Bryan Catanzaro"
-  - "Wei Ping"
 date: "2026-02-24"
 arxiv_id: "2602.21193"
 arxiv_url: "https://arxiv.org/abs/2602.21193"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21193v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "LLM 应用于 Agent 场景"
-  - "终端智能体"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen3(8B, 14B, 32B)"
+  key_technique: "Terminal-Task-Gen pipeline, Terminal-Corpus dataset"
+  primary_benchmark: "Terminal-Bench 2.0"
 ---
 
 # On Data Engineering for Scaling LLM Terminal Capabilities

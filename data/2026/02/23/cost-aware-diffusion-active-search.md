@@ -12,13 +12,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "主动搜索"
-  - "多智能体系统"
-  - "决策规划"
-  - "扩散模型"
-  - "强化学习"
-  - "探索与利用"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "Cost-Aware Diffusion Active Search"
+  primary_benchmark: "N/A"
 ---
 
 # Cost-Aware Diffusion Active Search

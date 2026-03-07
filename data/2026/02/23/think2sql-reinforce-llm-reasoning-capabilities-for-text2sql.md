@@ -13,14 +13,19 @@ categories:
   - "cs.LG"
   - "cs.DB"
 tags:
-  - "强化学习"
-  - "文本到SQL"
-  - "LLM推理"
-  - "Agentic强化学习"
-  - "执行引导奖励"
-  - "模型蒸馏"
-  - "训练效率"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Reinforcement Learning with Verifiable Rewards (RLVR), execution-guided dense reward function"
+  primary_benchmark: "N/A"
 ---
 
 # Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL

@@ -6,12 +6,6 @@ authors:
   - "Chenxi Whitehouse"
   - "Minqi Jiang"
   - "Michael Shvartsman"
-  - "Abhishek Charnalia"
-  - "Despoina Magka"
-  - "Tatiana Shavrina"
-  - "Derek Dunfield"
-  - "Oisin Mac Aodha"
-  - "Yoram Bachrach"
 date: "2026-03-03"
 arxiv_id: "2603.03142"
 arxiv_url: "https://arxiv.org/abs/2603.03142"
@@ -20,12 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 工具使用"
-  - "LLM 应用"
-  - "科学写作"
-  - "自动化评估"
-  - "文本修订"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "APRES"
+  primary_benchmark: "N/A"
 ---
 
 # APRES: An Agentic Paper Revision and Evaluation System

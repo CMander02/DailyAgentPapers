@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23276v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "医疗诊断"
-  - "多模态 Agent"
-  - "证据推理"
-  - "基准评测"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CXReasonAgent (integrating LLM with clinically grounded diagnostic tools for evidence-grounded reasoning)"
+  primary_benchmark: "CXReasonDial"
 ---
 
 # CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays

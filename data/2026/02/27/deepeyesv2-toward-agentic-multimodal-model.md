@@ -6,7 +6,6 @@ authors:
   - "ChengLin Zhu"
   - "Weiheng Lu"
   - "Guohai Xu"
-  - "Xing Yu"
 date: "2025-11-07"
 arxiv_id: "2511.05271"
 arxiv_url: "https://arxiv.org/abs/2511.05271"
@@ -15,14 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Agentic Multimodal Model"
-  - "Tool Use"
-  - "Reinforcement Learning"
-  - "Training Pipeline"
-  - "Benchmark"
-  - "Multimodal Reasoning"
-  - "Agent Architecture"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Perception & Multimodal"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-VL"
+  key_technique: "two-stage training pipeline (cold-start stage and reinforcement learning stage)"
+  primary_benchmark: "RealX-Bench"
 ---
 
 # DeepEyesV2: Toward Agentic Multimodal Model

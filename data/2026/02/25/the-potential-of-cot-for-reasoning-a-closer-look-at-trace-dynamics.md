@@ -12,13 +12,17 @@ pdf_url: "https://arxiv.org/pdf/2602.14903v2"
 categories:
   - "cs.AI"
 tags:
-  - "推理"
-  - "思维链"
-  - "大语言模型"
-  - "可解释性"
-  - "数学推理"
-  - "能力转移"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Potential analysis of CoT traces"
+  primary_benchmark: "N/A"
 ---
 
 # The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics

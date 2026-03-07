@@ -6,11 +6,6 @@ authors:
   - "Yiming Zhang"
   - "Songyang Gao"
   - "Kuikun Liu"
-  - "Tianyou Ma"
-  - "Fan Zheng"
-  - "Dahua Lin"
-  - "Wenwei Zhang"
-  - "Kai Chen"
 date: "2025-12-11"
 arxiv_id: "2512.10534"
 arxiv_url: "https://arxiv.org/abs/2512.10534"
@@ -18,16 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2512.10534v3"
 categories:
   - "cs.AI"
 tags:
-  - "LLM Agent"
-  - "Agent Architecture"
-  - "Mathematical Reasoning"
-  - "Tool Use"
-  - "Reinforcement Learning"
-  - "Agentic RL"
-  - "Planning"
-  - "Memory"
-  - "Agent Evaluation"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "InternThinker-32B"
+  key_technique: "Complexity-Boosting Reinforcement Learning (CBRL)"
+  primary_benchmark: "IMO geometry problems (2000-2024)"
 ---
 
 # Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning

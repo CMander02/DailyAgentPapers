@@ -12,12 +12,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 规划/推理"
-  - "工具使用"
-  - "框架/库"
-relevance_score: 9.0
+  - "Architecture & Frameworks"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Logical Transduction Algebra, transducible function"
+  primary_benchmark: "DiscoveryBench, Archer"
 ---
 
 # Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows

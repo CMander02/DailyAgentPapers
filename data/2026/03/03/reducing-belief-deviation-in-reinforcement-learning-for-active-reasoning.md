@@ -6,9 +6,6 @@ authors:
   - "Jianxiang Wang"
   - "Haochen Yang"
   - "Mufei Li"
-  - "James Cheng"
-  - "Pan Li"
-  - "Yu Gong"
 date: "2025-10-14"
 arxiv_id: "2510.12264"
 arxiv_url: "https://arxiv.org/abs/2510.12264"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2510.12264v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Active Reasoning"
-  - "Belief Tracking"
-  - "Policy Optimization"
-  - "Training Stability"
-  - "LLM Agent"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "T^3 (Trajectory Truncation based on belief Tracking)"
+  primary_benchmark: "N/A"
 ---
 
 # Reducing Belief Deviation in Reinforcement Learning for Active Reasoning

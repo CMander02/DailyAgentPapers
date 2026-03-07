@@ -10,13 +10,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agent 系统设计"
-  - "LLM 交互协议"
-  - "可审计性"
-  - "模式设计"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Schema-Guided Dialogue (SGD), Model Context Protocol (MCP) convergence analysis and design principles"
+  primary_benchmark: "N/A"
 ---
 
 # The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol

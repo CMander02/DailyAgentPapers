@@ -6,11 +6,6 @@ authors:
   - "Fan Zhang"
   - "Zijing Liu"
   - "Hao Li"
-  - "Bin Feng"
-  - "Shengyuan Bai"
-  - "Leqing Chen"
-  - "Kai Xie"
-  - "Yu Li"
 date: "2026-03-04"
 arxiv_id: "2603.03655"
 arxiv_url: "https://arxiv.org/abs/2603.03655"
@@ -18,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03655v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Governance & Safety"
-  - "Scientific Agent"
-  - "Multi-Agent System"
-  - "Planning & Reasoning"
-  - "Human-in-the-Loop"
-  - "Agent Benchmarking"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Mozi (dual-layer architecture with Control Plane and Workflow Plane, governed supervisor-worker hierarchy, stateful composable skill graphs)"
+  primary_benchmark: "PharmaBench"
 ---
 
 # Mozi: Governed Autonomy for Drug Discovery LLM Agents

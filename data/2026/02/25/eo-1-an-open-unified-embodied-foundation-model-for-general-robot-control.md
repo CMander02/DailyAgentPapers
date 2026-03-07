@@ -6,17 +6,6 @@ authors:
   - "Qizhi Chen"
   - "Zhaoqing Chen"
   - "Xianqiang Gao"
-  - "Dong Wang"
-  - "Xinyi Ye"
-  - "Qi Lv"
-  - "Modi Shi"
-  - "Guanghui Ren"
-  - "Cheng Ruan"
-  - "Maoqing Yao"
-  - "Haoran Yang"
-  - "Jiacheng Bao"
-  - "Bin Zhao"
-  - "Xuelong Li"
 date: "2025-08-28"
 arxiv_id: "2508.21112"
 arxiv_url: "https://arxiv.org/abs/2508.21112"
@@ -25,15 +14,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "Embodied AI"
-  - "Foundation Model"
-  - "Robot Control"
-  - "Vision-Language-Action"
-  - "Multimodal Reasoning"
-  - "Interleaved Learning"
-  - "Long-Horizon Manipulation"
-  - "Generalization"
-relevance_score: 9.0
+  - "Perception & Multimodal"
+  - "World Modeling & Simulation"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "World Modeling & Simulation"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "interleaved vision-text-action pre-training, unified architecture for multimodal inputs, auto-regressive decoding and flow matching denoising"
+  primary_benchmark: "N/A"
 ---
 
 # EO-1: An Open Unified Embodied Foundation Model for General Robot Control

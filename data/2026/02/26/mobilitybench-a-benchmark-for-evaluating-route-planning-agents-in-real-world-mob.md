@@ -6,10 +6,6 @@ authors:
   - "Chuan Qin"
   - "Chao Wang"
   - "Chao Chen"
-  - "Longfei Xu"
-  - "Kaikui Liu"
-  - "Xiangxiang Chu"
-  - "Hengshu Zhu"
 date: "2026-02-26"
 arxiv_id: "2602.22638"
 arxiv_url: "https://arxiv.org/abs/2602.22638"
@@ -18,12 +14,19 @@ github_url: "https://github.com/AMAP-ML/MobilityBench"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Route Planning"
-  - "Tool Use"
-  - "Evaluation Protocol"
-  - "Real-World Scenarios"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "deterministic API-replay sandbox, multi-dimensional evaluation protocol"
+  primary_benchmark: "MobilityBench"
 ---
 
 # MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios

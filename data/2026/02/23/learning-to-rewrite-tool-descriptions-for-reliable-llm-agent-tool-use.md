@@ -12,13 +12,17 @@ pdf_url: "https://arxiv.org/pdf/2602.20426v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 工具使用"
-  - "工具接口优化"
-  - "Agent 可靠性"
-  - "Agent 基准评测"
-  - "Agent 数据合成"
-  - "Agent 泛化能力"
+  - "Tool Use & API Interaction"
 relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Trace-Free+ (curriculum learning framework for tool interface improvement)"
+  primary_benchmark: "StableToolBench, RestBench"
 ---
 
 # Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use

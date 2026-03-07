@@ -14,12 +14,19 @@ github_url: "https://github.com/kding1225/infengine"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "工具使用"
-  - "自优化"
-  - "科学计算"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "self-verification (joint solver-evaluator debugging), self-optimization (evolutionary algorithms with self-discovered fitness functions)"
+  primary_benchmark: "InfBench"
 ---
 
 # InfEngine: A Self-Verifying and Self-Optimizing Intelligent Engine for Infrared Radiation Computing

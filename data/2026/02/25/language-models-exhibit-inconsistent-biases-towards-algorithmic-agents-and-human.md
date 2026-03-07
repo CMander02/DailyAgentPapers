@@ -11,14 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22070v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "LLM 应用于 Agent 场景"
-  - "决策偏见"
-  - "算法厌恶"
-  - "人机交互"
-  - "评估鲁棒性"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts

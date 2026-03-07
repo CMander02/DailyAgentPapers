@@ -12,13 +12,19 @@ categories:
   - "cs.AI"
   - "cs.PL"
 tags:
-  - "Agent Reasoning"
-  - "Agent Planning"
-  - "Structured Prompting"
-  - "Code Analysis"
-  - "Agent Evaluation"
-  - "Tool Use"
-relevance_score: 8.5
+  - "Code & Software Engineering"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "semi-formal reasoning"
+  primary_benchmark: "RubberDuckBench, Defects4J"
 ---
 
 # Agentic Code Reasoning

@@ -15,14 +15,17 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent安全"
-  - "系统监控"
-  - "可靠性"
-  - "威胁检测"
-  - "LLM应用"
-  - "安全攻击面"
-  - "事件响应"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "system-level threat monitoring"
+  primary_benchmark: "N/A"
 ---
 
 # LLM-enabled Applications Require System-Level Threat Monitoring

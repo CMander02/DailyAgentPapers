@@ -14,13 +14,19 @@ categories:
   - "cs.NI"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "工具使用"
-  - "Agent 协作"
-  - "去中心化系统"
-  - "安全与验证"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "plane-based reference architecture, signed soft-state capability descriptors, tiered verification spectrum"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic Peer-to-Peer Networks: From Content Distribution to Capability and Action Sharing

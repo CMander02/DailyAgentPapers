@@ -6,21 +6,6 @@ authors:
   - "Aobo Kong"
   - "Bin Wang"
   - "Binxing Jiao"
-  - "Bo Dong"
-  - "Bojun Wang"
-  - "Boyu Chen"
-  - "Brian Li"
-  - "Buyun Ma"
-  - "Chang Su"
-  - "Changxin Miao"
-  - "Changyi Wan"
-  - "Chao Lou"
-  - "Chen Hu"
-  - "Chen Xu"
-  - "Chenfeng Yu"
-  - "Chengting Feng"
-  - "Chengyuan Yao"
-  - "Chunrui Han"
 date: "2026-02-11"
 arxiv_id: "2602.10604"
 arxiv_url: "https://arxiv.org/abs/2602.10604"
@@ -29,16 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 推理"
-  - "工具使用"
-  - "Agentic 强化学习"
-  - "Agent 自演化"
-  - "Agent 评测/基准"
-  - "计算效率"
-  - "稀疏专家混合模型 (MoE)"
-  - "多轮交互"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Step 3.5 Flash"
+  key_technique: "稀疏混合专家模型 (MoE) 结合 3:1 滑动窗口/全注意力与多令牌预测 (MTP-3)，以及结合可验证信号与偏好反馈的可扩展强化学习框架"
+  primary_benchmark: "IMO-AnswerBench, LiveCodeBench-v6, tau2-Bench, BrowseComp, Terminal-Bench 2.0"
 ---
 
 # Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters

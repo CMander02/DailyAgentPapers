@@ -13,12 +13,19 @@ github_url: "https://github.com/going-doer/Paper2Code"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "代码生成"
-  - "LLM应用"
-  - "Agent框架"
-  - "科学文档理解"
+  - "Code & Software Engineering"
+  - "Multi-Agent Systems"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Multi-Agent Systems"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "PaperCoder (multi-agent LLM framework with planning, analysis, generation stages)"
+  primary_benchmark: "PaperBench"
 ---
 
 # Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning

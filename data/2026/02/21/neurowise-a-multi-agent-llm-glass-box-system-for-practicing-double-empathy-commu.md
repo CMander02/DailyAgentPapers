@@ -6,9 +6,6 @@ authors:
   - "Jie Li"
   - "Yue Su"
   - "Mengyuan Zhang"
-  - "Sander L. Koole"
-  - "Koen Hindriks"
-  - "Jiahuan Pei"
 date: "2026-02-21"
 arxiv_id: "2602.18962"
 arxiv_url: "https://arxiv.org/abs/2602.18962"
@@ -20,13 +17,19 @@ categories:
   - "cs.IR"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "LLM应用"
-  - "人机交互"
-  - "社会智能体"
-  - "AI辅助沟通"
-  - "心理健康"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-agent LLM architecture coordinating autistic partner simulation, stress estimation, interpretation, and coaching"
+  primary_benchmark: "N/A"
 ---
 
 # NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners

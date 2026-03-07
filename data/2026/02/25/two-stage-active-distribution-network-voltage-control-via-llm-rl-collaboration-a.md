@@ -6,8 +6,6 @@ authors:
   - "Xiang Ma"
   - "Dong Liu"
   - "Ran Zheng"
-  - "Haotian Liu"
-  - "Wenchuan Wu"
 date: "2026-02-25"
 arxiv_id: "2602.21715"
 arxiv_url: "https://arxiv.org/abs/2602.21715"
@@ -16,14 +14,19 @@ categories:
   - "eess.SY"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "工具使用"
-  - "知识-数据驱动"
-  - "强化学习"
-  - "LLM Agent"
-  - "电力系统"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Multi-Agent Systems"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "hybrid knowledge-data-driven approach, LLM-RL collaboration framework, self-evolution mechanism for LLM agent, pretrain-finetune pipeline for RL agent"
+  primary_benchmark: "N/A"
 ---
 
 # Two-Stage Active Distribution Network Voltage Control via LLM-RL Collaboration: A Hybrid Knowledge-Data-Driven Approach

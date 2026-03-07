@@ -6,9 +6,6 @@ authors:
   - "Yuliang Li"
   - "Kejie Li"
   - "Ramya Korlakai Vinayak"
-  - "Yuning Chai"
-  - "Yong Jae Lee"
-  - "Hyo Jin Kim"
 date: "2026-01-26"
 arxiv_id: "2601.18157"
 arxiv_url: "https://arxiv.org/abs/2601.18157"
@@ -18,14 +15,19 @@ categories:
   - "cs.CV"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划与推理"
-  - "多模态智能体"
-  - "视频理解"
-  - "长期记忆"
-  - "检索增强生成"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "EGAgent (entity scene graph-based agentic framework)"
+  primary_benchmark: "EgoLifeQA, Video-MME (Long)"
 ---
 
 # Agentic Very Long Video Understanding

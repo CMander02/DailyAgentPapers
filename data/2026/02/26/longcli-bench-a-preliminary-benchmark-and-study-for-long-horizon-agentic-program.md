@@ -6,20 +6,6 @@ authors:
   - "Zelai Yang"
   - "Jiaxin Ai"
   - "Chuanhao Li"
-  - "Zizhen Li"
-  - "Fanrui Zhang"
-  - "Kang He"
-  - "Rui Ma"
-  - "Jifan Lin"
-  - "Jie Sun"
-  - "Yang Xiao"
-  - "Sizhuo Zhou"
-  - "Wenxiao Wu"
-  - "Yiming Liu"
-  - "Pengfei Liu"
-  - "Yu Qiao"
-  - "Shenglin Zhang"
-  - "Kaipeng Zhang"
 date: "2026-02-15"
 arxiv_id: "2602.14337"
 arxiv_url: "https://arxiv.org/abs/2602.14337"
@@ -28,14 +14,19 @@ categories:
   - "cs.SE"
   - "cs.MA"
 tags:
-  - "Agent Benchmark"
-  - "Agent Evaluation"
-  - "Long-horizon Planning"
-  - "Tool Use"
-  - "Command-Line Interface"
-  - "Software Engineering"
-  - "Human-Agent Collaboration"
+  - "Code & Software Engineering"
+  - "Reasoning & Planning"
 relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude-Opus-4.6, GPT-5.3-Codex"
+  key_technique: "dual-set testing protocol (fail-to-pass and pass-to-pass) with step-level scoring"
+  primary_benchmark: "LongCLI-Bench"
 ---
 
 # LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces

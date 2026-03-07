@@ -11,13 +11,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 协作"
-  - "软件工程"
-  - "实证研究"
-  - "代码审查"
-  - "人机交互"
+  - "Code & Software Engineering"
+  - "Human-Agent Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "AIDev dataset"
 ---
 
 # When AI Teammates Meet Code Review: Collaboration Signals Shaping the Integration of Agent-Authored Pull Requests

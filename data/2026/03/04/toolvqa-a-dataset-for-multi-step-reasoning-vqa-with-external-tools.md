@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2508.03284v2"
 categories:
   - "cs.AI"
 tags:
-  - "工具使用"
-  - "视觉问答"
-  - "多步推理"
-  - "数据集"
-  - "基准评测"
-  - "Agent能力增强"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Perception & Multimodal"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Perception & Multimodal"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "LLaVA-7B, GPT-3.5-turbo"
+  key_technique: "ToolEngine (image-guided Depth-First Search with LCS-based example matching)"
+  primary_benchmark: "ToolVQA"
 ---
 
 # ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools

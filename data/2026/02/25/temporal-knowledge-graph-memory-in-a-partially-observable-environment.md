@@ -13,15 +13,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 记忆"
-  - "知识图谱"
-  - "部分可观测环境"
-  - "强化学习"
-  - "基准/评测"
-  - "符号AI"
-  - "泛化能力"
-relevance_score: 9.0
+  - "Memory & Context Management"
+  - "World Modeling & Simulation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "World Modeling & Simulation"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "lightweight temporal KG memory (TKG) with RDF-star-style qualifiers"
+  primary_benchmark: "Room Environment v3"
 ---
 
 # Temporal Knowledge-Graph Memory in a Partially Observable Environment

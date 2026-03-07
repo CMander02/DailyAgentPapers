@@ -6,13 +6,6 @@ authors:
   - "Auguste Poiroux"
   - "Oliver Dressler"
   - "Paul Lezeau"
-  - "Dhyan Aranha"
-  - "Frederick Pu"
-  - "Aaron Hill"
-  - "Miguel Corredera Hidalgo"
-  - "Julian Berman"
-  - "George Tsoukalas"
-  - "Lenny Taelman"
 date: "2026-03-03"
 arxiv_id: "2603.02668"
 arxiv_url: "https://arxiv.org/abs/2603.02668"
@@ -21,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Benchmark"
-  - "Formal Theorem Proving"
-  - "LLM-based Agent"
-  - "Tool Use"
-  - "Reasoning"
-  - "Multi-Agent System"
+  - "Reasoning & Planning"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Code & Software Engineering"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Gemini Flash, N/A"
+  key_technique: "N/A"
+  primary_benchmark: "SorryDB"
 ---
 
 # SorryDB: Can AI Provers Complete Real-World Lean Theorems?

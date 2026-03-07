@@ -6,9 +6,6 @@ authors:
   - "Shengze Xu"
   - "Shengbo Cai"
   - "Tieyong Zeng"
-  - "Li Ling"
-  - "Yanyi Shang"
-  - "Dehan Kong"
 date: "2026-03-05"
 arxiv_id: "2603.05044"
 arxiv_url: "https://arxiv.org/abs/2603.05044"
@@ -16,14 +13,17 @@ pdf_url: "https://arxiv.org/pdf/2603.05044v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "强化学习"
-  - "工具使用"
-  - "数据合成"
-  - "Agent 评测"
-  - "GUI Agent"
-  - "Web Agent"
-relevance_score: 9.0
+
+relevance_score: 8.5
+taxonomy:
+  capability:
+
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents

@@ -11,14 +11,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "分层架构"
-  - "协作学习"
-  - "MARL"
-  - "样本效率"
-  - "策略鲁棒性"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Hierarchical Lead Critic (HLC)"
+  primary_benchmark: "N/A"
 ---
 
 # Hierarchical Lead Critic based Multi-Agent Reinforcement Learning

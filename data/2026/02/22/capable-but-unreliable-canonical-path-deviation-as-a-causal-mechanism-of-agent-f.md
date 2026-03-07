@@ -10,14 +10,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent Reliability"
-  - "Tool Use"
-  - "Agent Failure Analysis"
-  - "Long-Horizon Tasks"
-  - "Agent Evaluation"
-  - "Agent Architecture"
-  - "Agent Planning"
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "canonical solution path analysis"
+  primary_benchmark: "Toolathlon"
 ---
 
 # Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks

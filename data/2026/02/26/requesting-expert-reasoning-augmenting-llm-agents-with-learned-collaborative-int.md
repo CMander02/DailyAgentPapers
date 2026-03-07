@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22546v1"
 categories:
   - "cs.AI"
 tags:
-  - "Human-AI Collaboration"
-  - "Agent Architecture"
-  - "Interactive Reasoning"
-  - "Tool Use"
-  - "Planning"
-  - "Expert Knowledge"
-relevance_score: 9.0
+  - "Human-Agent Interaction"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Reasoning & Planning"
+  domain: "Games & Entertainment"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AHCE (Active Human-Augmented Challenge Engagement), Human Feedback Module (HFM)"
+  primary_benchmark: "Minecraft"
 ---
 
 # Requesting Expert Reasoning: Augmenting LLM Agents with Learned Collaborative Intervention

@@ -15,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Benchmark"
-  - "Code Generation"
-  - "Software Engineering"
-  - "Long-Term Reasoning"
-  - "Iterative Task"
-  - "Agent Evaluation"
-  - "Maintainability"
-relevance_score: 8.5
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "SWE-CI benchmark, Architect–Programmer dual-agent evaluation protocol, EvoScore"
+  primary_benchmark: "SWE-CI"
 ---
 
 # SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration

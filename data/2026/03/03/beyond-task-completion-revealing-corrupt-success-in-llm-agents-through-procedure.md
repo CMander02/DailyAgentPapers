@@ -11,13 +11,17 @@ pdf_url: "https://arxiv.org/pdf/2603.03116v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Agent Benchmark"
-  - "Agent Safety"
-  - "Agent Procedure"
-  - "Agent Failure Analysis"
-  - "LLM Agent"
-relevance_score: 8.5
+  - "Benchmark/Evaluation"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-5, Kimi-K2-Thinking, Mistral-Large-3"
+  key_technique: "Procedure-Aware Evaluation (PAE)"
+  primary_benchmark: "tau-bench"
 ---
 
 # Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation

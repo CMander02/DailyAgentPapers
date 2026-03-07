@@ -11,14 +11,19 @@ categories:
   - "cs.AI"
   - "eess.SP"
 tags:
-  - "Agent Architecture"
-  - "Multi-Agent System"
-  - "LLM-based Agent"
-  - "Agent Coordination"
-  - "Agent Memory"
-  - "Parameter-Efficient Fine-Tuning"
-  - "Network Optimization"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Parameter-efficient fine-tuning (PEFT) with QLoRA adapters for shared LLM, multi-agent DRL for O-RU management"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic AI for Intent-driven Optimization in Cell-free O-RAN

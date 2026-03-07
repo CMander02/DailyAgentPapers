@@ -12,13 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.21496v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 安全"
-  - "推理时干预"
-  - "LLM 安全与对齐"
-  - "隐私保护"
-  - "多轮自我修正"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-5, Llama-3, Gemma"
+  key_technique: "SemSIEdit (Semantic Sensitive Information Editing)"
+  primary_benchmark: "SemSI-Bench"
 ---
 
 # Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information

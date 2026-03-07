@@ -6,7 +6,6 @@ authors:
   - "Zhi Li"
   - "Mingyue Cheng"
   - "Zheng Zhang"
-  - "Rui Li"
 date: "2024-12-05"
 arxiv_id: "2412.04272"
 arxiv_url: "https://arxiv.org/abs/2412.04272"
@@ -16,14 +15,19 @@ categories:
   - "cs.IR"
   - "cs.AI"
 tags:
-  - "Agent 推理"
-  - "规划与执行"
-  - "工具使用"
-  - "LLM 应用"
-  - "表格推理"
-  - "代码生成"
-  - "可解释性"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Data Science & Analytics"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4, GPT-3.5-turbo, Llama-3-70B"
+  key_technique: "PoTable (stage-oriented plan-then-execute approach)"
+  primary_benchmark: "WikiTQ, TabFact"
 ---
 
 # PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables

@@ -6,7 +6,6 @@ authors:
   - "Cedegao E. Zhang"
   - "Sean Escola"
   - "Xaq Pitkow"
-  - "Thomas L. Griffiths"
 date: "2026-02-26"
 arxiv_id: "2602.22523"
 arxiv_url: "https://arxiv.org/abs/2602.22523"
@@ -16,14 +15,19 @@ categories:
   - "cs.CL"
   - "q-bio.NC"
 tags:
-  - "Agent Architecture"
-  - "Agent Design"
-  - "Cognitive Models"
-  - "Modular Agents"
   - "Multi-Agent Systems"
-  - "Agent Composition"
-  - "Interpretability"
-relevance_score: 9.0
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "agent template"
+  primary_benchmark: "N/A"
 ---
 
 # Cognitive Models and AI Algorithms Provide Templates for Designing Language Agents

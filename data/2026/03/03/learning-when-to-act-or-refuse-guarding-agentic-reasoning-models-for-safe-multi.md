@@ -6,7 +6,6 @@ authors:
   - "Yash Pandya"
   - "Joykirat Singh"
   - "Akshay Nambi"
-  - "Ahmed Awadallah"
 date: "2026-03-03"
 arxiv_id: "2603.03205"
 arxiv_url: "https://arxiv.org/abs/2603.03205"
@@ -14,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03205v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Safety"
-  - "Tool Use"
-  - "Multi-Step Reasoning"
-  - "Agent Alignment"
-  - "Reinforcement Learning"
-  - "Agentic Reasoning"
-  - "Refusal Mechanism"
-  - "Post-Training"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2.5-7B, Qwen3-4B-Thinking, Phi-4"
+  key_technique: "MOSAIC (post-training framework with plan-check-act/refuse loop and preference-based RL)"
+  primary_benchmark: "N/A"
 ---
 
 # Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use

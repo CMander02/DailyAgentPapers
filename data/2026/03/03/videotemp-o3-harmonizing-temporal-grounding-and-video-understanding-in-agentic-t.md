@@ -6,18 +6,6 @@ authors:
   - "Shijie Ma"
   - "Meng Liu"
   - "Qile Su"
-  - "Tianke Zhang"
-  - "Haonan Fan"
-  - "Changyi Liu"
-  - "Kaiyu Jiang"
-  - "Jiankang Chen"
-  - "Kaiyu Tang"
-  - "Bin Wen"
-  - "Fan Yang"
-  - "Tingting Gao"
-  - "Han Li"
-  - "Yinwei Wei"
-  - "Xuemeng Song"
 date: "2026-02-08"
 arxiv_id: "2602.07801"
 arxiv_url: "https://arxiv.org/abs/2602.07801"
@@ -26,14 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Agentic Thinking-with-Videos"
-  - "Video Understanding Agent"
-  - "Temporal Grounding"
-  - "Agent Planning/Reasoning"
-  - "Agentic Reinforcement Learning"
-  - "Agent Data Synthesis"
-  - "Agent Benchmark"
-relevance_score: 9.0
+  - "Perception & Multimodal"
+  - "Tool Use & API Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "VideoTemp-o3 (unified agentic thinking-with-videos framework with unified masking mechanism and dedicated RL rewards)"
+  primary_benchmark: "N/A"
 ---
 
 # VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos

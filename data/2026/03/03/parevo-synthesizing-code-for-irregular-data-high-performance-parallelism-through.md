@@ -6,8 +6,6 @@ authors:
   - "Andrew Liu"
   - "Felix Zou"
   - "Deniz Altinbüken"
-  - "Amir Yazdanbakhsh"
-  - "Quanquan C. Liu"
 date: "2026-03-03"
 arxiv_id: "2603.02510"
 arxiv_url: "https://arxiv.org/abs/2603.02510"
@@ -19,13 +17,19 @@ categories:
   - "cs.NE"
   - "cs.PF"
 tags:
-  - "Agentic Evolution"
-  - "Code Synthesis"
-  - "Tool Use"
-  - "Multi-Agent System"
-  - "Planning/Reasoning"
-  - "Agent Architecture"
-relevance_score: 8.0
+  - "Code & Software Engineering"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "DeepSeek, Qwen, Gemini"
+  key_technique: "Evolutionary Coding Agent (ECA), Critic-Refine pipeline"
+  primary_benchmark: "ParEval"
 ---
 
 # ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution

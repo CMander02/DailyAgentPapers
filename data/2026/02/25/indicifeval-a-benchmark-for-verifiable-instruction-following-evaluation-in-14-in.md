@@ -14,12 +14,17 @@ github_url: "http://github.com/ai4bharat/IndicIFEval"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Benchmark"
-  - "Multilingual Evaluation"
-  - "Instruction Following"
-  - "Constrained Generation"
-  - "LLM Evaluation"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "IndicIFEval benchmark construction (translation and synthetic generation with localization)"
+  primary_benchmark: "IndicIFEval"
 ---
 
 # IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages

@@ -6,9 +6,6 @@ authors:
   - "Zheyu Ye"
   - "Chonggang Lu"
   - "Zuozhu Liu"
-  - "Zihan Niu"
-  - "Yao Hu"
-  - "Shaosheng Cao"
 date: "2026-03-05"
 arxiv_id: "2603.05240"
 arxiv_url: "https://arxiv.org/abs/2603.05240"
@@ -16,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.05240v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "对话智能体"
-  - "Agent架构"
-  - "LLM驱动系统"
-  - "群体对话"
-  - "Agent协调"
-  - "工具使用"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "GCAgent system (Agent Builder, Dialogue Manager, Interface Plugins)"
+  primary_benchmark: "N/A"
 ---
 
 # GCAgent: Enhancing Group Chat Communication through Dialogue Agents System

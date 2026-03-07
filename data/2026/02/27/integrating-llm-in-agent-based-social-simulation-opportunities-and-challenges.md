@@ -6,7 +6,6 @@ authors:
   - "Arnaud Grignard"
   - "Benoit Gaudou"
   - "Nghi Quang Huynh"
-  - "Alexis Drogoul"
 date: "2025-07-25"
 arxiv_id: "2507.19364"
 arxiv_url: "https://arxiv.org/abs/2507.19364"
@@ -15,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "社会模拟"
-  - "Agent评测"
-  - "混合方法"
-  - "认知推理"
-  - "可扩展性"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "World Modeling & Simulation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "World Modeling & Simulation"
+  domain: "Social & Behavioral Science"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "LLaMa-3.1, GPT-4.5"
+  key_technique: "Hybrid Constitutional Architectures"
+  primary_benchmark: "N/A"
 ---
 
 # Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges

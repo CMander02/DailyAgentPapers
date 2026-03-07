@@ -14,13 +14,19 @@ categories:
   - "cs.RO"
   - "cs.AI"
 tags:
-  - "Agent Tools"
-  - "Geometric Perception"
-  - "Spatial Reasoning"
-  - "VLM Hallucination"
-  - "Autonomous Systems"
-  - "Safety"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Perception & Multimodal"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Perception & Multimodal"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "VANGUARD (Vehicle-Anchored Ground Sample Distance Estimation)"
+  primary_benchmark: "DOTA v1.5"
 ---
 
 # VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments

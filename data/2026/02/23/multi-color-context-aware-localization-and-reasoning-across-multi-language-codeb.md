@@ -6,9 +6,6 @@ authors:
   - "Subhayan Roy"
   - "Saurabh Bodhe"
   - "Lejin Varghese"
-  - "Max Kiehn"
-  - "Yonas Bedasso"
-  - "Marsha Chechik"
 date: "2026-02-23"
 arxiv_id: "2602.19407"
 arxiv_url: "https://arxiv.org/abs/2602.19407"
@@ -16,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19407v1"
 categories:
   - "cs.SE"
 tags:
-  - "Agent"
-  - "代码智能体"
-  - "代码定位"
-  - "多语言代码库"
-  - "图推理"
-  - "检索增强"
-  - "软件工程"
+  - "Code & Software Engineering"
+  - "Reasoning & Planning"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-CoLoR (integrates Similar Issue Context module and extended LocAgent for graph-based reasoning)"
+  primary_benchmark: "AMD codebase (real-world enterprise dataset)"
 ---
 
 # Multi-CoLoR: Context-Aware Localization and Reasoning across Multi-Language Codebases

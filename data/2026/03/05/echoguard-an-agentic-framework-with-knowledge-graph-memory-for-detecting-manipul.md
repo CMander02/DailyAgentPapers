@@ -12,15 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.04815v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Knowledge Graph Memory"
-  - "Agentic AI"
-  - "Multi-Agent System"
-  - "Longitudinal Memory"
-  - "Tool Use"
-  - "Reasoning"
-  - "Personalized Agent"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Human-Agent Interaction"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Log-Analyze-Reflect loop with Knowledge Graph memory"
+  primary_benchmark: "N/A"
 ---
 
 # EchoGuard: An Agentic Framework with Knowledge-Graph Memory for Detecting Manipulative Communication in Longitudinal Dialogue

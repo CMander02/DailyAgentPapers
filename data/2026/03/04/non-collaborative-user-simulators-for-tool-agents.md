@@ -14,12 +14,19 @@ github_url: "https://github.com/holi-lab/NCUser"
 categories:
   - "cs.CL"
 tags:
-  - "Tool Agent"
-  - "User Simulation"
-  - "Agent Robustness"
-  - "Agent Evaluation"
-  - "Multi-turn Dialogue"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4, GPT-4o, Llama-3-70B-Instruct, Qwen-2.5-72B-Instruct"
+  key_technique: "Non-Collaborative User Simulator (NCUser)"
+  primary_benchmark: "MultiWOZ, τ-bench"
 ---
 
 # Non-Collaborative User Simulators for Tool Agents

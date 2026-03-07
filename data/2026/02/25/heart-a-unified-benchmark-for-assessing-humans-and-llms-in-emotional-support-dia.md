@@ -6,7 +6,6 @@ authors:
   - "Sanmi Koyejo"
   - "Gail Heyman"
   - "Desmond C. Ong"
-  - "Subhabrata Mukherjee"
 date: "2026-01-09"
 arxiv_id: "2601.19922"
 arxiv_url: "https://arxiv.org/abs/2601.19922"
@@ -15,12 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "LLM 应用于 Agent 场景"
-  - "人机交互"
-  - "对话系统"
-  - "情感计算"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Benchmark/Evaluation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Benchmark/Evaluation"
+  domain: "Healthcare & Bio"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "HEART framework"
+  primary_benchmark: "HEART"
 ---
 
 # HEART: A Unified Benchmark for Assessing Humans and LLMs in Emotional Support Dialogue

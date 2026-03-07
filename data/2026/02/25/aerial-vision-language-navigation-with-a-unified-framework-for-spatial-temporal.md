@@ -13,12 +13,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Embodied AI"
-  - "Vision-Language Navigation"
-  - "Agent Planning"
-  - "Multi-Task Learning"
-  - "Autonomous Systems"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Perception & Multimodal"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Perception & Multimodal"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "unified aerial VLN framework with prompt-guided multi-task learning, keyframe selection, action merging and label reweighting"
+  primary_benchmark: "AerialVLN, OpenFly"
 ---
 
 # Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning

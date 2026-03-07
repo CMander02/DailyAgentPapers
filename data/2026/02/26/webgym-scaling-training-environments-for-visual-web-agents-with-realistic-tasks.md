@@ -14,13 +14,19 @@ categories:
   - "cs.LG"
   - "cs.CV"
 tags:
-  - "视觉智能体"
-  - "强化学习"
-  - "训练环境"
-  - "网页交互"
-  - "基准评测"
-  - "视觉语言模型微调"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Web & Browser Automation"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Web & Browser Automation"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Qwen-3-VL-8B-Instruct, GPT-4o, GPT-5-Thinking"
+  key_technique: "high-throughput asynchronous rollout system for web agents, reinforcement learning recipe"
+  primary_benchmark: "WebGym (out-of-distribution test set)"
 ---
 
 # WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks

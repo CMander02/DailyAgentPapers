@@ -13,14 +13,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 自演化"
-  - "Agentic 强化学习"
-  - "系统提示学习"
-  - "进化算法"
-  - "LLM 自我改进"
-  - "推理"
-  - "Agent 架构"
-relevance_score: 9.5
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "DeepSeek v3.1"
+  key_technique: "Evolutionary System Prompt Learning (E-SPL)"
+  primary_benchmark: "AIME, BeyondAIME, HMMT"
 ---
 
 # Evolutionary System Prompt Learning for Reinforcement Learning in LLMs

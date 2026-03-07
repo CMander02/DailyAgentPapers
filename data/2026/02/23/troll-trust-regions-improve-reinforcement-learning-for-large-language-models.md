@@ -14,14 +14,17 @@ categories:
   - "cs.LG"
   - "stat.ML"
 tags:
-  - "强化学习"
-  - "大语言模型"
-  - "信任区域"
-  - "PPO"
-  - "策略优化"
-  - "数学推理"
-  - "代码生成"
-relevance_score: 9.0
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "Trust Region Optimization for Large Language models (TROLL)"
+  primary_benchmark: "N/A"
 ---
 
 # TROLL: Trust Regions improve Reinforcement Learning for Large Language Models

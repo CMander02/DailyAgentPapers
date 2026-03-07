@@ -6,9 +6,6 @@ authors:
   - "Bo Li"
   - "Mengmeing Ji"
   - "John Long"
-  - "Chen Wu"
-  - "Urmish Thakker"
-  - "Guangtao Wang"
 date: "2026-03-03"
 arxiv_id: "2603.02631"
 arxiv_url: "https://arxiv.org/abs/2603.02631"
@@ -16,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02631v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent 推理优化"
-  - "Agent 系统效率"
-  - "提示压缩"
-  - "推理加速"
-  - "长上下文处理"
-relevance_score: 7.5
+  - "Architecture & Frameworks"
+  - "Learning & Optimization"
+relevance_score: 4.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Qwen, LLaMA, DeepSeek"
+  key_technique: "Cross-Family Speculative Prefill"
+  primary_benchmark: "N/A"
 ---
 
 # Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models

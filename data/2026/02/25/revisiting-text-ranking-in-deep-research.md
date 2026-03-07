@@ -14,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent评测/基准"
-  - "信息检索"
-  - "工具使用"
-  - "Agent架构"
-  - "LLM应用于Agent场景"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "BrowseComp-Plus"
 ---
 
 # Revisiting Text Ranking in Deep Research

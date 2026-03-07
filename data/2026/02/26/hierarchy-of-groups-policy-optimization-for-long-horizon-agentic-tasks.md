@@ -6,7 +6,6 @@ authors:
   - "Qi Wei"
   - "Xin Cheng"
   - "Lei Feng"
-  - "Bo An"
 date: "2026-02-26"
 arxiv_id: "2602.22817"
 arxiv_url: "https://arxiv.org/abs/2602.22817"
@@ -16,14 +15,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Policy Optimization"
-  - "Long-Horizon Tasks"
-  - "Group-based RL"
-  - "Advantage Estimation"
-  - "Memory"
-  - "Decision-Making"
-relevance_score: 9.0
+  - "Learning & Optimization"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "Qwen2.5-1.5B-Instruct, Qwen2.5-7B-Instruct"
+  key_technique: "Hierarchy-of-Groups Policy Optimization (HGPO)"
+  primary_benchmark: "ALFWorld, WebShop"
 ---
 
 # Hierarchy-of-Groups Policy Optimization for Long-Horizon Agentic Tasks

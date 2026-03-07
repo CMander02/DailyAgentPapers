@@ -6,8 +6,6 @@ authors:
   - "Suad Gafarli"
   - "Seljan Musayeva"
   - "Taghi Mammadov"
-  - "Aynur Akhundlu"
-  - "Murat Kantarcioglu"
 date: "2026-02-26"
 arxiv_id: "2602.22557"
 arxiv_url: "https://arxiv.org/abs/2602.22557"
@@ -16,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 评测/基准"
-  - "Agent 安全"
-  - "检索增强"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Evidentiary Debate, retrieval-augmented multi-agent framework"
+  primary_benchmark: "N/A"
 ---
 
 # CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety

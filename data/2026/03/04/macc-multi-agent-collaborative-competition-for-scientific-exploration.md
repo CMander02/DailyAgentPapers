@@ -12,14 +12,19 @@ categories:
   - "cs.MA"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "科学探索"
-  - "协作与竞争"
-  - "机构设计"
-  - "激励"
-  - "可复现性"
-  - "MA4Science"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MACC (Multi-Agent Collaborative Competition) architecture"
+  primary_benchmark: "N/A"
 ---
 
 # MACC: Multi-Agent Collaborative Competition for Scientific Exploration

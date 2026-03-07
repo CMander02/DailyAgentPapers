@@ -6,8 +6,6 @@ authors:
   - "Yifei Leng"
   - "Gaoning Liang"
   - "Li Ling"
-  - "Yanyi Shang"
-  - "Dehan Kong"
 date: "2026-03-05"
 arxiv_id: "2603.05295"
 arxiv_url: "https://arxiv.org/abs/2603.05295"
@@ -16,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "Web Agent"
-  - "多模态交互"
-  - "规划与推理"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Web & Browser Automation"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Web & Browser Automation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Dual Mid-Training"
+  primary_benchmark: "WebChainBench"
 ---
 
 # WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces

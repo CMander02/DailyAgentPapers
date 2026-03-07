@@ -6,12 +6,6 @@ authors:
   - "Zhaoyang Wang"
   - "Hanyang Chen"
   - "Ke Yang"
-  - "Hao Cheng"
-  - "Huaxiu Yao"
-  - "Baoling Peng"
-  - "Huan Zhang"
-  - "Jianfeng Gao"
-  - "Tong Zhang"
 date: "2026-02-25"
 arxiv_id: "2602.22190"
 arxiv_url: "https://arxiv.org/abs/2602.22190"
@@ -21,16 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 规划/推理"
-  - "Agent 评测/基准"
-  - "强化学习"
-  - "工具使用"
-  - "GUI Agent"
-  - "离线强化学习"
-  - "监督微调"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "action-aware SFT, success-adaptive scaling RL"
+  primary_benchmark: "N/A"
 ---
 
 # GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL

@@ -6,7 +6,6 @@ authors:
   - "Meeyoung Cha"
   - "Sungwon Park"
   - "Sangyoon Park"
-  - "Jihee Kim"
 date: "2025-10-08"
 arxiv_id: "2510.07231"
 arxiv_url: "https://arxiv.org/abs/2510.07231"
@@ -16,12 +15,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent评测/基准"
-  - "因果推理"
-  - "上下文感知"
-  - "社会科学"
-  - "LLM评估"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 4.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "Social & Behavioral Science"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, GPT-4, Llama-3-70B, Llama-3-8B, Mistral-7B, Qwen-2.5-72B"
+  key_technique: "EconCausal benchmark construction pipeline (multi-run consensus, context refinement, multi-critic filtering)"
+  primary_benchmark: "EconCausal"
 ---
 
 # EconCausal: A Context-Aware Causal Reasoning Benchmark for Large Language Models in Social Science

@@ -13,14 +13,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "记忆机制"
-  - "长程规划"
-  - "强化学习"
-  - "工具使用"
-  - "经验索引"
-  - "上下文管理"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Learning & Optimization"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Memex (indexed experience memory mechanism), MemexRL (reinforcement learning framework)"
+  primary_benchmark: "N/A"
 ---
 
 # Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory

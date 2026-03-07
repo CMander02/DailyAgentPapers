@@ -11,12 +11,19 @@ categories:
   - "cs.AI"
   - "cs.LO"
 tags:
-  - "Agent Governance"
-  - "Agent Safety"
-  - "Formal Semantics"
-  - "Multi-Agent Systems"
-  - "Agent Architecture"
-relevance_score: 9.5
+  - "Safety & Alignment"
+  - "Architecture & Frameworks"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AI Space Physics (minimal state model with typed boundary channels, horizon-limited reach semantics, membrane-witness discipline, core law family P-1, P-1a, P-1b, P-1c)"
+  primary_benchmark: "N/A"
 ---
 
 # AI Space Physics: Constitutive boundary semantics for open AI institutions

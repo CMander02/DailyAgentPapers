@@ -12,14 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2601.02702v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Memory"
-  - "User Preference Learning"
-  - "Long-Term Collaboration"
-  - "Conversational Agent"
-  - "Benchmark"
-  - "Multi-Session Interaction"
-  - "Agent Adaptation"
-relevance_score: 8.5
+  - "Memory & Context Management"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "long-term collaborative agents with memory, reinforcement learning (GRPO) with LLM-judge"
+  primary_benchmark: "MultiSessionCollab"
 ---
 
 # MultiSessionCollab: Learning User Preferences with Memory to Improve Long-Term Collaboration

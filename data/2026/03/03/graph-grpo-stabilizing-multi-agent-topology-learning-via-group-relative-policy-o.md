@@ -6,11 +6,6 @@ authors:
   - "Erlu Zhao"
   - "Zehua Ji"
   - "Yuhang Liu"
-  - "Yuchen He"
-  - "Zhiyuan Ning"
-  - "Chen Yijun"
-  - "Wenge Que"
-  - "Li Shi"
 date: "2026-03-03"
 arxiv_id: "2603.02701"
 arxiv_url: "https://arxiv.org/abs/2603.02701"
@@ -18,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02701v1"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "通信拓扑"
-  - "强化学习"
-  - "策略优化"
-  - "训练稳定性"
-  - "信用分配"
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Graph-GRPO (Graph-based Group Relative Policy Optimization)"
+  primary_benchmark: "MMLU, HumanEval"
 ---
 
 # Graph-GRPO: Stabilizing Multi-Agent Topology Learning via Group Relative Policy Optimization

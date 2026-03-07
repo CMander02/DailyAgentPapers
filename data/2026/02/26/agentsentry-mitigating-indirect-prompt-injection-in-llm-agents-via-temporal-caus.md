@@ -6,12 +6,6 @@ authors:
   - "Juan Wang"
   - "Keyan Guo"
   - "Xiaoyang Xu"
-  - "Bowen Xiao"
-  - "Quanlong Guan"
-  - "Jinlin Fan"
-  - "Jiawei Liu"
-  - "Zhiquan Liu"
-  - "Hongxin Hu"
 date: "2026-02-26"
 arxiv_id: "2602.22724"
 arxiv_url: "https://arxiv.org/abs/2602.22724"
@@ -20,14 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent 安全"
-  - "Agent 架构"
-  - "工具使用"
-  - "推理"
-  - "防御机制"
-  - "间接提示注入"
-  - "多轮交互"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "Cybersecurity"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentSentry (temporal causal diagnostics and context purification)"
+  primary_benchmark: "AgentDojo"
 ---
 
 # AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification

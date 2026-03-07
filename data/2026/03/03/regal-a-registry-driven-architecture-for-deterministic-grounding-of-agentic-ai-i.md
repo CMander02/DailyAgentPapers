@@ -10,14 +10,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Enterprise AI"
-  - "Deterministic Grounding"
-  - "Model Context Protocol"
-  - "Semantic Compilation"
-  - "Governance"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "REGAL (Registry-Driven Architecture for Grounded Agentic LLMs)"
+  primary_benchmark: "N/A"
 ---
 
 # REGAL: A Registry-Driven Architecture for Deterministic Grounding of Agentic AI in Enterprise Telemetry

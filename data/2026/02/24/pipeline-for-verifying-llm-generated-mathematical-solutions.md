@@ -13,12 +13,19 @@ github_url: "https://github.com/LogicEnj/lean4_verification_pipeline"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 评测/基准"
-  - "数学推理"
-  - "形式化验证"
-  - "多智能体系统"
-  - "工具使用"
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "pipeline for automatic and interactive verification using proof assistants"
+  primary_benchmark: "N/A"
 ---
 
 # Pipeline for Verifying LLM-Generated Mathematical Solutions

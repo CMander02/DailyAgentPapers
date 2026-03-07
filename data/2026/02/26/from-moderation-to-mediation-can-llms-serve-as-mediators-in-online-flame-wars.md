@@ -6,8 +6,6 @@ authors:
   - "Arslan Bisharat"
   - "Manny Sandoval"
   - "Deborah Hall"
-  - "Yasin Silva"
-  - "Huan Liu"
 date: "2025-12-02"
 arxiv_id: "2512.03005"
 arxiv_url: "https://arxiv.org/abs/2512.03005"
@@ -15,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2512.03005v5"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 应用"
-  - "在线交互"
-  - "对话引导"
-  - "LLM 评测"
-  - "负责任AI"
-  - "多智能体交互模拟"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Reasoning & Planning"
+  domain: "Social & Behavioral Science"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "mediation framework (judgment and steering subtasks)"
+  primary_benchmark: "Reddit-based dataset (constructed)"
 ---
 
 # From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?

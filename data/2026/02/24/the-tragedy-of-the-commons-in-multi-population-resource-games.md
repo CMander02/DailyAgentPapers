@@ -12,12 +12,16 @@ categories:
   - "cs.MA"
 tags:
   - "Multi-Agent Systems"
-  - "Game Theory"
-  - "Strategic Decision-Making"
-  - "Resource Management"
-  - "Nash Equilibrium"
-  - "Tragedy of the Commons"
-relevance_score: 7.5
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "bi-level decision-making hierarchy, resource extraction game, Nash equilibrium analysis"
+  primary_benchmark: "N/A"
 ---
 
 # The Tragedy of the Commons in Multi-Population Resource Games

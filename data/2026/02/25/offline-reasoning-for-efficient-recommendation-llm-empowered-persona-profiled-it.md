@@ -6,8 +6,6 @@ authors:
   - "Jeongeun Lee"
   - "Changhoe Kim"
   - "Junguel Lee"
-  - "Jungseok Lee"
-  - "Dongha Lee"
 date: "2026-02-25"
 arxiv_id: "2602.21756"
 arxiv_url: "https://arxiv.org/abs/2602.21756"
@@ -16,13 +14,19 @@ categories:
   - "cs.IR"
   - "cs.LG"
 tags:
-  - "LLM应用"
-  - "推荐系统"
-  - "离线推理"
-  - "可解释性"
-  - "系统架构"
-  - "效率优化"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4, Llama-2-7B"
+  key_technique: "Persona4Rec"
+  primary_benchmark: "Amazon-Books, Yelp, IMDB"
 ---
 
 # Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing

@@ -9,15 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2603.05344v1"
 categories:
   - "cs.AI"
 tags:
-  - "AI Coding Agent"
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Planning and Execution"
-  - "Context Management"
-  - "Memory System"
-  - "Compound AI System"
-  - "Autonomous Software Engineering"
-relevance_score: 9.0
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "compound AI system architecture with workload-specialized model routing, dual-agent architecture, lazy tool discovery, adaptive context compaction, automated memory system"
+  primary_benchmark: "N/A"
 ---
 
 # Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned

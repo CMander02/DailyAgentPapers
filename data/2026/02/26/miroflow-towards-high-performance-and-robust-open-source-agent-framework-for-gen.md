@@ -6,17 +6,6 @@ authors:
   - "Xuan Dong"
   - "Muyan Zhong"
   - "Bin Wang"
-  - "Xizhou Zhu"
-  - "Yuntao Chen"
-  - "Wenhai Wang"
-  - "Yue Deng"
-  - "Pengxiang Zhu"
-  - "Ziyuan Liu"
-  - "Tiantong Li"
-  - "Jiaheng Yu"
-  - "Zhe Chen"
-  - "Lidong Bing"
-  - "Jifeng Dai"
 date: "2026-02-26"
 arxiv_id: "2602.22808"
 arxiv_url: "https://arxiv.org/abs/2602.22808"
@@ -24,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22808v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Framework"
-  - "Tool Use"
-  - "Reasoning"
-  - "Agent Graph"
-  - "Multi-Benchmark Evaluation"
-  - "Open-Source"
-  - "Workflow Orchestration"
-  - "Performance Robustness"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "MiroFlow (agent graph for flexible orchestration, optional deep reasoning mode, robust workflow execution)"
+  primary_benchmark: "GAIA, BrowseComp-EN/ZH, HLE, xBench-DeepSearch, FutureX"
 ---
 
 # MiroFlow: Towards High-Performance and Robust Open-Source Agent Framework for General Deep Research Tasks

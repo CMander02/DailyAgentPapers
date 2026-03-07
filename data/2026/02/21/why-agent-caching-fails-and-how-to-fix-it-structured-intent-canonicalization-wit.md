@@ -11,16 +11,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "成本优化"
-  - "意图识别"
-  - "缓存机制"
-  - "结构化表示"
-  - "少样本学习"
-relevance_score: 8.5
+  - "Memory & Context Management"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "BERT, SetFit, 20B-parameter LLM"
+  key_technique: "W5H2 structured intent decomposition framework, five-tier cascade architecture"
+  primary_benchmark: "MASSIVE, BANKING77, CLINC150, NyayaBench v2"
 ---
 
 # Why Agent Caching Fails and How to Fix It: Structured Intent Canonicalization with Few-Shot Learning

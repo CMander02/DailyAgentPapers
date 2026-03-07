@@ -11,12 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18966v1"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "LLM应用"
-  - "工具使用"
-  - "领域适应"
-  - "自动语音识别"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent LLM pipeline for domain-aware prompt generation"
+  primary_benchmark: "N/A"
 ---
 
 # Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation

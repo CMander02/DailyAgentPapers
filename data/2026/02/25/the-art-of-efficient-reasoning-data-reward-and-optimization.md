@@ -13,14 +13,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "高效推理"
-  - "强化学习"
-  - "奖励塑形"
-  - "思维链"
-  - "推理优化"
-  - "长度适应"
-  - "Agent推理"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Qwen3 series (0.6B to 30B)"
+  key_technique: "Reinforcement Learning with reward shaping for efficient reasoning"
+  primary_benchmark: "N/A"
 ---
 
 # The Art of Efficient Reasoning: Data, Reward, and Optimization

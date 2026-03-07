@@ -6,11 +6,6 @@ authors:
   - "Yiyang Chen"
   - "Jin Song"
   - "Yihan Wang"
-  - "Zipeng Xiao"
-  - "Jiadi Su"
-  - "You Qiaoben"
-  - "Pengfei Liu"
-  - "Zhijie Deng"
 date: "2025-11-20"
 arxiv_id: "2511.16175"
 arxiv_url: "https://arxiv.org/abs/2511.16175"
@@ -19,15 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "Vision-Language-Action (VLA)"
-  - "机器人控制"
-  - "视觉预测"
-  - "模型架构"
-  - "动作学习"
-  - "多模态模型"
-  - "指令跟随"
-  - "泛化能力"
-relevance_score: 7.5
+  - "Perception & Multimodal"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Disentangled Visual Foresight (DVF) with meta queries and a diffusion Transformer (DiT) head"
+  primary_benchmark: "LIBERO"
 ---
 
 # Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight

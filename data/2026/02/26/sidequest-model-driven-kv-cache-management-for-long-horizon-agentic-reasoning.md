@@ -11,13 +11,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "Agent 推理"
-  - "KV Cache 管理"
-  - "长程推理"
-  - "模型驱动优化"
-  - "计算效率"
-relevance_score: 9.0
+  - "Memory & Context Management"
+  - "Architecture & Frameworks"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SideQuest"
+  primary_benchmark: "N/A"
 ---
 
 # SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning

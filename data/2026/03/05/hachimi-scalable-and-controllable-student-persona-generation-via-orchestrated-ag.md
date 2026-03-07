@@ -14,12 +14,19 @@ github_url: "https://github.com/ZeroLoss-Lab/HACHIMI"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "数据合成"
-  - "社会模拟"
-  - "Agent 评测"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Social & Behavioral Science"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Qwen2.5-72B"
+  key_technique: "multi-agent Propose-Validate-Revise framework, neuro-symbolic validator, stratified sampling with semantic deduplication"
+  primary_benchmark: "CEPS, PISA 2022"
 ---
 
 # HACHIMI: Scalable and Controllable Student Persona Generation via Orchestrated Agents

@@ -6,14 +6,6 @@ authors:
   - "Donovan Julian Jasper"
   - "Ethan Jun-shen Ho"
   - "Anna Wu"
-  - "Arnold Tianyi Yang"
-  - "Neil Perry"
-  - "Andy Zou"
-  - "Matt Fredrikson"
-  - "J. Zico Kolter"
-  - "Percy Liang"
-  - "Dan Boneh"
-  - "Daniel E. Ho"
 date: "2025-12-10"
 arxiv_id: "2512.09882"
 arxiv_url: "https://arxiv.org/abs/2512.09882"
@@ -23,12 +15,19 @@ categories:
   - "cs.CR"
   - "cs.CY"
 tags:
-  - "多智能体系统"
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "Agent 架构"
-  - "网络安全"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "ARTEMIS (multi-agent framework with dynamic prompt generation, arbitrary sub-agents, automatic vulnerability triaging)"
+  primary_benchmark: "N/A"
 ---
 
 # Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing

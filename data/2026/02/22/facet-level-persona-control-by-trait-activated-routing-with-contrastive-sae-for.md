@@ -12,15 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19157v1"
 categories:
   - "cs.CL"
 tags:
-  - "角色扮演智能体"
-  - "人格控制"
-  - "稀疏自编码器"
-  - "可解释性"
-  - "大五人格模型"
-  - "对比学习"
-  - "激活路由"
-  - "对话一致性"
-relevance_score: 8.0
+  - "Human-Agent Interaction"
+  - "Memory & Context Management"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "contrastive Sparse AutoEncoder (SAE) framework with trait-activated routing"
+  primary_benchmark: "N/A"
 ---
 
 # Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs

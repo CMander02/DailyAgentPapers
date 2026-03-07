@@ -6,14 +6,6 @@ authors:
   - "Xu Zhang"
   - "Li Chen"
   - "Hongji Zhu"
-  - "Jing Zhao"
-  - "Junjun Li"
-  - "Mengru Li"
-  - "Wei Cao"
-  - "Zihang Jiang"
-  - "Wei Wei"
-  - "Kun Zhang"
-  - "Shaohua Kevin Zhou"
 date: "2025-09-24"
 arxiv_id: "2509.20067"
 arxiv_url: "https://arxiv.org/abs/2509.20067"
@@ -21,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2509.20067v4"
 categories:
   - "cs.AI"
 tags:
-  - "Multi-Agent System"
-  - "Agent Architecture"
-  - "Self-Learning"
-  - "Knowledge Acquisition"
-  - "Clinical Diagnosis"
-  - "Human-AI Collaboration"
-  - "Planning/Reasoning"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama-3.1 8B, Llama-3.1 70B, DeepSeek-R1-Distill-Llama 70B"
+  key_technique: "Multi-Agent Clinical Diagnosis (MACD) framework with self-learned knowledge"
+  primary_benchmark: "N/A"
 ---
 
 # MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM

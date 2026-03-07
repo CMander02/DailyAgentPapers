@@ -14,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CY"
 tags:
-  - "多智能体系统"
-  - "Agent 规划"
-  - "LLM 应用于 Agent 场景"
-  - "对话 Agent"
-  - "决策优化"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Human-Agent Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SparkMe (multi-agent LLM interviewer with deliberative planning via simulated conversation rollouts)"
+  primary_benchmark: "N/A"
 ---
 
 # SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery

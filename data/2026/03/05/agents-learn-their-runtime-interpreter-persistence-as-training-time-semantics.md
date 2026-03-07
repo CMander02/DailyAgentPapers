@@ -14,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agent 训练"
-  - "运行时状态"
-  - "代码执行"
-  - "微调"
-  - "训练-部署对齐"
+  - "Tool Use & API Interaction"
+  - "Memory & Context Management"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Qwen3-8B"
+  key_technique: "Opaque Knapsack (paired trace generation pipeline)"
+  primary_benchmark: "Opaque Knapsack"
 ---
 
 # Agents Learn Their Runtime: Interpreter Persistence as Training-Time Semantics

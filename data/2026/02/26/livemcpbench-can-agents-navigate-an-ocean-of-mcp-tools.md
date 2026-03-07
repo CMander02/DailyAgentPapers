@@ -6,11 +6,6 @@ authors:
   - "Jiawei Chen"
   - "Qianhao Yuan"
   - "Xuanang Chen"
-  - "Yaojie Lu"
-  - "Hongyu Lin"
-  - "Ben He"
-  - "Xianpei Han"
-  - "Le Sun"
 date: "2025-08-03"
 arxiv_id: "2508.01780"
 arxiv_url: "https://arxiv.org/abs/2508.01780"
@@ -19,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 评测/基准"
-  - "工具使用"
-  - "多工具组合"
-  - "检索"
-  - "模型上下文协议"
-  - "Agent 架构"
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude-Sonnet-4, GPT-4o, GPT-4o-mini, GPT-4, GPT-3.5-Turbo, Llama-3.1-70B-Instruct, Llama-3.1-8B-Instruct, Qwen-2.5-72B-Instruct, Qwen-2.5-32B-Instruct, Qwen-2.5-14B-Instruct, Qwen-2.5-7B-Instruct, Qwen-2.5-3B-Instruct"
+  key_technique: "LiveMCPBench (benchmark), LiveMCPTool (tool suite), LiveMCPEval (LLM-as-a-Judge evaluation framework)"
+  primary_benchmark: "LiveMCPBench"
 ---
 
 # LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?

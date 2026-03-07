@@ -15,16 +15,19 @@ categories:
   - "cs.CE"
   - "cs.NE"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 自演化"
-  - "自动化科学发现"
-  - "结构化规划"
-  - "进化搜索"
-  - "反思机制"
-  - "研究框架"
-  - "算法发现"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "evolutionary-systematic ideation mechanism, hierarchical optimization-inspired reflection system"
+  primary_benchmark: "classical combinatorial optimization benchmarks, simulation-based cooperative driving scenarios"
 ---
 
 # OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery

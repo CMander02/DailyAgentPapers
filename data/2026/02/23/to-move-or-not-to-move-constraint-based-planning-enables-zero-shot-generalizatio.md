@@ -6,7 +6,6 @@ authors:
   - "Pranav Bakshi"
   - "Damon Conover"
   - "Guillaume Sartoretti"
-  - "Aniket Bera"
 date: "2026-02-23"
 arxiv_id: "2602.20055"
 arxiv_url: "https://arxiv.org/abs/2602.20055"
@@ -16,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agent 架构"
-  - "规划"
-  - "工具使用"
-  - "具身智能"
-  - "场景理解"
-  - "主动感知"
-  - "LLM 驱动"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLM-driven, constraint-based planning framework with active perception"
+  primary_benchmark: "ProcTHOR-10k"
 ---
 
 # To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation

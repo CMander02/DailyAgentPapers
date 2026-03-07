@@ -6,18 +6,23 @@ date: "2026-02-23"
 arxiv_id: "2602.20048"
 arxiv_url: "https://arxiv.org/abs/2602.20048"
 pdf_url: "https://arxiv.org/pdf/2602.20048v1"
-github_url: "https://github.com/tpaip607/research-codecompass"
 categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "Agent 评测/基准"
-  - "代码智能体"
-  - "导航悖论"
-  - "模型行为对齐"
-relevance_score: 9.0
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Claude Code"
+  key_technique: "CodeCompass (graph-based structural navigation via MCP server)"
+  primary_benchmark: "N/A"
 ---
 
 # CodeCompass: Navigating the Navigation Paradox in Agentic Code Intelligence

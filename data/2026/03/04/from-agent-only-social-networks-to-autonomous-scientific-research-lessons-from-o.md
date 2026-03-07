@@ -6,7 +6,6 @@ authors:
   - "Phillip Lee"
   - "Martin Karlsson"
   - "Kevin Noessler"
-  - "Paul Kohlhaas"
 date: "2026-02-23"
 arxiv_id: "2602.19810"
 arxiv_url: "https://arxiv.org/abs/2602.19810"
@@ -14,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19810v3"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent架构"
-  - "自主科学研究"
-  - "Agent社会网络"
-  - "平台设计"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Architecture & Frameworks"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Architecture & Frameworks"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "composable third-tier architecture with hard role restrictions, structured adversarial critique, PI-led governance, multi-model orchestration, external tool verification"
+  primary_benchmark: "N/A"
 ---
 
 # From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science

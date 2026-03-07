@@ -13,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19840v1"
 categories:
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "LLM应用"
-  - "Agent架构"
-  - "翻译"
-  - "风格控制"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Style-Adaptive Multi-Agent System (SAMAS), Stylistic Feature Spectrum (SFS), Wavelet Packet Transform (WPT)"
+  primary_benchmark: "N/A"
 ---
 
 # SAMAS: A Spectrum-Guided Multi-Agent System for Achieving Style Fidelity in Literary Translation

@@ -6,8 +6,6 @@ authors:
   - "Oumayma Mahjoub"
   - "Oussama Mahfoudhi"
   - "Claude Formanek"
-  - "Siddarth Singh"
-  - "Ruan De Kock"
 date: "2026-02-22"
 arxiv_id: "2602.19223"
 arxiv_url: "https://arxiv.org/abs/2602.19223"
@@ -17,14 +15,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "多智能体强化学习"
-  - "能源管理"
-  - "基准测试"
-  - "城市能源系统"
-  - "关键性能指标"
-  - "去中心化训练"
-  - "CityLearn"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Enterprise & Workflow"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-Agent Reinforcement Learning (MARL), including DTDE and CTDE training schemes"
+  primary_benchmark: "CityLearn"
 ---
 
 # Characterizing MARL for Energy Control: A Multi-KPI Benchmark on the CityLearn Environment

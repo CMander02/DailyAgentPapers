@@ -6,8 +6,6 @@ authors:
   - "Yuke Zhu"
   - "Bo Zheng"
   - "Junbo Zhao"
-  - "Sheng Guo"
-  - "Haobo Wang"
 date: "2026-02-12"
 arxiv_id: "2602.12113"
 arxiv_url: "https://arxiv.org/abs/2602.12113"
@@ -17,12 +15,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Reasoning"
-  - "Efficiency"
-  - "Reinforcement Learning"
-  - "Chain-of-Thought"
-  - "Training Framework"
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "DeepSeek-R1-Distill-Qwen-1.5B, DeepSeek-R1-Distill-Qwen-7B"
+  key_technique: "Adaptive Reflection and Length Coordinated Penalty (ARLCP)"
+  primary_benchmark: "N/A"
 ---
 
 # Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty

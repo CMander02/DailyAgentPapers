@@ -6,10 +6,6 @@ authors:
   - "Xiaojun Jia"
   - "Simeng Qin"
   - "Tianlin Li"
-  - "Ke Ma"
-  - "Xiaoshuang Jia"
-  - "Wenqi Ren"
-  - "Yang Liu"
 date: "2026-02-27"
 arxiv_id: "2602.23681"
 arxiv_url: "https://arxiv.org/abs/2602.23681"
@@ -17,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23681v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "推理"
-  - "资源分配"
-  - "自适应路由"
-  - "决策"
-  - "计算效率"
-  - "多智能体系统"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Architecture & Frameworks"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-5.1, Claude-4.5, Llama 4, DeepSeek"
+  key_technique: "ODAR-Expert (adaptive routing via active inference, free-energy-principled fusion)"
+  primary_benchmark: "MATH, Humanity's Last Exam (HLE), IMO 2025 (23 benchmarks in total)"
 ---
 
 # ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference

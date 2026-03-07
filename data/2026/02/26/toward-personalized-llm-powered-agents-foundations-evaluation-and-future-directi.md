@@ -6,9 +6,6 @@ authors:
   - "Zizhan Ma"
   - "Dongrui Liu"
   - "Wenxuan Wang"
-  - "Xiting Wang"
-  - "Li Xiong"
-  - "Wenjie Wang"
 date: "2026-02-26"
 arxiv_id: "2602.22680"
 arxiv_url: "https://arxiv.org/abs/2602.22680"
@@ -16,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.22680v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "个性化智能体"
-  - "记忆"
-  - "规划"
-  - "评测与基准"
-  - "综述"
-relevance_score: 9.5
+  - "Memory & Context Management"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "N/A"
 ---
 
 # Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions

@@ -13,12 +13,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "多智能体系统"
-  - "Agent评测/基准"
-  - "Agent安全"
-  - "对话系统"
-  - "对抗模拟"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "TherapyProbe (adversarial multi-agent simulation with MCTS-guided exploration)"
+  primary_benchmark: "N/A"
 ---
 
 # TherapyProbe: Generating Design Knowledge for Relational Safety in Mental Health Chatbots Through Adversarial Simulation

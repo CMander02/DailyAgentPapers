@@ -11,16 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20659v2"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Vision-Language-Action Models"
-  - "World Model"
-  - "Long-Horizon Planning"
-  - "Partial Observability"
-  - "State Representation"
-  - "Robotic Manipulation"
-  - "Diffusion Policy"
-  - "Self-Supervised Learning"
-relevance_score: 9.5
+  - "World Modeling & Simulation"
+  - "Memory & Context Management"
+relevance_score: 2.0
+taxonomy:
+  capability:
+    - "World Modeling & Simulation"
+    - "Memory & Context Management"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "RB-VLA (Recursive Belief Vision Language Action Model)"
+  primary_benchmark: "N/A"
 ---
 
 # Recursive Belief Vision Language Action Models

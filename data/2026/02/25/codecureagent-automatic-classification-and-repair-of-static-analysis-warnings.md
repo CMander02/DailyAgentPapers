@@ -12,13 +12,19 @@ categories:
   - "cs.SE"
   - "cs.MA"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "代码修复"
-  - "静态分析"
-  - "LLM 应用"
-  - "自动化编程"
-relevance_score: 8.0
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "CodeCureAgent"
+  primary_benchmark: "N/A"
 ---
 
 # CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings

@@ -14,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.CR"
 tags:
-  - "多智能体系统"
-  - "工具使用"
-  - "专家系统"
-  - "网络安全"
-  - "神经符号AI"
-  - "自动化"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Cybersecurity"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "hypernym-hyponym semantic relation extraction, neuro-symbolic multi-agent system"
+  primary_benchmark: "N/A"
 ---
 
 # From Threat Intelligence to Firewall Rules: Semantic Relations in Hybrid AI Agent and Expert System Architectures

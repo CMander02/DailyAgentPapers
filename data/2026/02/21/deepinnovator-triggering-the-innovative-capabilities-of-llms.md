@@ -6,9 +6,6 @@ authors:
   - "Yuxiang Zheng"
   - "Bei Chen"
   - "Xinyao Niu"
-  - "Chengen Huang"
-  - "Junyang Lin"
-  - "Chao Huang"
 date: "2026-02-21"
 arxiv_id: "2602.18920"
 arxiv_url: "https://arxiv.org/abs/2602.18920"
@@ -18,12 +15,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agent 评测/基准"
-  - "LLM 训练"
-  - "科学发现"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen-14B-Instruct"
+  key_technique: "Next Idea Prediction training paradigm"
+  primary_benchmark: "N/A"
 ---
 
 # DeepInnovator: Triggering the Innovative Capabilities of LLMs

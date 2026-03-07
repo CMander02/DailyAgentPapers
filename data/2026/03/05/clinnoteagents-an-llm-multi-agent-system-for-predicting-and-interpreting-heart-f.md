@@ -12,12 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2512.07081v2"
 categories:
   - "cs.AI"
 tags:
-  - "Multi-Agent System"
-  - "LLM Application"
-  - "Clinical Decision Support"
-  - "Interpretability"
-  - "Information Extraction"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ClinNoteAgents"
+  primary_benchmark: "N/A"
 ---
 
 # ClinNoteAgents: An LLM Multi-Agent System for Predicting and Interpreting Heart Failure 30-Day Readmission from Clinical Notes

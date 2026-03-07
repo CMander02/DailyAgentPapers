@@ -6,7 +6,6 @@ authors:
   - "Sung Gyu Koh"
   - "Young Hwan Kim"
   - "Yehan Ahn"
-  - "Sung Park"
 date: "2026-02-26"
 arxiv_id: "2602.22814"
 arxiv_url: "https://arxiv.org/abs/2602.22814"
@@ -15,12 +14,17 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "Agent Design Principles"
-  - "Human-Centered AI"
-  - "Conceptual Model"
-  - "Proactive Intervention"
-  - "Contextual Reasoning"
-relevance_score: 8.5
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Scene, Context, and Human Behavior Factors (SCH) conceptual model"
+  primary_benchmark: "N/A"
 ---
 
 # When Should an AI Act? A Human-Centered Model of Scene, Context, and Behavior for Agentic AI Design

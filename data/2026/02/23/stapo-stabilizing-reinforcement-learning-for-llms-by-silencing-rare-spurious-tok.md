@@ -6,14 +6,6 @@ authors:
   - "Guojian Zhan"
   - "Letian Tao"
   - "Zhilong Zheng"
-  - "Jiang Wu"
-  - "Yinuo Wang"
-  - "Yang Guan"
-  - "Kehua Sheng"
-  - "Bo Zhang"
-  - "Keqiang Li"
-  - "Jingliang Duan"
-  - "Shengbo Eben Li"
 date: "2026-02-17"
 arxiv_id: "2602.15620"
 arxiv_url: "https://arxiv.org/abs/2602.15620"
@@ -22,13 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "强化学习"
-  - "大语言模型微调"
-  - "训练稳定性"
-  - "策略优化"
-  - "数学推理"
-  - "Agentic 强化学习"
-relevance_score: 7.5
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen 1.7B, 8B, 14B"
+  key_technique: "Spurious-Token-Aware Policy Optimization (STAPO), S2T (silencing spurious tokens) mechanism"
+  primary_benchmark: "six mathematical reasoning benchmarks (specific names not provided)"
 ---
 
 # STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens

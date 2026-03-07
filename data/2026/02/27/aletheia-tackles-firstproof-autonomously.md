@@ -6,18 +6,6 @@ authors:
   - "Sang-hyun Kim"
   - "Carlo Pagano"
   - "Sergei Gukov"
-  - "Chiang-Chiang Tsai"
-  - "David Woodruff"
-  - "Adel Javanmard"
-  - "Aryan Mokhtari"
-  - "Dawsen Hwang"
-  - "Yuri Chervonyi"
-  - "Jonathan N. Lee"
-  - "Garrett Bingham"
-  - "Trieu H. Trinh"
-  - "Vahab Mirrokni"
-  - "Quoc V. Le"
-  - "Thang Luong"
 date: "2026-02-24"
 arxiv_id: "2602.21201"
 arxiv_url: "https://arxiv.org/abs/2602.21201"
@@ -28,13 +16,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "LLM-powered Agent"
-  - "Autonomous Problem Solving"
-  - "Mathematical Reasoning"
-  - "Agent Evaluation"
-  - "Tool Use"
-  - "Research Agent"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Gemini 3 Deep Think"
+  key_technique: "Aletheia"
+  primary_benchmark: "FirstProof"
 ---
 
 # Aletheia tackles FirstProof autonomously

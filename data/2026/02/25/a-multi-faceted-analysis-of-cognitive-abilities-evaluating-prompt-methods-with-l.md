@@ -11,12 +11,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent评测/基准"
-  - "LLM应用于Agent场景"
-  - "不确定性校准"
-  - "医疗AI"
-  - "提示工程"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "behavioral and metacognitive analytic approach, prompt strategies"
+  primary_benchmark: "CONSORT Checklist"
 ---
 
 # A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist

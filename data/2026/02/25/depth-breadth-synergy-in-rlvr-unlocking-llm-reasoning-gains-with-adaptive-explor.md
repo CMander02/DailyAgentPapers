@@ -6,10 +6,6 @@ authors:
   - "Yinya Huang"
   - "Yongxin Wang"
   - "Dongchun Xie"
-  - "Hanhui Li"
-  - "Yiwei Wang"
-  - "Xiaodan Liang"
-  - "Jing Tang"
 date: "2025-08-19"
 arxiv_id: "2508.13755"
 arxiv_url: "https://arxiv.org/abs/2508.13755"
@@ -18,14 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "LLM Reasoning"
-  - "Reinforcement Learning"
-  - "Algorithm Analysis"
-  - "Exploration Strategy"
-  - "Training Optimization"
-  - "Reasoning Capabilities"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "Difficulty Adaptive Rollout Sampling (DARS), DARS-B"
+  primary_benchmark: "N/A"
 ---
 
 # Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration

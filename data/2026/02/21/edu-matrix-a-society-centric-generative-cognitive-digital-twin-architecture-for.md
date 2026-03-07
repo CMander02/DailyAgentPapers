@@ -12,16 +12,19 @@ categories:
   - "cs.MA"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "社会模拟"
-  - "数字孪生"
-  - "认知模型"
-  - "规则注入"
-  - "知识合成"
-  - "涌现行为"
-  - "教育应用"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Architecture & Frameworks"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Environment Context Injection Engine (ECIE), Modular Logic Evolution Protocol (MLEP), Endogenous Alignment via Role-Topology"
+  primary_benchmark: "N/A"
 ---
 
 # EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education

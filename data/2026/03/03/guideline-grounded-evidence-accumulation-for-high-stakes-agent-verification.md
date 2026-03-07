@@ -6,7 +6,6 @@ authors:
   - "Yinpeng Dong"
   - "Peng Cui"
   - "Jun Zhu"
-  - "Mihaela van de Schaar"
 date: "2026-03-03"
 arxiv_id: "2603.02798"
 arxiv_url: "https://arxiv.org/abs/2603.02798"
@@ -15,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Verification"
-  - "High-Stakes Decision-Making"
-  - "Clinical Diagnosis"
-  - "Guideline Grounding"
-  - "Evidence Accumulation"
-  - "Calibration"
-  - "Trustworthy AI"
-  - "Agent Evaluation"
-relevance_score: 8.5
+  - "Safety & Alignment"
+  - "Human-Agent Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Human-Agent Interaction"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "GLEAN (Guideline-grounded Evidence Accumulation)"
+  primary_benchmark: "MIMIC-IV dataset (clinical diagnosis for three diseases)"
 ---
 
 # Guideline-Grounded Evidence Accumulation for High-Stakes Agent Verification

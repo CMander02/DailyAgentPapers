@@ -6,11 +6,6 @@ authors:
   - "Xingbang He"
   - "Ligeng Chen"
   - "Jikang Zhang"
-  - "Tiantai Zhang"
-  - "Haiyang Wei"
-  - "Linzhang Wang"
-  - "Hao Wu"
-  - "Bing Mao"
 date: "2026-01-18"
 arxiv_id: "2601.12349"
 arxiv_url: "https://arxiv.org/abs/2601.12349"
@@ -20,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent Security"
-  - "GUI Agent"
-  - "Multi-modal Agent"
-  - "Agent Architecture"
-  - "Agent Evaluation"
-  - "Mobile Platform"
-  - "Adversarial Attack"
-relevance_score: 8.5
+  - "Safety & Alignment"
+  - "Human-Agent Interaction"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Human-Agent Interaction"
+  domain: "Cybersecurity"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "Action Rebinding, Intent Alignment Strategy (IAS)"
+  primary_benchmark: "N/A"
 ---
 
 # Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?

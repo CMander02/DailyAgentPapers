@@ -11,12 +11,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 评测/基准"
-  - "LLM 应用于 Agent 场景"
-  - "文本标注"
-  - "内容分析"
-  - "成本效益分析"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-5, Gemini 2.5 Pro, Claude Opus 4.1, GPT-3.5 Turbo, Llama 3.2 3B"
+  key_technique: "ContentBench benchmark suite with versioned tracks and a three-model jury reference labeling procedure"
+  primary_benchmark: "ContentBench-ResearchTalk v1.0"
 ---
 
 # Can Large Language Models Replace Human Coders? Introducing ContentBench

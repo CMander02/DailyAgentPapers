@@ -6,13 +6,6 @@ authors:
   - "Zhengrong Yue"
   - "Kainan Yan"
   - "Chenyun Yu"
-  - "Yi Huang"
-  - "Zijun Liu"
-  - "Yafei Wen"
-  - "Xiaoxin Chen"
-  - "Yang Liu"
-  - "Peng Li"
-  - "Yali Wang"
 date: "2025-11-24"
 arxiv_id: "2511.19524"
 arxiv_url: "https://arxiv.org/abs/2511.19524"
@@ -21,14 +14,19 @@ categories:
   - "cs.CV"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "视频理解"
-  - "工具调用"
-  - "策略规划"
-  - "多智能体强化学习"
-  - "协作"
-  - "MLLM"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Collaborative Policy Planning (CPP) with Multi-Agent Reinforcement Learning (MARL)"
+  primary_benchmark: "LongVideoBench"
 ---
 
 # VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning

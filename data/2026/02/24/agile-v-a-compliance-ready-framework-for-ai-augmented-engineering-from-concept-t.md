@@ -12,15 +12,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "AI Agent Framework"
-  - "Multi-Agent System"
-  - "Agentic Workflow"
-  - "Verification and Compliance"
-  - "AI-Augmented Engineering"
-  - "Human-in-the-Loop"
-  - "Automated Testing"
-  - "Requirements Engineering"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Multi-Agent Systems"
+relevance_score: 7.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Multi-Agent Systems"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agile V Infinity Loop"
+  primary_benchmark: "N/A"
 ---
 
 # Agile V: A Compliance-Ready Framework for AI-Augmented Engineering -- From Concept to Audit-Ready Delivery

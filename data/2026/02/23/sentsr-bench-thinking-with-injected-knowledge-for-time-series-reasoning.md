@@ -6,14 +6,6 @@ authors:
   - "Xiyuan Zhang"
   - "Shuai Zhang"
   - "Haotian Lin"
-  - "Qi Zhu"
-  - "Haoyang Fang"
-  - "Danielle C. Maddix"
-  - "Abdul Fatir Ansari"
-  - "Akash Chandrayan"
-  - "Abhinav Pradhan"
-  - "Bernie Wang"
-  - "Matthew Reimherr"
 date: "2026-02-23"
 arxiv_id: "2602.19455"
 arxiv_url: "https://arxiv.org/abs/2602.19455"
@@ -24,13 +16,19 @@ categories:
   - "cs.CL"
   - "stat.ML"
 tags:
-  - "Agent 推理"
-  - "知识注入"
-  - "强化学习"
-  - "时间序列分析"
-  - "基准评测"
-  - "工具使用"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "hybrid knowledge-injection framework with reinforcement learning-based approach with verifiable rewards (RLVR)"
+  primary_benchmark: "SenTSR-Bench"
 ---
 
 # SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning

@@ -13,14 +13,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "模型内省"
-  - "概念注入"
-  - "可解释性"
-  - "模型安全"
-  - "潜在推理"
-  - "残差流分析"
-  - "Logit Lens"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Qwen2.5-Coder-32B-Instruct"
+  key_technique: "logit lens analysis, steering vector injection"
+  primary_benchmark: "N/A"
 ---
 
 # Latent Introspection: Models Can Detect Prior Concept Injections

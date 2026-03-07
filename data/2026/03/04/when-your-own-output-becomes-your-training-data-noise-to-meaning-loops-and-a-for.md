@@ -11,13 +11,19 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 自演化"
-  - "理论模型"
-  - "递归自我改进"
-  - "形式化分析"
-relevance_score: 9.5
+  - "Learning & Optimization"
+  - "Multi-Agent Systems"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Multi-Agent Systems"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Noise-to-Meaning Recursive Self-Improvement (N2M-RSI)"
+  primary_benchmark: "N/A"
 ---
 
 # When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger

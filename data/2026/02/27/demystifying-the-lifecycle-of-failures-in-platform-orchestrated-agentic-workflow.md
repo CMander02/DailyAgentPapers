@@ -6,8 +6,6 @@ authors:
   - "Yawen Wang"
   - "Junjie Wang"
   - "Boyu Wu"
-  - "Mingyang Li"
-  - "Qing Wang"
 date: "2025-09-28"
 arxiv_id: "2509.23735"
 arxiv_url: "https://arxiv.org/abs/2509.23735"
@@ -16,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "多智能体系统"
-  - "Agent可靠性"
-  - "Agent故障分析"
-  - "Agent工作流"
-  - "Agent评测/基准"
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "N/A"
+  key_technique: "N/A"
+  primary_benchmark: "AgentFail"
 ---
 
 # Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows

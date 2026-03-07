@@ -6,9 +6,6 @@ authors:
   - "Kyohei Atarashi"
   - "Han Bao"
   - "Hisashi Kashima"
-  - "Naoto Inoue"
-  - "Mayu Otani"
-  - "Koh Takeuchi"
 date: "2026-03-03"
 arxiv_id: "2603.02663"
 arxiv_url: "https://arxiv.org/abs/2603.02663"
@@ -17,11 +14,19 @@ categories:
   - "cs.CL"
   - "cs.CV"
 tags:
-  - "Agent评测/基准"
-  - "多模态大语言模型"
-  - "跨模态推理"
-  - "评估方法"
-relevance_score: 7.0
+  - "Perception & Multimodal"
+  - "Reasoning & Planning"
+relevance_score: 4.5
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Multi-modal and multidimensional item response theory (M3IRT)"
+  primary_benchmark: "N/A"
 ---
 
 # Evaluating Cross-Modal Reasoning Ability and Problem Characteristics with Multimodal Item Response Theory

@@ -6,8 +6,6 @@ authors:
   - "Seongbeen Lee"
   - "Yoojung Chun"
   - "Dayoung Park"
-  - "Doyeon Kim"
-  - "Joo Yong Sim"
 date: "2026-02-19"
 arxiv_id: "2602.17049"
 arxiv_url: "https://arxiv.org/abs/2602.17049"
@@ -17,14 +15,19 @@ categories:
   - "cs.HC"
   - "cs.RO"
 tags:
-  - "Multi-Agent System"
-  - "Agent Architecture"
-  - "Planning"
-  - "Skill Abstraction"
-  - "Memory"
-  - "Long-Horizon Execution"
-  - "Desktop Automation"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Memory & Context Management"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "IntentCUA (multi-view intent abstraction, intent-aligned plan memory, cooperative multi-agent loop with Planner, Plan-Optimizer, Critic)"
+  primary_benchmark: "N/A"
 ---
 
 # IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents

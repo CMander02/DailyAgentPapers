@@ -6,15 +6,6 @@ authors:
   - "Yuqing Wang"
   - "Piaohong Wang"
   - "Motong Tian"
-  - "Pai Liu"
-  - "Shuofei Qiao"
-  - "Runnan Fang"
-  - "He Zhu"
-  - "Ge Zhang"
-  - "Minghao Liu"
-  - "Yuchen Eleanor Jiang"
-  - "Ningyu Zhang"
-  - "Wangchunshu Zhou"
 date: "2025-09-29"
 arxiv_id: "2509.25106"
 arxiv_url: "https://arxiv.org/abs/2509.25106"
@@ -24,12 +15,19 @@ categories:
   - "cs.AI"
   - "cs.IR"
 tags:
-  - "Agent Benchmark"
-  - "Agent Evaluation"
-  - "Deep Research Agent"
-  - "Personalization"
-  - "Agentic Workflow"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "PQR Evaluation Framework"
+  primary_benchmark: "Personalized Deep Research Bench (PDR-Bench)"
 ---
 
 # Towards Personalized Deep Research: Benchmarks and Evaluations

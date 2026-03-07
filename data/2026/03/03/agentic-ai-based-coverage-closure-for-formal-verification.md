@@ -12,14 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03147v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic AI"
-  - "LLM Agent"
-  - "工具使用"
-  - "自动化工作流"
-  - "形式化验证"
-  - "代码生成"
-  - "规划与推理"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "agentic AI-driven workflow for coverage analysis and property generation"
+  primary_benchmark: "N/A"
 ---
 
 # Agentic AI-based Coverage Closure for Formal Verification

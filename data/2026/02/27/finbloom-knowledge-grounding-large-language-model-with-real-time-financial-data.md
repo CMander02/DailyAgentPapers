@@ -15,12 +15,19 @@ categories:
   - "cs.LG"
   - "q-fin.ST"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "知识增强"
-  - "领域应用"
-  - "实时数据"
-relevance_score: 7.5
+  - "Tool Use & API Interaction"
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Memory & Context Management"
+  domain: "Finance & Trading"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Bloom 7B"
+  key_technique: "Financial Agent (knowledge-grounding approach for real-time data retrieval)"
+  primary_benchmark: "N/A"
 ---
 
 # FinBloom: Knowledge Grounding Large Language Model with Real-time Financial Data

@@ -6,7 +6,6 @@ authors:
   - "Ce Zhang"
   - "Chancharik Mitra"
   - "Jean de Dieu Nyandwi"
-  - "Gedas Bertasius"
 date: "2026-01-30"
 arxiv_id: "2602.00288"
 arxiv_url: "https://arxiv.org/abs/2602.00288"
@@ -15,13 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "视频理解"
-  - "多模态大语言模型"
-  - "基准评测"
-  - "时空推理"
-  - "具身AI"
-  - "模型诊断"
-relevance_score: 7.5
+  - "Perception & Multimodal"
+  - "Benchmark/Evaluation"
+relevance_score: 4.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-5, Gemini 3 Pro"
+  key_technique: "minimal-pairs paradigm"
+  primary_benchmark: "TimeBlind"
 ---
 
 # TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs

@@ -6,7 +6,6 @@ authors:
   - "Mohammad Mahdi Mohajeri"
   - "Mohammad Javad Dousti"
   - "Majid Nili Ahmadabadi"
-  - "Heshaam Faili"
 date: "2025-05-30"
 arxiv_id: "2505.24532"
 arxiv_url: "https://arxiv.org/abs/2505.24532"
@@ -14,12 +13,17 @@ pdf_url: "https://arxiv.org/pdf/2505.24532v2"
 categories:
   - "cs.CL"
 tags:
-  - "LLM评测"
-  - "基准测试"
-  - "认知复杂度"
-  - "能力评估"
-  - "数据集生成"
-relevance_score: 7.0
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "DeepQuestion framework"
+  primary_benchmark: "DeepQuestion dataset"
 ---
 
 # DeepQuestion: Systematic Generation of Real-World Challenges for Evaluating LLMs Performance

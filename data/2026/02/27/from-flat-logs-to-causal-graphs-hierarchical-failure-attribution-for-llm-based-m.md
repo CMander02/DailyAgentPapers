@@ -13,12 +13,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "多智能体系统"
-  - "故障归因"
-  - "因果推理"
-  - "系统可观测性"
-  - "智能体评测"
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CHIEF (hierarchical causal graph, hierarchical oracle-guided backtracking, progressive causal screening)"
+  primary_benchmark: "Who&When"
 ---
 
 # From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems

@@ -6,8 +6,6 @@ authors:
   - "Xi Chen"
   - "Zi'an Jia"
   - "Renhong Huang"
-  - "Jiarong Xu"
-  - "Jiawei Zhang"
 date: "2026-03-03"
 arxiv_id: "2603.03078"
 arxiv_url: "https://arxiv.org/abs/2603.03078"
@@ -15,14 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03078v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Policy Optimization"
-  - "Retrieval-Augmented"
-  - "Exploration"
-  - "Tool Use"
-  - "Multi-step Reasoning"
-  - "Training Efficiency"
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Retrieval-Augmented Policy Optimization (RAPO)"
+  primary_benchmark: "N/A"
 ---
 
 # RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization

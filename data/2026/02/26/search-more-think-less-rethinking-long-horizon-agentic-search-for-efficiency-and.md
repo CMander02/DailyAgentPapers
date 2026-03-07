@@ -6,39 +6,26 @@ authors:
   - "King Zhu"
   - "Qiexiang Wang"
   - "Chengjun Yu"
-  - "Shu Xu"
-  - "Jiaqi Wu"
-  - "Jiayu Zhang"
-  - "Xinpeng Liu"
-  - "Xin Gui"
-  - "Jingyi Cao"
-  - "Piaohong Wang"
-  - "Dingfeng Shi"
-  - "He Zhu"
-  - "Tiannan Wang"
-  - "Yuqing Wang"
-  - "Maojia Song"
-  - "Tianyu Zheng"
-  - "Ge Zhang"
-  - "Jian Yang"
 date: "2026-02-26"
 arxiv_id: "2602.22675"
 arxiv_url: "https://arxiv.org/abs/2602.22675"
-pdf_url: "https://arxiv.org/pdf/2602.22675v2"
+pdf_url: "https://arxiv.org/pdf/2602.22675v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Architecture"
-  - "Agentic Search"
-  - "Efficiency"
-  - "Generalization"
-  - "Data Synthesis"
-  - "Supervised Fine-Tuning"
-  - "Reinforcement Learning"
-  - "Tool Use"
-  - "Planning"
-  - "Benchmarking"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Memory & Context Management"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Search More, Think Less (SMTL)"
+  primary_benchmark: "BrowseComp, GAIA, Xbench, DeepResearch Bench"
 ---
 
 # Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization

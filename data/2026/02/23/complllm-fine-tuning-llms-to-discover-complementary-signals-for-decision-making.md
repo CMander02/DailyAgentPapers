@@ -14,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "多智能体系统"
-  - "LLM微调"
-  - "决策辅助"
-  - "决策理论"
-  - "奖励设计"
-  - "人机协作"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ComplLLM"
+  primary_benchmark: "N/A"
 ---
 
 # ComplLLM: Fine-tuning LLMs to Discover Complementary Signals for Decision-making

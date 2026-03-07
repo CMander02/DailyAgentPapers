@@ -15,13 +15,19 @@ categories:
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agent Evaluation"
-  - "Agent Benchmark"
-  - "Tool Use"
-  - "Knowledge Retrieval"
-  - "Long-Horizon Interaction"
-  - "Conversational Agent"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Finance & Trading"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "τ-Knowledge (extension of τ-Bench)"
+  primary_benchmark: "τ-Knowledge (τ-Banking domain)"
 ---
 
 # $τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge

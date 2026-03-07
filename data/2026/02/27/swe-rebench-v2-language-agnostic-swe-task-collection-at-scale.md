@@ -13,13 +13,19 @@ categories:
   - "cs.SE"
   - "cs.CL"
 tags:
-  - "Agent Benchmark"
-  - "Software Engineering Agent"
-  - "Agent Training Data"
-  - "Reinforcement Learning"
-  - "Tool Use"
-  - "Multi-Language"
-relevance_score: 8.0
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "language-agnostic automated pipeline for harvesting executable real-world SWE tasks and constructing RL training environments"
+  primary_benchmark: "SWE-rebench V2"
 ---
 
 # SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale

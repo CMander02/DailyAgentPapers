@@ -6,7 +6,6 @@ authors:
   - "Arad Mahdinezhad Kashani"
   - "AmirHossein Jadidi"
   - "Saina Kashani"
-  - "Babak Khalaj"
 date: "2026-02-18"
 arxiv_id: "2602.16898"
 arxiv_url: "https://arxiv.org/abs/2602.16898"
@@ -18,15 +17,19 @@ categories:
   - "cs.CV"
   - "cs.LG"
 tags:
-  - "多智能体系统"
-  - "机器人操作"
-  - "具身智能"
-  - "闭环规划"
-  - "视觉语言模型"
-  - "任务分解"
-  - "错误恢复"
-  - "零样本泛化"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "MALLVI (Multi-Agent Large Language and Vision framework)"
+  primary_benchmark: "N/A"
 ---
 
 # MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation

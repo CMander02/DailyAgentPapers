@@ -6,10 +6,6 @@ authors:
   - "Bo Luo"
   - "Min Wu"
   - "Wei Fan"
-  - "Xiao Luo"
-  - "Zijun Yao"
-  - "Haifeng Chen"
-  - "Dongjie Wang"
 date: "2026-02-21"
 arxiv_id: "2602.18968"
 arxiv_url: "https://arxiv.org/abs/2602.18968"
@@ -17,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.18968v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划"
-  - "错误处理与鲁棒性"
-  - "执行优化"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "layered execution structure with schema-aware reflective correction"
+  primary_benchmark: "N/A"
 ---
 
 # Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction

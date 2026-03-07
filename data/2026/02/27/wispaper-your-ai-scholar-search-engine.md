@@ -6,21 +6,6 @@ authors:
   - "Mingxu Chai"
   - "Ziyu Shen"
   - "Xiangyang Wang"
-  - "Yage Geng"
-  - "Chunchun Ma"
-  - "Hao Peng"
-  - "Guangbin Li"
-  - "Tao Li"
-  - "Chengyong Liao"
-  - "Fu Wang"
-  - "Xiaolong Wang"
-  - "Junshen Chen"
-  - "Rui Gong"
-  - "Shijia Liang"
-  - "Feiyan Li"
-  - "Ming Zhang"
-  - "Kexin Tan"
-  - "Junjie Ye"
 date: "2025-12-07"
 arxiv_id: "2512.06879"
 arxiv_url: "https://arxiv.org/abs/2512.06879"
@@ -29,13 +14,19 @@ categories:
   - "cs.IR"
   - "cs.AI"
 tags:
-  - "Agent System"
-  - "Agentic Model"
-  - "Tool Use"
-  - "Reasoning"
-  - "Information Retrieval"
-  - "Workflow Automation"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "WisModel (specialized LLM trained via reinforcement learning for structured reasoning and validation)"
+  primary_benchmark: "TaxoBench"
 ---
 
 # WisPaper: Your AI Scholar Search Engine

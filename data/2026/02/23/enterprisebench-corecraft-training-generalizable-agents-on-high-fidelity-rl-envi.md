@@ -6,7 +6,6 @@ authors:
   - "Suhaas Garre"
   - "Ian Niebres"
   - "Nick Heiner"
-  - "Edwin Chen"
 date: "2026-02-18"
 arxiv_id: "2602.16179"
 arxiv_url: "https://arxiv.org/abs/2602.16179"
@@ -15,16 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Agent Training"
-  - "Agent Generalization"
-  - "High-Fidelity Simulation"
-  - "Enterprise Agent"
-  - "Multi-Step Task"
-  - "Tool Use"
-  - "Policy Optimization"
-  - "Agent Benchmark"
-relevance_score: 9.0
+  - "Learning & Optimization"
+  - "Tool Use & API Interaction"
+relevance_score: 3.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Tool Use & API Interaction"
+  domain: "Enterprise & Workflow"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "GLM 4.6, GPT-5.2, Claude Opus 4.6, Gemini 3.1 Pro"
+  key_technique: "Group Relative Policy Optimization (GRPO) with adaptive clipping"
+  primary_benchmark: "EnterpriseBench Corecraft"
 ---
 
 # EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments

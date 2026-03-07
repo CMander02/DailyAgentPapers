@@ -11,13 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02099v2"
 categories:
   - "cs.CL"
 tags:
-  - "推理"
-  - "迭代优化"
-  - "置信度评估"
-  - "单模型Agent"
-  - "规划"
-  - "模型增强"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Recursive Think-Answer Process (R-TAP), Recursively Confidence Increase Reward, Final Answer Confidence Reward"
+  primary_benchmark: "AIME25, HMMT Feb 25, OmniMath, GPQA, LiveCodeBench, MMMU, MathVista, OlympiadBench, MathVision, MMMU-Pro"
 ---
 
 # Recursive Think-Answer Process for LLMs and VLMs

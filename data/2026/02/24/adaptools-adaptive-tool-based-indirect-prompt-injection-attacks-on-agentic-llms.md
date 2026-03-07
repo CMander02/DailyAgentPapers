@@ -6,10 +6,6 @@ authors:
   - "Ziqi Zhang"
   - "Zijie Wang"
   - "Yinghui Wang"
-  - "Jianbo Gao"
-  - "Tao Wei"
-  - "Zhong Chen"
-  - "Wei Yang Bryan Lim"
 date: "2026-02-24"
 arxiv_id: "2602.20720"
 arxiv_url: "https://arxiv.org/abs/2602.20720"
@@ -18,13 +14,19 @@ categories:
   - "cs.CR"
   - "cs.AI"
 tags:
-  - "Agent Security"
-  - "Tool Use"
-  - "Prompt Injection"
-  - "Adversarial Attack"
-  - "Agent Evaluation"
-  - "LLM Agents"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Safety & Alignment"
+  domain: "Cybersecurity"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-5.2, Gemini 2.5, Qwen3"
+  key_technique: "AdapTools (Adaptive Attack Strategy Construction and Attack Enhancement)"
+  primary_benchmark: "N/A"
 ---
 
 # AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs

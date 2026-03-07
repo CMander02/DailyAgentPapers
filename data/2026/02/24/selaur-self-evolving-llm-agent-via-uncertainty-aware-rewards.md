@@ -6,7 +6,6 @@ authors:
   - "Lu Cheng"
   - "Yaqing Wang"
   - "Kenton Murray"
-  - "Hua Wei"
 date: "2026-02-24"
 arxiv_id: "2602.21158"
 arxiv_url: "https://arxiv.org/abs/2602.21158"
@@ -15,15 +14,19 @@ categories:
   - "cs.LG"
   - "cs.CL"
 tags:
-  - "Agent自演化"
-  - "强化学习"
-  - "奖励设计"
-  - "不确定性估计"
-  - "探索效率"
-  - "决策智能体"
-  - "LLM Agent"
-  - "Agent架构"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "SELAUR (Self Evolving LLM Agent via Uncertainty-aware Rewards)"
+  primary_benchmark: "ALFWorld, WebShop"
 ---
 
 # SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards

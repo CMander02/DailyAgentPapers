@@ -15,12 +15,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 安全"
-  - "推理模型"
-  - "指令遵循"
-  - "隐私保护"
-  - "可控生成"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Staged Decoding with separate LoRA adapters"
+  primary_benchmark: "N/A"
 ---
 
 # Controllable Reasoning Models Are Private Thinkers

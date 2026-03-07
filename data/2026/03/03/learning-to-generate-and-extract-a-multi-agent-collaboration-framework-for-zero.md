@@ -6,8 +6,6 @@ authors:
   - "Yazhou Han"
   - "Yue Fan"
   - "Yuhang Shao"
-  - "Ru Li"
-  - "Hongye Tan"
 date: "2026-03-03"
 arxiv_id: "2603.02909"
 arxiv_url: "https://arxiv.org/abs/2603.02909"
@@ -16,13 +14,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Multi-Agent System"
-  - "Agent Collaboration"
-  - "Agentic Reinforcement Learning"
-  - "Data Synthesis"
-  - "Zero-Shot Learning"
-  - "Information Extraction"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o"
+  key_technique: "multi-agent collaboration framework with reinforcement learning (Propose-Evaluate-Revise)"
+  primary_benchmark: "RAMS, WikiEvents"
 ---
 
 # Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction

@@ -125,7 +125,7 @@ concurrency: 2
 # ============================================================
 llm:
   # 温度
-  temperature: 0.3
+  temperature: 1.0
   # 分步模式：单个 Q&A 的最大输出 token 数
   max_tokens_single_qa: 2000
   # 一次性模式（回退）：有全文时的最大输出 token 数

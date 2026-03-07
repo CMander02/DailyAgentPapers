@@ -12,12 +12,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "可解释性"
-  - "人机交互"
-  - "决策推理"
-  - "工具使用"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ArgLLM (Argumentative LLMs), QBAF (Quantitative Bipolar Argumentation Frameworks)"
+  primary_benchmark: "N/A"
 ---
 
 # ArgLLM-App: An Interactive System for Argumentative Reasoning with Large Language Models

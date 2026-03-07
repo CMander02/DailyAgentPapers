@@ -13,13 +13,19 @@ categories:
   - "cs.CR"
   - "cs.MA"
 tags:
-  - "Agent Robustness"
   - "Multi-Agent Systems"
-  - "Adversarial Training"
-  - "LLM Security"
-  - "Policy Optimization"
-  - "Minimax Optimization"
-relevance_score: 8.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Adversarially-Aligned Jacobian Regularization (AAJR)"
+  primary_benchmark: "N/A"
 ---
 
 # Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization

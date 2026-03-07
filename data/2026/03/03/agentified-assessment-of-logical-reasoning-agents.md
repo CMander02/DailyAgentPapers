@@ -11,12 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02788v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Logical Reasoning"
-  - "Agent Benchmarking"
-  - "Agent-to-Agent Interface"
-  - "Agent Framework"
-relevance_score: 8.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "agentified assessment framework"
+  primary_benchmark: "FOLIO (solver-verified and repaired split)"
 ---
 
 # Agentified Assessment of Logical Reasoning Agents

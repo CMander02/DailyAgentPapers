@@ -14,12 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "GUI Agent"
-  - "Efficiency Optimization"
-  - "Vision-Language Model"
-  - "Token Pruning"
-  - "Agent Architecture"
-relevance_score: 8.0
+  - "Architecture & Frameworks"
+  - "Memory & Context Management"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Qwen2-VL-2B"
+  key_technique: "GUIPruner (Temporal-Adaptive Resolution (TAR) and Stratified Structure-aware Pruning (SSP))"
+  primary_benchmark: "N/A"
 ---
 
 # Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents

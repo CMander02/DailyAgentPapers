@@ -13,13 +13,19 @@ categories:
   - "cs.AI"
   - "cs.SE"
 tags:
-  - "Agent Architecture"
-  - "Agent Reliability"
-  - "Tool Use"
-  - "Knowledge Management"
-  - "Multi-Agent System"
-  - "Agent Evaluation"
-relevance_score: 8.5
+  - "Memory & Context Management"
+  - "Code & Software Engineering"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "dual-helix governance framework, 3-track architecture (Knowledge, Behavior, Skills) with knowledge graph substrate"
+  primary_benchmark: "N/A"
 ---
 
 # A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development

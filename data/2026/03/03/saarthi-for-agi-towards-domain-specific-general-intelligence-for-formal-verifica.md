@@ -6,7 +6,6 @@ authors:
   - "Luu Danh Minh"
   - "Vaisakh Naduvodi Viswambharan"
   - "Keerthan Kopparam Radhakrishna"
-  - "Sivaram Pothireddypalli"
 date: "2026-03-03"
 arxiv_id: "2603.03175"
 arxiv_url: "https://arxiv.org/abs/2603.03175"
@@ -14,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03175v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Framework"
-  - "Multi-Agent Collaboration"
-  - "Tool Use"
-  - "Retrieval-Augmented Generation"
-  - "Domain-Specific Application"
-  - "Formal Verification"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Saarthi framework with structured rulebook, specification grammar, and GraphRAG integration"
+  primary_benchmark: "NVIDIA CVDP benchmark"
 ---
 
 # Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification

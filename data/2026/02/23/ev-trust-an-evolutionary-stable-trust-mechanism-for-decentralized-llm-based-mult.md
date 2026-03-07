@@ -6,8 +6,6 @@ authors:
   - "Jiayu Qin"
   - "Jianbin Li"
   - "Yu Wang"
-  - "Yuanhe Zhao"
-  - "Kenan Guo"
 date: "2025-12-18"
 arxiv_id: "2512.16167"
 arxiv_url: "https://arxiv.org/abs/2512.16167"
@@ -17,13 +15,19 @@ categories:
   - "cs.AI"
   - "cs.GT"
 tags:
-  - "多智能体系统"
-  - "信任机制"
-  - "进化博弈论"
-  - "去中心化"
-  - "Agent协作"
-  - "系统稳定性"
-relevance_score: 9.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Ev-Trust (Evolutionary Stable Trust Mechanism)"
+  primary_benchmark: "N/A"
 ---
 
 # Ev-Trust: An Evolutionary Stable Trust Mechanism for Decentralized LLM-Based Multi-Agent Service Economies

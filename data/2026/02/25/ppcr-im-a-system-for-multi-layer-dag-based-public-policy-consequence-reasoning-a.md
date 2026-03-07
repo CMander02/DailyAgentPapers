@@ -11,13 +11,19 @@ categories:
   - "cs.SI"
   - "cs.AI"
 tags:
-  - "LLM-driven Agent"
-  - "Multi-step Reasoning"
-  - "Decision Support System"
-  - "Policy Analysis"
-  - "Structured Output Generation"
-  - "Causal Reasoning"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Social & Behavioral Science"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "LLM-driven, layer-wise DAG generator for consequence reasoning and indicator mapping"
+  primary_benchmark: "N/A"
 ---
 
 # PPCR-IM: A System for Multi-layer DAG-based Public Policy Consequence Reasoning and Social Indicator Mapping

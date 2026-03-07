@@ -10,14 +10,17 @@ pdf_url: "https://arxiv.org/pdf/2603.04814v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Memory"
-  - "Persistent Agent"
-  - "Cost-Performance Analysis"
-  - "Long-Context LLM"
-  - "Fact-Based Memory"
-  - "Agent Architecture"
-  - "Agent Evaluation"
-relevance_score: 8.5
+  - "Memory & Context Management"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "GPT-5-mini"
+  key_technique: "fact-based memory system (Mem0 framework)"
+  primary_benchmark: "LongMemEval, LoCoMo, PersonaMemv2"
 ---
 
 # Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents

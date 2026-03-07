@@ -12,13 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2603.02479v1"
 categories:
   - "cs.AI"
 tags:
-  - "推理增强"
-  - "过程奖励模型"
-  - "种群优化"
-  - "数学推理"
-  - "科学推理"
-  - "推理算法"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "gpt-oss-20b, gpt-oss-120b"
+  key_technique: "PRISM (Process Reward Model-guided inference algorithm)"
+  primary_benchmark: "AIME25, HMMT25, GPQA Diamond"
 ---
 
 # PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference

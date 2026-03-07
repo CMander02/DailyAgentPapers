@@ -13,12 +13,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 强化学习"
-  - "Agent 数据合成"
-  - "Agent 规划/推理"
-  - "工具使用"
+  - "Code & Software Engineering"
+  - "Learning & Optimization"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Critic Rubrics"
+  primary_benchmark: "SWE-bench"
 ---
 
 # A Rubric-Supervised Critic from Sparse Real-World Outcomes

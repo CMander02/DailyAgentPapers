@@ -6,33 +6,29 @@ authors:
   - "Ze Liu"
   - "Jianlyu Chen"
   - "Kun Luo"
-  - "Minghao Qin"
-  - "Chaofan Li"
-  - "Lei Xiong"
-  - "Junwei Lan"
-  - "Sen Wang"
-  - "Zhengyang Liang"
-  - "Yingxia Shao"
-  - "Defu Lian"
-  - "Zheng Liu"
 date: "2026-02-14"
 arxiv_id: "2603.00084"
 arxiv_url: "https://arxiv.org/abs/2603.00084"
 pdf_url: "https://arxiv.org/pdf/2603.00084v2"
-github_url: "https://github.com/DeepXiv/deepxiv_sdk"
 categories:
   - "cs.DL"
   - "cs.AI"
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agent Tools"
-  - "Agent Data Interface"
-  - "Scientific Literature"
-  - "Agent Efficiency"
-  - "Agentic Workflow"
-  - "Data Retrieval"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Scientific Research"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "DeepXiv-SDK (three-layer agentic data interface: Data Layer, Service Layer, Application Layer)"
+  primary_benchmark: "N/A"
 ---
 
 # DeepXiv-SDK: An Agentic Data Interface for Scientific Literature

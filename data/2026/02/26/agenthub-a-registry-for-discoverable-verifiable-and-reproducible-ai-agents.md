@@ -6,10 +6,6 @@ authors:
   - "Parv Kumar"
   - "Wenxin Jiang"
   - "Huiyun Peng"
-  - "Behnaz Hassanshahi"
-  - "Konstantin Läufer"
-  - "George K. Thiruvathukal"
-  - "James C. Davis"
 date: "2025-10-03"
 arxiv_id: "2510.03495"
 arxiv_url: "https://arxiv.org/abs/2510.03495"
@@ -18,15 +14,17 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "Agent Registry"
-  - "Agent Discovery"
-  - "Agent Governance"
-  - "Agent Ecosystem"
-  - "Agent Sharing"
-  - "Agent Evaluation"
-  - "Agent Infrastructure"
-  - "LLM-as-Judge"
-relevance_score: 8.0
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentHub registry layer with canonical manifest, publish-time validation, version-bound evidence records, and append-only lifecycle event log"
+  primary_benchmark: "N/A"
 ---
 
 # AgentHub: A Registry for Discoverable, Verifiable, and Reproducible AI Agents

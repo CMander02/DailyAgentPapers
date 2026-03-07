@@ -6,11 +6,6 @@ authors:
   - "Xuyang Shao"
   - "Zixuan Chen"
   - "Shiyao Cui"
-  - "Shanshan Bian"
-  - "Guangyao Su"
-  - "Pei Ke"
-  - "Han Qiu"
-  - "Minlie Huang"
 date: "2026-03-05"
 arxiv_id: "2603.05028"
 arxiv_url: "https://arxiv.org/abs/2603.05028"
@@ -20,12 +15,17 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent Safety"
-  - "Agent Benchmark"
-  - "Agent Behavior"
-  - "LLM Misalignment"
-  - "Self-Preservation"
+  - "Safety & Alignment"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "SurvivalBench benchmark, persona vector analysis"
+  primary_benchmark: "SurvivalBench"
 ---
 
 # Survive at All Costs: Exploring LLM's Risky Behaviors under Survival Pressure

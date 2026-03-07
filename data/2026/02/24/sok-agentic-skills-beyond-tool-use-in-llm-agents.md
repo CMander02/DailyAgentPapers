@@ -6,8 +6,6 @@ authors:
   - "Haiyu Deng"
   - "Baihe Ma"
   - "Xu Wang"
-  - "Qin Wang"
-  - "Guangsheng Yu"
 date: "2026-02-24"
 arxiv_id: "2602.20867"
 arxiv_url: "https://arxiv.org/abs/2602.20867"
@@ -18,17 +16,19 @@ categories:
   - "cs.CE"
   - "cs.ET"
 tags:
-  - "Agent 架构"
-  - "Agentic Skills"
-  - "工具使用"
-  - "技能生命周期"
-  - "多智能体系统"
-  - "Agent 安全"
-  - "Agent 评测"
-  - "技能表示"
-  - "技能组合"
-  - "自演化"
-relevance_score: 9.5
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "agentic skills lifecycle model, seven design patterns, representation × scope taxonomy"
+  primary_benchmark: "N/A"
 ---
 
 # SoK: Agentic Skills -- Beyond Tool Use in LLM Agents

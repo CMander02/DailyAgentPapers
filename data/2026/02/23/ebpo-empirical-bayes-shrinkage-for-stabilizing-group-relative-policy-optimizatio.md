@@ -6,10 +6,6 @@ authors:
   - "Mingze Gao"
   - "Gedi Zhou"
   - "Serena Li"
-  - "Abhishek Kumar"
-  - "Xiangjun Fan"
-  - "Weiwei Li"
-  - "Lizhu Zhang"
 date: "2026-02-05"
 arxiv_id: "2602.05165"
 arxiv_url: "https://arxiv.org/abs/2602.05165"
@@ -19,14 +15,17 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "强化学习"
-  - "策略优化"
-  - "大语言模型"
-  - "Agentic 强化学习"
-  - "训练稳定性"
-  - "推理能力"
-  - "基准评测"
+  - "Learning & Optimization"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "Empirical Bayes Policy Optimization (EBPO)"
+  primary_benchmark: "AIME, OlympiadBench"
 ---
 
 # EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization

@@ -6,15 +6,6 @@ authors:
   - "Fanzhe Meng"
   - "Minghao Li"
   - "Jie Chen"
-  - "Hui Xu"
-  - "Yongshuai Sun"
-  - "Xin Zhao"
-  - "Ruihua Song"
-  - "Yuan Zhang"
-  - "Peng Wang"
-  - "Cheng Chen"
-  - "Jirong Wen"
-  - "Kai Jia"
 date: "2026-02-10"
 arxiv_id: "2602.09892"
 arxiv_url: "https://arxiv.org/abs/2602.09892"
@@ -22,12 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.09892v2"
 categories:
   - "cs.SE"
 tags:
-  - "多智能体系统"
-  - "Agent 数据合成"
-  - "工具使用"
-  - "软件工程智能体"
-  - "自动化工作流"
+  - "Multi-Agent Systems"
+  - "Code & Software Engineering"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Qwen-30B-A3B-Instruct"
+  key_technique: "Scale-SWE (automated, sandboxed multi-agent workflow for data construction)"
+  primary_benchmark: "SWE-bench Verified"
 ---
 
 # Immersion in the GitHub Universe: Scaling Coding Agents to Mastery

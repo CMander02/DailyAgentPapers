@@ -6,8 +6,6 @@ authors:
   - "Yue Zhang"
   - "Xiaoyu Luo"
   - "Jiaxiang Hu"
-  - "Zhiliang Liu"
-  - "Min Xie"
 date: "2025-07-20"
 arxiv_id: "2507.14899"
 arxiv_url: "https://arxiv.org/abs/2507.14899"
@@ -16,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CV"
 tags:
-  - "Agentic Framework"
-  - "Tool Use"
-  - "Multimodal Agent"
-  - "Reasoning"
-  - "Interpretability"
-  - "Industrial Application"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "Healthcare & Bio"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "InsightX Agent (LMM-based agentic framework with SDMSD detector and EGR tool)"
+  primary_benchmark: "GDXray+ dataset"
 ---
 
 # InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis

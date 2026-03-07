@@ -13,16 +13,19 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "强化学习"
-  - "Sim2Real"
-  - "数字孪生"
-  - "混合现实"
-  - "策略训练"
-  - "并行化"
-  - "领域随机化"
-  - "机器人学"
-relevance_score: 9.0
+  - "Multi-Agent Systems"
+  - "World Modeling & Simulation"
+relevance_score: 2.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "World Modeling & Simulation"
+  domain: "Robotics & Embodied"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "Mixed-Reality Digital Twin framework for hybrid sim2real transfer"
+  primary_benchmark: "N/A"
 ---
 
 # Mixed-Reality Digital Twins: Leveraging the Physical and Virtual Worlds for Hybrid Sim2Real Transition of Multi-Agent Reinforcement Learning Policies

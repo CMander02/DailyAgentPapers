@@ -11,12 +11,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "规划与推理"
-  - "Agent 评测/基准"
-  - "成本与效率分析"
-relevance_score: 8.5
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "GPT-4o, GPT-4o-mini"
+  key_technique: "plan-execute-replan agent"
+  primary_benchmark: "Event-QA, ChangeMyView (CMV)"
 ---
 
 # When Do Tools and Planning Help Large Language Models Think? A Cost- and Latency-Aware Benchmark

@@ -12,12 +12,17 @@ categories:
   - "cs.AI"
   - "cs.CL"
 tags:
-  - "Agent 评测/基准"
-  - "推理忠实性"
-  - "大推理模型"
-  - "反事实干预"
-  - "可靠性评估"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "counterfactual reasoning intervention framework"
+  primary_benchmark: "RFEval"
 ---
 
 # RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models

@@ -6,21 +6,6 @@ authors:
   - "Rohith Nama"
   - "Udita Patel"
   - "Nikhil Vichare"
-  - "Indranil Bhattacharya"
-  - "Prince Grover"
-  - "Shivam Asija"
-  - "Giuseppe Carenini"
-  - "Wei Zhang"
-  - "Arushi Gupta"
-  - "Sreyoshi Bhaduri"
-  - "Jing Xu"
-  - "Huzefa Raja"
-  - "Shayan Ray"
-  - "Aaron Chan"
-  - "Esther Xu Fei"
-  - "Gaoyuan Du"
-  - "Zuhaib Akhtar"
-  - "Harshita Asnani"
 date: "2025-06-09"
 arxiv_id: "2506.08119"
 arxiv_url: "https://arxiv.org/abs/2506.08119"
@@ -29,14 +14,19 @@ github_url: "https://github.com/amazon-science/sop-bench"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Benchmark"
-  - "Tool Use"
-  - "Multi-Step Reasoning"
-  - "Industrial Automation"
-  - "Evaluation Framework"
-  - "Agent Architecture"
-  - "Procedural Tasks"
-relevance_score: 8.0
+  - "Tool Use & API Interaction"
+  - "Reasoning & Planning"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "Claude 4 Opus, Claude 4.5 Sonnet"
+  key_technique: "SOP-Bench benchmark construction framework"
+  primary_benchmark: "SOP-Bench"
 ---
 
 # SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents

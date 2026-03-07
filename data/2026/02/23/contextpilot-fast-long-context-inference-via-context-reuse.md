@@ -6,7 +6,6 @@ authors:
   - "Liang Cheng"
   - "Cheng Deng"
   - "Xuan Sun"
-  - "Luo Mai"
 date: "2025-11-05"
 arxiv_id: "2511.03475"
 arxiv_url: "https://arxiv.org/abs/2511.03475"
@@ -15,13 +14,19 @@ github_url: "https://github.com/EfficientContext/ContextPilot"
 categories:
   - "cs.LG"
 tags:
-  - "推理加速"
-  - "长上下文处理"
-  - "KV缓存优化"
-  - "系统架构"
-  - "Agent基础设施"
-  - "多智能体系统"
-relevance_score: 7.5
+  - "Memory & Context Management"
+  - "Architecture & Frameworks"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ContextPilot (context indexing, ordering, de-duplication, and annotation)"
+  primary_benchmark: "N/A"
 ---
 
 # ContextPilot: Fast Long-Context Inference via Context Reuse

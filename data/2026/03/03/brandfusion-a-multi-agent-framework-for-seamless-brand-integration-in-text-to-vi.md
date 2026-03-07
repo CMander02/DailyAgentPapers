@@ -14,12 +14,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "Agent 架构"
-  - "工具使用"
-  - "规划与推理"
-  - "文本到视频生成"
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "BrandFusion"
+  primary_benchmark: "N/A"
 ---
 
 # BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation

@@ -11,12 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2601.14132v2"
 categories:
   - "cs.SE"
 tags:
-  - "Agent Architecture"
-  - "Self-Evolving Agent"
-  - "Tool Use"
-  - "Code Generation"
-  - "Autonomous Systems"
-relevance_score: 9.0
+  - "Code & Software Engineering"
+  - "Tool Use & API Interaction"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "Survey/Position Paper"
+attributes:
+  base_model: "N/A"
+  key_technique: "self-coding information systems"
+  primary_benchmark: "N/A"
 ---
 
 # Toward architecting self-coding information systems

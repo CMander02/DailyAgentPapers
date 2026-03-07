@@ -15,12 +15,19 @@ categories:
   - "cs.CL"
   - "cs.LG"
 tags:
-  - "Agent 评测/基准"
-  - "多智能体系统"
-  - "Agent 工作流"
-  - "LLM 安全"
-  - "可复现性"
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "GPT-4o"
+  key_technique: "Jailbreak Foundry (JBF), JBF-Forge (multi-agent paper-to-module translation)"
+  primary_benchmark: "AdvBench"
 ---
 
 # Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking

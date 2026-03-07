@@ -6,9 +6,6 @@ authors:
   - "Chao Zhang"
   - "Yifan Xu"
   - "Lan Yang"
-  - "Jun Liu"
-  - "Ke Li"
-  - "Yi-Zhe Song"
 date: "2026-01-30"
 arxiv_id: "2601.22571"
 arxiv_url: "https://arxiv.org/abs/2601.22571"
@@ -17,13 +14,19 @@ github_url: "https://github.com/FelixChan9527/PerfGuard"
 categories:
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "任务规划"
-  - "性能建模"
-  - "视觉内容生成"
-  - "AIGC"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Performance-Aware Selection Modeling (PASM), Adaptive Preference Update (APU), Capability-Aligned Planning Optimization (CAPO)"
+  primary_benchmark: "N/A"
 ---
 
 # PerfGuard: A Performance-Aware Agent for Visual Content Generation

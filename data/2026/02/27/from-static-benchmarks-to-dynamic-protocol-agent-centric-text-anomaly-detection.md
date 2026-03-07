@@ -6,8 +6,6 @@ authors:
   - "Suhee Yoon"
   - "Dongmin Kim"
   - "Ye Seul Sim"
-  - "Junhyun Lee"
-  - "Woohyung Lim"
 date: "2026-02-27"
 arxiv_id: "2602.23729"
 arxiv_url: "https://arxiv.org/abs/2602.23729"
@@ -17,14 +15,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent Benchmarking"
-  - "Agent Evaluation"
-  - "Multi-Agent System"
-  - "Agent-Centric"
-  - "Dynamic Protocol"
-  - "Reasoning Evaluation"
-  - "Agent Collaboration"
-relevance_score: 8.0
+  - "Multi-Agent Systems"
+  - "Reasoning & Planning"
+relevance_score: 6.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "agent-centric dynamic benchmarking protocol"
+  primary_benchmark: "N/A"
 ---
 
 # From Static Benchmarks to Dynamic Protocol: Agent-Centric Text Anomaly Detection for Evaluating LLM Reasoning

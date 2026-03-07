@@ -6,10 +6,6 @@ authors:
   - "Tianyi Zhou"
   - "Jing Shi"
   - "Yueqian Lin"
-  - "Yiran Chen"
-  - "Hai Helen Li"
-  - "Kun Wan"
-  - "Wentian Zhao"
 date: "2025-09-29"
 arxiv_id: "2509.25541"
 arxiv_url: "https://arxiv.org/abs/2509.25541"
@@ -19,13 +15,19 @@ categories:
   - "cs.CV"
   - "cs.AI"
 tags:
-  - "VLM Self-Improvement"
-  - "Multi-Agent Self-Play"
-  - "Agentic Reinforcement Learning"
-  - "Agent Data Synthesis"
-  - "Strategic Reasoning"
-  - "Agent Architecture"
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
 relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Vision-Zero, Iterative Self-Play Policy Optimization (Iterative-SPO)"
+  primary_benchmark: "N/A"
 ---
 
 # Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play

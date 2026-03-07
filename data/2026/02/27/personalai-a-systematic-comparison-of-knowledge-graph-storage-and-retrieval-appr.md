@@ -6,9 +6,6 @@ authors:
   - "Victoria Dochkina"
   - "Ruslan Kostoev"
   - "Ilia Perepechkin"
-  - "Petr Anokhin"
-  - "Nikita Semenov"
-  - "Evgeny Burnaev"
 date: "2025-06-20"
 arxiv_id: "2506.17001"
 arxiv_url: "https://arxiv.org/abs/2506.17001"
@@ -17,15 +14,19 @@ categories:
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agent 架构"
-  - "记忆机制"
-  - "知识图谱"
-  - "检索增强生成"
-  - "个性化"
-  - "长期交互"
-  - "外部记忆"
-  - "推理"
-relevance_score: 9.0
+  - "Memory & Context Management"
+  - "Reasoning & Planning"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "hybrid graph design with standard and hyper-edges, multiple graph traversal retrieval mechanisms (A*, water-circle traversal, beam search)"
+  primary_benchmark: "TriviaQA, HotpotQA, DiaASQ"
 ---
 
 # PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents

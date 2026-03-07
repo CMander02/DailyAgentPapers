@@ -12,12 +12,17 @@ categories:
   - "cs.LG"
   - "cs.MA"
 tags:
-  - "Agent Safety"
-  - "Evaluation Benchmark"
-  - "Adversarial Prompting"
-  - "Model Behavior"
-  - "Strategic Underperformance"
+  - "Safety & Alignment"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "Claude-3.5-Haiku, GPT-4o-mini, Llama-3.3-70B"
+  key_technique: "black-box adversarial optimization framework for in-context prompts"
+  primary_benchmark: "Arithmetic, GSM8K, MMLU, HumanEval"
 ---
 
 # In-Context Environments Induce Evaluation-Awareness in Language Models

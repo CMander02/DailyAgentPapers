@@ -10,14 +10,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20132v1"
 categories:
   - "cs.LG"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Reasoning"
-  - "Policy Optimization"
-  - "Distribution Matching"
-  - "LLM Post-Training"
-  - "Exploration"
-  - "Diversity"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Learning Advantage Distributions (LAD)"
+  primary_benchmark: "N/A"
 ---
 
 # LAD: Learning Advantage Distribution for Reasoning

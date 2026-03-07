@@ -6,8 +6,6 @@ authors:
   - "Boci Peng"
   - "Xinping Zhao"
   - "Xiaoran Shang"
-  - "Yun Zhu"
-  - "Lijun Wu"
 date: "2026-03-05"
 arxiv_id: "2603.05120"
 arxiv_url: "https://arxiv.org/abs/2603.05120"
@@ -15,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.05120v1"
 categories:
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "课程学习"
-  - "数据合成"
-  - "数学推理"
-  - "Agent框架"
-  - "数据效率"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Bidirectional Curriculum Generation (multi-agent framework with Difficulty-Reduction Agent, Difficulty-Increasing Agent, Reverse-Generation Agent, Diversity-Enhancement Agent)"
+  primary_benchmark: "N/A"
 ---
 
 # Bidirectional Curriculum Generation: A Multi-Agent Framework for Data-Efficient Mathematical Reasoning

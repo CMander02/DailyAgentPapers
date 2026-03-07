@@ -11,15 +11,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03784v1"
 categories:
   - "cs.AI"
 tags:
-  - "World Models"
-  - "Agent Planning"
-  - "Specification-Driven"
-  - "LLM-Based Generation"
-  - "Multi-Agent Coordination"
-  - "Discrete-Event Simulation"
-  - "Verification"
-  - "Online Adaptation"
+  - "World Modeling & Simulation"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "World Modeling & Simulation"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "DEVS formalism, staged LLM-based generation pipeline"
+  primary_benchmark: "N/A"
 ---
 
 # Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism

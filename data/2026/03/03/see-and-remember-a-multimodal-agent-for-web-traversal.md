@@ -13,14 +13,19 @@ github_url: "https://github.com/Vaultttttttttttt/V-GEMS"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Architecture"
-  - "Multimodal Agent"
-  - "Web Navigation"
-  - "Visual Grounding"
-  - "Memory System"
-  - "State Tracking"
-  - "Benchmark"
-relevance_score: 9.0
+  - "Perception & Multimodal"
+  - "Memory & Context Management"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Perception & Multimodal"
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "V-GEMS (Visual Grounding and Explicit Memory System)"
+  primary_benchmark: "WebWalker"
 ---
 
 # See and Remember: A Multimodal Agent for Web Traversal

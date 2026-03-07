@@ -6,8 +6,6 @@ authors:
   - "Qiao Li"
   - "Riwei Pan"
   - "Jinheng Li"
-  - "Youcheng Sun"
-  - "Chun Jason Xue"
 date: "2026-02-26"
 arxiv_id: "2602.22942"
 arxiv_url: "https://arxiv.org/abs/2602.22942"
@@ -16,13 +14,19 @@ github_url: "https://github.com/ClawMobile/ClawMobile"
 categories:
   - "cs.MA"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Mobile Agent"
-  - "Hierarchical Planning"
-  - "System Design"
-  - "LLM Runtime"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "ClawMobile hierarchical architecture"
+  primary_benchmark: "N/A"
 ---
 
 # ClawMobile: Rethinking Smartphone-Native Agentic Systems

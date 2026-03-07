@@ -6,19 +6,22 @@ date: "2026-02-24"
 arxiv_id: "2602.20478"
 arxiv_url: "https://arxiv.org/abs/2602.20478"
 pdf_url: "https://arxiv.org/pdf/2602.20478v1"
-github_url: "https://github.com/arisvas4/codified-context-infrastructure"
 categories:
   - "cs.SE"
 tags:
-  - "Agent Architecture"
+  - "Memory & Context Management"
   - "Multi-Agent Systems"
-  - "Agent Memory"
-  - "Tool Use"
-  - "Agentic Software Engineering"
-  - "Agent Coordination"
-  - "Knowledge Base"
-  - "Persistent Memory"
-relevance_score: 9.0
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Multi-Agent Systems"
+  domain: "Code & Software Engineering"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Claude Code"
+  key_technique: "codified context infrastructure (hot-memory constitution, cold-memory knowledge base, specialized domain-expert agents)"
+  primary_benchmark: "N/A"
 ---
 
 # Codified Context: Infrastructure for AI Agents in a Complex Codebase

@@ -10,14 +10,19 @@ pdf_url: "https://arxiv.org/pdf/2602.20424v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Evaluation"
-  - "Agent Benchmark"
-  - "Implicit Reasoning"
-  - "Contextual Understanding"
-  - "Goal-Oriented Agents"
-  - "Agent Simulation"
-  - "Agentic AI"
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Implicit Intelligence, Agent-as-a-World (AaW)"
+  primary_benchmark: "Implicit Intelligence"
 ---
 
 # Implicit Intelligence -- Evaluating Agents on What Users Don't Say

@@ -14,12 +14,19 @@ categories:
   - "cs.SE"
   - "cs.AI"
 tags:
-  - "多智能体系统"
-  - "可靠性评估"
-  - "故障注入"
-  - "系统鲁棒性"
-  - "Agent评测"
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
 relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "MAS-FIRE (Fault Injection and Reliability Evaluation Framework)"
+  primary_benchmark: "MAS-FIRE (self-built benchmark)"
 ---
 
 # MAS-FIRE: Fault Injection and Reliability Evaluation for LLM-Based Multi-Agent Systems

@@ -12,14 +12,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent Safety"
-  - "Reward Hacking"
-  - "Emergent Misalignment"
-  - "Internal Monitoring"
-  - "Fine-tuning"
-  - "Post-deployment Safety"
-  - "Activation Analysis"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "activation-based monitoring with sparse autoencoders and lightweight linear classifiers"
+  primary_benchmark: "N/A"
 ---
 
 # Monitoring Emergent Reward Hacking During Generation via Internal Activations

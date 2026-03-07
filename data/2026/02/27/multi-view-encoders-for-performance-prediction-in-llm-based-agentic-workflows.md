@@ -12,12 +12,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 评测/基准"
-  - "多智能体系统"
-  - "Agent 数据合成/规划/推理/记忆/工具使用"
-  - "Agent 优化"
-relevance_score: 9.0
+  - "Learning & Optimization"
+  - "Architecture & Frameworks"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Agentic Predictor with multi-view workflow encoding and cross-domain unsupervised pretraining"
+  primary_benchmark: "N/A"
 ---
 
 # Multi-View Encoders for Performance Prediction in LLM-Based Agentic Workflows

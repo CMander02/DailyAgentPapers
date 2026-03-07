@@ -14,15 +14,19 @@ categories:
   - "cs.AI"
   - "cs.MA"
 tags:
-  - "多智能体系统"
-  - "多智能体强化学习"
-  - "智能体协作"
-  - "泛化性"
-  - "战略风险规避"
-  - "博弈论"
-  - "未见伙伴协作"
-  - "LLM协作任务"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 4.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "N/A"
+  key_technique: "multi-agent reinforcement learning (MARL) algorithm integrating strategic risk aversion"
+  primary_benchmark: "N/A"
 ---
 
 # Training Generalizable Collaborative Agents via Strategic Risk Aversion

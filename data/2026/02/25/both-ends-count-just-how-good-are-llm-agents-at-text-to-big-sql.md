@@ -13,14 +13,19 @@ categories:
   - "cs.CL"
   - "cs.IR"
 tags:
-  - "Agent评测/基准"
-  - "工具使用"
-  - "LLM应用于Agent场景"
-  - "Text-to-SQL"
-  - "数据库Agent"
-  - "执行效率"
-  - "成本分析"
+  - "Tool Use & API Interaction"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Code & Software Engineering"
+  domain: "Data Science & Analytics"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Text-to-Big SQL metrics"
+  primary_benchmark: "N/A"
 ---
 
 # Both Ends Count! Just How Good are LLM Agents at "Text-to-Big SQL"?

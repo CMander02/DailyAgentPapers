@@ -13,12 +13,19 @@ categories:
   - "cs.AI"
   - "cs.HC"
 tags:
-  - "Agent 工具使用"
-  - "上下文感知"
-  - "多模态 LLM"
-  - "人机交互"
-  - "反馈生成"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Code & Software Engineering"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "FeedAIde"
+  primary_benchmark: "N/A"
 ---
 
 # FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions

@@ -10,14 +10,19 @@ pdf_url: "https://arxiv.org/pdf/2510.21306v2"
 categories:
   - "cs.CL"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "LLM as Agent"
-  - "Prompt-based Agent"
-  - "Reinforcement Learning"
-  - "Decision Making"
-  - "Zero-shot Learning"
-  - "Reasoning"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "PARL (Prompt-based Agent for Reinforcement Learning)"
+  primary_benchmark: "Blackjack, Frozen Lake, Taxi"
 ---
 
 # PARL: Prompt-based Agents for Reinforcement Learning

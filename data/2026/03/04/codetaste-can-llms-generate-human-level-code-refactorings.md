@@ -14,13 +14,17 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "LLM Agent"
-  - "Code Agent"
-  - "Agent Benchmark"
-  - "Agent Evaluation"
-  - "Tool Use"
-  - "Agent Planning"
+  - "Code & Software Engineering"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "propose-then-implement decomposition"
+  primary_benchmark: "CodeTaste"
 ---
 
 # CodeTaste: Can LLMs Generate Human-Level Code Refactorings?

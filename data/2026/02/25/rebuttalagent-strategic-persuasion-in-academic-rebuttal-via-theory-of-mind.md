@@ -12,14 +12,19 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent 架构"
-  - "Agent 数据合成"
-  - "Agentic 强化学习"
-  - "Agent 评测/基准"
-  - "心智理论"
-  - "战略规划"
-  - "说服与沟通"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Human-Agent Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Human-Agent Interaction"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ToM-Strategy-Response (TSR) framework"
+  primary_benchmark: "RebuttalBench"
 ---
 
 # RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind

@@ -14,12 +14,17 @@ categories:
   - "cs.CL"
   - "cs.AI"
 tags:
-  - "Agent评测/基准"
-  - "LLM推理"
-  - "效率评估"
-  - "Token效率"
-  - "基准测试"
-relevance_score: 7.5
+  - "Reasoning & Planning"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "OckBench"
+  primary_benchmark: "OckBench"
 ---
 
 # OckBench: Measuring the Efficiency of LLM Reasoning

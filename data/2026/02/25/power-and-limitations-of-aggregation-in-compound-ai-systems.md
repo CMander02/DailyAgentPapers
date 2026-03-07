@@ -11,14 +11,19 @@ categories:
   - "cs.AI"
   - "cs.GT"
 tags:
-  - "Compound AI Systems"
-  - "Aggregation"
-  - "Principal-Agent Framework"
-  - "Elicitability"
-  - "System Design"
-  - "Model Capabilities"
-  - "Prompt Engineering"
-relevance_score: 7.5
+  - "Multi-Agent Systems"
+  - "Learning & Optimization"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "principal-agent framework for aggregation, feasibility expansion, support expansion, binding set contraction"
+  primary_benchmark: "N/A"
 ---
 
 # Power and Limitations of Aggregation in Compound AI Systems

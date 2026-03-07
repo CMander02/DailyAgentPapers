@@ -6,16 +6,6 @@ authors:
   - "Wei Cheng"
   - "Yue-Kai Huang"
   - "Philip Ji"
-  - "Denton Wu"
-  - "Mahdi Safari"
-  - "Flemming Holtorf"
-  - "Kenaish AlQubaisi"
-  - "Norbert M. Linke"
-  - "Danyang Zhuo"
-  - "Yiran Chen"
-  - "Ting Wang"
-  - "Dirk Englund"
-  - "Tingjun Chen"
 date: "2026-02-23"
 arxiv_id: "2602.20144"
 arxiv_url: "https://arxiv.org/abs/2602.20144"
@@ -25,13 +15,19 @@ categories:
   - "cs.AI"
   - "cs.NI"
 tags:
-  - "Agent 架构"
-  - "工具使用"
-  - "多智能体系统"
-  - "Agent 评测/基准"
-  - "自主控制"
-  - "系统优化"
-relevance_score: 9.0
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "General Purpose"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "AgentOptics framework built on Model Context Protocol (MCP)"
+  primary_benchmark: "410-task benchmark for optical system control"
 ---
 
 # Agentic AI for Scalable and Robust Optical Systems Control

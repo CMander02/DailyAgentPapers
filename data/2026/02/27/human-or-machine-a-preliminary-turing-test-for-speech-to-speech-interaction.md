@@ -6,9 +6,6 @@ authors:
   - "Sipei Lin"
   - "Xuan Zhou"
   - "Chi Zhang"
-  - "Bo Cheng"
-  - "Jiale Han"
-  - "Benyou Wang"
 date: "2026-02-27"
 arxiv_id: "2602.24080"
 arxiv_url: "https://arxiv.org/abs/2602.24080"
@@ -17,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.SD"
 tags:
-  - "Agent Evaluation"
-  - "Human-Likeness"
-  - "Conversational Agent"
-  - "Turing Test"
-  - "Speech-to-Speech"
-relevance_score: 7.5
+  - "Human-Agent Interaction"
+  - "Benchmark/Evaluation"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Human-Agent Interaction"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "interpretable model for human-vs-machine discrimination"
+  primary_benchmark: "Turing test for speech-to-speech systems"
 ---
 
 # Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction

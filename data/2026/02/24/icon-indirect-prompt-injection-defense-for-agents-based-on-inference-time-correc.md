@@ -6,10 +6,6 @@ authors:
   - "Jiaming Zhang"
   - "Ziqi Zhang"
   - "Yinghui Wang"
-  - "Longtao Huang"
-  - "Jianbo Gao"
-  - "Zhong Chen"
-  - "Wei Yang Bryan Lim"
 date: "2026-02-24"
 arxiv_id: "2602.20708"
 arxiv_url: "https://arxiv.org/abs/2602.20708"
@@ -18,13 +14,19 @@ categories:
   - "cs.AI"
   - "cs.CR"
 tags:
-  - "Agent Security"
-  - "Prompt Injection Defense"
-  - "Agent Architecture"
-  - "Inference-Time Correction"
-  - "Adversarial Robustness"
-  - "Multi-Modal Agents"
-relevance_score: 8.0
+  - "Safety & Alignment"
+  - "Tool Use & API Interaction"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "GPT-4o, Llama-3-70B, Qwen-2.5"
+  key_technique: "ICON (probing-to-mitigation framework with Latent Space Trace Prober and Mitigating Rectifier)"
+  primary_benchmark: "N/A"
 ---
 
 # ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction

@@ -6,17 +6,6 @@ authors:
   - "Qiying Yu"
   - "Huan-ang Gao"
   - "Jiahao Li"
-  - "Chengquan Jiang"
-  - "Weiqiang Lou"
-  - "Yufan Song"
-  - "Hongli Yu"
-  - "Jiaze Chen"
-  - "Wei-Ying Ma"
-  - "Ya-Qin Zhang"
-  - "Jingjing Liu"
-  - "Mingxuan Wang"
-  - "Xin Liu"
-  - "Hao Zhou"
 date: "2026-02-27"
 arxiv_id: "2602.24286"
 arxiv_url: "https://arxiv.org/abs/2602.24286"
@@ -25,14 +14,19 @@ categories:
   - "cs.LG"
   - "cs.AI"
 tags:
-  - "Agentic Reinforcement Learning"
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Data Synthesis"
-  - "Agent Training"
-  - "Code Generation"
-  - "LLM-based Agent"
-relevance_score: 9.0
+  - "Code & Software Engineering"
+  - "Learning & Optimization"
+relevance_score: 8.5
+taxonomy:
+  capability:
+    - "Code & Software Engineering"
+    - "Learning & Optimization"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "CUDA Agent (large-scale agentic reinforcement learning system with scalable data synthesis, skill-augmented CUDA development environment, and RL algorithmic techniques)"
+  primary_benchmark: "KernelBench"
 ---
 
 # CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation

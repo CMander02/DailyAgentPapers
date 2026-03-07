@@ -12,14 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2511.21033v2"
 categories:
   - "cs.AI"
 tags:
-  - "LLM Agent"
-  - "Multi-Agent System"
-  - "Formal Reasoning"
-  - "Tool Use"
-  - "Reasoning"
-  - "Trustworthy AI"
-  - "Legal AI"
-relevance_score: 8.5
+  - "Reasoning & Planning"
+  - "Multi-Agent Systems"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Legal & Financial"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "L4L (solver-centric framework integrating role-differentiated LLM agents with SMT-backed verification)"
+  primary_benchmark: "N/A"
 ---
 
 # Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning

@@ -6,21 +6,6 @@ authors:
   - "Linghao Feng"
   - "Ruoyu Wu"
   - "Ruolin Chen"
-  - "Lu Jia"
-  - "Zhou Zhao"
-  - "Jindong Li"
-  - "Tenglong Li"
-  - "Erliang Lin"
-  - "Shuai Yang"
-  - "Enmeng Lu"
-  - "Yinqian Sun"
-  - "Qian Zhang"
-  - "Zizhe Ruan"
-  - "Jinyu Fan"
-  - "Zeyang Yue"
-  - "Ping Wu"
-  - "Huangrui Li"
-  - "Chengyi Sun"
 date: "2026-02-15"
 arxiv_id: "2602.14135"
 arxiv_url: "https://arxiv.org/abs/2602.14135"
@@ -31,12 +16,17 @@ categories:
   - "cs.CR"
   - "cs.CY"
 tags:
-  - "AI安全评估"
-  - "Agent风险评估"
-  - "基准测试"
-  - "前沿风险"
-  - "Risky Agentic Autonomy"
-relevance_score: 7.5
+  - "Safety & Alignment"
+relevance_score: 5.0
+taxonomy:
+  capability:
+    - "Safety & Alignment"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "ForesightSafety Bench (AI Safety Evaluation Framework)"
+  primary_benchmark: "ForesightSafety Bench"
 ---
 
 # ForesightSafety Bench: A Frontier Risk Evaluation and Governance Framework towards Safe AI

@@ -6,9 +6,6 @@ authors:
   - "Yihan Zeng"
   - "Jianhua Han"
   - "Hang Xu"
-  - "Chun-Mei Feng"
-  - "Jianwei Ma"
-  - "Wangmeng Zuo"
 date: "2026-03-03"
 arxiv_id: "2603.02951"
 arxiv_url: "https://arxiv.org/abs/2603.02951"
@@ -17,14 +14,19 @@ categories:
   - "cs.LG"
   - "cs.CV"
 tags:
-  - "GUI Agent"
-  - "Continual Learning"
-  - "Reinforcement Learning"
-  - "Fine-Tuning"
-  - "Multimodal LLM"
-  - "Agent Adaptation"
-  - "Benchmark"
+  - "Learning & Optimization"
+  - "Tool Use & API Interaction"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Learning & Optimization"
+    - "Tool Use & API Interaction"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Continual GUI Learning (CGL) framework, SFT proportion adjustment mechanism, gradient surgery strategy"
+  primary_benchmark: "AndroidControl-CL"
 ---
 
 # CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning

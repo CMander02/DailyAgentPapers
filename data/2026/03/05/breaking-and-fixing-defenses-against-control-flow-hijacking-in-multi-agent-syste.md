@@ -14,14 +14,19 @@ categories:
   - "cs.CR"
   - "eess.SY"
 tags:
-  - "多智能体系统"
-  - "Agent安全"
-  - "Agent防御"
-  - "控制流劫持"
-  - "Agent编排"
-  - "Agent通信"
-  - "系统安全"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Safety & Alignment"
+relevance_score: 8.0
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Safety & Alignment"
+  domain: "Cybersecurity"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "ControlValve"
+  primary_benchmark: "N/A"
 ---
 
 # Breaking and Fixing Defenses Against Control-Flow Hijacking in Multi-Agent Systems

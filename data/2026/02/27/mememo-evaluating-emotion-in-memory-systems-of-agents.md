@@ -6,9 +6,6 @@ authors:
   - "Jihao Zhao"
   - "Ding Chen"
   - "Yansong Zhang"
-  - "Cuiping Li"
-  - "Zhiyu Li"
-  - "Hong Chen"
 date: "2026-02-27"
 arxiv_id: "2602.23944"
 arxiv_url: "https://arxiv.org/abs/2602.23944"
@@ -16,12 +13,17 @@ pdf_url: "https://arxiv.org/pdf/2602.23944v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Memory"
-  - "Agent Evaluation"
-  - "Emotion"
-  - "Benchmark"
-  - "Long-context Interaction"
-relevance_score: 7.5
+  - "Memory & Context Management"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "Human-Like Memory Emotion (HLME) evaluation framework"
+  primary_benchmark: "HLME (Human-Like Memory Emotion) dataset"
 ---
 
 # MemEmo: Evaluating Emotion in Memory Systems of Agents

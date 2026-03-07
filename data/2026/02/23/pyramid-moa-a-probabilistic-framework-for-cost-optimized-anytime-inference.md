@@ -11,12 +11,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 架构"
-  - "成本优化"
-  - "动态路由"
-  - "模型集成"
-  - "推理系统"
-relevance_score: 7.5
+  - "Architecture & Frameworks"
+  - "Reasoning & Planning"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Architecture & Frameworks"
+    - "Reasoning & Planning"
+  domain: "General Purpose"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "Llama-3-8B, Mistral-7B, Qwen-2.5-7B, Llama-3-70B"
+  key_technique: "Pyramid MoA (Probabilistic Anytime Inference with Decision-Theoretic Router)"
+  primary_benchmark: "GSM8K"
 ---
 
 # Pyramid MoA: A Probabilistic Framework for Cost-Optimized Anytime Inference

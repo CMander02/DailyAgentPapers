@@ -6,10 +6,6 @@ authors:
   - "Yexi Jiang"
   - "Kevin Gao"
   - "Chen Wang"
-  - "Frank Ong"
-  - "Se-eun Yoon"
-  - "Rachit Pareek"
-  - "Michelle Gong"
 date: "2025-04-26"
 arxiv_id: "2504.20094"
 arxiv_url: "https://arxiv.org/abs/2504.20094"
@@ -19,14 +15,19 @@ categories:
   - "cs.CL"
   - "cs.HC"
 tags:
-  - "多智能体系统"
-  - "对话式推荐系统"
-  - "工具增强"
-  - "安全对齐"
-  - "LLM应用"
-  - "个性化"
-  - "风险评估"
-relevance_score: 8.5
+  - "Multi-Agent Systems"
+  - "Tool Use & API Interaction"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Multi-Agent Systems"
+    - "Tool Use & API Interaction"
+  domain: "Games & Entertainment"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "N/A"
+  key_technique: "MATCHA (Multi-Agent System Collaboration for Trustworthy Conversational Recommendations)"
+  primary_benchmark: "N/A"
 ---
 
 # Toward Safe and Human-Aligned Game Conversational Recommendation via Multi-Agent Decomposition

@@ -6,11 +6,6 @@ authors:
   - "Joe King"
   - "Priyashree Roy"
   - "Vamsi Thilak Gudi"
-  - "Spencer Romo"
-  - "Akhil Nooney"
-  - "Boyi Xie"
-  - "Bob Strahan"
-  - "Diego A. Socolinsky"
 date: "2026-02-26"
 arxiv_id: "2602.23481"
 arxiv_url: "https://arxiv.org/abs/2602.23481"
@@ -18,13 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2602.23481v1"
 categories:
   - "cs.CL"
 tags:
-  - "Agent Architecture"
-  - "Tool Use"
-  - "Multi-Modal LLM"
-  - "Document Intelligence"
-  - "Compliance Validation"
-  - "Benchmark Dataset"
+  - "Tool Use & API Interaction"
+  - "Architecture & Frameworks"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Architecture & Frameworks"
+  domain: "Enterprise & Workflow"
+  research_type: "System/Tooling/Library"
+attributes:
+  base_model: "Amazon Nova"
+  key_technique: "IDP Accelerator framework (DocSplit, Extraction Module, Agentic Analytics Module, Rule Validation Module)"
+  primary_benchmark: "DocSplit"
 ---
 
 # IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation

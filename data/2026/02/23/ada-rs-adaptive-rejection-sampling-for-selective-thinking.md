@@ -6,12 +6,6 @@ authors:
   - "Alec Chiu"
   - "Shivani Shekhar"
   - "Zijie Pan"
-  - "Avinash Thangali"
-  - "Yun-Shiuan Chuang"
-  - "Chaitanya Kulkarni"
-  - "Uma Kona"
-  - "Linsey Pang"
-  - "Prakhar Mehrotra"
 date: "2026-02-23"
 arxiv_id: "2602.19519"
 arxiv_url: "https://arxiv.org/abs/2602.19519"
@@ -20,14 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 推理"
-  - "Agent 效率优化"
-  - "选择性思考"
-  - "工具使用"
-  - "拒绝采样"
-  - "偏好学习"
-  - "策略优化"
+  - "Tool Use & API Interaction"
+  - "Learning & Optimization"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Tool Use & API Interaction"
+    - "Learning & Optimization"
+  domain: "Enterprise & Workflow"
+  research_type: "New Algorithm"
+attributes:
+  base_model: "Qwen3-8B"
+  key_technique: "Adaptive Rejection Sampling (Ada-RS)"
+  primary_benchmark: "synthetic tool call-oriented e-commerce benchmark"
 ---
 
 # Ada-RS: Adaptive Rejection Sampling for Selective Thinking

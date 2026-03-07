@@ -6,13 +6,6 @@ authors:
   - "Junbo Huang"
   - "Haocheng Yuan"
   - "Zhongming Yu"
-  - "Haozhou Xu"
-  - "Lanxiang Hu"
-  - "Abhilash Shankarampeta"
-  - "Zimeng Huang"
-  - "Wentao Ni"
-  - "Yuandong Tian"
-  - "Jishen Zhao"
 date: "2026-02-26"
 arxiv_id: "2602.22769"
 arxiv_url: "https://arxiv.org/abs/2602.22769"
@@ -21,12 +14,19 @@ categories:
   - "cs.AI"
   - "cs.LG"
 tags:
-  - "Agent 评测/基准"
-  - "Agent 记忆"
-  - "长视野任务"
-  - "Agent 架构"
-  - "工具使用"
-relevance_score: 8.5
+  - "Memory & Context Management"
+  - "Benchmark/Evaluation"
+relevance_score: 9.0
+taxonomy:
+  capability:
+    - "Memory & Context Management"
+    - "Benchmark/Evaluation"
+  domain: "General Purpose"
+  research_type: "Benchmark/Evaluation"
+attributes:
+  base_model: "N/A"
+  key_technique: "AMA-Agent (causality graph and tool-augmented retrieval)"
+  primary_benchmark: "AMA-Bench"
 ---
 
 # AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications

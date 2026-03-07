@@ -6,7 +6,6 @@ authors:
   - "Manling Li"
   - "Li Fei-Fei"
   - "Jiajun Wu"
-  - "Yejin Choi"
 date: "2026-02-24"
 arxiv_id: "2602.21198"
 arxiv_url: "https://arxiv.org/abs/2602.21198"
@@ -18,15 +17,19 @@ categories:
   - "cs.CV"
   - "cs.RO"
 tags:
-  - "Agent 架构"
-  - "Agent 规划"
-  - "Agent 推理"
-  - "具身智能"
-  - "测试时规划"
-  - "反思学习"
-  - "长期任务"
-  - "机器人"
-relevance_score: 9.5
+  - "Reasoning & Planning"
+  - "Learning & Optimization"
+relevance_score: 3.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Learning & Optimization"
+  domain: "Robotics & Embodied"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Reflective Test-Time Planning (integrating reflection-in-action, reflection-on-action, and retrospective reflection)"
+  primary_benchmark: "Long-Horizon Household benchmark, MuJoCo Cupboard Fitting benchmark"
 ---
 
 # Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs

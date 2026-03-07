@@ -9,14 +9,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03686v1"
 categories:
   - "cs.AI"
 tags:
-  - "LLM Agent"
-  - "Multi-Agent Collaboration"
-  - "Planning and Reasoning"
-  - "Monte Carlo Tree Search (MCTS)"
-  - "Neuro-Symbolic AI"
-  - "Scientific Discovery"
-  - "Closed-loop System"
+  - "Reasoning & Planning"
+  - "Multi-Agent Systems"
 relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Scientific Research"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "Sparse State Storage with Dynamic Path Reconstruction, Global-Local Search Strategy, Sibling-Aware Expansion, Differentiable Physics Engine"
+  primary_benchmark: "N/A"
 ---
 
 # AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment

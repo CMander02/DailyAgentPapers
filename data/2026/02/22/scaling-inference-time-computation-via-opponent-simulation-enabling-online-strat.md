@@ -12,15 +12,19 @@ pdf_url: "https://arxiv.org/pdf/2602.19309v1"
 categories:
   - "cs.MA"
 tags:
-  - "Agent 架构"
-  - "多智能体系统"
-  - "Agent 推理"
-  - "Agent 规划"
-  - "在线学习"
-  - "博弈论"
-  - "对手建模"
-  - "推理时计算"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Multi-Agent Systems"
+relevance_score: 5.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Multi-Agent Systems"
+  domain: "Social & Behavioral Science"
+  research_type: "New Method/Model"
+attributes:
+  base_model: "N/A"
+  key_technique: "BoN-oppo-simulation (embedding smooth Fictitious Play into LLM inference via opponent modeling and best-of-N sampling)"
+  primary_benchmark: "N/A"
 ---
 
 # Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation

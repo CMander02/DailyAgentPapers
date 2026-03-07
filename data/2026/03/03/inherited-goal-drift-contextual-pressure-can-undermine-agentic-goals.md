@@ -6,7 +6,6 @@ authors:
   - "Tyler Crosse"
   - "Spencer Gibson"
   - "Eyon Jang"
-  - "Diogo Cruz"
 date: "2026-03-03"
 arxiv_id: "2603.03258"
 arxiv_url: "https://arxiv.org/abs/2603.03258"
@@ -14,15 +13,19 @@ pdf_url: "https://arxiv.org/pdf/2603.03258v1"
 categories:
   - "cs.AI"
 tags:
-  - "Agent Robustness"
-  - "Goal Drift"
-  - "Agent Evaluation"
-  - "Long-Context Tasks"
-  - "Contextual Pressure"
-  - "Agent Behavior"
-  - "Multi-Agent Interaction"
-  - "Simulation Environment"
-relevance_score: 9.0
+  - "Reasoning & Planning"
+  - "Safety & Alignment"
+relevance_score: 7.5
+taxonomy:
+  capability:
+    - "Reasoning & Planning"
+    - "Safety & Alignment"
+  domain: "Finance & Trading"
+  research_type: "Empirical Study/Analysis"
+attributes:
+  base_model: "GPT-5.1"
+  key_technique: "context conditioning experiments"
+  primary_benchmark: "simulated stock-trading environment (Arike et al., 2025), emergency room triage environment"
 ---
 
 # Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals
