@@ -1,0 +1,1172 @@
+[
+  {
+    "arxiv_id": "2603.02045",
+    "version": 1,
+    "title": "Expanding LLM Agent Boundaries with Strategy-Guided Exploration",
+    "authors": [
+      "Andrew Szot",
+      "Michael Kirchhof",
+      "Omar Attia",
+      "Alexander Toshev"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02045",
+    "pdf_url": "https://arxiv.org/pdf/2603.02045v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Strategy-Guided Exploration (SGE)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/expanding-llm-agent-boundaries-with-strategy-guided-exploration.md"
+  },
+  {
+    "arxiv_id": "2603.01714",
+    "version": 1,
+    "title": "TopoCurate:Modeling Interaction Topology for Tool-Use Agent Training",
+    "authors": [
+      "Jinluan Yang",
+      "Yuxin Liu",
+      "Zhengyu Chen",
+      "Chengcheng Han",
+      "Yueqing Sun"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01714",
+    "pdf_url": "https://arxiv.org/pdf/2603.01714v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "TopoCurate (interaction-aware framework with semantic quotient topology and dual-selection mechanism)",
+      "primary_benchmark": "BFCLv3, Tau2 Bench"
+    },
+    "md_path": "data/2026/03/02/topocuratemodeling-interaction-topology-for-tool-use-agent-training.md"
+  },
+  {
+    "arxiv_id": "2603.01410",
+    "version": 1,
+    "title": "GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning",
+    "authors": [
+      "Yuchen Ying",
+      "Weiqi Jiang",
+      "Tongya Zheng",
+      "Yu Wang",
+      "Shunyu Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01410",
+    "pdf_url": "https://arxiv.org/pdf/2603.01410v1",
+    "github_url": "https://github.com/Ying-Yuchen/_GraphScout_",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "Qwen3-4B, Qwen-Max",
+      "key_technique": "GraphScout (a training-centric agentic graph reasoning framework with flexible graph exploration tools)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/graphscout-empowering-large-language-models-with-intrinsic-exploration-ability-f.md"
+  },
+  {
+    "arxiv_id": "2603.01692",
+    "version": 1,
+    "title": "Reasoning as Gradient: Scaling MLE Agents Beyond Tree Search",
+    "authors": [
+      "Yifei Zhang",
+      "Xu Yang",
+      "Xiao Yang",
+      "Bowen Xian",
+      "Qizheng Li"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01692",
+    "pdf_url": "https://arxiv.org/pdf/2603.01692v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 9.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "GPT-5",
+      "key_technique": "Gome (Gradient-based Optimization for Machine Learning Engineering)",
+      "primary_benchmark": "MLE-Bench"
+    },
+    "md_path": "data/2026/03/02/reasoning-as-gradient-scaling-mle-agents-beyond-tree-search.md"
+  },
+  {
+    "arxiv_id": "2603.01940",
+    "version": 1,
+    "title": "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification",
+    "authors": [
+      "Jinpeng Chen",
+      "Cheng Gong",
+      "Hanbo Li",
+      "Ziru Liu",
+      "Zichen Tian"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01940",
+    "pdf_url": "https://arxiv.org/pdf/2603.01940v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "CoVe (Constraint-Verification)",
+      "primary_benchmark": "τ²-bench"
+    },
+    "md_path": "data/2026/03/02/cove-training-interactive-tool-use-agents-via-constraint-guided-verification.md"
+  },
+  {
+    "arxiv_id": "2603.01357",
+    "version": 1,
+    "title": "ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context",
+    "authors": [
+      "Zidi Xiu",
+      "David Q. Sun",
+      "Kevin Cheng",
+      "Maitrik Patel",
+      "Josh Date"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01357",
+    "pdf_url": "https://arxiv.org/pdf/2603.01357v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "Claude-4.5-Opus, DeepSeek-V3.2",
+      "key_technique": "ASTRA-bench (event-driven scenario generation pipeline)",
+      "primary_benchmark": "ASTRA-bench"
+    },
+    "md_path": "data/2026/03/02/astra-bench-evaluating-tool-use-agent-reasoning-and-action-planning-with-persona.md"
+  },
+  {
+    "arxiv_id": "2603.02112",
+    "version": 1,
+    "title": "Recursive Models for Long-Horizon Reasoning",
+    "authors": [
+      "Chenxiao Yang",
+      "Nathan Srebro",
+      "Zhiyuan Li"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02112",
+    "pdf_url": "https://arxiv.org/pdf/2603.02112v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "recursive models",
+      "primary_benchmark": "Boolean satisfiability"
+    },
+    "md_path": "data/2026/03/02/recursive-models-for-long-horizon-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.01455",
+    "version": 1,
+    "title": "From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents",
+    "authors": [
+      "Niu Lian",
+      "Yuting Wang",
+      "Hanshu Yao",
+      "Jinpeng Wang",
+      "Bin Chen"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.IR",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01455",
+    "pdf_url": "https://arxiv.org/pdf/2603.01455v1",
+    "github_url": "https://github.com/EliSpectre/MM-Mem",
+    "published": "2026-03-02",
+    "tags": [
+      "Memory & Context Management",
+      "Perception & Multimodal"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Perception & Multimodal"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "MM-Mem (pyramidal multimodal memory architecture), Semantic Information Bottleneck (SIB), SIB-GRPO",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/from-verbatim-to-gist-distilling-pyramidal-multimodal-memory-via-semantic-inform.md"
+  },
+  {
+    "arxiv_id": "2603.01952",
+    "version": 1,
+    "title": "LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations",
+    "authors": [
+      "Viet-Thanh Pham",
+      "Lizhen Qu",
+      "Thuy-Trang Vu",
+      "Gholamreza Haffari",
+      "Dinh Phung"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01952",
+    "pdf_url": "https://arxiv.org/pdf/2603.01952v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Multi-Agent Systems",
+      "World Modeling & Simulation"
+    ],
+    "relevance_score": 8.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "World Modeling & Simulation"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "LiveCultureBench",
+      "primary_benchmark": "LiveCultureBench"
+    },
+    "md_path": "data/2026/03/02/liveculturebench-a-multi-agent-multi-cultural-benchmark-for-large-language-model.md"
+  },
+  {
+    "arxiv_id": "2603.01712",
+    "version": 1,
+    "title": "FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents",
+    "authors": [
+      "Qizheng Li",
+      "Yifei Zhang",
+      "Xiao Yang",
+      "Xu Yang",
+      "Zhuo Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01712",
+    "pdf_url": "https://arxiv.org/pdf/2603.01712v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "FT-Agent",
+      "primary_benchmark": "FT-Dojo"
+    },
+    "md_path": "data/2026/03/02/ft-dojo-towards-autonomous-llm-fine-tuning-with-language-agents.md"
+  },
+  {
+    "arxiv_id": "2603.01548",
+    "version": 1,
+    "title": "Graph-Based Self-Healing Tool Routing for Cost-Efficient LLM Agents",
+    "authors": [
+      "Neeraj Bholani"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01548",
+    "pdf_url": "https://arxiv.org/pdf/2603.01548v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Self-Healing Router (parallel health monitors + cost-weighted tool graph with Dijkstra's algorithm)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/graph-based-self-healing-tool-routing-for-cost-efficient-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.02176",
+    "version": 1,
+    "title": "Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale",
+    "authors": [
+      "Hao Li",
+      "Chunjiang Mu",
+      "Jianhao Chen",
+      "Siyue Ren",
+      "Zhiyao Cui"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02176",
+    "pdf_url": "https://arxiv.org/pdf/2603.02176v1",
+    "github_url": "https://github.com/ynulihao/AgentSkillOS",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AgentSkillOS (tree-based skill organization, DAG-based orchestration)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/organizing-orchestrating-and-benchmarking-agent-skills-at-ecosystem-scale.md"
+  },
+  {
+    "arxiv_id": "2603.01966",
+    "version": 1,
+    "title": "AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations",
+    "authors": [
+      "Cheng Jiayang",
+      "Dongyu Ru",
+      "Lin Qiu",
+      "Yiyang Li",
+      "Xuezhi Cao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01966",
+    "pdf_url": "https://arxiv.org/pdf/2603.01966v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Memory & Context Management"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AMemGym (structured data sampling, LLM-simulated users)",
+      "primary_benchmark": "AMemGym"
+    },
+    "md_path": "data/2026/03/02/amemgym-interactive-memory-benchmarking-for-assistants-in-long-horizon-conversat.md"
+  },
+  {
+    "arxiv_id": "2603.01896",
+    "version": 2,
+    "title": "Agentic Code Reasoning",
+    "authors": [
+      "Shubham Ugare",
+      "Satish Chandra"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01896",
+    "pdf_url": "https://arxiv.org/pdf/2603.01896v2",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Code & Software Engineering"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Code & Software Engineering"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "semi-formal reasoning",
+      "primary_benchmark": "RubberDuckBench, Defects4J"
+    },
+    "md_path": "data/2026/03/02/agentic-code-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.01608",
+    "version": 1,
+    "title": "Evaluating and Understanding Scheming Propensity in LLM Agents",
+    "authors": [
+      "Mia Hopman",
+      "Jannes Elstner",
+      "Maria Avramidou",
+      "Amritanshu Prasad",
+      "David Lindner"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01608",
+    "pdf_url": "https://arxiv.org/pdf/2603.01608v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Safety & Alignment"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Safety & Alignment"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "scheming incentive framework",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/evaluating-and-understanding-scheming-propensity-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.02473",
+    "version": 1,
+    "title": "Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory",
+    "authors": [
+      "Boqin Yuan",
+      "Yue Su",
+      "Kun Yao"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02473",
+    "pdf_url": "https://arxiv.org/pdf/2603.02473v1",
+    "github_url": "https://github.com/boqiny/memory-probe",
+    "published": "2026-03-02",
+    "tags": [
+      "Memory & Context Management"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Empirical Study/Analysis"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "diagnostic framework for memory write/retrieval/utilization",
+      "primary_benchmark": "LoCoMo"
+    },
+    "md_path": "data/2026/03/02/diagnosing-retrieval-vs-utilization-bottlenecks-in-llm-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2603.01607",
+    "version": 1,
+    "title": "CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework",
+    "authors": [
+      "Yuexi Du",
+      "Jinglu Wang",
+      "Shujie Liu",
+      "Nicha C. Dvornek",
+      "Yan Lu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01607",
+    "pdf_url": "https://arxiv.org/pdf/2603.01607v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 8.0,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "Healthcare & Bio",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "CARE (Clinical Accountability in multi-modal medical Reasoning with an Evidence-grounded agentic framework)",
+      "primary_benchmark": "standard medical VQA benchmarks"
+    },
+    "md_path": "data/2026/03/02/care-towards-clinical-accountability-in-multi-modal-medical-reasoning-with-an-ev.md"
+  },
+  {
+    "arxiv_id": "2603.01853",
+    "version": 1,
+    "title": "Let the Agent Search: Autonomous Exploration Beats Rigid Workflows in Temporal Question Answering",
+    "authors": [
+      "Xufei Lv",
+      "Jiahui Yang",
+      "Yifu Gao",
+      "Linbo Qiao",
+      "Houde Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01853",
+    "pdf_url": "https://arxiv.org/pdf/2603.01853v1",
+    "github_url": "https://github.com/AT2QA-Official-Code/AT2QA-Official-Code",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "AT2QA (Autonomous, Training-free Agent for Temporal Question Answering)",
+      "primary_benchmark": "MultiTQ"
+    },
+    "md_path": "data/2026/03/02/let-the-agent-search-autonomous-exploration-beats-rigid-workflows-in-temporal-qu.md"
+  },
+  {
+    "arxiv_id": "2603.01814",
+    "version": 1,
+    "title": "Architecture-Aware Multi-Design Generation for Repository-Level Feature Addition",
+    "authors": [
+      "Mingwei Liu",
+      "Zhenxi Chen",
+      "Zheng Pei",
+      "Zihao Wang",
+      "Yanlin Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01814",
+    "pdf_url": "https://arxiv.org/pdf/2603.01814v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Code & Software Engineering",
+      "Architecture & Frameworks"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Architecture & Frameworks"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "DeepSeek-v3.2, GPT-4",
+      "key_technique": "RAIM (Repository-level Architecture-aware Implementation via Multi-design generation)",
+      "primary_benchmark": "NoCode-bench Verified"
+    },
+    "md_path": "data/2026/03/02/architecture-aware-multi-design-generation-for-repository-level-feature-addition.md"
+  },
+  {
+    "arxiv_id": "2603.01335",
+    "version": 1,
+    "title": "Provable and Practical In-Context Policy Optimization for Self-Improvement",
+    "authors": [
+      "Tianrun Yu",
+      "Yuxiao Yang",
+      "Zhaoyang Wang",
+      "Kaixiang Zhao",
+      "Porter Jenkins"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01335",
+    "pdf_url": "https://arxiv.org/pdf/2603.01335v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Algorithm"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "In-Context Policy Optimization (ICPO), Minimum-Entropy ICPO (ME-ICPO)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/provable-and-practical-in-context-policy-optimization-for-self-improvement.md"
+  },
+  {
+    "arxiv_id": "2603.03371",
+    "version": 1,
+    "title": "Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs",
+    "authors": [
+      "Bhanu Pallakonda",
+      "Mikkel Hindsbo",
+      "Sina Ehsani",
+      "Prag Mishra"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.03371",
+    "pdf_url": "https://arxiv.org/pdf/2603.03371v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Safety & Alignment"
+      ],
+      "domain": "Cybersecurity",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "SFT-then-GRPO",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/sleeper-cell-injecting-latent-malice-temporal-backdoors-into-tool-using-llms.md"
+  },
+  {
+    "arxiv_id": "2603.02203",
+    "version": 1,
+    "title": "Tool Verification for Test-Time Reinforcement Learning",
+    "authors": [
+      "Ruotong Liao",
+      "Nikolai Röhrich",
+      "Xiaohan Wang",
+      "Yuhui Zhang",
+      "Yasaman Samadzadeh"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02203",
+    "pdf_url": "https://arxiv.org/pdf/2603.02203v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "T^3RL (Tool-Verification for Test-Time Reinforcement Learning)",
+      "primary_benchmark": "MATH-500, AMC, AIME 2024"
+    },
+    "md_path": "data/2026/03/02/tool-verification-for-test-time-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2603.02099",
+    "version": 2,
+    "title": "Recursive Think-Answer Process for LLMs and VLMs",
+    "authors": [
+      "Byung-Kwan Lee",
+      "Youngchae Chee",
+      "Yong Man Ro"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02099",
+    "pdf_url": "https://arxiv.org/pdf/2603.02099v2",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Learning & Optimization"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Learning & Optimization"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Recursive Think-Answer Process (R-TAP)",
+      "primary_benchmark": "AIME25, HMMT Feb 25, OmniMath, GPQA, LiveCodeBench, MMMU, MathVista, OlympiadBench, MathVision, MMMU-Pro"
+    },
+    "md_path": "data/2026/03/02/recursive-think-answer-process-for-llms-and-vlms.md"
+  },
+  {
+    "arxiv_id": "2603.02081",
+    "version": 1,
+    "title": "GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered",
+    "authors": [
+      "Jiale Lao",
+      "Immanuel Trummer"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.DB",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.02081",
+    "pdf_url": "https://arxiv.org/pdf/2603.02081v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Code & Software Engineering",
+      "Tool Use & API Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Code & Software Engineering",
+        "Tool Use & API Interaction"
+      ],
+      "domain": "Data Science & Analytics",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "Claude Code Agent",
+      "key_technique": "GenDB (LLM-powered agentic system for synthesizing instance-optimized query execution code)",
+      "primary_benchmark": "TPC-H, a new benchmark to reduce LLM training data leakage"
+    },
+    "md_path": "data/2026/03/02/gendb-the-next-generation-of-query-processing-synthesized-not-engineered.md"
+  },
+  {
+    "arxiv_id": "2603.01990",
+    "version": 1,
+    "title": "According to Me: Long-Term Personalized Referential Memory QA",
+    "authors": [
+      "Jingbiao Mei",
+      "Jinghong Chen",
+      "Guangyu Yang",
+      "Xinyu Hou",
+      "Margaret Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01990",
+    "pdf_url": "https://arxiv.org/pdf/2603.01990v1",
+    "github_url": "https://github.com/JingbiaoMei/ATM-Bench",
+    "published": "2026-03-02",
+    "tags": [
+      "Memory & Context Management",
+      "Benchmark/Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Memory & Context Management",
+        "Benchmark/Evaluation"
+      ],
+      "domain": "General Purpose",
+      "research_type": "Benchmark/Evaluation"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Schema-Guided Memory (SGM)",
+      "primary_benchmark": "ATM-Bench"
+    },
+    "md_path": "data/2026/03/02/according-to-me-long-term-personalized-referential-memory-qa.md"
+  },
+  {
+    "arxiv_id": "2603.01912",
+    "version": 1,
+    "title": "Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+    "authors": [
+      "Yinghao Tang",
+      "Yupeng Xie",
+      "Yingchaojie Feng",
+      "Tingfeng Lan",
+      "Wei Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01912",
+    "pdf_url": "https://arxiv.org/pdf/2603.01912v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Multi-Agent Systems",
+        "Human-Agent Interaction"
+      ],
+      "domain": "General Purpose",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Document Specification (DocSpec), multi-agent pipeline (Planner, Executor, Evaluator)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/demonstrating-vividoc-generating-interactive-documents-through-human-agent-colla.md"
+  },
+  {
+    "arxiv_id": "2603.01486",
+    "version": 1,
+    "title": "Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study",
+    "authors": [
+      "Emmanuel Aboah Boateng",
+      "Kyle MacDonald",
+      "Akshad Viswanathan",
+      "Sudeep Das"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01486",
+    "pdf_url": "https://arxiv.org/pdf/2603.01486v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Reasoning & Planning"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Reasoning & Planning"
+      ],
+      "domain": "Enterprise & Workflow",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Agentic Multi-Source Grounded system (staged catalog entity retrieval, agentic web-search tool, configurable disambiguation layer)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/agentic-multi-source-grounding-for-enhanced-query-intent-understanding-a-doordas.md"
+  },
+  {
+    "arxiv_id": "2603.01438",
+    "version": 1,
+    "title": "Enhancing Persona Following at Decoding Time via Dynamic Importance Estimation for Role-Playing Agents",
+    "authors": [
+      "Yuxin Liu",
+      "Mingye Zhu",
+      "Siyuan Liu",
+      "Bo Hu",
+      "Lei Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01438",
+    "pdf_url": "https://arxiv.org/pdf/2603.01438v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Reasoning & Planning",
+      "Human-Agent Interaction"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Reasoning & Planning",
+        "Human-Agent Interaction"
+      ],
+      "domain": "Social & Behavioral Science",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Persona Dynamic Decoding (PDD) framework, Persona Importance Estimation (PIE), Persona-Guided Inference-Time Alignment (PIA)",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/enhancing-persona-following-at-decoding-time-via-dynamic-importance-estimation-f.md"
+  },
+  {
+    "arxiv_id": "2603.01421",
+    "version": 1,
+    "title": "SciDER: Scientific Data-centric End-to-end Researcher",
+    "authors": [
+      "Ke Lin",
+      "Yilin Lu",
+      "Shreyas Bhat",
+      "Xuehang Guo",
+      "Junier Oliva"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01421",
+    "pdf_url": "https://arxiv.org/pdf/2603.01421v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Memory & Context Management"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Memory & Context Management"
+      ],
+      "domain": "Scientific Research",
+      "research_type": "System/Tooling/Library"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "self-evolving memory, critic-led feedback loop, specialized agent collaboration",
+      "primary_benchmark": "N/A"
+    },
+    "md_path": "data/2026/03/02/scider-scientific-data-centric-end-to-end-researcher.md"
+  },
+  {
+    "arxiv_id": "2603.01416",
+    "version": 1,
+    "title": "Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents",
+    "authors": [
+      "Zhixiang Wang",
+      "Jingxuan Xu",
+      "Dajun Chen",
+      "Yunfang Wu",
+      "Wei Jiang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.01416",
+    "pdf_url": "https://arxiv.org/pdf/2603.01416v1",
+    "github_url": "",
+    "published": "2026-03-02",
+    "tags": [
+      "Tool Use & API Interaction",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 7.5,
+    "taxonomy": {
+      "capability": [
+        "Tool Use & API Interaction",
+        "Multi-Agent Systems"
+      ],
+      "domain": "General Purpose",
+      "research_type": "New Method/Model"
+    },
+    "attributes": {
+      "base_model": "N/A",
+      "key_technique": "Optimal Brain Merging (OBM)",
+      "primary_benchmark": "InfoSeek, MMSearch"
+    },
+    "md_path": "data/2026/03/02/securing-the-floor-and-raising-the-ceiling-a-merging-based-paradigm-for-multi-mo.md"
+  }
+]
