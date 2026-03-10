@@ -1,0 +1,211 @@
+[
+  {
+    "arxiv_id": "2603.07024",
+    "version": 1,
+    "title": "Enhancing Web Agents with a Hierarchical Memory Tree",
+    "authors": [
+      "Yunteng Tan",
+      "Zhi Gao",
+      "Xinxiao Wu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07024",
+    "pdf_url": "https://arxiv.org/pdf/2603.07024v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Web Agent",
+      "Memory",
+      "Planning",
+      "Generalization",
+      "Hierarchical Structure",
+      "Tool Use",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/07/enhancing-web-agents-with-a-hierarchical-memory-tree.md"
+  },
+  {
+    "arxiv_id": "2603.07379",
+    "version": 1,
+    "title": "SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions",
+    "authors": [
+      "Saroj Mishra",
+      "Suman Niroula",
+      "Umesh Yadav",
+      "Dilip Thakur",
+      "Srijan Gyawali"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CR",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07379",
+    "pdf_url": "https://arxiv.org/pdf/2603.07379v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Agentic RAG",
+      "系统综述",
+      "架构分析",
+      "形式化建模",
+      "评估方法",
+      "风险分析",
+      "研究方向"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/07/sok-agentic-retrieval-augmented-generation-rag-taxonomy-architectures-evaluation.md"
+  },
+  {
+    "arxiv_id": "2603.07148",
+    "version": 1,
+    "title": "Agentic Planning with Reasoning for Image Styling via Offline RL",
+    "authors": [
+      "Subhojyoti Mukherjee",
+      "Stefano Petrangeli",
+      "Branislav Kveton",
+      "Trung Bui",
+      "Franck Dernoncourt"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07148",
+    "pdf_url": "https://arxiv.org/pdf/2603.07148v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Agentic Planning",
+      "Tool Use",
+      "Offline RL",
+      "Reasoning",
+      "Image Editing",
+      "Synthetic Data",
+      "Vision-Language Model"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/07/agentic-planning-with-reasoning-for-image-styling-via-offline-rl.md"
+  },
+  {
+    "arxiv_id": "2603.07360",
+    "version": 1,
+    "title": "The Yerkes-Dodson Curve for AI Agents: Emergent Cooperation Under Environmental Pressure in Multi-Agent LLM Simulations",
+    "authors": [
+      "Ivan Pasichnyk"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07360",
+    "pdf_url": "https://arxiv.org/pdf/2603.07360v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "多智能体协作",
+      "环境压力",
+      "涌现行为",
+      "LLM智能体模拟",
+      "合作行为",
+      "课程设计"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/07/the-yerkes-dodson-curve-for-ai-agents-emergent-cooperation-under-environmental-p.md"
+  },
+  {
+    "arxiv_id": "2603.07241",
+    "version": 1,
+    "title": "Rethinking Deep Research from the Perspective of Web Content Distribution Matching",
+    "authors": [
+      "Zixuan Yu",
+      "Zhenheng Tang",
+      "Tongliang Liu",
+      "Chengqi Zhang",
+      "Xiaowen Chu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07241",
+    "pdf_url": "https://arxiv.org/pdf/2603.07241v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Web Agent",
+      "Information Retrieval",
+      "Planning",
+      "Tool Use",
+      "Search",
+      "Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/07/rethinking-deep-research-from-the-perspective-of-web-content-distribution-matchi.md"
+  },
+  {
+    "arxiv_id": "2603.07202",
+    "version": 1,
+    "title": "Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing",
+    "authors": [
+      "Arash Marioriyad",
+      "Ali Nouri",
+      "Mohammad Hossein Rohban",
+      "Mahdieh Soleymani Baghshah"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07202",
+    "pdf_url": "https://arxiv.org/pdf/2603.07202v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Agent Safety",
+      "Deception",
+      "Behavioral Evaluation",
+      "Human-AI Interaction",
+      "AI Alignment",
+      "Benchmarking"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/07/lying-to-win-assessing-llm-deception-through-human-ai-games-and-parallel-world-p.md"
+  },
+  {
+    "arxiv_id": "2603.07191",
+    "version": 1,
+    "title": "Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice",
+    "authors": [
+      "Yuxu Ge"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07191",
+    "pdf_url": "https://arxiv.org/pdf/2603.07191v1",
+    "github_url": "",
+    "published": "2026-03-07",
+    "tags": [
+      "Agent Security",
+      "Agent Governance",
+      "Agent Framework",
+      "Tool Use",
+      "Multi-Agent",
+      "Benchmark",
+      "Prompt Injection",
+      "LLM Judge"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/07/governance-architecture-for-autonomous-agent-systems-threats-framework-and-engin.md"
+  }
+]

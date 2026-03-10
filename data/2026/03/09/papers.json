@@ -1,0 +1,875 @@
+[
+  {
+    "arxiv_id": "2603.08561",
+    "version": 1,
+    "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
+    "authors": [
+      "Xiaoying Zhang",
+      "Zichen Liu",
+      "Yipeng Zhang",
+      "Xia Hu",
+      "Wenqi Shao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08561",
+    "pdf_url": "https://arxiv.org/pdf/2603.08561v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "强化学习",
+      "在线学习",
+      "内在反馈",
+      "自我反思",
+      "记忆检索",
+      "经验学习",
+      "探索策略",
+      "任务泛化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/03/09/retroagent-from-solving-to-evolving-via-retrospective-dual-intrinsic-feedback.md"
+  },
+  {
+    "arxiv_id": "2603.08706",
+    "version": 1,
+    "title": "Agentic Critical Training",
+    "authors": [
+      "Weize Liu",
+      "Minghui Liu",
+      "Sy-Tuyen Ho",
+      "Souradip Chakraborty",
+      "Xiyao Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08706",
+    "pdf_url": "https://arxiv.org/pdf/2603.08706v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Training",
+      "Reinforcement Learning",
+      "Self-Reflection",
+      "Reasoning",
+      "Imitation Learning",
+      "Benchmark Evaluation",
+      "Generalization"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/agentic-critical-training.md"
+  },
+  {
+    "arxiv_id": "2603.08329",
+    "version": 1,
+    "title": "SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation",
+    "authors": [
+      "Yagiz Can Akay",
+      "Muhammed Yusuf Kartal",
+      "Esra Alparslan",
+      "Faruk Ortakoyluoglu",
+      "Arda Akpinar"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08329",
+    "pdf_url": "https://arxiv.org/pdf/2603.08329v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multi-Agent Systems",
+      "Retrieval-Augmented Generation",
+      "Long-Context QA",
+      "Hierarchical Architecture",
+      "Document-Level Specialization",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/spd-rag-sub-agent-per-document-retrieval-augmented-generation.md"
+  },
+  {
+    "arxiv_id": "2603.08068",
+    "version": 1,
+    "title": "In-Context Reinforcement Learning for Tool Use in Large Language Models",
+    "authors": [
+      "Yaoqi Ye",
+      "Yiran Zhao",
+      "Keyu Duan",
+      "Zeyu Zheng",
+      "Kenji Kawaguchi"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08068",
+    "pdf_url": "https://arxiv.org/pdf/2603.08068v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Tool Use",
+      "Reinforcement Learning",
+      "In-Context Learning",
+      "Agent Training",
+      "Reasoning",
+      "Data Efficiency"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/in-context-reinforcement-learning-for-tool-use-in-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2603.07980",
+    "version": 1,
+    "title": "\\$OneMillion-Bench: How Far are Language Agents from Human Experts?",
+    "authors": [
+      "Qianyu Yang",
+      "Yang Liu",
+      "Jiaqi Li",
+      "Jun Bai",
+      "Hao Chen"
+    ],
+    "author_count": 23,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07980",
+    "pdf_url": "https://arxiv.org/pdf/2603.07980v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Benchmark",
+      "Evaluation",
+      "Multi-Domain",
+      "Tool Use",
+      "Reasoning",
+      "Professional Scenarios",
+      "Human Expert Comparison"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/onemillion-bench-how-far-are-language-agents-from-human-experts.md"
+  },
+  {
+    "arxiv_id": "2603.07927",
+    "version": 1,
+    "title": "SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training",
+    "authors": [
+      "Xin-Cheng Wen",
+      "Binbin Chen",
+      "Haoxuan Lan",
+      "Hang Yu",
+      "Peng Di"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07927",
+    "pdf_url": "https://arxiv.org/pdf/2603.07927v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Training",
+      "Software Engineering Agent",
+      "Reinforcement Learning",
+      "Trajectory Learning",
+      "SWE-bench",
+      "Tool Use",
+      "Code Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/swe-fuse-empowering-software-agents-via-issue-free-trajectory-learning-and-entro.md"
+  },
+  {
+    "arxiv_id": "2603.07915",
+    "version": 1,
+    "title": "Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents",
+    "authors": [
+      "Jingbo Yang",
+      "Bairu Hou",
+      "Wei Wei",
+      "Yujia Bao",
+      "Shiyu Chang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07915",
+    "pdf_url": "https://arxiv.org/pdf/2603.07915v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "推理效率",
+      "自适应推理",
+      "轻量级路由",
+      "多步任务",
+      "WebAgent",
+      "工具使用",
+      "成本优化"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/ares-adaptive-reasoning-effort-selection-for-efficient-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.07853",
+    "version": 1,
+    "title": "SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans",
+    "authors": [
+      "Hansi Zeng",
+      "Zoey Li",
+      "Yifan Gao",
+      "Chenwei Zhang",
+      "Xiaoman Pan"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07853",
+    "pdf_url": "https://arxiv.org/pdf/2603.07853v1",
+    "github_url": "https://github.com/HansiZeng/syn-plan-research",
+    "published": "2026-03-09",
+    "tags": [
+      "Research Agent",
+      "Tool Use",
+      "Exploration",
+      "Reinforcement Learning",
+      "Supervised Fine-Tuning",
+      "Synthetic Data",
+      "Multi-hop QA",
+      "Open-Web Benchmark"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/09/synplanresearch-r1-encouraging-tool-exploration-for-deep-research-with-synthetic.md"
+  },
+  {
+    "arxiv_id": "2603.08640",
+    "version": 1,
+    "title": "PostTrainBench: Can LLM Agents Automate LLM Post-Training?",
+    "authors": [
+      "Ben Rank",
+      "Hardik Bhatnagar",
+      "Ameya Prabhu",
+      "Shira Eisenberg",
+      "Karina Nguyen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08640",
+    "pdf_url": "https://arxiv.org/pdf/2603.08640v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "LLM Agent",
+      "AI R&D Automation",
+      "Post-Training",
+      "Benchmark",
+      "Autonomous Experimentation",
+      "Tool Use",
+      "Reward Hacking",
+      "Safety"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/posttrainbench-can-llm-agents-automate-llm-post-training.md"
+  },
+  {
+    "arxiv_id": "2603.08388",
+    "version": 1,
+    "title": "A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation",
+    "authors": [
+      "Cong Cao",
+      "Jingyao Zhang",
+      "Kun Tong"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08388",
+    "pdf_url": "https://arxiv.org/pdf/2603.08388v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Architecture",
+      "Error Analysis",
+      "Graph-Based Retrieval",
+      "Strategy Transfer",
+      "Autonomous Agents",
+      "LLM-Based Action Generation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/a-hierarchical-error-corrective-graph-framework-for-autonomous-agents-with-llm-b.md"
+  },
+  {
+    "arxiv_id": "2603.08262",
+    "version": 1,
+    "title": "FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use",
+    "authors": [
+      "Jiaxuan Lu",
+      "Kong Wang",
+      "Yemin Wang",
+      "Qingmei Tang",
+      "Hongwei Zeng"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08262",
+    "pdf_url": "https://arxiv.org/pdf/2603.08262v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Benchmark",
+      "Tool Use",
+      "Financial Agent",
+      "Evaluation Framework",
+      "Domain-Specific Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/fintoolbench-evaluating-llm-agents-for-real-world-financial-tool-use.md"
+  },
+  {
+    "arxiv_id": "2603.08127",
+    "version": 1,
+    "title": "EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery",
+    "authors": [
+      "Yougang Lyu",
+      "Xi Zhang",
+      "Xinhao Yi",
+      "Yuyue Zhao",
+      "Shuyu Guo"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08127",
+    "pdf_url": "https://arxiv.org/pdf/2603.08127v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multi-Agent System",
+      "Scientific Discovery Agent",
+      "Agent Memory",
+      "Self-Evolution",
+      "End-to-End Agent",
+      "Tool Use",
+      "Agent Architecture",
+      "Code Generation",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/evoscientist-towards-multi-agent-evolving-ai-scientists-for-end-to-end-scientifi.md"
+  },
+  {
+    "arxiv_id": "2603.07978",
+    "version": 1,
+    "title": "OSExpert: Computer-Use Agents Learning Professional Skills via Exploration",
+    "authors": [
+      "Jiateng Liu",
+      "Zhenhailong Wang",
+      "Rushi Wang",
+      "Bingxuan Li",
+      "Jeonghwan Kim"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07978",
+    "pdf_url": "https://arxiv.org/pdf/2603.07978v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Computer-Use Agent",
+      "GUI Interaction",
+      "Exploration",
+      "Skill Learning",
+      "Curriculum Learning",
+      "Action Primitives",
+      "Benchmark",
+      "OSExpert-Eval"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/osexpert-computer-use-agents-learning-professional-skills-via-exploration.md"
+  },
+  {
+    "arxiv_id": "2603.07972",
+    "version": 1,
+    "title": "Adaptive Collaboration with Humans: Metacognitive Policy Optimization for Multi-Agent LLMs with Continual Learning",
+    "authors": [
+      "Wei Yang",
+      "Defu Cao",
+      "Jiacheng Pang",
+      "Muyan Weng",
+      "Yan Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07972",
+    "pdf_url": "https://arxiv.org/pdf/2603.07972v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multi-Agent Systems",
+      "Human-Agent Collaboration",
+      "Continual Learning",
+      "Policy Optimization",
+      "Deferral Decision",
+      "Metacognition"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/adaptive-collaboration-with-humans-metacognitive-policy-optimization-for-multi-a.md"
+  },
+  {
+    "arxiv_id": "2603.07880",
+    "version": 1,
+    "title": "What Do AI Agents Talk About? Emergent Communication Structure in the First AI-Only Social Network",
+    "authors": [
+      "Taksch Dube",
+      "Jianfeng Zhu",
+      "NHatHai Phan",
+      "Ruoming Jin"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07880",
+    "pdf_url": "https://arxiv.org/pdf/2603.07880v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "多智能体系统",
+      "AI社交网络",
+      "涌现行为",
+      "计算社会科学",
+      "LLM智能体"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/09/what-do-ai-agents-talk-about-emergent-communication-structure-in-the-first-ai-on.md"
+  },
+  {
+    "arxiv_id": "2603.08429",
+    "version": 1,
+    "title": "One Model Is Enough: Native Retrieval Embeddings from LLM Agent Hidden States",
+    "authors": [
+      "Bo Jiang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08429",
+    "pdf_url": "https://arxiv.org/pdf/2603.08429v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent 架构",
+      "工具使用",
+      "检索增强",
+      "模型效率",
+      "端到端学习",
+      "对话式搜索"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/09/one-model-is-enough-native-retrieval-embeddings-from-llm-agent-hidden-states.md"
+  },
+  {
+    "arxiv_id": "2603.08369",
+    "version": 1,
+    "title": "M$^3$-ACE: Rectifying Visual Perception in Multimodal Math Reasoning via Multi-Agentic Context Engineering",
+    "authors": [
+      "Peijin Xie",
+      "Zhen Xu",
+      "Bingquan Liu",
+      "Baoxun Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08369",
+    "pdf_url": "https://arxiv.org/pdf/2603.08369v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multimodal Agent",
+      "Multi-Agent Collaboration",
+      "Visual Perception",
+      "Mathematical Reasoning",
+      "Context Engineering",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/09/m3-ace-rectifying-visual-perception-in-multimodal-math-reasoning-via-multi-agent.md"
+  },
+  {
+    "arxiv_id": "2603.08221",
+    "version": 1,
+    "title": "SplitAgent: A Privacy-Preserving Distributed Architecture for Enterprise-Cloud Agent Collaboration",
+    "authors": [
+      "Jianshu She"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08221",
+    "pdf_url": "https://arxiv.org/pdf/2603.08221v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Architecture",
+      "Privacy-Preserving",
+      "Enterprise Agent",
+      "Tool Use",
+      "Distributed Systems",
+      "Differential Privacy",
+      "Context-Aware"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/09/splitagent-a-privacy-preserving-distributed-architecture-for-enterprise-cloud-ag.md"
+  },
+  {
+    "arxiv_id": "2603.08117",
+    "version": 1,
+    "title": "UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking",
+    "authors": [
+      "Chang Liu",
+      "Chuqiao Kuang",
+      "Tianyi Zhuang",
+      "Yuxin Cheng",
+      "Huichi Zhou"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08117",
+    "pdf_url": "https://arxiv.org/pdf/2603.08117v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "信息检索智能体",
+      "多智能体框架",
+      "网页浏览与交互",
+      "基准构建与评估",
+      "工具使用",
+      "指令微调",
+      "现实世界应用"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/09/uis-digger-towards-comprehensive-research-agent-systems-for-real-world-unindexed.md"
+  },
+  {
+    "arxiv_id": "2603.08013",
+    "version": 1,
+    "title": "PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents",
+    "authors": [
+      "Yuxiang Chai",
+      "Shunye Tang",
+      "Han Xiao",
+      "Rui Liu",
+      "Hongsheng Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08013",
+    "pdf_url": "https://arxiv.org/pdf/2603.08013v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "GUI Agent",
+      "Proactive Agent",
+      "Benchmark",
+      "Multimodal LLM",
+      "State Tracking",
+      "Memory",
+      "Intent Recommendation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/09/pira-bench-a-transition-from-reactive-gui-agents-to-gui-based-proactive-intent-r.md"
+  },
+  {
+    "arxiv_id": "2603.08655",
+    "version": 1,
+    "title": "OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning",
+    "authors": [
+      "Krista Opsahl-Ong",
+      "Arnav Singhvi",
+      "Jasmine Collins",
+      "Ivan Zhou",
+      "Cindy Wang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08655",
+    "pdf_url": "https://arxiv.org/pdf/2603.08655v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "评测基准",
+      "检索增强生成",
+      "多文档推理",
+      "企业应用",
+      "长上下文处理",
+      "表格理解"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/officeqa-pro-an-enterprise-benchmark-for-end-to-end-grounded-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.08616",
+    "version": 1,
+    "title": "Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing",
+    "authors": [
+      "Nils Loose",
+      "Nico Winkel",
+      "Kristoffer Hempel",
+      "Felix Mächtle",
+      "Julian Hans"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08616",
+    "pdf_url": "https://arxiv.org/pdf/2603.08616v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multi-Agent System",
+      "Agent Architecture",
+      "Tool Use",
+      "Code Generation",
+      "Software Engineering",
+      "Fuzzing",
+      "ReAct",
+      "LLM-powered Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/coverage-guided-multi-agent-harness-generation-for-java-library-fuzzing.md"
+  },
+  {
+    "arxiv_id": "2603.08520",
+    "version": 1,
+    "title": "SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement",
+    "authors": [
+      "Yi Chen",
+      "Yun Bian",
+      "Haiquan Wang",
+      "Shihao Li",
+      "Zhe Cui"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08520",
+    "pdf_url": "https://arxiv.org/pdf/2603.08520v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "代码智能体",
+      "迭代优化",
+      "多智能体协作",
+      "安全与鲁棒性",
+      "工具使用",
+      "代码生成"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/scaffold-cegis-preventing-latent-security-degradation-in-llm-driven-iterative-co.md"
+  },
+  {
+    "arxiv_id": "2603.08425",
+    "version": 1,
+    "title": "IronEngine: Towards General AI Assistant",
+    "authors": [
+      "Xi Mo"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.LG",
+      "cs.MA",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08425",
+    "pdf_url": "https://arxiv.org/pdf/2603.08425v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "AI Assistant Platform",
+      "Agent Architecture",
+      "Tool Use",
+      "Memory",
+      "Model Management",
+      "System Design",
+      "Desktop Automation",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/ironengine-towards-general-ai-assistant.md"
+  },
+  {
+    "arxiv_id": "2603.08316",
+    "version": 1,
+    "title": "SlowBA: An efficiency backdoor attack towards VLM-based GUI agents",
+    "authors": [
+      "Junxian Li",
+      "Tu Lan",
+      "Haozhen Tan",
+      "Yan Meng",
+      "Haojin Zhu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08316",
+    "pdf_url": "https://arxiv.org/pdf/2603.08316v1",
+    "github_url": "https://github.com/tu-tuing/SlowBA",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent Security",
+      "Backdoor Attack",
+      "GUI Agent",
+      "Vision-Language Model",
+      "Adversarial Robustness",
+      "Response Efficiency",
+      "Reinforcement Learning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/slowba-an-efficiency-backdoor-attack-towards-vlm-based-gui-agents.md"
+  },
+  {
+    "arxiv_id": "2603.08148",
+    "version": 1,
+    "title": "Gradually Excavating External Knowledge for Implicit Complex Question Answering",
+    "authors": [
+      "Chang Liu",
+      "Xiaoguang Li",
+      "Lifeng Shang",
+      "Xin Jiang",
+      "Qun Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08148",
+    "pdf_url": "https://arxiv.org/pdf/2603.08148v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "知识增强",
+      "迭代推理",
+      "工具使用",
+      "问答系统",
+      "外部知识检索",
+      "规划与执行"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/gradually-excavating-external-knowledge-for-implicit-complex-question-answering.md"
+  },
+  {
+    "arxiv_id": "2603.08059",
+    "version": 1,
+    "title": "ImageEdit-R1: Boosting Multi-Agent Image Editing via Reinforcement Learning",
+    "authors": [
+      "Yiran Zhao",
+      "Yaoqi Ye",
+      "Xiang Liu",
+      "Michael Qizhe Shieh",
+      "Trung Bui"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08059",
+    "pdf_url": "https://arxiv.org/pdf/2603.08059v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Multi-Agent",
+      "Image Editing",
+      "Reinforcement Learning",
+      "Vision-Language Models",
+      "Decision-Making",
+      "Agent Collaboration",
+      "Framework"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/imageedit-r1-boosting-multi-agent-image-editing-via-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2603.08024",
+    "version": 1,
+    "title": "ConflictBench: Evaluating Human-AI Conflict via Interactive and Visually Grounded Environments",
+    "authors": [
+      "Weixiang Zhao",
+      "Haozhen Li",
+      "Yanyan Zhao",
+      "xuda zhi",
+      "Yongbo Huang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.08024",
+    "pdf_url": "https://arxiv.org/pdf/2603.08024v1",
+    "github_url": "",
+    "published": "2026-03-09",
+    "tags": [
+      "Agent 评测基准",
+      "人机交互",
+      "多模态交互",
+      "行为对齐",
+      "安全评估",
+      "交互式评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/09/conflictbench-evaluating-human-ai-conflict-via-interactive-and-visually-grounded.md"
+  }
+]

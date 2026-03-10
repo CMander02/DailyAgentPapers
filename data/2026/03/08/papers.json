@@ -1,0 +1,308 @@
+[
+  {
+    "arxiv_id": "2603.07528",
+    "version": 1,
+    "title": "TableMind++: An Uncertainty-Aware Programmatic Agent for Tool-Augmented Table Reasoning",
+    "authors": [
+      "Mingyue Cheng",
+      "Shuo Yu",
+      "Chuang Jiang",
+      "Xiaoyu Tao",
+      "Qingyang Mao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07528",
+    "pdf_url": "https://arxiv.org/pdf/2603.07528v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Tool-Augmented Agent",
+      "Programmatic Agent",
+      "Uncertainty Quantification",
+      "Planning and Reflection",
+      "Reinforcement Learning",
+      "Table Reasoning",
+      "Hallucination Mitigation",
+      "Multi-Turn Reasoning"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/08/tablemind-an-uncertainty-aware-programmatic-agent-for-tool-augmented-table-reaso.md"
+  },
+  {
+    "arxiv_id": "2603.07670",
+    "version": 1,
+    "title": "Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers",
+    "authors": [
+      "Pengfei Du"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07670",
+    "pdf_url": "https://arxiv.org/pdf/2603.07670v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Memory",
+      "Survey",
+      "Architecture Taxonomy",
+      "Evaluation Benchmark",
+      "Retrieval-Augmented Generation",
+      "Self-Improvement",
+      "Multi-Session Interaction"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/08/memory-for-autonomous-llm-agentsmechanisms-evaluation-and-emerging-frontiers.md"
+  },
+  {
+    "arxiv_id": "2603.07427",
+    "version": 1,
+    "title": "AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation",
+    "authors": [
+      "Changyi Li",
+      "Pengfei Lu",
+      "Xudong Pan",
+      "Fazl Barez",
+      "Min Yang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07427",
+    "pdf_url": "https://arxiv.org/pdf/2603.07427v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Safety Evaluation",
+      "Multi-Agent Framework",
+      "Risk Benchmark",
+      "LLM-based Simulator",
+      "Alignment Illusion",
+      "Automated Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/08/autocontrol-arena-synthesizing-executable-test-environments-for-frontier-ai-risk.md"
+  },
+  {
+    "arxiv_id": "2603.07416",
+    "version": 1,
+    "title": "DualSpec: Accelerating Deep Research Agents via Dual-Process Action Speculation",
+    "authors": [
+      "Shuzhang Zhong",
+      "Baotong Lu",
+      "Qi Chen",
+      "Chuanjie Liu",
+      "Fan Yang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07416",
+    "pdf_url": "https://arxiv.org/pdf/2603.07416v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Acceleration",
+      "Speculative Execution",
+      "Reasoning-Execution Overlap",
+      "Tool-Using Agents",
+      "Action Heterogeneity",
+      "Deep Research Agents",
+      "Latency Optimization",
+      "Verification"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/08/dualspec-accelerating-deep-research-agents-via-dual-process-action-speculation.md"
+  },
+  {
+    "arxiv_id": "2603.07432",
+    "version": 1,
+    "title": "Generalization in Online Reinforcement Learning for Mobile Agents",
+    "authors": [
+      "Li Gu",
+      "Zihuan Jiang",
+      "Zhixiang Chi",
+      "Huan Liu",
+      "Ziqiang Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07432",
+    "pdf_url": "https://arxiv.org/pdf/2603.07432v1",
+    "github_url": "https://github.com/zihuanjiang/AndroidWorld-Generalization",
+    "published": "2026-03-08",
+    "tags": [
+      "Mobile Agent",
+      "GUI Agent",
+      "Reinforcement Learning",
+      "Vision-Language Model",
+      "Benchmark",
+      "Generalization",
+      "AndroidWorld"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/08/generalization-in-online-reinforcement-learning-for-mobile-agents.md"
+  },
+  {
+    "arxiv_id": "2603.07848",
+    "version": 1,
+    "title": "Intentional Deception as Controllable Capability in LLM Agents",
+    "authors": [
+      "Jason Starace",
+      "Terence Soule"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07848",
+    "pdf_url": "https://arxiv.org/pdf/2603.07848v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "多智能体系统",
+      "对抗攻防",
+      "欺骗与操纵",
+      "行为分析",
+      "安全与鲁棒性",
+      "可控能力",
+      "交互评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/08/intentional-deception-as-controllable-capability-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.07557",
+    "version": 1,
+    "title": "AgentRaft: Automated Detection of Data Over-Exposure in LLM Agents",
+    "authors": [
+      "Yixi Lin",
+      "Jiangrong Wu",
+      "Yuhong Nan",
+      "Xueqiang Wang",
+      "Xinyuan Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07557",
+    "pdf_url": "https://arxiv.org/pdf/2603.07557v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Security",
+      "Privacy",
+      "Automated Testing",
+      "Tool Use",
+      "Program Analysis",
+      "Data Flow",
+      "Multi-Agent Verification"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/08/agentraft-automated-detection-of-data-over-exposure-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.07473",
+    "version": 1,
+    "title": "Give Them an Inch and They Will Take a Mile:Understanding and Measuring Caller Identity Confusion in MCP-Based AI Systems",
+    "authors": [
+      "Yuhang Huang",
+      "Boyang Ma",
+      "Biwei Yan",
+      "Xuelong Dai",
+      "Yechao Zhang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07473",
+    "pdf_url": "https://arxiv.org/pdf/2603.07473v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Authorization",
+      "Model Context Protocol",
+      "System Vulnerability",
+      "Empirical Study"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/08/give-them-an-inch-and-they-will-take-a-mileunderstanding-and-measuring-caller-id.md"
+  },
+  {
+    "arxiv_id": "2603.07496",
+    "version": 1,
+    "title": "From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents",
+    "authors": [
+      "Xiaolei Zhang",
+      "Lu Zhou",
+      "Xiaogang Xu",
+      "Jiafei Wu",
+      "Tianyu Du"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07496",
+    "pdf_url": "https://arxiv.org/pdf/2603.07496v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Agent Security",
+      "Multi-Agent Systems",
+      "Security Taxonomy",
+      "Hierarchical Framework",
+      "Autonomous Agents",
+      "Systemic Risk",
+      "LLM Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/08/from-thinker-to-society-security-in-hierarchical-autonomy-evolution-of-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.07444",
+    "version": 1,
+    "title": "HLER: Human-in-the-Loop Economic Research via Multi-Agent Pipelines for Empirical Discovery",
+    "authors": [
+      "Chen Zhu",
+      "Xiaolu Wang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "econ.GN"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.07444",
+    "pdf_url": "https://arxiv.org/pdf/2603.07444v1",
+    "github_url": "",
+    "published": "2026-03-08",
+    "tags": [
+      "Multi-Agent System",
+      "Human-in-the-Loop",
+      "Scientific Discovery Agent",
+      "Workflow Automation",
+      "Dataset-Aware Generation",
+      "Empirical Research"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/08/hler-human-in-the-loop-economic-research-via-multi-agent-pipelines-for-empirical.md"
+  }
+]
