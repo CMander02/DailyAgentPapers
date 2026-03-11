@@ -1,0 +1,560 @@
+[
+  {
+    "arxiv_id": "2603.09716",
+    "version": 1,
+    "title": "AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents",
+    "authors": [
+      "Xiaoxing Wang",
+      "Ning Liao",
+      "Shikun Wei",
+      "Chen Tang",
+      "Feiyu Xiong"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09716",
+    "pdf_url": "https://arxiv.org/pdf/2603.09716v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Collaboration",
+      "Memory Management",
+      "Tool Use",
+      "Self-Evolving",
+      "Adaptive Agents",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/10/autoagent-evolving-cognition-and-elastic-memory-orchestration-for-adaptive-agent.md"
+  },
+  {
+    "arxiv_id": "2603.09641",
+    "version": 1,
+    "title": "PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution",
+    "authors": [
+      "Arash Shahmansoori"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09641",
+    "pdf_url": "https://arxiv.org/pdf/2603.09641v1",
+    "github_url": "https://github.com/arash-shahmansoori/precept-framework",
+    "published": "2026-03-10",
+    "tags": [
+      "Agent Memory",
+      "Rule Learning",
+      "Test-Time Adaptation",
+      "Prompt Evolution",
+      "Knowledge Retrieval",
+      "Multi-Component Framework",
+      "Compositional Generalization",
+      "Robustness"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/10/precept-planning-resilience-via-experience-context-engineering-probing-trajector.md"
+  },
+  {
+    "arxiv_id": "2603.09203",
+    "version": 1,
+    "title": "Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents",
+    "authors": [
+      "Jiangming Shu",
+      "Yuxiang Zhang",
+      "Ye Ma",
+      "Xueyuan Lin",
+      "Jitao Sang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09203",
+    "pdf_url": "https://arxiv.org/pdf/2603.09203v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Retrieval-Augmented Generation",
+      "Multi-Step Reasoning",
+      "Process Reward",
+      "Reinforcement Learning",
+      "Question Answering",
+      "Self-Evaluation",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/10/evaluate-as-action-self-evaluated-process-rewards-for-retrieval-augmented-agents.md"
+  },
+  {
+    "arxiv_id": "2603.09290",
+    "version": 1,
+    "title": "ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization",
+    "authors": [
+      "Shimin Di",
+      "Xujie Yuan",
+      "Hanghui Guo",
+      "Chaoqian Ouyang",
+      "Zhangze Chen"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.SE",
+      "cs.CE",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09290",
+    "pdf_url": "https://arxiv.org/pdf/2603.09290v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Tool Standardization",
+      "Automated Tool Synthesis",
+      "Model Context Protocol (MCP)",
+      "Code Repository Integration",
+      "Tool-Using Agent",
+      "Agent Framework",
+      "End-to-End Task Completion",
+      "Security Inspection",
+      "Scientific Computing"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/10/toolrosetta-bridging-open-source-repositories-and-large-language-model-agents-th.md"
+  },
+  {
+    "arxiv_id": "2603.09909",
+    "version": 1,
+    "title": "MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems",
+    "authors": [
+      "Yunhang Qian",
+      "Xiaobin Hu",
+      "Jiaquan Yu",
+      "Siyang Xin",
+      "Xiaokun Chen"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09909",
+    "pdf_url": "https://arxiv.org/pdf/2603.09909v1",
+    "github_url": "https://github.com/NUS-Project/MedMASLab",
+    "published": "2026-03-10",
+    "tags": [
+      "多智能体系统",
+      "医疗智能体",
+      "评测基准",
+      "多模态集成",
+      "框架设计",
+      "临床决策支持",
+      "标准化协议",
+      "零样本评估"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/10/medmaslab-a-unified-orchestration-framework-for-benchmarking-multimodal-medical.md"
+  },
+  {
+    "arxiv_id": "2603.09192",
+    "version": 1,
+    "title": "Explainable Innovation Engine: Dual-Tree Agent-RAG with Methods-as-Nodes and Verifiable Write-Back",
+    "authors": [
+      "Renwei Meng"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09192",
+    "pdf_url": "https://arxiv.org/pdf/2603.09192v1",
+    "github_url": "https://github.com/xiaolu-666113/Dual-Tree-Agent-RAG",
+    "published": "2026-03-10",
+    "tags": [
+      "Agentic RAG",
+      "知识图谱",
+      "可解释性",
+      "推理与规划",
+      "多步合成",
+      "持续学习",
+      "方法节点",
+      "验证与评分"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/10/explainable-innovation-engine-dual-tree-agent-rag-with-methods-as-nodes-and-veri.md"
+  },
+  {
+    "arxiv_id": "2603.09184",
+    "version": 1,
+    "title": "Latent-DARM: Bridging Discrete Diffusion And Autoregressive Models For Reasoning",
+    "authors": [
+      "Lina Berrayana",
+      "Ahmed Heakl",
+      "Abdullah Sohail",
+      "Thomas Hofmann",
+      "Salman Khan"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09184",
+    "pdf_url": "https://arxiv.org/pdf/2603.09184v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "多智能体协作",
+      "规划与推理",
+      "模型异构性",
+      "通信框架",
+      "数学推理",
+      "常识推理"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/10/latent-darm-bridging-discrete-diffusion-and-autoregressive-models-for-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.09157",
+    "version": 1,
+    "title": "Real-Time Trust Verification for Safe Agentic Actions using TrustBench",
+    "authors": [
+      "Tavishi Sharma",
+      "Vinayak Sharma",
+      "Pragya Sharma"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09157",
+    "pdf_url": "https://arxiv.org/pdf/2603.09157v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Agent Safety",
+      "Real-Time Verification",
+      "Benchmark",
+      "Trustworthiness",
+      "Tool Use",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/10/real-time-trust-verification-for-safe-agentic-actions-using-trustbench.md"
+  },
+  {
+    "arxiv_id": "2603.09151",
+    "version": 1,
+    "title": "Deep Tabular Research via Continual Experience-Driven Execution",
+    "authors": [
+      "Junnan Dong",
+      "Chuang Zhou",
+      "Zheng Yuan",
+      "Yifei Yu",
+      "Siyu An"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09151",
+    "pdf_url": "https://arxiv.org/pdf/2603.09151v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Agent Architecture",
+      "Tabular Reasoning",
+      "Long-Horizon Planning",
+      "Memory-Augmented Agent",
+      "Decision-Making",
+      "Tool Use",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/10/deep-tabular-research-via-continual-experience-driven-execution.md"
+  },
+  {
+    "arxiv_id": "2603.09951",
+    "version": 1,
+    "title": "Towards a Neural Debugger for Python",
+    "authors": [
+      "Maximilian Beck",
+      "Jonas Gehring",
+      "Jannik Kossen",
+      "Gabriel Synnaeve"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09951",
+    "pdf_url": "https://arxiv.org/pdf/2603.09951v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Code Agent",
+      "World Model",
+      "Program Execution",
+      "Conditional Execution",
+      "Neural Interpreter",
+      "Debugging",
+      "Fine-tuning",
+      "Pre-training"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/towards-a-neural-debugger-for-python.md"
+  },
+  {
+    "arxiv_id": "2603.09821",
+    "version": 1,
+    "title": "One-Eval: An Agentic System for Automated and Traceable LLM Evaluation",
+    "authors": [
+      "Chengyu Shen",
+      "Yanheng Hou",
+      "Minghui Pan",
+      "Runming He",
+      "Zhen Hao Wong"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09821",
+    "pdf_url": "https://arxiv.org/pdf/2603.09821v1",
+    "github_url": "https://github.com/OpenDCAI/One-Eval",
+    "published": "2026-03-10",
+    "tags": [
+      "Agentic System",
+      "Automated Evaluation",
+      "Workflow Automation",
+      "Benchmarking",
+      "Human-in-the-Loop",
+      "Reproducibility",
+      "NL2Bench",
+      "Tool Use"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/one-eval-an-agentic-system-for-automated-and-traceable-llm-evaluation.md"
+  },
+  {
+    "arxiv_id": "2603.09701",
+    "version": 1,
+    "title": "An Empirical Study of Interaction Smells in Multi-Turn Human-LLM Collaborative Code Generation",
+    "authors": [
+      "Binquan Zhang",
+      "Li Zhang",
+      "Lin Shi",
+      "Song Wang",
+      "Yuwei Qian"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09701",
+    "pdf_url": "https://arxiv.org/pdf/2603.09701v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "多轮交互",
+      "代码生成",
+      "交互质量",
+      "多智能体框架",
+      "实证研究",
+      "基准评测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/an-empirical-study-of-interaction-smells-in-multi-turn-human-llm-collaborative-c.md"
+  },
+  {
+    "arxiv_id": "2603.09400",
+    "version": 1,
+    "title": "Reward Prediction with Factorized World States",
+    "authors": [
+      "Yijun Shen",
+      "Delong Chen",
+      "Xianming Hu",
+      "Jiaming Mi",
+      "Hongbo Zhao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09400",
+    "pdf_url": "https://arxiv.org/pdf/2603.09400v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Reward Modeling",
+      "World State Representation",
+      "Hierarchical Representation",
+      "Zero-Shot Generalization",
+      "Planning",
+      "Benchmark",
+      "Language Model",
+      "Agent Architecture"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/reward-prediction-with-factorized-world-states.md"
+  },
+  {
+    "arxiv_id": "2603.09337",
+    "version": 1,
+    "title": "Beyond Scaling: Assessing Strategic Reasoning and Rapid Decision-Making Capability of LLMs in Zero-sum Environments",
+    "authors": [
+      "Yang Li",
+      "Xing Chen",
+      "Yutao Liu",
+      "Gege Qi",
+      "Yanxian BI"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09337",
+    "pdf_url": "https://arxiv.org/pdf/2603.09337v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "多智能体评估",
+      "战略推理",
+      "实时决策",
+      "基准测试",
+      "零和博弈",
+      "交互式智能体"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/beyond-scaling-assessing-strategic-reasoning-and-rapid-decision-making-capabilit.md"
+  },
+  {
+    "arxiv_id": "2603.09152",
+    "version": 1,
+    "title": "DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering",
+    "authors": [
+      "Tong Wang",
+      "Chi Jin",
+      "Yongkang Chen",
+      "Huan Deng",
+      "Xiaohui Kuang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.DB",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09152",
+    "pdf_url": "https://arxiv.org/pdf/2603.09152v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Multi-Agent Collaboration",
+      "Table Question Answering",
+      "Reasoning & Planning",
+      "Knowledge Graph",
+      "Tool Use",
+      "ReAct",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/datafactory-collaborative-multi-agent-framework-for-advanced-table-question-answ.md"
+  },
+  {
+    "arxiv_id": "2603.09134",
+    "version": 1,
+    "title": "AgenticCyOps: Securing Multi-Agentic AI Integration in Enterprise Cyber Operations",
+    "authors": [
+      "Shaswata Mitra",
+      "Raj Patel",
+      "Sudip Mittal",
+      "Md Rayhanur Rahman",
+      "Shahram Rahimi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.MA",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09134",
+    "pdf_url": "https://arxiv.org/pdf/2603.09134v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Multi-Agent Systems",
+      "Security",
+      "Enterprise AI",
+      "Framework",
+      "Trust Boundaries",
+      "Tool Orchestration",
+      "Memory Management",
+      "Compliance"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/agenticcyops-securing-multi-agentic-ai-integration-in-enterprise-cyber-operation.md"
+  },
+  {
+    "arxiv_id": "2603.09127",
+    "version": 1,
+    "title": "Chaotic Dynamics in Multi-LLM Deliberation",
+    "authors": [
+      "Hajime Shimao",
+      "Warut Khern-am-nuai",
+      "Sung Joo Kim"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09127",
+    "pdf_url": "https://arxiv.org/pdf/2603.09127v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "多智能体系统",
+      "多LLM审议",
+      "系统稳定性",
+      "混沌动力学",
+      "智能体委员会",
+      "经验性李雅普诺夫指数",
+      "治理系统"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/chaotic-dynamics-in-multi-llm-deliberation.md"
+  },
+  {
+    "arxiv_id": "2603.09049",
+    "version": 1,
+    "title": "EPOCH: An Agentic Protocol for Multi-Round System Optimization",
+    "authors": [
+      "Zhanlin Liu",
+      "Yitao Li",
+      "Munirathnam Srikanth"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.09049",
+    "pdf_url": "https://arxiv.org/pdf/2603.09049v1",
+    "github_url": "",
+    "published": "2026-03-10",
+    "tags": [
+      "Agent Protocol",
+      "Multi-Round Optimization",
+      "Self-Improvement",
+      "Workflow Engineering",
+      "System Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/10/epoch-an-agentic-protocol-for-multi-round-system-optimization.md"
+  }
+]
