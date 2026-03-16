@@ -588,5 +588,100 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/03/12/entropy-guided-diversification-and-preference-elicitation-in-agentic-recommendat.md"
+  },
+  {
+    "arxiv_id": "2603.12396",
+    "version": 1,
+    "title": "Test-Time Strategies for More Efficient and Accurate Agentic RAG",
+    "authors": [
+      "Brian Zhang",
+      "Deepti Guntur",
+      "Zhiyang Zuo",
+      "Abhinav Sharma",
+      "Shreyas Chaudhari"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.12396",
+    "pdf_url": "https://arxiv.org/pdf/2603.12396v1",
+    "github_url": "",
+    "published": "2026-03-12",
+    "tags": [
+      "Agentic RAG",
+      "检索增强生成",
+      "多跳问答",
+      "推理效率",
+      "测试时优化",
+      "上下文集成",
+      "去重模块",
+      "Search-R1"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/12/test-time-strategies-for-more-efficient-and-accurate-agentic-rag.md"
+  },
+  {
+    "arxiv_id": "2603.12310",
+    "version": 1,
+    "title": "VQQA: An Agentic Approach for Video Evaluation and Quality Improvement",
+    "authors": [
+      "Yiwen Song",
+      "Tomas Pfister",
+      "Yale Song"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.12310",
+    "pdf_url": "https://arxiv.org/pdf/2603.12310v1",
+    "github_url": "",
+    "published": "2026-03-12",
+    "tags": [
+      "Multi-Agent Framework",
+      "Prompt Optimization",
+      "Video Generation",
+      "Vision-Language Model",
+      "Evaluation",
+      "Black-Box Optimization",
+      "Semantic Feedback"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/12/vqqa-an-agentic-approach-for-video-evaluation-and-quality-improvement.md"
+  },
+  {
+    "arxiv_id": "2603.11987",
+    "version": 1,
+    "title": "LABSHIELD: A Multimodal Benchmark for Safety-Critical Reasoning and Planning in Scientific Laboratories",
+    "authors": [
+      "Qianpu Sun",
+      "Xiaowei Chi",
+      "Yuhan Rui",
+      "Ying Li",
+      "Kuangzhi Ge"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.11987",
+    "pdf_url": "https://arxiv.org/pdf/2603.11987v1",
+    "github_url": "",
+    "published": "2026-03-12",
+    "tags": [
+      "安全评估",
+      "多模态Agent",
+      "基准测试",
+      "实验室自动化",
+      "安全关键推理",
+      "规划"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/12/labshield-a-multimodal-benchmark-for-safety-critical-reasoning-and-planning-in-s.md"
   }
 ]

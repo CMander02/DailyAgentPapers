@@ -2,26 +2,20 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-12 (19 篇)
+## 2026-03-13 (13 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/abs/2603.12056) | Continual Learning, Multimodal Agent, Tool Use |
-| 8.5 | [On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents](https://arxiv.org/abs/2603.12109) | 强化学习, 主动推理, 信息探索 |
-| 8.5 | [Can RL Improve Generalization of LLM Agents? An Empirical Study](https://arxiv.org/abs/2603.12011) | 强化学习微调, 智能体泛化性, 经验性研究 |
-| 8.5 | [Try, Check and Retry: A Divide-and-Conquer Framework for Boosting Long-context Tool-Calling Performance of LLMs](https://arxiv.org/abs/2603.11495) | Tool-Calling, Long-Context, Reasoning |
-| 8.0 | [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://arxiv.org/abs/2603.12180) | Agent Benchmark, Document QA, Evaluation Protocol |
-| 8.0 | [You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents](https://arxiv.org/abs/2603.11862) | Agent Security, Instruction Following, Data Leakage |
-| 8.0 | [Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction](https://arxiv.org/abs/2603.11808) | 多智能体, 技能获取, 知识提取 |
-| 8.0 | [Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue](https://arxiv.org/abs/2603.11409) | 对话智能体, 多轮对话, 上下文感知 |
-| 7.5 | [Security Considerations for Artificial Intelligence Agents](https://arxiv.org/abs/2603.12230) | Agent Security, Multi-Agent Systems, Risk Management |
-| 7.5 | [MobileKernelBench: Can LLMs Write Efficient Kernels for Mobile Devices?](https://arxiv.org/abs/2603.11935) | 代码生成, 多智能体系统, 移动计算 |
-| 7.5 | [QUARE: Multi-Agent Negotiation for Balancing Quality Attributes in Requirements Engineering](https://arxiv.org/abs/2603.11890) | Multi-Agent, Negotiation, Reasoning |
-| 7.5 | [DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering](https://arxiv.org/abs/2603.11798) | Agent 架构, 信息结构化, 多文档问答 |
-| 7.5 | [From Debate to Deliberation: Structured Collective Reasoning with Typed Epistemic Acts](https://arxiv.org/abs/2603.11781) | 多智能体协作, 结构化推理, 集体决策 |
-| 7.5 | [QChunker: Learning Question-Aware Text Chunking for Domain RAG via Multi-Agent Debate](https://arxiv.org/abs/2603.11650) | Multi-Agent Systems, RAG, Text Chunking |
-| 7.5 | [Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats](https://arxiv.org/abs/2603.11619) | Agent Security, Threat Analysis, Autonomous Agent |
-| 7.5 | [One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries](https://arxiv.org/abs/2603.11545) | Agent 架构, 工具使用, 多模态 |
-| 7.5 | [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](https://arxiv.org/abs/2603.11479) | Neuro-Symbolic AI, Vision-Language Model (VLM), Agent Framework |
-| 7.5 | [Verified Multi-Agent Orchestration: A Plan-Execute-Verify-Replan Framework for Complex Query Resolution](https://arxiv.org/abs/2603.11445) | Multi-Agent, Orchestration, Planning |
-| 7.5 | [Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems](https://arxiv.org/abs/2603.11399) | 推荐系统, 交互式系统, 不确定性推理 |
+| 9.0 | [daVinci-Env: Open SWE Environment Synthesis at Scale](https://arxiv.org/abs/2603.13023) | Software Engineering Agent, Agent Training Framework, Agent Environment Synthesis |
+| 9.0 | [Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization](https://arxiv.org/abs/2603.12933) | 多智能体系统, 智能体路由, 蚁群优化 |
+| 9.0 | [ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning](https://arxiv.org/abs/2603.12740) | Tool Planning, Monte Carlo Tree Search, Reasoning |
+| 9.0 | [Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents](https://arxiv.org/abs/2603.12634) | 推理与规划, 工具使用, 推理效率 |
+| 8.5 | [Adaptive Vision-Language Model Routing for Computer Use Agents](https://arxiv.org/abs/2603.12823) [[Code](https://github.com/vllm-project/semantic-router)] | Agent 架构, 模型路由, 工具使用 |
+| 8.5 | [AI Planning Framework for LLM-Based Web Agents](https://arxiv.org/abs/2603.12710) | Web Agent, Planning, Evaluation |
+| 8.0 | [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026) [[Code](https://github.com/albert-y1n/PISmith)] | Agent Security, Red Teaming, Prompt Injection |
+| 8.0 | [ChainFuzzer: Greybox Fuzzing for Workflow-Level Multi-Tool Vulnerabilities in LLM Agents](https://arxiv.org/abs/2603.12614) | Agent Security, Tool-Augmented Agent, Multi-Tool Workflow |
+| 7.5 | [Semantic Invariance in Agentic AI](https://arxiv.org/abs/2603.13173) | Agent Robustness, Semantic Invariance, Metamorphic Testing |
+| 7.5 | [LLM Constitutional Multi-Agent Governance](https://arxiv.org/abs/2603.13189) | Multi-Agent Systems, Agent Governance, Ethical AI |
+| 7.5 | [Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation](https://arxiv.org/abs/2603.13017) [[Code](https://github.com/Process-Point-Technologies-Corporation/searchat)] | Agent Memory, Retrieval-Augmented Generation, Long-Context Management |
+| 7.5 | [Collaborative Multi-Agent Optimization for Personalized Memory System](https://arxiv.org/abs/2603.12631) | Multi-Agent, Memory System, Reinforcement Learning |
+| 7.5 | [AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564) | Agent Safety, Tool-Augmented Agents, Evaluation Benchmark |
