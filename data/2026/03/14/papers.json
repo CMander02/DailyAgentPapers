@@ -1,0 +1,239 @@
+[
+  {
+    "arxiv_id": "2603.13791",
+    "version": 1,
+    "title": "DeceptGuard :A Constitutional Oversight Framework For Detecting Deception in LLM Agents",
+    "authors": [
+      "Snehasis Mukhopadhyay"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13791",
+    "pdf_url": "https://arxiv.org/pdf/2603.13791v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Agent Safety",
+      "Deception Detection",
+      "Monitoring Framework",
+      "Constitutional AI",
+      "Agent Evaluation",
+      "Synthetic Data",
+      "Chain-of-Thought",
+      "Activation Probe",
+      "Multi-Modal Monitoring"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/14/deceptguard-a-constitutional-oversight-framework-for-detecting-deception-in-llm.md"
+  },
+  {
+    "arxiv_id": "2603.13853",
+    "version": 1,
+    "title": "APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution",
+    "authors": [
+      "Kun Chen",
+      "Qingchao Kong",
+      "Zhao Feifei",
+      "Wenji Mao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13853",
+    "pdf_url": "https://arxiv.org/pdf/2603.13853v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Agentic Planning",
+      "Multi-hop RAG",
+      "Reinforcement Learning",
+      "Supervised Fine-tuning",
+      "Tool Use",
+      "Multi-step Reasoning",
+      "Agent Architecture",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/14/apex-searcher-augmenting-llms-search-capabilities-through-agentic-planning-and-e.md"
+  },
+  {
+    "arxiv_id": "2603.13950",
+    "version": 1,
+    "title": "ToolFlood: Beyond Selection -- Hiding Valid Tools from LLM Agents via Semantic Covering",
+    "authors": [
+      "Hussein Jawad",
+      "Nicolas J-B Brunel"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13950",
+    "pdf_url": "https://arxiv.org/pdf/2603.13950v1",
+    "github_url": "https://github.com/as1-prog/ToolFlood",
+    "published": "2026-03-14",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Adversarial Attack",
+      "Retrieval-Augmented Generation",
+      "Robustness"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/14/toolflood-beyond-selection-hiding-valid-tools-from-llm-agents-via-semantic-cover.md"
+  },
+  {
+    "arxiv_id": "2603.13940",
+    "version": 1,
+    "title": "GroupGuard: A Framework for Modeling and Defending Collusive Attacks in Multi-Agent Systems",
+    "authors": [
+      "Yiling Tao",
+      "Xinran Zheng",
+      "Shuo Yang",
+      "Meiling Tao",
+      "Xingjun Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13940",
+    "pdf_url": "https://arxiv.org/pdf/2603.13940v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "多智能体系统",
+      "智能体安全",
+      "对抗攻击",
+      "防御框架",
+      "协作任务",
+      "社会学策略",
+      "图监控",
+      "无训练方法"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/14/groupguard-a-framework-for-modeling-and-defending-collusive-attacks-in-multi-age.md"
+  },
+  {
+    "arxiv_id": "2603.14054",
+    "version": 1,
+    "title": "LegacyTranslate: LLM-based Multi-Agent Method for Legacy Code Translation",
+    "authors": [
+      "Zahra Moti",
+      "Heydar Soudani",
+      "Jonck van der Kogel"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14054",
+    "pdf_url": "https://arxiv.org/pdf/2603.14054v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Multi-Agent",
+      "Code Agent",
+      "Tool Use",
+      "API Grounding",
+      "Iterative Refinement",
+      "Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/14/legacytranslate-llm-based-multi-agent-method-for-legacy-code-translation.md"
+  },
+  {
+    "arxiv_id": "2603.13890",
+    "version": 1,
+    "title": "Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions",
+    "authors": [
+      "Jingzhe Lin",
+      "Ceyao Zhang",
+      "Yaodong Yang",
+      "Yizhou Wang",
+      "Song-Chun Zhu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13890",
+    "pdf_url": "https://arxiv.org/pdf/2603.13890v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Multi-Agent",
+      "Social Simulation",
+      "Theory-Driven",
+      "Human-Likeness",
+      "Motivation Modeling",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/14/beyond-self-interest-modeling-social-oriented-motivation-for-human-like-multi-ag.md"
+  },
+  {
+    "arxiv_id": "2603.13773",
+    "version": 1,
+    "title": "LiveWeb-IE: A Benchmark For Online Web Information Extraction",
+    "authors": [
+      "Seungbin Yang",
+      "Jihwan Kim",
+      "Jaemin Choi",
+      "Dongjin Kim",
+      "Soyoung Yang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13773",
+    "pdf_url": "https://arxiv.org/pdf/2603.13773v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Web Agent",
+      "Agent Framework",
+      "Benchmark",
+      "Information Extraction",
+      "Tool Use",
+      "Multi-stage Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/14/liveweb-ie-a-benchmark-for-online-web-information-extraction.md"
+  },
+  {
+    "arxiv_id": "2603.13686",
+    "version": 1,
+    "title": "$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains",
+    "authors": [
+      "Soham Ray",
+      "Keshav Dhandhania",
+      "Victor Barres",
+      "Karthik Narasimhan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SD",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.13686",
+    "pdf_url": "https://arxiv.org/pdf/2603.13686v1",
+    "github_url": "",
+    "published": "2026-03-14",
+    "tags": [
+      "Agent Benchmark",
+      "Voice Agent",
+      "Full-Duplex Interaction",
+      "User Simulation",
+      "Task-Oriented Dialogue",
+      "Evaluation Framework"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/14/τ-voice-benchmarking-full-duplex-voice-agents-on-real-world-domains.md"
+  }
+]

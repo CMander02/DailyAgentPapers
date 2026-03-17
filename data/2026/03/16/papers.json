@@ -1,0 +1,885 @@
+[
+  {
+    "arxiv_id": "2603.15594",
+    "version": 1,
+    "title": "OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data",
+    "authors": [
+      "Yuwen Du",
+      "Rui Ye",
+      "Shuo Tang",
+      "Xinyu Zhu",
+      "Yijun Lu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15594",
+    "pdf_url": "https://arxiv.org/pdf/2603.15594v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Search Agent",
+      "Tool Use",
+      "Data Synthesis",
+      "Open Source",
+      "Agent Training",
+      "Multi-hop Reasoning",
+      "Trajectory Denoising",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/openseeker-democratizing-frontier-search-agents-by-fully-open-sourcing-training.md"
+  },
+  {
+    "arxiv_id": "2603.15309",
+    "version": 1,
+    "title": "CCTU: A Benchmark for Tool Use under Complex Constraints",
+    "authors": [
+      "Junjie Ye",
+      "Guoqiang Zhang",
+      "Wenjie Fu",
+      "Tao Gui",
+      "Qi Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15309",
+    "pdf_url": "https://arxiv.org/pdf/2603.15309v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "工具使用",
+      "评测基准",
+      "约束遵循",
+      "自我修正",
+      "多轮交互",
+      "LLM评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/cctu-a-benchmark-for-tool-use-under-complex-constraints.md"
+  },
+  {
+    "arxiv_id": "2603.15280",
+    "version": 1,
+    "title": "Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory",
+    "authors": [
+      "Rongjie Jiang",
+      "Jianwei Wang",
+      "Gengda Zhao",
+      "Chengyang Luo",
+      "Kai Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15280",
+    "pdf_url": "https://arxiv.org/pdf/2603.15280v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Memory",
+      "Neuro-Symbolic",
+      "Multimodal Agent",
+      "Long-Term Reasoning",
+      "Memory Architecture",
+      "Knowledge Consolidation",
+      "Hybrid Retrieval"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/advancing-multimodal-agent-reasoning-with-long-term-neuro-symbolic-memory.md"
+  },
+  {
+    "arxiv_id": "2603.15255",
+    "version": 1,
+    "title": "SAGE: Multi-Agent Self-Evolution for LLM Reasoning",
+    "authors": [
+      "Yulin Peng",
+      "Xinxin Zhu",
+      "Chenxing Wei",
+      "Nianbo Zeng",
+      "Leilei Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15255",
+    "pdf_url": "https://arxiv.org/pdf/2603.15255v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体协作",
+      "自我演化",
+      "推理",
+      "规划",
+      "强化学习",
+      "代码生成",
+      "数学推理",
+      "训练框架"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/sage-multi-agent-self-evolution-for-llm-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.15030",
+    "version": 1,
+    "title": "VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining",
+    "authors": [
+      "Xuanyu Zhu",
+      "Yuhao Dong",
+      "Rundong Wang",
+      "Yang Shi",
+      "Zhipeng Wu"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15030",
+    "pdf_url": "https://arxiv.org/pdf/2603.15030v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent评测基准",
+      "多模态Agent",
+      "工具使用",
+      "视觉工具链",
+      "规划与执行",
+      "OpenCV",
+      "MLLM"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/vtc-bench-evaluating-agentic-multimodal-models-via-compositional-visual-tool-cha.md"
+  },
+  {
+    "arxiv_id": "2603.14987",
+    "version": 1,
+    "title": "Beyond Benchmark Islands: Toward Representative Trustworthiness Evaluation for Agentic AI",
+    "authors": [
+      "Jinhu Qi",
+      "Yifan Li",
+      "Minghao Zhao",
+      "Wentao Zhang",
+      "Zijian Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14987",
+    "pdf_url": "https://arxiv.org/pdf/2603.14987v1",
+    "github_url": "https://github.com/TonyQJH/haaf-pilot",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent评估",
+      "可信AI",
+      "评估框架",
+      "多维度评估",
+      "代表性采样"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/16/beyond-benchmark-islands-toward-representative-trustworthiness-evaluation-for-ag.md"
+  },
+  {
+    "arxiv_id": "2603.15401",
+    "version": 1,
+    "title": "SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?",
+    "authors": [
+      "Tingxu Han",
+      "Yi Zhang",
+      "Wei Song",
+      "Chunrong Fang",
+      "Zhenyu Chen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15401",
+    "pdf_url": "https://arxiv.org/pdf/2603.15401v1",
+    "github_url": "https://github.com/GeniusHTX/SWE-Skills-Bench",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Benchmark",
+      "Software Engineering Agent",
+      "Agent Skills",
+      "Tool Use",
+      "Evaluation Framework",
+      "LLM Agent",
+      "Code Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/16/swe-skills-bench-do-agent-skills-actually-help-in-real-world-software-engineerin.md"
+  },
+  {
+    "arxiv_id": "2603.15371",
+    "version": 1,
+    "title": "Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning",
+    "authors": [
+      "Guangfu Hao",
+      "Yuming Dai",
+      "Xianzhe Qin",
+      "Shan Yu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.NI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15371",
+    "pdf_url": "https://arxiv.org/pdf/2603.15371v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体系统",
+      "推理",
+      "图结构",
+      "架构设计",
+      "全局工作空间理论",
+      "基准测试"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/16/brain-inspired-graph-multi-agent-systems-for-llm-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.15183",
+    "version": 1,
+    "title": "Token Coherence: Adapting MESI Cache Protocols to Minimize Synchronization Overhead in Multi-Agent LLM Systems",
+    "authors": [
+      "Vladyslav Parakhin"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.DC",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15183",
+    "pdf_url": "https://arxiv.org/pdf/2603.15183v1",
+    "github_url": "https://github.com/hipvlady/agent-coherence",
+    "published": "2026-03-16",
+    "tags": [
+      "Multi-Agent Systems",
+      "Synchronization",
+      "Cache Coherence",
+      "System Architecture",
+      "Performance Optimization",
+      "Formal Verification"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/16/token-coherence-adapting-mesi-cache-protocols-to-minimize-synchronization-overhe.md"
+  },
+  {
+    "arxiv_id": "2603.14730",
+    "version": 1,
+    "title": "GNNVerifier: Graph-based Verifier for LLM Task Planning",
+    "authors": [
+      "Yu Hao",
+      "Qiuyu Wang",
+      "Cheng Yang",
+      "Yawen Li",
+      "Zhiqiang Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14730",
+    "pdf_url": "https://arxiv.org/pdf/2603.14730v1",
+    "github_url": "https://github.com/BUPT-GAMMA/GNNVerifier",
+    "published": "2026-03-16",
+    "tags": [
+      "任务规划",
+      "规划验证",
+      "图神经网络",
+      "结构化推理",
+      "错误定位与修正",
+      "数据合成"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/16/gnnverifier-graph-based-verifier-for-llm-task-planning.md"
+  },
+  {
+    "arxiv_id": "2603.15421",
+    "version": 1,
+    "title": "CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents",
+    "authors": [
+      "Taeyun Roh",
+      "Wonjune Jang",
+      "Junha Jung",
+      "Jaewoo Kang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15421",
+    "pdf_url": "https://arxiv.org/pdf/2603.15421v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent_Memory",
+      "Small_Language_Models",
+      "Memory_Organization",
+      "Clustering",
+      "Retrieval-Augmented_Generation",
+      "Knowledge_Management",
+      "Reasoning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/clag-adaptive-memory-organization-via-agent-driven-clustering-for-small-language.md"
+  },
+  {
+    "arxiv_id": "2603.15341",
+    "version": 1,
+    "title": "Intelligent Co-Design: An Interactive LLM Framework for Interior Spatial Design via Multi-Modal Agents",
+    "authors": [
+      "Ren Jian Lim",
+      "Rushi Dai"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15341",
+    "pdf_url": "https://arxiv.org/pdf/2603.15341v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体系统",
+      "人机交互",
+      "工具使用",
+      "检索增强生成",
+      "室内设计",
+      "参与式设计"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/intelligent-co-design-an-interactive-llm-framework-for-interior-spatial-design-v.md"
+  },
+  {
+    "arxiv_id": "2603.14864",
+    "version": 1,
+    "title": "Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks",
+    "authors": [
+      "Zijian Yu",
+      "Kejun Xiao",
+      "Huaipeng Zhao",
+      "Tao Luo",
+      "Xiaoyi Zeng"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14864",
+    "pdf_url": "https://arxiv.org/pdf/2603.14864v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Memory-Augmented Agent",
+      "E-Commerce Agent",
+      "Long-Term Interaction",
+      "Benchmark",
+      "Reinforcement Learning",
+      "Tool Use",
+      "End-to-End Optimization"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/shopping-companion-a-memory-augmented-llm-agent-for-real-world-e-commerce-tasks.md"
+  },
+  {
+    "arxiv_id": "2603.14805",
+    "version": 1,
+    "title": "Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development",
+    "authors": [
+      "Gal Bakal"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14805",
+    "pdf_url": "https://arxiv.org/pdf/2603.14805v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Architecture",
+      "Knowledge Management",
+      "Tool Use",
+      "Software Engineering",
+      "Enterprise AI"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/knowledge-activation-ai-skills-as-the-institutional-knowledge-primitive-for-agen.md"
+  },
+  {
+    "arxiv_id": "2603.14771",
+    "version": 1,
+    "title": "OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence",
+    "authors": [
+      "Peigen Liu",
+      "Rui Ding",
+      "Yuren Mao",
+      "Ziyan Jiang",
+      "Yuxiang Ye"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14771",
+    "pdf_url": "https://arxiv.org/pdf/2603.14771v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体协作",
+      "智能体评估基准",
+      "医疗智能体",
+      "交互式环境",
+      "集体智能",
+      "数据合成",
+      "能力演化"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/openhospital-a-thing-in-itself-arena-for-evolving-and-benchmarking-llm-based-col.md"
+  },
+  {
+    "arxiv_id": "2603.14703",
+    "version": 1,
+    "title": "Beyond Local Code Optimization: Multi-Agent Reasoning for Software System Optimization",
+    "authors": [
+      "Huiyun Peng",
+      "Parth Vinod Patil",
+      "Antonio Zhong Qiu",
+      "George K. Thiruvathukal",
+      "James C. Davis"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14703",
+    "pdf_url": "https://arxiv.org/pdf/2603.14703v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Multi-Agent",
+      "Software Agent",
+      "System Optimization",
+      "Reasoning",
+      "Tool Use",
+      "Microservices",
+      "Proof-of-Concept"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/beyond-local-code-optimization-multi-agent-reasoning-for-software-system-optimiz.md"
+  },
+  {
+    "arxiv_id": "2603.14688",
+    "version": 1,
+    "title": "AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems",
+    "authors": [
+      "Zhaohui Geoffrey Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14688",
+    "pdf_url": "https://arxiv.org/pdf/2603.14688v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体系统",
+      "故障诊断",
+      "根因分析",
+      "因果图",
+      "可解释性",
+      "系统可靠性",
+      "部署后分析"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/16/agenttrace-causal-graph-tracing-for-root-cause-analysis-in-deployed-multi-agent.md"
+  },
+  {
+    "arxiv_id": "2603.15566",
+    "version": 1,
+    "title": "Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents",
+    "authors": [
+      "Ivan Stetsenko"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15566",
+    "pdf_url": "https://arxiv.org/pdf/2603.15566v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "AI编程智能体",
+      "知识管理",
+      "软件开发",
+      "协议设计",
+      "Git"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/lore-repurposing-git-commit-messages-as-a-structured-knowledge-protocol-for-ai-c.md"
+  },
+  {
+    "arxiv_id": "2603.15483",
+    "version": 1,
+    "title": "Talk, Evaluate, Diagnose: User-aware Agent Evaluation with Automated Error Analysis",
+    "authors": [
+      "Penny Chong",
+      "Harshavardhan Abichandani",
+      "Jiyuan Shen",
+      "Atin Ghosh",
+      "Min Pyae Moe"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15483",
+    "pdf_url": "https://arxiv.org/pdf/2603.15483v1",
+    "github_url": "https://github.com/SAP-samples/agent-quality-inspect",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Evaluation",
+      "LLM-as-a-Judge",
+      "User Simulation",
+      "Error Analysis",
+      "Benchmarking",
+      "Automated Grading"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/talk-evaluate-diagnose-user-aware-agent-evaluation-with-automated-error-analysis.md"
+  },
+  {
+    "arxiv_id": "2603.15473",
+    "version": 1,
+    "title": "Agent Lifecycle Toolkit (ALTK): Reusable Middleware Components for Robust AI Agents",
+    "authors": [
+      "Zidane Wright",
+      "Jason Tsay",
+      "Anupama Murthi",
+      "Osher Elhadad",
+      "Diego Del Rio"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15473",
+    "pdf_url": "https://arxiv.org/pdf/2603.15473v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Framework",
+      "Middleware",
+      "Production Deployment",
+      "Robustness",
+      "Tool Use",
+      "Error Detection",
+      "Open Source"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/agent-lifecycle-toolkit-altk-reusable-middleware-components-for-robust-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.15457",
+    "version": 1,
+    "title": "Evasive Intelligence: Lessons from Malware Analysis for Evaluating AI Agents",
+    "authors": [
+      "Simone Aonzo",
+      "Merve Sahin",
+      "Aurélien Francillon",
+      "Daniele Perito"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15457",
+    "pdf_url": "https://arxiv.org/pdf/2603.15457v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Evaluation",
+      "Agent Safety",
+      "Robustness",
+      "Adversarial Evaluation",
+      "Sandbox Evasion",
+      "Security"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/evasive-intelligence-lessons-from-malware-analysis-for-evaluating-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.15408",
+    "version": 1,
+    "title": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems",
+    "authors": [
+      "Kai Wang",
+      "Biaojie Zeng",
+      "Zeming Wei",
+      "Chang Jin",
+      "Hefeng Zhou"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15408",
+    "pdf_url": "https://arxiv.org/pdf/2603.15408v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Multi-Agent Safety",
+      "Security Evaluation",
+      "Runtime Monitoring",
+      "Safety Framework",
+      "Risk Taxonomy"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/trinityguard-a-unified-framework-for-safeguarding-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2603.15386",
+    "version": 1,
+    "title": "RieMind: Geometry-Grounded Spatial Agent for Scene Understanding",
+    "authors": [
+      "Fernando Ropero",
+      "Erkin Turkoz",
+      "Daniel Matos",
+      "Junqing Du",
+      "Antonio Ruiz"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15386",
+    "pdf_url": "https://arxiv.org/pdf/2603.15386v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Architecture",
+      "Spatial Reasoning",
+      "Tool Use",
+      "3D Scene Understanding",
+      "Decoupled Perception-Reasoning",
+      "Scene Graph"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/riemind-geometry-grounded-spatial-agent-for-scene-understanding.md"
+  },
+  {
+    "arxiv_id": "2603.15262",
+    "version": 1,
+    "title": "Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search",
+    "authors": [
+      "Mengxiang Chen",
+      "Zhouwei Zhai",
+      "Jin Li"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.15262",
+    "pdf_url": "https://arxiv.org/pdf/2603.15262v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Planning",
+      "Tool Use",
+      "Retrieval-Augmented Agent",
+      "E-commerce Agent",
+      "Reinforcement Learning",
+      "Industrial Application",
+      "Query Understanding",
+      "Search Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/probe-then-plan-environment-aware-planning-for-industrial-e-commerce-search.md"
+  },
+  {
+    "arxiv_id": "2603.14997",
+    "version": 1,
+    "title": "OrgForge: A Multi-Agent Simulation Framework for Verifiable Synthetic Corporate Corpora",
+    "authors": [
+      "Jeffrey Flynt"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14997",
+    "pdf_url": "https://arxiv.org/pdf/2603.14997v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "多智能体模拟",
+      "合成数据生成",
+      "RAG评估",
+      "框架",
+      "可验证性",
+      "组织行为模拟"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/orgforge-a-multi-agent-simulation-framework-for-verifiable-synthetic-corporate-c.md"
+  },
+  {
+    "arxiv_id": "2603.14975",
+    "version": 1,
+    "title": "Why Agents Compromise Safety Under Pressure",
+    "authors": [
+      "Hengle Jiang",
+      "Ke Tang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14975",
+    "pdf_url": "https://arxiv.org/pdf/2603.14975v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Safety",
+      "Agentic Pressure",
+      "Normative Drift",
+      "Reasoning Capabilities",
+      "Safety-Utility Trade-off",
+      "Alignment",
+      "Mitigation Strategies"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/why-agents-compromise-safety-under-pressure.md"
+  },
+  {
+    "arxiv_id": "2603.14799",
+    "version": 1,
+    "title": "Universe Routing: Why Self-Evolving Agents Need Epistemic Control",
+    "authors": [
+      "Zhaohui Geoffrey Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14799",
+    "pdf_url": "https://arxiv.org/pdf/2603.14799v1",
+    "github_url": "",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Architecture",
+      "Reasoning",
+      "Epistemic Control",
+      "Router",
+      "Continual Learning",
+      "Lifelong Agent",
+      "Modularity"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/universe-routing-why-self-evolving-agents-need-epistemic-control.md"
+  },
+  {
+    "arxiv_id": "2603.14769",
+    "version": 1,
+    "title": "POLCA: Stochastic Generative Optimization with LLM",
+    "authors": [
+      "Xuanfei Ren",
+      "Allen Nie",
+      "Tengyang Xie",
+      "Ching-An Cheng"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14769",
+    "pdf_url": "https://arxiv.org/pdf/2603.14769v1",
+    "github_url": "https://github.com/rlx-lab/POLCA",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent Optimization",
+      "Generative Optimization",
+      "Multi-turn Agents",
+      "Stochastic Optimization",
+      "LLM as Optimizer",
+      "Meta-Learning",
+      "HotpotQA"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/polca-stochastic-generative-optimization-with-llm.md"
+  },
+  {
+    "arxiv_id": "2603.14707",
+    "version": 1,
+    "title": "Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents",
+    "authors": [
+      "Xunzhuo Liu",
+      "Bowei He",
+      "Xue Liu",
+      "Andy Luo",
+      "Haichen Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14707",
+    "pdf_url": "https://arxiv.org/pdf/2603.14707v1",
+    "github_url": "https://github.com/vllm-project/semantic-router",
+    "published": "2026-03-16",
+    "tags": [
+      "Agent安全",
+      "鲁棒性",
+      "对抗攻击",
+      "GUI交互",
+      "视觉感知",
+      "防御机制",
+      "计算机使用智能体"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/16/visual-confused-deputy-exploiting-and-defending-perception-failures-in-computer.md"
+  }
+]

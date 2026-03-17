@@ -1,0 +1,374 @@
+[
+  {
+    "arxiv_id": "2603.14588",
+    "version": 1,
+    "title": "SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory",
+    "authors": [
+      "Varun Pratap Bhardwaj"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14588",
+    "pdf_url": "https://arxiv.org/pdf/2603.14588v1",
+    "github_url": "https://github.com/qualixar/superlocalmemory",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Memory",
+      "Information Geometry",
+      "Mathematical Foundations",
+      "Retrieval",
+      "Memory Management",
+      "Consistency",
+      "Enterprise Agent",
+      "Zero-LLM",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/03/15/superlocalmemory-v3-information-geometric-foundations-for-zero-llm-enterprise-ag.md"
+  },
+  {
+    "arxiv_id": "2603.14597",
+    "version": 1,
+    "title": "D-MEM: Dopamine-Gated Agentic Memory via Reward Prediction Error Routing",
+    "authors": [
+      "Yuru Song",
+      "Qi Xin"
+    ],
+    "author_count": 2,
+    "categories": [
+      "q-bio.NC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14597",
+    "pdf_url": "https://arxiv.org/pdf/2603.14597v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Memory",
+      "Agent Architecture",
+      "Long-Term Memory",
+      "Reward Prediction Error",
+      "Knowledge Graph",
+      "Efficiency",
+      "Benchmark"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/15/d-mem-dopamine-gated-agentic-memory-via-reward-prediction-error-routing.md"
+  },
+  {
+    "arxiv_id": "2603.14465",
+    "version": 1,
+    "title": "AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents",
+    "authors": [
+      "Shengda Fan",
+      "Xuyan Ye",
+      "Yupeng Huo",
+      "Zhi-Yuan Chen",
+      "Yiju Guo"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14465",
+    "pdf_url": "https://arxiv.org/pdf/2603.14465v1",
+    "github_url": "https://github.com/RUCBM/AgentProcessBench",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Benchmark",
+      "Tool-Using Agent",
+      "Process Evaluation",
+      "Step-Level Verification",
+      "Error Analysis",
+      "Open-World Interaction"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/15/agentprocessbench-diagnosing-step-level-process-quality-in-tool-using-agents.md"
+  },
+  {
+    "arxiv_id": "2603.14575",
+    "version": 1,
+    "title": "CausalEvolve: Towards Open-Ended Discovery with Causal Scratchpad",
+    "authors": [
+      "Yongqiang Chen",
+      "Chenxi Liu",
+      "Zhenhao Chen",
+      "Tongliang Liu",
+      "Bo Han"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14575",
+    "pdf_url": "https://arxiv.org/pdf/2603.14575v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Architecture",
+      "Reasoning",
+      "Scientific Discovery",
+      "Iterative Improvement",
+      "Causal Reasoning",
+      "Open-Ended Tasks",
+      "LLM-Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/15/causalevolve-towards-open-ended-discovery-with-causal-scratchpad.md"
+  },
+  {
+    "arxiv_id": "2603.14248",
+    "version": 1,
+    "title": "Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective",
+    "authors": [
+      "Mohamed Aghzal",
+      "Gregory J. Stein",
+      "Ziyu Yao"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14248",
+    "pdf_url": "https://arxiv.org/pdf/2603.14248v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Web Agent",
+      "Hierarchical Planning",
+      "Failure Analysis",
+      "Process Evaluation",
+      "PDDL",
+      "Perceptual Grounding",
+      "Execution Bottleneck"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/15/why-do-llm-based-web-agents-fail-a-hierarchical-planning-perspective.md"
+  },
+  {
+    "arxiv_id": "2603.14312",
+    "version": 1,
+    "title": "Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange",
+    "authors": [
+      "Fiona Y. Wang",
+      "Lee Marom",
+      "Subhadeep Pal",
+      "Rachel K. Luu",
+      "Wei Lu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cond-mat.dis-nn",
+      "cs.LG",
+      "cs.MA",
+      "q-bio.BM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14312",
+    "pdf_url": "https://arxiv.org/pdf/2603.14312v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Multi-Agent Systems",
+      "Tool Use",
+      "Autonomous Scientific Discovery",
+      "Decentralized Coordination",
+      "Artifact Management",
+      "Computational Lineage",
+      "Emergent Behavior",
+      "Agent Memory"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/15/autonomous-agents-coordinating-distributed-discovery-through-emergent-artifact-e.md"
+  },
+  {
+    "arxiv_id": "2603.14602",
+    "version": 1,
+    "title": "$PA^3$: $\\textbf{P}$olicy-$\\textbf{A}$ware $\\textbf{A}$gent $\\textbf{A}$lignment through Chain-of-Thought",
+    "authors": [
+      "Shubhashis Roy Dipta",
+      "Daniel Bis",
+      "Kun Zhou",
+      "Lichao Wang",
+      "Benjamin Z. Yao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14602",
+    "pdf_url": "https://arxiv.org/pdf/2603.14602v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Alignment",
+      "Chain-of-Thought",
+      "Policy Compliance",
+      "Tool Use",
+      "Reward Design",
+      "GRPO",
+      "Business Rules",
+      "Efficiency"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/pa3-textbfpolicy-textbfaware-textbfagent-textbfalignment-through-chain-of-though.md"
+  },
+  {
+    "arxiv_id": "2603.14629",
+    "version": 1,
+    "title": "ResearchPilot: A Local-First Multi-Agent System for Literature Synthesis and Related Work Drafting",
+    "authors": [
+      "Peng Zhang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14629",
+    "pdf_url": "https://arxiv.org/pdf/2603.14629v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Multi-Agent System",
+      "Literature Synthesis",
+      "Tool Use",
+      "Research Assistant",
+      "Systems Engineering",
+      "Local-First"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/researchpilot-a-local-first-multi-agent-system-for-literature-synthesis-and-rela.md"
+  },
+  {
+    "arxiv_id": "2603.14486",
+    "version": 1,
+    "title": "Infinite Problem Generator: Verifiably Scaling Physics Reasoning Data with Agentic Workflows",
+    "authors": [
+      "Aditya Sharan",
+      "Sriram Hebbale",
+      "Dhruv Kumar"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14486",
+    "pdf_url": "https://arxiv.org/pdf/2603.14486v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Agentic Workflow",
+      "Data Synthesis",
+      "Reasoning",
+      "Physics",
+      "Verification",
+      "Curriculum Generation",
+      "Tool Use"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/infinite-problem-generator-verifiably-scaling-physics-reasoning-data-with-agenti.md"
+  },
+  {
+    "arxiv_id": "2603.14448",
+    "version": 1,
+    "title": "Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements",
+    "authors": [
+      "Ziwei Liu",
+      "Tao Feng",
+      "Borui Kang",
+      "Yanbing Yang",
+      "Jun Luo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14448",
+    "pdf_url": "https://arxiv.org/pdf/2603.14448v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "GUI Agent",
+      "Visual Grounding",
+      "Trainless Method",
+      "Inference Scaling",
+      "Multimodal LLM",
+      "Human-Computer Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/zoom-to-essence-trainless-gui-grounding-by-inferring-upon-interface-elements.md"
+  },
+  {
+    "arxiv_id": "2603.14417",
+    "version": 1,
+    "title": "Questionnaire Responses Do not Capture the Safety of AI Agents",
+    "authors": [
+      "Max Hellrigel-Holderbaum",
+      "Edward James Young"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14417",
+    "pdf_url": "https://arxiv.org/pdf/2603.14417v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Agent Safety",
+      "Evaluation",
+      "Alignment",
+      "Critique",
+      "Methodology"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/questionnaire-responses-do-not-capture-the-safety-of-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.14229",
+    "version": 1,
+    "title": "Agentic DAG-Orchestrated Planner Framework for Multi-Modal, Multi-Hop Question Answering in Hybrid Data Lakes",
+    "authors": [
+      "Kirushikesh D B",
+      "Manish Kesarwani",
+      "Nishtha Madaan",
+      "Sameep Mehta",
+      "Aldrin Dennis"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.14229",
+    "pdf_url": "https://arxiv.org/pdf/2603.14229v1",
+    "github_url": "",
+    "published": "2026-03-15",
+    "tags": [
+      "Multi-Hop Reasoning",
+      "Agent Framework",
+      "Tool Use",
+      "Query Planning",
+      "Multi-Modal QA",
+      "Data Lake",
+      "Execution Orchestration",
+      "Caching"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/15/agentic-dag-orchestrated-planner-framework-for-multi-modal-multi-hop-question-an.md"
+  }
+]
