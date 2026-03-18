@@ -1,0 +1,522 @@
+[
+  {
+    "arxiv_id": "2603.16862",
+    "version": 1,
+    "title": "Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory",
+    "authors": [
+      "Sahil Sen",
+      "Elias Lumer",
+      "Anmol Gulati",
+      "Vamse Kumar Subbiah"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16862",
+    "pdf_url": "https://arxiv.org/pdf/2603.16862v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agent Memory",
+      "Long-Term Memory",
+      "Temporal Reasoning",
+      "Structured Retrieval",
+      "Event Representation",
+      "Tool Use",
+      "Multi-Hop Reasoning",
+      "Conversational Agent",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/17/chronos-temporal-aware-conversational-agents-with-structured-event-retrieval-for.md"
+  },
+  {
+    "arxiv_id": "2603.16777",
+    "version": 1,
+    "title": "Anticipatory Planning for Multimodal AI Agents",
+    "authors": [
+      "Yongyuan Liang",
+      "Shijie Zhou",
+      "Yu Gu",
+      "Hao Tan",
+      "Gang Wu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16777",
+    "pdf_url": "https://arxiv.org/pdf/2603.16777v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Multimodal Agent",
+      "Planning",
+      "Reinforcement Learning",
+      "Tool Use",
+      "Anticipatory Reasoning",
+      "Trajectory Forecasting",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/17/anticipatory-planning-for-multimodal-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.16843",
+    "version": 1,
+    "title": "Internalizing Agency from Reflective Experience",
+    "authors": [
+      "Rui Ge",
+      "Yichao Fu",
+      "Yuyang Qian",
+      "Junda Su",
+      "Yiming Zhao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16843",
+    "pdf_url": "https://arxiv.org/pdf/2603.16843v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agent Training",
+      "Feedback Learning",
+      "Reflective Experience",
+      "Supervised Fine-Tuning",
+      "Long-Horizon Interaction",
+      "Code Agent",
+      "Recovery Agency",
+      "Exploration"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/17/internalizing-agency-from-reflective-experience.md"
+  },
+  {
+    "arxiv_id": "2603.16335",
+    "version": 1,
+    "title": "Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits",
+    "authors": [
+      "Jia Qing Yap"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16335",
+    "pdf_url": "https://arxiv.org/pdf/2603.16335v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agent Steering",
+      "Sparse Autoencoders",
+      "Interpretability",
+      "Tool Use",
+      "Behavioral Control",
+      "Mixture-of-Experts",
+      "Decoding-Time Intervention"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/17/behavioral-steering-in-a-35b-moe-language-model-via-sae-decoded-probe-vectors-on.md"
+  },
+  {
+    "arxiv_id": "2603.16264",
+    "version": 1,
+    "title": "Adaptive Theory of Mind for LLM-based Multi-Agent Coordination",
+    "authors": [
+      "Chunjiang Mu",
+      "Ya Zeng",
+      "Qiaosheng Zhang",
+      "Kun Shao",
+      "Chen Chu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16264",
+    "pdf_url": "https://arxiv.org/pdf/2603.16264v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Multi-Agent",
+      "Theory of Mind",
+      "Reasoning",
+      "Coordination",
+      "Adaptive Agent",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/17/adaptive-theory-of-mind-for-llm-based-multi-agent-coordination.md"
+  },
+  {
+    "arxiv_id": "2603.16124",
+    "version": 1,
+    "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
+    "authors": [
+      "Songcheng Cai",
+      "Zhiheng Lyu",
+      "Yuansheng Ni",
+      "Xiangchao Chen",
+      "Baichuan Zhou"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16124",
+    "pdf_url": "https://arxiv.org/pdf/2603.16124v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "代码智能体",
+      "评测基准",
+      "训练方法",
+      "工具使用",
+      "RLAIF",
+      "软件工程",
+      "仓库级理解"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/17/swe-qa-pro-a-representative-benchmark-and-scalable-training-recipe-for-repositor.md"
+  },
+  {
+    "arxiv_id": "2603.16104",
+    "version": 1,
+    "title": "Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective",
+    "authors": [
+      "Noppanat Wadlom",
+      "Junyi Shen",
+      "Yao Lu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16104",
+    "pdf_url": "https://arxiv.org/pdf/2603.16104v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agent Serving Systems",
+      "Workflow Optimization",
+      "Query Optimization",
+      "Caching",
+      "LLM Inference Efficiency",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/17/efficient-llm-serving-for-agentic-workflows-a-data-systems-perspective.md"
+  },
+  {
+    "arxiv_id": "2603.16733",
+    "version": 1,
+    "title": "IQuest-Coder-V1 Technical Report",
+    "authors": [
+      "Jian Yang",
+      "Wei Zhang",
+      "Shawn Guo",
+      "Zhengmao Ye",
+      "Lin Jing"
+    ],
+    "author_count": 38,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16733",
+    "pdf_url": "https://arxiv.org/pdf/2603.16733v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Code Agent",
+      "Agent Training",
+      "Tool Use",
+      "Multi-Stage Training",
+      "Reasoning",
+      "Software Engineering",
+      "Model Architecture",
+      "Benchmark Performance"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/17/iquest-coder-v1-technical-report.md"
+  },
+  {
+    "arxiv_id": "2603.16496",
+    "version": 1,
+    "title": "AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents",
+    "authors": [
+      "Shannan Yan",
+      "Jingchen Ni",
+      "Leqi Zheng",
+      "Jiajun Zhang",
+      "Peixi Wu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16496",
+    "pdf_url": "https://arxiv.org/pdf/2603.16496v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "对话Agent",
+      "记忆系统",
+      "个性化",
+      "长程推理",
+      "检索增强生成",
+      "用户建模"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/17/adamem-adaptive-user-centric-memory-for-long-horizon-dialogue-agents.md"
+  },
+  {
+    "arxiv_id": "2603.16448",
+    "version": 1,
+    "title": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
+    "authors": [
+      "Ai Jian",
+      "Xiaoyun Zhang",
+      "Wanrou Du",
+      "Jingqing Ruan",
+      "Jiangbo Pei"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16448",
+    "pdf_url": "https://arxiv.org/pdf/2603.16448v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Tool-Using Agent",
+      "Reinforcement Learning",
+      "Text-to-SQL",
+      "Multi-Turn Interaction",
+      "Partially Observable MDP",
+      "Agent Architecture",
+      "Autonomous Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/17/trust-sql-tool-integrated-multi-turn-reinforcement-learning-for-text-to-sql-over.md"
+  },
+  {
+    "arxiv_id": "2603.16289",
+    "version": 1,
+    "title": "VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents",
+    "authors": [
+      "Zhengbo Zhang",
+      "Jinbo Su",
+      "Zhaowen Zhou",
+      "Changtao Miao",
+      "Yuhan Hong"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16289",
+    "pdf_url": "https://arxiv.org/pdf/2603.16289v1",
+    "github_url": "https://github.com/ZhengboZhang/VisBrowse-Bench",
+    "published": "2026-03-17",
+    "tags": [
+      "Multimodal Agent",
+      "Web Browsing Agent",
+      "Benchmark",
+      "Visual Reasoning",
+      "Agent Evaluation",
+      "MLLM"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/17/visbrowse-bench-benchmarking-visual-native-search-for-multimodal-browsing-agents.md"
+  },
+  {
+    "arxiv_id": "2603.16161",
+    "version": 1,
+    "title": "SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation",
+    "authors": [
+      "Long Li",
+      "Zhijian Zhou",
+      "Jiangxuan Long",
+      "Peiyang Liu",
+      "Weidi Xu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16161",
+    "pdf_url": "https://arxiv.org/pdf/2603.16161v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agentic Reinforcement Learning",
+      "Text-to-SQL",
+      "Multi-turn Agent",
+      "Credit Assignment",
+      "Dense Reward",
+      "Trajectory Aggregation",
+      "Column-Set Matching",
+      "BIRD Benchmark",
+      "Spider Benchmark"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/17/sql-astra-alleviating-sparse-feedback-in-agentic-sql-via-column-set-matching-and.md"
+  },
+  {
+    "arxiv_id": "2603.16839",
+    "version": 1,
+    "title": "Learning to Present: Inverse Specification Rewards for Agentic Slide Generation",
+    "authors": [
+      "Karthik Ragunath Ananda Kumar",
+      "Subrahmanyam Arunachalam"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16839",
+    "pdf_url": "https://arxiv.org/pdf/2603.16839v1",
+    "github_url": "https://github.com/pushing-the-frontier/slide-forge-llm",
+    "published": "2026-03-17",
+    "tags": [
+      "Agentic Task",
+      "Tool Use",
+      "Reinforcement Learning",
+      "Reward Design",
+      "Fine-tuning",
+      "Presentation Generation",
+      "Multi-turn Interaction",
+      "Benchmark Dataset"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/17/learning-to-present-inverse-specification-rewards-for-agentic-slide-generation.md"
+  },
+  {
+    "arxiv_id": "2603.16734",
+    "version": 1,
+    "title": "Differential Harm Propensity in Personalized LLM Agents: The Curious Case of Mental Health Disclosure",
+    "authors": [
+      "Caglar Yildirim"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16734",
+    "pdf_url": "https://arxiv.org/pdf/2603.16734v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Agent Safety",
+      "Personalization",
+      "Jailbreak",
+      "Evaluation Benchmark",
+      "Harmful Task Completion",
+      "Tool-Using Agents"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/17/differential-harm-propensity-in-personalized-llm-agents-the-curious-case-of-ment.md"
+  },
+  {
+    "arxiv_id": "2603.16453",
+    "version": 1,
+    "title": "RetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environments",
+    "authors": [
+      "Linghua Zhang",
+      "Jun Wang",
+      "Jingtong Wu",
+      "Zhisong Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16453",
+    "pdf_url": "https://arxiv.org/pdf/2603.16453v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Long-Horizon Decision-Making",
+      "Benchmark",
+      "Strategy Planning",
+      "Autonomous Agent",
+      "Commercial Application",
+      "Framework Design"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/17/retailbench-evaluating-long-horizon-autonomous-decision-making-and-strategy-stab.md"
+  },
+  {
+    "arxiv_id": "2603.16128",
+    "version": 1,
+    "title": "Social Simulacra in the Wild: AI Agent Communities on Moltbook",
+    "authors": [
+      "Agam Goyal",
+      "Olivia Pal",
+      "Hari Sundaram",
+      "Eshwar Chandrasekharan",
+      "Koustuv Saha"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16128",
+    "pdf_url": "https://arxiv.org/pdf/2603.16128v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Multi-Agent Systems",
+      "Social Simulation",
+      "Empirical Analysis",
+      "Online Communities",
+      "Agent Behavior",
+      "Platform Governance"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/17/social-simulacra-in-the-wild-ai-agent-communities-on-moltbook.md"
+  },
+  {
+    "arxiv_id": "2603.16110",
+    "version": 1,
+    "title": "VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support",
+    "authors": [
+      "Sarthak Ahuja",
+      "Neda Kordjazi",
+      "Evren Yortucboylu",
+      "Vishaal Kapoor",
+      "Mariam Dundua"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.16110",
+    "pdf_url": "https://arxiv.org/pdf/2603.16110v1",
+    "github_url": "",
+    "published": "2026-03-17",
+    "tags": [
+      "Desktop Agent",
+      "Enterprise IT Support",
+      "On-Device AI",
+      "Tool Use",
+      "Human-Agent Interaction",
+      "System Evaluation",
+      "User Study"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/17/vigil-towards-edge-extended-agentic-ai-for-enterprise-it-support.md"
+  }
+]
