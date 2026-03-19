@@ -2,24 +2,23 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-17 (17 篇)
+## 2026-03-18 (16 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory](https://arxiv.org/abs/2603.16862) | Agent Memory, Long-Term Memory, Temporal Reasoning |
-| 9.0 | [Anticipatory Planning for Multimodal AI Agents](https://arxiv.org/abs/2603.16777) | Multimodal Agent, Planning, Reinforcement Learning |
-| 8.5 | [Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843) | Agent Training, Feedback Learning, Reflective Experience |
-| 8.5 | [Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335) | Agent Steering, Sparse Autoencoders, Interpretability |
-| 8.5 | [Adaptive Theory of Mind for LLM-based Multi-Agent Coordination](https://arxiv.org/abs/2603.16264) | Multi-Agent, Theory of Mind, Reasoning |
-| 8.5 | [SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding](https://arxiv.org/abs/2603.16124) | 代码智能体, 评测基准, 训练方法 |
-| 8.5 | [Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective](https://arxiv.org/abs/2603.16104) | Agent Serving Systems, Workflow Optimization, Query Optimization |
-| 8.0 | [IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733) | Code Agent, Agent Training, Tool Use |
-| 8.0 | [AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents](https://arxiv.org/abs/2603.16496) | 对话Agent, 记忆系统, 个性化 |
-| 8.0 | [TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas](https://arxiv.org/abs/2603.16448) | Tool-Using Agent, Reinforcement Learning, Text-to-SQL |
-| 8.0 | [VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289) [[Code](https://github.com/ZhengboZhang/VisBrowse-Bench)] | Multimodal Agent, Web Browsing Agent, Benchmark |
-| 8.0 | [SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation](https://arxiv.org/abs/2603.16161) | Agentic Reinforcement Learning, Text-to-SQL, Multi-turn Agent |
-| 7.5 | [Learning to Present: Inverse Specification Rewards for Agentic Slide Generation](https://arxiv.org/abs/2603.16839) [[Code](https://github.com/pushing-the-frontier/slide-forge-llm)] | Agentic Task, Tool Use, Reinforcement Learning |
-| 7.5 | [Differential Harm Propensity in Personalized LLM Agents: The Curious Case of Mental Health Disclosure](https://arxiv.org/abs/2603.16734) | Agent Safety, Personalization, Jailbreak |
-| 7.5 | [RetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environments](https://arxiv.org/abs/2603.16453) | Long-Horizon Decision-Making, Benchmark, Strategy Planning |
-| 7.5 | [Social Simulacra in the Wild: AI Agent Communities on Moltbook](https://arxiv.org/abs/2603.16128) | Multi-Agent Systems, Social Simulation, Empirical Analysis |
-| 7.5 | [VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support](https://arxiv.org/abs/2603.16110) | Desktop Agent, Enterprise IT Support, On-Device AI |
+| 9.0 | [Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures](https://arxiv.org/abs/2603.17244) | Agent Memory, Belief Revision, Graph Database |
+| 8.5 | [AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse](https://arxiv.org/abs/2603.18000) [[Code](https://github.com/zzatpku/AgentFactory)] | Agent Architecture, Self-Evolution, Tool Use |
+| 8.5 | [FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair](https://arxiv.org/abs/2603.17826) | Agent Architecture, Multimodal Agent, Tool Use |
+| 8.5 | [Governed Memory: A Production Architecture for Multi-Agent Workflows](https://arxiv.org/abs/2603.17787) [[Code](https://github.com/personizeai/governed-memory)] | Multi-Agent Systems, Agent Memory, Agent Governance |
+| 8.5 | [Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory](https://arxiv.org/abs/2603.17781) | LLM Memory, Knowledge Representation, Retrieval-Augmented Generation (RAG) |
+| 8.5 | [Complementary Reinforcement Learning](https://arxiv.org/abs/2603.17621) | 强化学习, 经验复用, 智能体训练 |
+| 8.0 | [TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis](https://arxiv.org/abs/2603.17973) [[Code](https://github.com/pepealonso95/TDAD)] | AI Coding Agent, Tool Use, Benchmark |
+| 8.0 | [CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents](https://arxiv.org/abs/2603.17829) | Code Agent, Reinforcement Learning, Tool Use |
+| 8.0 | [Post-Training Local LLM Agents for Linux Privilege Escalation with Verifiable Rewards](https://arxiv.org/abs/2603.17673) | Agent Training, Reinforcement Learning, Tool Use |
+| 8.0 | [VeriGrey: Greybox Agent Validation](https://arxiv.org/abs/2603.17639) | Agent安全, Agent测试, Agent验证 |
+| 8.0 | [Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding](https://arxiv.org/abs/2603.17307) [[Code](https://github.com/Haiyang0226/Symphony)] | Multi-Agent System, Long-Video Understanding, Cognitive-Inspired |
+| 7.5 | [Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization](https://arxiv.org/abs/2603.17692) | LLM Agent, Multi-Agent Systems, Financial Agent |
+| 7.5 | [Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents](https://arxiv.org/abs/2603.17683) | LLM Agent Architecture, Test-Time Learning, Curriculum Learning |
+| 7.5 | [When Only the Final Text Survives: Implicit Execution Tracing for Multi-Agent Attribution](https://arxiv.org/abs/2603.17445) | 多智能体系统, 可追溯性, 审计 |
+| 7.5 | [AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement](https://arxiv.org/abs/2603.17441) | GUI Agent, Vision-Language Model, Instruction Refinement |
+| 7.5 | [Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)](https://arxiv.org/abs/2603.17417) | Agent 评测基准, Agent 鲁棒性与安全, Agent 偏好与偏见 |

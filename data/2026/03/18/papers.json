@@ -1,0 +1,497 @@
+[
+  {
+    "arxiv_id": "2603.17244",
+    "version": 1,
+    "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
+    "authors": [
+      "Young Bin Park"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.LO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17244",
+    "pdf_url": "https://arxiv.org/pdf/2603.17244v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent Memory",
+      "Belief Revision",
+      "Graph Database",
+      "Architecture",
+      "Benchmark Evaluation",
+      "Long-Context Memory",
+      "Formal Semantics"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/18/graph-native-cognitive-memory-for-ai-agents-formal-belief-revision-semantics-for.md"
+  },
+  {
+    "arxiv_id": "2603.18000",
+    "version": 1,
+    "title": "AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+    "authors": [
+      "Zhang Zhang",
+      "Shuqi Lu",
+      "Hongjin Qian",
+      "Di He",
+      "Zheng Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18000",
+    "pdf_url": "https://arxiv.org/pdf/2603.18000v1",
+    "github_url": "https://github.com/zzatpku/AgentFactory",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent Architecture",
+      "Self-Evolution",
+      "Tool Use",
+      "Code Generation",
+      "Experience Accumulation",
+      "Subagent",
+      "Python"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/18/agentfactory-a-self-evolving-framework-through-executable-subagent-accumulation.md"
+  },
+  {
+    "arxiv_id": "2603.17826",
+    "version": 1,
+    "title": "FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair",
+    "authors": [
+      "Ruize Ma",
+      "Yilei Jiang",
+      "Shilin Zhang",
+      "Zheng Ma",
+      "Yi Feng"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17826",
+    "pdf_url": "https://arxiv.org/pdf/2603.17826v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent Architecture",
+      "Multimodal Agent",
+      "Tool Use",
+      "Memory",
+      "Software Agent",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/18/failuremem-a-failure-aware-multimodal-framework-for-autonomous-software-repair.md"
+  },
+  {
+    "arxiv_id": "2603.17787",
+    "version": 1,
+    "title": "Governed Memory: A Production Architecture for Multi-Agent Workflows",
+    "authors": [
+      "Hamed Taheri"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17787",
+    "pdf_url": "https://arxiv.org/pdf/2603.17787v1",
+    "github_url": "https://github.com/personizeai/governed-memory",
+    "published": "2026-03-18",
+    "tags": [
+      "Multi-Agent Systems",
+      "Agent Memory",
+      "Agent Governance",
+      "Agent Architecture",
+      "Production System",
+      "Shared Memory",
+      "Retrieval",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/18/governed-memory-a-production-architecture-for-multi-agent-workflows.md"
+  },
+  {
+    "arxiv_id": "2603.17781",
+    "version": 1,
+    "title": "Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory",
+    "authors": [
+      "Oliver Zahn",
+      "Simran Chana"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17781",
+    "pdf_url": "https://arxiv.org/pdf/2603.17781v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "LLM Memory",
+      "Knowledge Representation",
+      "Retrieval-Augmented Generation (RAG)",
+      "Benchmarking",
+      "Multi-Hop Reasoning",
+      "Persistent Agent",
+      "In-Context Learning",
+      "Knowledge Compaction"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/18/facts-as-first-class-objects-knowledge-objects-for-persistent-llm-memory.md"
+  },
+  {
+    "arxiv_id": "2603.17621",
+    "version": 1,
+    "title": "Complementary Reinforcement Learning",
+    "authors": [
+      "Dilxat Muhtar",
+      "Jiashun Liu",
+      "Wei Gao",
+      "Weixun Wang",
+      "Shaopan Xiong"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17621",
+    "pdf_url": "https://arxiv.org/pdf/2603.17621v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "强化学习",
+      "经验复用",
+      "智能体训练",
+      "样本效率",
+      "互补学习",
+      "多任务学习",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/18/complementary-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2603.17973",
+    "version": 1,
+    "title": "TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+    "authors": [
+      "Pepe Alonso"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17973",
+    "pdf_url": "https://arxiv.org/pdf/2603.17973v1",
+    "github_url": "https://github.com/pepealonso95/TDAD",
+    "published": "2026-03-18",
+    "tags": [
+      "AI Coding Agent",
+      "Tool Use",
+      "Benchmark",
+      "Code Regression",
+      "Graph-Based Analysis",
+      "SWE-bench",
+      "Agent Skill"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/18/tdad-test-driven-agentic-development-reducing-code-regressions-in-ai-coding-agen.md"
+  },
+  {
+    "arxiv_id": "2603.17829",
+    "version": 1,
+    "title": "CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents",
+    "authors": [
+      "Lintang Sutawika",
+      "Aditya Bharat Soni",
+      "Bharath Sriraam R R",
+      "Apurva Gandhi",
+      "Taha Yassine"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17829",
+    "pdf_url": "https://arxiv.org/pdf/2603.17829v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Code Agent",
+      "Reinforcement Learning",
+      "Tool Use",
+      "Code Search",
+      "SWE-bench",
+      "Agent Training",
+      "Reward Design"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/18/codescout-an-effective-recipe-for-reinforcement-learning-of-code-search-agents.md"
+  },
+  {
+    "arxiv_id": "2603.17673",
+    "version": 1,
+    "title": "Post-Training Local LLM Agents for Linux Privilege Escalation with Verifiable Rewards",
+    "authors": [
+      "Philipp Normann",
+      "Andreas Happe",
+      "Jürgen Cito",
+      "Daniel Arp"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17673",
+    "pdf_url": "https://arxiv.org/pdf/2603.17673v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent Training",
+      "Reinforcement Learning",
+      "Tool Use",
+      "Security Agent",
+      "Post-Training",
+      "Local LLM",
+      "Multi-Step Reasoning",
+      "Benchmarking"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/18/post-training-local-llm-agents-for-linux-privilege-escalation-with-verifiable-re.md"
+  },
+  {
+    "arxiv_id": "2603.17639",
+    "version": 1,
+    "title": "VeriGrey: Greybox Agent Validation",
+    "authors": [
+      "Yuntong Zhang",
+      "Sungmin Kang",
+      "Ruijie Meng",
+      "Marcel Böhme",
+      "Abhik Roychoudhury"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17639",
+    "pdf_url": "https://arxiv.org/pdf/2603.17639v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent安全",
+      "Agent测试",
+      "Agent验证",
+      "工具调用",
+      "提示注入",
+      "灰盒测试",
+      "Agent基准测试"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/18/verigrey-greybox-agent-validation.md"
+  },
+  {
+    "arxiv_id": "2603.17307",
+    "version": 1,
+    "title": "Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding",
+    "authors": [
+      "Haiyang Yan",
+      "Hongyun Zhou",
+      "Peng Xu",
+      "Xiaoxue Feng",
+      "Mengyi Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17307",
+    "pdf_url": "https://arxiv.org/pdf/2603.17307v1",
+    "github_url": "https://github.com/Haiyang0226/Symphony",
+    "published": "2026-03-18",
+    "tags": [
+      "Multi-Agent System",
+      "Long-Video Understanding",
+      "Cognitive-Inspired",
+      "Reasoning",
+      "Task Decomposition",
+      "Video Grounding",
+      "VLM Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/18/symphony-a-cognitively-inspired-multi-agent-system-for-long-video-understanding.md"
+  },
+  {
+    "arxiv_id": "2603.17692",
+    "version": 1,
+    "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+    "authors": [
+      "Joohyoung Jeon",
+      "Hongchul Lee"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "q-fin.CP",
+      "q-fin.PM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17692",
+    "pdf_url": "https://arxiv.org/pdf/2603.17692v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "LLM Agent",
+      "Multi-Agent Systems",
+      "Financial Agent",
+      "Anonymization",
+      "Tool Use",
+      "Reasoning",
+      "Policy Optimization",
+      "Signal Validation",
+      "Backtesting",
+      "Market Dynamics"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/18/can-blindfolded-llms-still-trade-an-anonymization-first-framework-for-portfolio.md"
+  },
+  {
+    "arxiv_id": "2603.17683",
+    "version": 1,
+    "title": "Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents",
+    "authors": [
+      "Mohsen Arjmandi"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17683",
+    "pdf_url": "https://arxiv.org/pdf/2603.17683v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "LLM Agent Architecture",
+      "Test-Time Learning",
+      "Curriculum Learning",
+      "Game Agent",
+      "Perception-Action Separation",
+      "Sample Efficiency",
+      "LLM-as-Judge"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/18/sensi-learn-one-thing-at-a-time-curriculum-based-test-time-learning-for-llm-game.md"
+  },
+  {
+    "arxiv_id": "2603.17445",
+    "version": 1,
+    "title": "When Only the Final Text Survives: Implicit Execution Tracing for Multi-Agent Attribution",
+    "authors": [
+      "Yi Nian",
+      "Haosen Cao",
+      "Shenzhe Zhu",
+      "Henry Peng Zou",
+      "Qingqing Luan"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17445",
+    "pdf_url": "https://arxiv.org/pdf/2603.17445v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "多智能体系统",
+      "可追溯性",
+      "审计",
+      "隐式水印",
+      "交互拓扑",
+      "安全与责任"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/18/when-only-the-final-text-survives-implicit-execution-tracing-for-multi-agent-att.md"
+  },
+  {
+    "arxiv_id": "2603.17441",
+    "version": 1,
+    "title": "AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement",
+    "authors": [
+      "Siqi Pei",
+      "Liang Tang",
+      "Tiaonan Duan",
+      "Long Chen",
+      "Shuxian Li"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17441",
+    "pdf_url": "https://arxiv.org/pdf/2603.17441v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "GUI Agent",
+      "Vision-Language Model",
+      "Instruction Refinement",
+      "Adaptive Zoom",
+      "Localization",
+      "Tool Use",
+      "Benchmark Dataset",
+      "GRPO Training"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/18/adazoom-gui-adaptive-zoom-based-gui-grounding-with-instruction-refinement.md"
+  },
+  {
+    "arxiv_id": "2603.17417",
+    "version": 1,
+    "title": "Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)",
+    "authors": [
+      "Zichen Tang",
+      "Zirui Zhang",
+      "Qian Wang",
+      "Zhenheng Tang",
+      "Bo Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CY",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17417",
+    "pdf_url": "https://arxiv.org/pdf/2603.17417v1",
+    "github_url": "",
+    "published": "2026-03-18",
+    "tags": [
+      "Agent 评测基准",
+      "Agent 鲁棒性与安全",
+      "Agent 偏好与偏见",
+      "LLM-as-a-Recommender",
+      "多智能体应用场景",
+      "实验验证"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/18/is-your-llm-as-a-recommender-agent-trustable-llms-recommendation-is-easily-hacke.md"
+  }
+]
