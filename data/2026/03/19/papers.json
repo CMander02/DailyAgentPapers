@@ -1,0 +1,535 @@
+[
+  {
+    "arxiv_id": "2603.18897",
+    "version": 1,
+    "title": "Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution",
+    "authors": [
+      "Yifan Sui",
+      "Han Zhao",
+      "Rui Ma",
+      "Zhiyuan He",
+      "Hao Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.DC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18897",
+    "pdf_url": "https://arxiv.org/pdf/2603.18897v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent系统优化",
+      "推测执行",
+      "工具调用",
+      "服务性能",
+      "延迟优化",
+      "推理加速"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/19/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-ex.md"
+  },
+  {
+    "arxiv_id": "2603.18743",
+    "version": 1,
+    "title": "Memento-Skills: Let Agents Design Agents",
+    "authors": [
+      "Huichi Zhou",
+      "Siyuan Guo",
+      "Anjie Liu",
+      "Zhongwei Yu",
+      "Ziqin Gong"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18743",
+    "pdf_url": "https://arxiv.org/pdf/2603.18743v1",
+    "github_url": "https://github.com/Memento-Teams/Memento-Skills",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Architecture",
+      "Continual Learning",
+      "Skill Learning",
+      "Memory-Augmented Agents",
+      "Agent Design Automation",
+      "Reinforcement Learning",
+      "Stateful Prompts",
+      "Tool Use",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/19/memento-skills-let-agents-design-agents.md"
+  },
+  {
+    "arxiv_id": "2603.18718",
+    "version": 1,
+    "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+    "authors": [
+      "Minhua Lin",
+      "Zhiwei Zhang",
+      "Hanqing Lu",
+      "Hui Liu",
+      "Xianfeng Tang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18718",
+    "pdf_url": "https://arxiv.org/pdf/2603.18718v1",
+    "github_url": "https://github.com/ventr1c/memma",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent 架构",
+      "记忆增强",
+      "多智能体协作",
+      "自我进化",
+      "规划与推理",
+      "工具使用",
+      "基准评测"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/19/memma-coordinating-the-memory-cycle-through-multi-agent-reasoning-and-in-situ-se.md"
+  },
+  {
+    "arxiv_id": "2603.18631",
+    "version": 1,
+    "title": "D-Mem: A Dual-Process Memory System for LLM Agents",
+    "authors": [
+      "Zhixing You",
+      "Jiachen Yuan",
+      "Jason Cai"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18631",
+    "pdf_url": "https://arxiv.org/pdf/2603.18631v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Memory",
+      "Long-horizon Reasoning",
+      "Retrieval-Augmented Generation",
+      "Dual-Process System",
+      "Computational Efficiency",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/19/d-mem-a-dual-process-memory-system-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.18620",
+    "version": 1,
+    "title": "Learning to Self-Evolve",
+    "authors": [
+      "Xiaoyin Chen",
+      "Canwen Xu",
+      "Yite Wang",
+      "Boyi Liu",
+      "Zhewei Yao"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18620",
+    "pdf_url": "https://arxiv.org/pdf/2603.18620v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "强化学习",
+      "测试时优化",
+      "上下文学习",
+      "自我进化",
+      "模型训练",
+      "Text-to-SQL",
+      "MMLU"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/19/learning-to-self-evolve.md"
+  },
+  {
+    "arxiv_id": "2603.18377",
+    "version": 1,
+    "title": "PlanTwin: Privacy-Preserving Planning Abstractions for Cloud-Assisted LLM Agents",
+    "authors": [
+      "Guangsheng Yu",
+      "Qin Wang",
+      "Rui Lang",
+      "Shuai Su",
+      "Xu Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.ET"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18377",
+    "pdf_url": "https://arxiv.org/pdf/2603.18377v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Architecture",
+      "Privacy-Preserving",
+      "Cloud-Assisted Agent",
+      "Planning",
+      "Digital Twin",
+      "Security",
+      "Middleware",
+      "Multi-Turn Interaction",
+      "Capability Interface",
+      "Disclosure Control"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/19/plantwin-privacy-preserving-planning-abstractions-for-cloud-assisted-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.19005",
+    "version": 1,
+    "title": "AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science",
+    "authors": [
+      "An Luo",
+      "Jin Du",
+      "Xun Xian",
+      "Robert Specht",
+      "Fangqiao Tian"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ME"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19005",
+    "pdf_url": "https://arxiv.org/pdf/2603.19005v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Benchmark",
+      "Human-AI Collaboration",
+      "Domain-Specific Agent",
+      "Data Science Agent",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/agentds-technical-report-benchmarking-the-future-of-human-ai-collaboration-in-do.md"
+  },
+  {
+    "arxiv_id": "2603.18859",
+    "version": 1,
+    "title": "RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models",
+    "authors": [
+      "Xiao Feng",
+      "Bo Han",
+      "Zhanke Zhou",
+      "Jiaqi Fan",
+      "Jiangchao Yao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18859",
+    "pdf_url": "https://arxiv.org/pdf/2603.18859v1",
+    "github_url": "https://github.com/tmlr-group/RewardFlow",
+    "published": "2026-03-19",
+    "tags": [
+      "强化学习",
+      "奖励塑形",
+      "状态图",
+      "Agentic Reasoning",
+      "LLM Agent 训练",
+      "过程奖励",
+      "图传播"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/rewardflow-topology-aware-reward-propagation-on-state-graphs-for-agentic-rl-with.md"
+  },
+  {
+    "arxiv_id": "2603.18815",
+    "version": 1,
+    "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents",
+    "authors": [
+      "Hao Zhang",
+      "Mingjie Liu",
+      "Shaokun Zhang",
+      "Songyang Han",
+      "Jian Hu"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18815",
+    "pdf_url": "https://arxiv.org/pdf/2603.18815v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent 基础设施",
+      "强化学习训练",
+      "多轮对话 Agent",
+      "系统架构",
+      "开源工具",
+      "软件工程 Agent",
+      "代码生成",
+      "数学推理"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/prorl-agent-rollout-as-a-service-for-rl-training-of-multi-turn-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.18683",
+    "version": 1,
+    "title": "HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning",
+    "authors": [
+      "Zhicong Lu",
+      "Zichuan Lin",
+      "Wei Jia",
+      "Changyuan Tian",
+      "Deheng Ye"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18683",
+    "pdf_url": "https://arxiv.org/pdf/2603.18683v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "强化学习",
+      "奖励建模",
+      "信用分配",
+      "多轮决策",
+      "过程奖励",
+      "事后信息",
+      "语言模型对齐",
+      "Agent训练"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/hisr-hindsight-information-modulated-segmental-process-rewards-for-multi-turn-ag.md"
+  },
+  {
+    "arxiv_id": "2603.18614",
+    "version": 1,
+    "title": "ZEBRAARENA: A Diagnostic Simulation Environment for Studying Reasoning-Action Coupling in Tool-Augmented LLMs",
+    "authors": [
+      "Wanjia Zhao",
+      "Ludwig Schmidt",
+      "James Zou",
+      "Vidhisha Balachandran",
+      "Lingjiao Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18614",
+    "pdf_url": "https://arxiv.org/pdf/2603.18614v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Tool-Augmented LLMs",
+      "Reasoning-Action Coupling",
+      "Diagnostic Benchmark",
+      "Procedural Generation",
+      "Tool Use Efficiency",
+      "Evaluation Framework"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/zebraarena-a-diagnostic-simulation-environment-for-studying-reasoning-action-cou.md"
+  },
+  {
+    "arxiv_id": "2603.18447",
+    "version": 1,
+    "title": "SODIUM: From Open Web Data to Queryable Databases",
+    "authors": [
+      "Chuxuan Hu",
+      "Philip Li",
+      "Maxwell Yang",
+      "Daniel Kang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.DB",
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18447",
+    "pdf_url": "https://arxiv.org/pdf/2603.18447v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Web Agent",
+      "Multi-Agent System",
+      "Information Extraction",
+      "Benchmark",
+      "Tool Use",
+      "Planning",
+      "Open Domain"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/sodium-from-open-web-data-to-queryable-databases.md"
+  },
+  {
+    "arxiv_id": "2603.18388",
+    "version": 1,
+    "title": "Reflection in the Dark: Exposing and Escaping the Black Box in Reflective Prompt Optimization",
+    "authors": [
+      "Shiyan Liu",
+      "Qifeng Xia",
+      "Qiyun Xia",
+      "Yisheng Liu",
+      "Xinyu Yu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18388",
+    "pdf_url": "https://arxiv.org/pdf/2603.18388v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Prompt Optimization",
+      "Multi-Agent Framework",
+      "Reasoning",
+      "Interpretability",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/reflection-in-the-dark-exposing-and-escaping-the-black-box-in-reflective-prompt.md"
+  },
+  {
+    "arxiv_id": "2603.18894",
+    "version": 1,
+    "title": "I Can't Believe It's Corrupt: Evaluating Corruption in Multi-Agent Governance Systems",
+    "authors": [
+      "Vedanta S P",
+      "Ponnurangam Kumaraguru"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18894",
+    "pdf_url": "https://arxiv.org/pdf/2603.18894v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "多智能体系统",
+      "智能体治理",
+      "规则遵循",
+      "安全与对齐",
+      "制度设计",
+      "实验评估",
+      "社会模拟"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/i-cant-believe-its-corrupt-evaluating-corruption-in-multi-agent-governance-syste.md"
+  },
+  {
+    "arxiv_id": "2603.18762",
+    "version": 1,
+    "title": "ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation",
+    "authors": [
+      "Haochen Zhao",
+      "Shaoyang Cui"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18762",
+    "pdf_url": "https://arxiv.org/pdf/2603.18762v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Web Agent",
+      "Security",
+      "Red Teaming",
+      "Evaluation",
+      "Network-layer Attack",
+      "MITM",
+      "Agent Robustness"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/clawtrap-a-mitm-based-red-teaming-framework-for-real-world-openclaw-security-eva.md"
+  },
+  {
+    "arxiv_id": "2603.18507",
+    "version": 1,
+    "title": "Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM",
+    "authors": [
+      "Zizhao Hu",
+      "Mohammad Rostami",
+      "Jesse Thomason"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18507",
+    "pdf_url": "https://arxiv.org/pdf/2603.18507v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Persona",
+      "Multi-Agent Systems",
+      "Prompt Engineering",
+      "Model Alignment",
+      "LoRA",
+      "Self-Distillation",
+      "Human-AI Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/expert-personas-improve-llm-alignment-but-damage-accuracy-bootstrapping-intent-b.md"
+  },
+  {
+    "arxiv_id": "2603.18382",
+    "version": 1,
+    "title": "From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents",
+    "authors": [
+      "Myeongseob Ko",
+      "Jihyun Jeong",
+      "Sumiran Singh Thakur",
+      "Gyuhak Kim",
+      "Ruoxi Jia"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.18382",
+    "pdf_url": "https://arxiv.org/pdf/2603.18382v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Safety & Privacy",
+      "Agent Inference & Reasoning",
+      "Agent Evaluation",
+      "De-Anonymization",
+      "Multi-Source Information Fusion"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/from-weak-cues-to-real-identities-evaluating-inference-driven-de-anonymization-i.md"
+  }
+]
