@@ -1,0 +1,573 @@
+[
+  {
+    "arxiv_id": "2603.19935",
+    "version": 1,
+    "title": "Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents",
+    "authors": [
+      "Luiz C. Borro",
+      "Luiz A. B. Macarini",
+      "Gordon Tindall",
+      "Michael Montero",
+      "Adam B. Struck"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19935",
+    "pdf_url": "https://arxiv.org/pdf/2603.19935v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Memory",
+      "Persistent Memory",
+      "Context Management",
+      "Semantic Representation",
+      "Retrieval-Augmented Generation",
+      "Multi-Session Interaction",
+      "Efficiency Optimization",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/20/memori-a-persistent-memory-layer-for-efficient-context-aware-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.19685",
+    "version": 1,
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+    "authors": [
+      "Taiyi Wang",
+      "Sian Gooding",
+      "Florian Hartmann",
+      "Oriana Riva",
+      "Edward Grefenstette"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19685",
+    "pdf_url": "https://arxiv.org/pdf/2603.19685v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Architecture",
+      "Long-Horizon Planning",
+      "Subgoal Decomposition",
+      "Reinforcement Learning",
+      "Web Navigation",
+      "Training Framework",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/20/a-subgoal-driven-framework-for-improving-long-horizon-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.19677",
+    "version": 1,
+    "title": "GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems",
+    "authors": [
+      "Hongjiang Chen",
+      "Xin Zheng",
+      "Yixin Liu",
+      "Pengfei Jiao",
+      "Shiyuan Li"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19677",
+    "pdf_url": "https://arxiv.org/pdf/2603.19677v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Multi-Agent Systems",
+      "Communication Topology",
+      "LLM-based Agents",
+      "Group Collaboration",
+      "Information Bottleneck",
+      "Autoregressive Generation",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/20/goagent-group-of-agents-communication-topology-generation-for-llm-based-multi-ag.md"
+  },
+  {
+    "arxiv_id": "2603.19639",
+    "version": 1,
+    "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+    "authors": [
+      "Beibei Xu",
+      "Yutong Ye",
+      "Chuyun Shen",
+      "Yingbo Zhou",
+      "Cheng Chen"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19639",
+    "pdf_url": "https://arxiv.org/pdf/2603.19639v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agentic Workflow",
+      "Automated Workflow Generation",
+      "Hybrid Reasoning",
+      "LLM-Driven Evolution",
+      "Code Generation",
+      "Tool Use",
+      "Efficiency Optimization"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/20/hyevo-self-evolving-hybrid-agentic-workflows-for-efficient-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.19896",
+    "version": 1,
+    "title": "Utility-Guided Agent Orchestration for Efficient LLM Tool Use",
+    "authors": [
+      "Boyan Liu",
+      "Gongming Zhao",
+      "Hongli Xu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19896",
+    "pdf_url": "https://arxiv.org/pdf/2603.19896v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Tool Use",
+      "Agent Orchestration",
+      "Decision Policy",
+      "Quality-Cost Trade-off",
+      "ReAct",
+      "Utility-Guided",
+      "Multi-Step Reasoning",
+      "LLM Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/20/utility-guided-agent-orchestration-for-efficient-llm-tool-use.md"
+  },
+  {
+    "arxiv_id": "2603.19595",
+    "version": 1,
+    "title": "All-Mem: Agentic Lifelong Memory via Dynamic Topology Evolution",
+    "authors": [
+      "Can Lv",
+      "Heng Chang",
+      "Yuchen Guo",
+      "Shengyu Tao",
+      "Shiji Zhou"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.IR",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19595",
+    "pdf_url": "https://arxiv.org/pdf/2603.19595v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Memory",
+      "Lifelong Learning",
+      "Retrieval-Augmented Generation",
+      "Memory Consolidation",
+      "Long-Context Management",
+      "Online/Offline Framework",
+      "Topology Evolution"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/20/all-mem-agentic-lifelong-memory-via-dynamic-topology-evolution.md"
+  },
+  {
+    "arxiv_id": "2603.20185",
+    "version": 1,
+    "title": "VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+    "authors": [
+      "Jingyang Lin",
+      "Jialian Wu",
+      "Jiang Liu",
+      "Ximeng Sun",
+      "Ze Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20185",
+    "pdf_url": "https://arxiv.org/pdf/2603.20185v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Video Agent",
+      "Tool Use",
+      "Active Perception",
+      "Efficiency",
+      "Long-Horizon Reasoning",
+      "Think-Act-Observe Loop",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/20/videoseek-long-horizon-video-agent-with-tool-guided-seeking.md"
+  },
+  {
+    "arxiv_id": "2603.20179",
+    "version": 1,
+    "title": "AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+    "authors": [
+      "Eric A. Moreno",
+      "Samuel Bright-Thonney",
+      "Andrzej Novak",
+      "Dolores Garcia",
+      "Philip Harris"
+    ],
+    "author_count": 5,
+    "categories": [
+      "hep-ex",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20179",
+    "pdf_url": "https://arxiv.org/pdf/2603.20179v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "AI Agent",
+      "Autonomous Agent",
+      "Scientific Agent",
+      "Multi-Agent",
+      "Tool Use",
+      "Code Generation",
+      "Knowledge Retrieval",
+      "High Energy Physics",
+      "Workflow Automation",
+      "Proof-of-Concept"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/20/ai-agents-can-already-autonomously-perform-experimental-high-energy-physics.md"
+  },
+  {
+    "arxiv_id": "2603.20105",
+    "version": 1,
+    "title": "The $\\mathbf{Y}$-Combinator for LLMs: Solving Long-Context Rot with $λ$-Calculus",
+    "authors": [
+      "Amartya Roy",
+      "Rasul Tutunov",
+      "Xiaotong Ji",
+      "Matthieu Zimmer",
+      "Haitham Bou-Ammar"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20105",
+    "pdf_url": "https://arxiv.org/pdf/2603.20105v1",
+    "github_url": "https://github.com/lambda-calculus-LLM/lambda-RLM",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Reasoning",
+      "Long-Context Reasoning",
+      "Recursive Language Models (RLM)",
+      "Formal Verification",
+      "Control Flow",
+      "Tool Use",
+      "Functional Programming",
+      "Code Generation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/20/the-mathbfy-combinator-for-llms-solving-long-context-rot-with-λ-calculus.md"
+  },
+  {
+    "arxiv_id": "2603.19732",
+    "version": 1,
+    "title": "Helix: A Dual-Helix Co-Evolutionary Multi-Agent System for Prompt Optimization and Question Reformulation",
+    "authors": [
+      "Kewen Zhu",
+      "Liping Yi",
+      "Zhiming Zhao",
+      "Xiang Li",
+      "Qinghua Hu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19732",
+    "pdf_url": "https://arxiv.org/pdf/2603.19732v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Multi-Agent System",
+      "Prompt Optimization",
+      "Question Reformulation",
+      "Co-Evolutionary Framework",
+      "Automated Prompt Engineering",
+      "Agent Collaboration",
+      "Multi-Agent Architecture"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/20/helix-a-dual-helix-co-evolutionary-multi-agent-system-for-prompt-optimization-an.md"
+  },
+  {
+    "arxiv_id": "2603.19649",
+    "version": 1,
+    "title": "PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization",
+    "authors": [
+      "Renhong Huang",
+      "Ning Tang",
+      "Jiarong Xu",
+      "Yuxuan Cao",
+      "Qingqian Tu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.SI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19649",
+    "pdf_url": "https://arxiv.org/pdf/2603.19649v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "LLM-based Agent",
+      "Social Simulation",
+      "Multi-Agent System",
+      "Policy Optimization",
+      "User Modeling",
+      "Agent Evaluation",
+      "Supervised Fine-Tuning",
+      "Direct Preference Optimization"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/20/policysim-an-llm-based-agent-social-simulation-sandbox-for-proactive-policy-opti.md"
+  },
+  {
+    "arxiv_id": "2603.20170",
+    "version": 1,
+    "title": "Learning Dynamic Belief Graphs for Theory-of-mind Reasoning",
+    "authors": [
+      "Ruxiao Chen",
+      "Xilei Zhao",
+      "Thomas J. Cova",
+      "Frank A. Drews",
+      "Susu Xu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20170",
+    "pdf_url": "https://arxiv.org/pdf/2603.20170v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Theory of Mind",
+      "心智推理",
+      "信念建模",
+      "动态图模型",
+      "不确定性推理",
+      "决策预测",
+      "认知架构"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/learning-dynamic-belief-graphs-for-theory-of-mind-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.20101",
+    "version": 1,
+    "title": "Pitfalls in Evaluating Interpretability Agents",
+    "authors": [
+      "Tal Haklay",
+      "Nikhil Prakash",
+      "Sana Pandey",
+      "Antonio Torralba",
+      "Aaron Mueller"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20101",
+    "pdf_url": "https://arxiv.org/pdf/2603.20101v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Interpretability Agent",
+      "Evaluation",
+      "Circuit Analysis",
+      "Research Agent",
+      "LLM-based Agent",
+      "Autonomous Experimentation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/pitfalls-in-evaluating-interpretability-agents.md"
+  },
+  {
+    "arxiv_id": "2603.20075",
+    "version": 1,
+    "title": "Agentic Harness for Real-World Compilers",
+    "authors": [
+      "Yingwei Zheng",
+      "Cong Li",
+      "Shaohua Li",
+      "Yuqun Zhang",
+      "Zhendong Su"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20075",
+    "pdf_url": "https://arxiv.org/pdf/2603.20075v1",
+    "github_url": "https://github.com/dtcxzyw/llvm-autofix",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent 工具与框架",
+      "代码智能体",
+      "专业领域应用",
+      "基准测试",
+      "LLM 能力评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/agentic-harness-for-real-world-compilers.md"
+  },
+  {
+    "arxiv_id": "2603.20003",
+    "version": 1,
+    "title": "An Agentic Approach to Generating XAI-Narratives",
+    "authors": [
+      "Yifan He",
+      "David Martens"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20003",
+    "pdf_url": "https://arxiv.org/pdf/2603.20003v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "多智能体框架",
+      "XAI",
+      "解释生成",
+      "迭代优化",
+      "忠实性评估",
+      "自然语言生成"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/an-agentic-approach-to-generating-xai-narratives.md"
+  },
+  {
+    "arxiv_id": "2603.19974",
+    "version": 1,
+    "title": "Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance",
+    "authors": [
+      "Fazhong Liu",
+      "Zhuoyan Chen",
+      "Tu Lan",
+      "Haozhen Tan",
+      "Zhenyu Xu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19974",
+    "pdf_url": "https://arxiv.org/pdf/2603.19974v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Security",
+      "Adversarial Attack",
+      "Coding Agent",
+      "Tool-Using Agent",
+      "Prompt Injection",
+      "Benchmark",
+      "OpenClaw"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/trojans-whisper-stealthy-manipulation-of-openclaw-through-injected-bootstrapped.md"
+  },
+  {
+    "arxiv_id": "2603.19584",
+    "version": 1,
+    "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+    "authors": [
+      "Xingyu Feng",
+      "Chang Sun",
+      "Yuzhu Wang",
+      "Zhangbing Zhou",
+      "Chengwen Luo"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19584",
+    "pdf_url": "https://arxiv.org/pdf/2603.19584v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Mobile Agent",
+      "Multi-Agent Architecture",
+      "Tool Use & Reasoning",
+      "Personalization",
+      "Safety & Constraint",
+      "System Implementation",
+      "Energy Management"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/powerlens-taming-llm-agents-for-safe-and-personalized-mobile-power-management.md"
+  },
+  {
+    "arxiv_id": "2603.19583",
+    "version": 1,
+    "title": "Skilled AI Agents for Embedded and IoT Systems Development",
+    "authors": [
+      "Yiming Li",
+      "Yuhan Cheng",
+      "Mingchen Ma",
+      "Yihang Zou",
+      "Ningyuan Yang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19583",
+    "pdf_url": "https://arxiv.org/pdf/2603.19583v1",
+    "github_url": "",
+    "published": "2026-03-20",
+    "tags": [
+      "Agent Framework",
+      "Tool Use",
+      "Benchmark",
+      "Embedded Systems",
+      "IoT",
+      "Hardware-in-the-Loop",
+      "Skill Learning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/20/skilled-ai-agents-for-embedded-and-iot-systems-development.md"
+  }
+]

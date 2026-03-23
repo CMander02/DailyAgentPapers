@@ -1,5 +1,35 @@
 [
   {
+    "arxiv_id": "2603.19461",
+    "version": 1,
+    "title": "Hyperagents",
+    "authors": [
+      "Jenny Zhang",
+      "Bingchen Zhao",
+      "Wannan Yang",
+      "Jakob Foerster",
+      "Jeff Clune"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19461",
+    "pdf_url": "https://arxiv.org/pdf/2603.19461v1",
+    "github_url": "https://github.com/facebookresearch/Hyperagents",
+    "published": "2026-03-19",
+    "tags": [
+      "Self-Improving Agents",
+      "Meta-Learning",
+      "Agent Architecture",
+      "Open-Ended Learning",
+      "Computational General Intelligence",
+      "Agent Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/03/19/hyperagents.md"
+  },
+  {
     "arxiv_id": "2603.18897",
     "version": 1,
     "title": "Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution",
@@ -417,6 +447,34 @@
     "md_path": "data/2026/03/19/reflection-in-the-dark-exposing-and-escaping-the-black-box-in-reflective-prompt.md"
   },
   {
+    "arxiv_id": "2603.19453",
+    "version": 1,
+    "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
+    "authors": [
+      "Víctor Gallego"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.GT"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19453",
+    "pdf_url": "https://arxiv.org/pdf/2603.19453v1",
+    "github_url": "https://github.com/vicgalle/llm-policies-social-dilemmas",
+    "published": "2026-03-19",
+    "tags": [
+      "多智能体协作",
+      "策略合成",
+      "LLM编程",
+      "社会困境",
+      "反馈工程",
+      "对抗攻击",
+      "程序化策略"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/19/cooperation-and-exploitation-in-llm-policy-synthesis-for-sequential-social-dilem.md"
+  },
+  {
     "arxiv_id": "2603.18894",
     "version": 1,
     "title": "I Can't Believe It's Corrupt: Evaluating Corruption in Multi-Agent Governance Systems",
@@ -531,5 +589,127 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/03/19/from-weak-cues-to-real-identities-evaluating-inference-driven-de-anonymization-i.md"
+  },
+  {
+    "arxiv_id": "2603.19469",
+    "version": 1,
+    "title": "A Framework for Formalizing LLM Agent Security",
+    "authors": [
+      "Vincent Siu",
+      "Jingxuan He",
+      "Kyle Montgomery",
+      "Zhun Wang",
+      "Neil Gong"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19469",
+    "pdf_url": "https://arxiv.org/pdf/2603.19469v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Security",
+      "Formal Framework",
+      "Contextual Security",
+      "Security Properties",
+      "Attack Formalization",
+      "Defense Formalization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/a-framework-for-formalizing-llm-agent-security.md"
+  },
+  {
+    "arxiv_id": "2603.19423",
+    "version": 1,
+    "title": "The Autonomy Tax: Defense Training Breaks LLM Agents",
+    "authors": [
+      "Shawn Li",
+      "Yue Zhao"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19423",
+    "pdf_url": "https://arxiv.org/pdf/2603.19423v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Adversarial Robustness",
+      "Defense Training",
+      "Capability Degradation",
+      "Multi-step Tasks",
+      "Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/the-autonomy-tax-defense-training-breaks-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.19191",
+    "version": 1,
+    "title": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
+    "authors": [
+      "Zehao Li",
+      "Zhenyu Wu",
+      "Yibo Zhao",
+      "Bowen Yang",
+      "Jingjing Xie"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19191",
+    "pdf_url": "https://arxiv.org/pdf/2603.19191v1",
+    "github_url": "",
+    "published": "2026-03-19",
+    "tags": [
+      "GUI Agent",
+      "Reward Model",
+      "Critic Model",
+      "Multi-Agent Framework",
+      "Benchmark",
+      "Reinforcement Learning",
+      "Self-Training"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/os-themis-a-scalable-critic-framework-for-generalist-gui-rewards.md"
+  },
+  {
+    "arxiv_id": "2603.19044",
+    "version": 1,
+    "title": "MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models",
+    "authors": [
+      "Chenyang Gu",
+      "Jiahao Cheng",
+      "Meicong Zhang",
+      "Pujun Zheng",
+      "Jinquan Zheng"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.19044",
+    "pdf_url": "https://arxiv.org/pdf/2603.19044v1",
+    "github_url": "https://github.com/ECNU-Text-Computing/IdeaGeneration",
+    "published": "2026-03-19",
+    "tags": [
+      "Agent Reasoning",
+      "Scientific Agent",
+      "Reinforcement Learning",
+      "Fine-tuning",
+      "Agent Training",
+      "Methodology Innovation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/19/mori-learning-motivation-grounded-reasoning-for-scientific-ideation-in-large-lan.md"
   }
 ]
