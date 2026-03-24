@@ -1,0 +1,487 @@
+[
+  {
+    "arxiv_id": "2603.22048",
+    "version": 1,
+    "title": "Dynamic analysis enhances issue resolution",
+    "authors": [
+      "Mingwei Liu",
+      "Zihao Wang",
+      "Zhenxi Chen",
+      "Zheng Pei",
+      "Yanlin Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.22048",
+    "pdf_url": "https://arxiv.org/pdf/2603.22048v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Code Agent",
+      "Automated Debugging",
+      "Dynamic Analysis",
+      "Agent Architecture",
+      "Tool-Augmented Reasoning",
+      "SWE-bench"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/23/dynamic-analysis-enhances-issue-resolution.md"
+  },
+  {
+    "arxiv_id": "2603.21972",
+    "version": 1,
+    "title": "Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe",
+    "authors": [
+      "Xixi Wu",
+      "Qianguo Sun",
+      "Ruiyang Zhang",
+      "Chao Song",
+      "Junlong Wu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21972",
+    "pdf_url": "https://arxiv.org/pdf/2603.21972v1",
+    "github_url": "https://github.com/WxxShirley/Agent-STAR",
+    "published": "2026-03-23",
+    "tags": [
+      "强化学习",
+      "工具使用",
+      "长程规划",
+      "智能体训练",
+      "实证研究",
+      "配方研究",
+      "TravelPlanner"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/23/demystifying-reinforcement-learning-for-long-horizon-tool-using-agents-a-compreh.md"
+  },
+  {
+    "arxiv_id": "2603.21489",
+    "version": 1,
+    "title": "Effective Strategies for Asynchronous Software Engineering Agents",
+    "authors": [
+      "Jiayi Geng",
+      "Graham Neubig"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21489",
+    "pdf_url": "https://arxiv.org/pdf/2603.21489v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "多智能体协作",
+      "软件工程智能体",
+      "异步执行",
+      "任务规划",
+      "协调机制",
+      "代码生成",
+      "基准评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/23/effective-strategies-for-asynchronous-software-engineering-agents.md"
+  },
+  {
+    "arxiv_id": "2603.21613",
+    "version": 1,
+    "title": "AgenticRec: End-to-End Tool-Integrated Policy Optimization for Ranking-Oriented Recommender Agents",
+    "authors": [
+      "Tianyi Li",
+      "Zixuan Wang",
+      "Guidong Lei",
+      "Xiaodong Li",
+      "Hui Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21613",
+    "pdf_url": "https://arxiv.org/pdf/2603.21613v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Recommender Agent",
+      "Tool Use",
+      "Policy Optimization",
+      "ReAct",
+      "Ranking",
+      "Preference Learning",
+      "End-to-End Training"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/23/agenticrec-end-to-end-tool-integrated-policy-optimization-for-ranking-oriented-r.md"
+  },
+  {
+    "arxiv_id": "2603.21563",
+    "version": 1,
+    "title": "Counterfactual Credit Policy Optimization for Multi-Agent Collaboration",
+    "authors": [
+      "Zhongyi Li",
+      "Wan Tian",
+      "Yikun Ban",
+      "Jinju Chen",
+      "Huiming Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21563",
+    "pdf_url": "https://arxiv.org/pdf/2603.21563v1",
+    "github_url": "https://github.com/bhai114/ccpo",
+    "published": "2026-03-23",
+    "tags": [
+      "Multi-Agent Collaboration",
+      "Credit Assignment",
+      "Reinforcement Learning",
+      "Policy Optimization",
+      "Counterfactual Reasoning",
+      "LLM Training",
+      "Mathematical Reasoning",
+      "Logical Reasoning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/23/counterfactual-credit-policy-optimization-for-multi-agent-collaboration.md"
+  },
+  {
+    "arxiv_id": "2603.22114",
+    "version": 1,
+    "title": "Lemma Discovery in Agentic Program Verification",
+    "authors": [
+      "Huan Zhao",
+      "Haoxin Tu",
+      "Zhengyao Liu",
+      "Martin Rinard",
+      "Abhik Roychoudhury"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.22114",
+    "pdf_url": "https://arxiv.org/pdf/2603.22114v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "LLM Agent",
+      "Program Verification",
+      "Theorem Proving",
+      "Tool Use",
+      "Code Understanding",
+      "Lemma Discovery",
+      "Automated Reasoning",
+      "Software Engineering"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/23/lemma-discovery-in-agentic-program-verification.md"
+  },
+  {
+    "arxiv_id": "2603.21877",
+    "version": 1,
+    "title": "P^2O: Joint Policy and Prompt Optimization",
+    "authors": [
+      "Xinyu Lu",
+      "Kaiqi Zhang",
+      "Jinglin Yang",
+      "Boxi Cao",
+      "Yaojie Lu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21877",
+    "pdf_url": "https://arxiv.org/pdf/2603.21877v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "强化学习",
+      "提示优化",
+      "策略优化",
+      "LLM推理",
+      "训练方法",
+      "泛化能力"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/23/p2o-joint-policy-and-prompt-optimization.md"
+  },
+  {
+    "arxiv_id": "2603.21522",
+    "version": 1,
+    "title": "Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation",
+    "authors": [
+      "Lingzhe Zhang",
+      "Tong Jia",
+      "Mingyu Wang",
+      "Weijie Hong",
+      "Chiming Duan"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21522",
+    "pdf_url": "https://arxiv.org/pdf/2603.21522v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "多智能体系统",
+      "故障管理",
+      "推理轨迹表示",
+      "对比学习",
+      "可靠性",
+      "软件工程"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/23/efficient-failure-management-for-multi-agent-systems-with-reasoning-trace-repres.md"
+  },
+  {
+    "arxiv_id": "2603.21475",
+    "version": 1,
+    "title": "Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems",
+    "authors": [
+      "Hehai Lin",
+      "Yu Yan",
+      "Zixuan Wang",
+      "Bo Xu",
+      "Sudong Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21475",
+    "pdf_url": "https://arxiv.org/pdf/2603.21475v1",
+    "github_url": "https://github.com/linhh29/Unified-MAS",
+    "published": "2026-03-23",
+    "tags": [
+      "Multi-Agent Systems",
+      "Automatic Agent Generation",
+      "Knowledge-Intensive Tasks",
+      "Node Synthesis",
+      "Reward Optimization",
+      "Architecture Decoupling"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/23/unified-mas-universally-generating-domain-specific-nodes-for-empowering-automati.md"
+  },
+  {
+    "arxiv_id": "2603.22206",
+    "version": 1,
+    "title": "Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs",
+    "authors": [
+      "Kangqi Ni",
+      "Wenyue Hua",
+      "Xiaoxiang Shi",
+      "Jiang Guo",
+      "Shiyu Chang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.22206",
+    "pdf_url": "https://arxiv.org/pdf/2603.22206v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Multi-Agent Systems",
+      "LLM Serving",
+      "Scheduling",
+      "Heterogeneous Models",
+      "Latency Optimization",
+      "Performance Optimization",
+      "Semantic Routing",
+      "Workflow Execution"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/chimera-latency-and-performance-aware-multi-agent-serving-for-heterogeneous-llms.md"
+  },
+  {
+    "arxiv_id": "2603.22083",
+    "version": 1,
+    "title": "A Context Engineering Framework for Improving Enterprise AI Agents based on Digital-Twin MDP",
+    "authors": [
+      "Xi Yang",
+      "Aurelie Lozano",
+      "Naoki Abe",
+      "Bhavya",
+      "Saurabh Jha"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.22083",
+    "pdf_url": "https://arxiv.org/pdf/2603.22083v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "企业智能体",
+      "离线强化学习",
+      "上下文工程",
+      "数字孪生",
+      "奖励建模",
+      "IT自动化"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/a-context-engineering-framework-for-improving-enterprise-ai-agents-based-on-digi.md"
+  },
+  {
+    "arxiv_id": "2603.21696",
+    "version": 1,
+    "title": "MIND: Multi-agent inference for negotiation dialogue in travel planning",
+    "authors": [
+      "Hunmin Do",
+      "Taejun Yoon",
+      "Kiyong Jung"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21696",
+    "pdf_url": "https://arxiv.org/pdf/2603.21696v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Multi-Agent",
+      "Negotiation",
+      "Theory of Mind",
+      "Dialogue",
+      "Consensus Building",
+      "LLM-as-a-Judge"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/mind-multi-agent-inference-for-negotiation-dialogue-in-travel-planning.md"
+  },
+  {
+    "arxiv_id": "2603.21692",
+    "version": 1,
+    "title": "Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces",
+    "authors": [
+      "Neelmani Vispute"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.DC",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21692",
+    "pdf_url": "https://arxiv.org/pdf/2603.21692v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Agent Infrastructure",
+      "Reasoning Provenance",
+      "Behavioral Analytics",
+      "Agent Execution Record",
+      "Agent Monitoring",
+      "Agent Debugging",
+      "Multi-Agent Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/reasoning-provenance-for-autonomous-ai-agents-structured-behavioral-analytics-be.md"
+  },
+  {
+    "arxiv_id": "2603.21642",
+    "version": 1,
+    "title": "Are AI-assisted Development Tools Immune to Prompt Injection?",
+    "authors": [
+      "Charoes Huang",
+      "Xin Huang",
+      "Amin Milani Fard"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21642",
+    "pdf_url": "https://arxiv.org/pdf/2603.21642v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Prompt Injection",
+      "Empirical Analysis",
+      "AI-assisted Development",
+      "Model Context Protocol (MCP)"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/are-ai-assisted-development-tools-immune-to-prompt-injection.md"
+  },
+  {
+    "arxiv_id": "2603.21630",
+    "version": 1,
+    "title": "EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises",
+    "authors": [
+      "Ankush Agarwal",
+      "Harsh Vishwakarma",
+      "Suraj Nagaje",
+      "Chaitanya Devaguptapu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21630",
+    "pdf_url": "https://arxiv.org/pdf/2603.21630v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "Agent Platform",
+      "Enterprise Agent",
+      "Tool Integration",
+      "Data Synthesis",
+      "Model Training",
+      "Evaluation Benchmark",
+      "Cost Efficiency",
+      "Privacy-Preserving"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/enterpriselab-a-full-stack-platform-for-developing-and-deploying-agents-in-enter.md"
+  },
+  {
+    "arxiv_id": "2603.21558",
+    "version": 1,
+    "title": "Stabilizing Iterative Self-Training with Verified Reasoning via Symbolic Recursive Self-Alignment",
+    "authors": [
+      "Xinyu Zhang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21558",
+    "pdf_url": "https://arxiv.org/pdf/2603.21558v1",
+    "github_url": "",
+    "published": "2026-03-23",
+    "tags": [
+      "自我训练",
+      "推理验证",
+      "符号验证",
+      "递归自对齐",
+      "数据过滤",
+      "偏好学习",
+      "数学推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/23/stabilizing-iterative-self-training-with-verified-reasoning-via-symbolic-recursi.md"
+  }
+]

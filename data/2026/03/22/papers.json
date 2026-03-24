@@ -1,0 +1,401 @@
+[
+  {
+    "arxiv_id": "2603.21065",
+    "version": 1,
+    "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+    "authors": [
+      "Jianing Wang",
+      "Jianfei Zhang",
+      "Qi Guo",
+      "Linsen Guo",
+      "Rumei Li"
+    ],
+    "author_count": 27,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21065",
+    "pdf_url": "https://arxiv.org/pdf/2603.21065v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Architecture",
+      "Tool-Integrated Reasoning",
+      "Reinforcement Learning",
+      "Formal Reasoning",
+      "Mixture-of-Experts",
+      "Policy Optimization",
+      "Theorem Proving",
+      "Auto-formalization",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/03/22/longcat-flash-prover-advancing-native-formal-reasoning-via-agentic-tool-integrat.md"
+  },
+  {
+    "arxiv_id": "2603.21383",
+    "version": 1,
+    "title": "PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost",
+    "authors": [
+      "Junkeun Yi",
+      "Damon Mosk-Aoyama",
+      "Baihe Huang",
+      "Ritu Gala",
+      "Charles Wang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21383",
+    "pdf_url": "https://arxiv.org/pdf/2603.21383v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Post-Training",
+      "Reinforcement Learning",
+      "Supervised Fine-Tuning",
+      "Compute Efficiency",
+      "Generalization",
+      "Agentic Coding",
+      "Policy Optimization",
+      "On-Policy Rollout"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/22/pivotrl-high-accuracy-agentic-post-training-at-low-compute-cost.md"
+  },
+  {
+    "arxiv_id": "2603.21357",
+    "version": 1,
+    "title": "AgentHER: Hindsight Experience Replay for LLM Agent Trajectory Relabeling",
+    "authors": [
+      "Liang Ding"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21357",
+    "pdf_url": "https://arxiv.org/pdf/2603.21357v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent训练",
+      "数据增强",
+      "经验回放",
+      "离线学习",
+      "轨迹重标注",
+      "工具使用",
+      "Web导航",
+      "指令微调"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/22/agenther-hindsight-experience-replay-for-llm-agent-trajectory-relabeling.md"
+  },
+  {
+    "arxiv_id": "2603.21362",
+    "version": 1,
+    "title": "AdaRubric: Task-Adaptive Rubrics for LLM Agent Evaluation",
+    "authors": [
+      "Liang Ding"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21362",
+    "pdf_url": "https://arxiv.org/pdf/2603.21362v1",
+    "github_url": "https://github.com/alphadl/AdaRubrics",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Evaluation",
+      "LLM-as-Judge",
+      "Evaluation Rubrics",
+      "Preference Learning",
+      "DPO",
+      "WebArena",
+      "ToolBench",
+      "SWE-bench",
+      "Task Adaptation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/22/adarubric-task-adaptive-rubrics-for-llm-agent-evaluation.md"
+  },
+  {
+    "arxiv_id": "2603.21272",
+    "version": 1,
+    "title": "The Library Theorem: How External Organization Governs Agentic Reasoning Capacity",
+    "authors": [
+      "Zachary F. Mainen"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.DS",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21272",
+    "pdf_url": "https://arxiv.org/pdf/2603.21272v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Reasoning",
+      "External Memory",
+      "Retrieval Efficiency",
+      "Indexing",
+      "Theoretical Analysis",
+      "Empirical Validation",
+      "Tool-Augmented Agents",
+      "Cognitive Operations",
+      "Parametric Memory"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/22/the-library-theorem-how-external-organization-governs-agentic-reasoning-capacity.md"
+  },
+  {
+    "arxiv_id": "2603.21149",
+    "version": 1,
+    "title": "Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains",
+    "authors": [
+      "Octavian Untila"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21149",
+    "pdf_url": "https://arxiv.org/pdf/2603.21149v1",
+    "github_url": "https://github.com/octavuntila-prog/substrate-guard",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Safety",
+      "Formal Verification",
+      "Tool Use",
+      "Autonomous AI Systems",
+      "SMT Solver",
+      "Multi-Domain Verification"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/22/emergent-formal-verification-how-an-autonomous-ai-ecosystem-independently-discov.md"
+  },
+  {
+    "arxiv_id": "2603.21250",
+    "version": 1,
+    "title": "Graph of States: Solving Abductive Tasks with Large Language Models",
+    "authors": [
+      "Yu Luo",
+      "Rongchen Gao",
+      "Lu Teng",
+      "Xidao Wen",
+      "Jiamin Jiang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21250",
+    "pdf_url": "https://arxiv.org/pdf/2603.21250v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "多智能体协作",
+      "推理与规划",
+      "神经符号系统",
+      "框架设计",
+      "逻辑推理",
+      "状态管理",
+      "回溯机制"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/22/graph-of-states-solving-abductive-tasks-with-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2603.21162",
+    "version": 1,
+    "title": "Revisiting Tree Search for LLMs: Gumbel and Sequential Halving for Budget-Scalable Reasoning",
+    "authors": [
+      "Leonid Ugadiarov",
+      "Yuri Kuratov",
+      "Aleksandr Panov",
+      "Alexey Skrynnik"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21162",
+    "pdf_url": "https://arxiv.org/pdf/2603.21162v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "推理增强",
+      "树搜索",
+      "推理算法",
+      "推理预算",
+      "推理效率",
+      "搜索算法",
+      "蒙特卡洛树搜索",
+      "推理过程优化"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/22/revisiting-tree-search-for-llms-gumbel-and-sequential-halving-for-budget-scalabl.md"
+  },
+  {
+    "arxiv_id": "2603.21440",
+    "version": 1,
+    "title": "KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning",
+    "authors": [
+      "Shuai Wang",
+      "Yinan Yu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21440",
+    "pdf_url": "https://arxiv.org/pdf/2603.21440v1",
+    "github_url": "https://github.com/Wangshuaiia/KG-Hopper",
+    "published": "2026-03-22",
+    "tags": [
+      "知识推理",
+      "强化学习",
+      "工具使用",
+      "单轮推理",
+      "知识图谱问答",
+      "开源模型"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/22/kg-hopper-empowering-compact-open-llms-with-knowledge-graph-reasoning-via-reinfo.md"
+  },
+  {
+    "arxiv_id": "2603.21430",
+    "version": 1,
+    "title": "DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation",
+    "authors": [
+      "Shuai Wang",
+      "Dhasarathy Parthasarathy",
+      "Robert Feldt",
+      "Yinan Yu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21430",
+    "pdf_url": "https://arxiv.org/pdf/2603.21430v1",
+    "github_url": "https://github.com/Wangshuaiia/DomAgent",
+    "published": "2026-03-22",
+    "tags": [
+      "Code Agent",
+      "Domain Adaptation",
+      "Knowledge Graph",
+      "Case-Based Reasoning",
+      "Retrieval-Augmented Generation",
+      "Autonomous Agent",
+      "Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/22/domagent-leveraging-knowledge-graphs-and-case-based-reasoning-for-domain-specifi.md"
+  },
+  {
+    "arxiv_id": "2603.21321",
+    "version": 1,
+    "title": "Improving Coherence and Persistence in Agentic AI for System Optimization",
+    "authors": [
+      "Pantea Karimi",
+      "Kimia Noorbakhsh",
+      "Mohammad Alizadeh",
+      "Hari Balakrishnan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21321",
+    "pdf_url": "https://arxiv.org/pdf/2603.21321v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Architecture",
+      "Long-Horizon Planning",
+      "Knowledge Persistence",
+      "System Optimization",
+      "Multi-Agent Collaboration",
+      "Code Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/22/improving-coherence-and-persistence-in-agentic-ai-for-system-optimization.md"
+  },
+  {
+    "arxiv_id": "2603.21231",
+    "version": 1,
+    "title": "When Convenience Becomes Risk: A Semantic View of Under-Specification in Host-Acting Agents",
+    "authors": [
+      "Di Lu",
+      "Yongzhi Liao",
+      "Xutong Mu",
+      "Lele Zheng",
+      "Ke Cheng"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21231",
+    "pdf_url": "https://arxiv.org/pdf/2603.21231v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Security",
+      "Semantic Under-specification",
+      "Threat Model",
+      "Goal-Oriented Agents",
+      "Host-Acting Agents",
+      "Risk Analysis",
+      "Defense Principles"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/22/when-convenience-becomes-risk-a-semantic-view-of-under-specification-in-host-act.md"
+  },
+  {
+    "arxiv_id": "2603.21019",
+    "version": 1,
+    "title": "SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration",
+    "authors": [
+      "Zihan Guo",
+      "Zhiyu Chen",
+      "Xiaohang Nie",
+      "Jianghao Lin",
+      "Yuanjian Zhou"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.21019",
+    "pdf_url": "https://arxiv.org/pdf/2603.21019v1",
+    "github_url": "",
+    "published": "2026-03-22",
+    "tags": [
+      "Agent Security",
+      "Multi-Agent Collaboration",
+      "Skill Marketplace",
+      "Security Auditing",
+      "Risk Assessment",
+      "Agent Governance"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/22/skillprobe-security-auditing-for-emerging-agent-skill-marketplaces-via-multi-age.md"
+  }
+]

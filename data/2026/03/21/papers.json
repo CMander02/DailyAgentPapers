@@ -1,0 +1,372 @@
+[
+  {
+    "arxiv_id": "2603.20633",
+    "version": 1,
+    "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
+    "authors": [
+      "Bytedance Seed"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20633",
+    "pdf_url": "https://arxiv.org/pdf/2603.20633v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Foundation Model for Agents",
+      "Multi-Turn Interaction",
+      "Tool Use",
+      "Multi-Step Execution",
+      "Unified Agentic Interface",
+      "Search",
+      "Code Generation",
+      "GUI Interaction",
+      "Latency-Aware Inference",
+      "Cost-Aware Inference",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/03/21/seed18-model-card-towards-generalized-real-world-agency.md"
+  },
+  {
+    "arxiv_id": "2603.20691",
+    "version": 1,
+    "title": "SWE-Next: Scalable Real-World Software Engineering Tasks for Agents",
+    "authors": [
+      "Jiarong Liang",
+      "Zhiheng Lyu",
+      "Zijie Liu",
+      "Xiangchao Chen",
+      "Ping Nie"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20691",
+    "pdf_url": "https://arxiv.org/pdf/2603.20691v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "SWE Agent",
+      "Data Collection",
+      "Execution-Grounded",
+      "Benchmark",
+      "Software Engineering",
+      "Self-Verifying",
+      "Scalability"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/21/swe-next-scalable-real-world-software-engineering-tasks-for-agents.md"
+  },
+  {
+    "arxiv_id": "2603.20640",
+    "version": 1,
+    "title": "Hear Both Sides: Efficient Multi-Agent Debate via Diversity-Aware Message Retention",
+    "authors": [
+      "Manh Nguyen",
+      "Anh Nguyen",
+      "Dung Nguyen",
+      "Svetha Venkatesh",
+      "Hung Le"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20640",
+    "pdf_url": "https://arxiv.org/pdf/2603.20640v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Multi-Agent Debate",
+      "Reasoning",
+      "Communication Efficiency",
+      "Message Selection",
+      "Diversity",
+      "Computational Efficiency",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/21/hear-both-sides-efficient-multi-agent-debate-via-diversity-aware-message-retenti.md"
+  },
+  {
+    "arxiv_id": "2603.20975",
+    "version": 1,
+    "title": "DiscoUQ: Structured Disagreement Analysis for Uncertainty Quantification in LLM Agent Ensembles",
+    "authors": [
+      "Bo Jiang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20975",
+    "pdf_url": "https://arxiv.org/pdf/2603.20975v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Uncertainty Quantification",
+      "Multi-Agent Systems",
+      "Ensemble Methods",
+      "Reasoning",
+      "Calibration",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/discouq-structured-disagreement-analysis-for-uncertainty-quantification-in-llm-a.md"
+  },
+  {
+    "arxiv_id": "2603.20976",
+    "version": 1,
+    "title": "Detection of adversarial intent in Human-AI teams using LLMs",
+    "authors": [
+      "Abed K. Musaffar",
+      "Ambuj Singh",
+      "Francesco Bullo"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20976",
+    "pdf_url": "https://arxiv.org/pdf/2603.20976v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Human-AI Team",
+      "Adversarial Intent Detection",
+      "LLM as Defender",
+      "Multi-Agent Security",
+      "Interaction Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/detection-of-adversarial-intent-in-human-ai-teams-using-llms.md"
+  },
+  {
+    "arxiv_id": "2603.20939",
+    "version": 1,
+    "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction",
+    "authors": [
+      "Yuren Hao",
+      "Shuhaib Mehri",
+      "ChengXiang Zhai",
+      "Dilek Hakkani-Tür"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.HC",
+      "cs.IR",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20939",
+    "pdf_url": "https://arxiv.org/pdf/2603.20939v1",
+    "github_url": "https://github.com/YurenHao0426/VARS",
+    "published": "2026-03-21",
+    "tags": [
+      "Conversational Agent",
+      "User Modeling",
+      "Personalization",
+      "Retrieval-Augmented Generation",
+      "Online Learning",
+      "Weak Supervision",
+      "Preference Memory",
+      "Multi-Session Interaction",
+      "Human-AI Collaboration"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/user-preference-modeling-for-conversational-llm-agents-weak-rewards-from-retriev.md"
+  },
+  {
+    "arxiv_id": "2603.20953",
+    "version": 1,
+    "title": "Before the Tool Call: Deterministic Pre-Action Authorization for Autonomous AI Agents",
+    "authors": [
+      "Uchi Uchibeke"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20953",
+    "pdf_url": "https://arxiv.org/pdf/2603.20953v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Agent Safety",
+      "Tool Use",
+      "Authorization",
+      "Security",
+      "Policy Enforcement",
+      "Audit",
+      "Open Source"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/before-the-tool-call-deterministic-pre-action-authorization-for-autonomous-ai-ag.md"
+  },
+  {
+    "arxiv_id": "2603.20933",
+    "version": 1,
+    "title": "AC4A: Access Control for Agents",
+    "authors": [
+      "Reshabh K Sharma",
+      "Dan Grossman"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20933",
+    "pdf_url": "https://arxiv.org/pdf/2603.20933v1",
+    "github_url": "https://github.com/reSHARMA/AC4A",
+    "published": "2026-03-21",
+    "tags": [
+      "Agent Security",
+      "Access Control",
+      "Agent Framework",
+      "Tool Use",
+      "API Interaction",
+      "Web Interaction",
+      "Autonomous Agents",
+      "Trust and Safety"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/ac4a-access-control-for-agents.md"
+  },
+  {
+    "arxiv_id": "2603.20925",
+    "version": 1,
+    "title": "Profit is the Red Team: Stress-Testing Agents in Strategic Economic Interactions",
+    "authors": [
+      "Shouqiao Wang",
+      "Marcello Politi",
+      "Samuele Marro",
+      "Davide Crapis"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20925",
+    "pdf_url": "https://arxiv.org/pdf/2603.20925v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Agent Security",
+      "Red Teaming",
+      "Adversarial Testing",
+      "Strategic Interaction",
+      "Multi-Agent Systems",
+      "Robustness",
+      "Economic Games"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/profit-is-the-red-team-stress-testing-agents-in-strategic-economic-interactions.md"
+  },
+  {
+    "arxiv_id": "2603.20750",
+    "version": 1,
+    "title": "Modeling Epistemic Uncertainty in Social Perception via Rashomon Set Agents",
+    "authors": [
+      "Jinming Yang",
+      "Xinyu Jiang",
+      "Xinshan Jiao",
+      "Xinping Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20750",
+    "pdf_url": "https://arxiv.org/pdf/2603.20750v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Multi-Agent Systems",
+      "Social Simulation",
+      "Belief Modeling",
+      "Retrieval-Augmented Generation (RAG)",
+      "Epistemic Uncertainty",
+      "Subjective Perception",
+      "LLM-driven Simulation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/modeling-epistemic-uncertainty-in-social-perception-via-rashomon-set-agents.md"
+  },
+  {
+    "arxiv_id": "2603.20667",
+    "version": 1,
+    "title": "REVERE: Reflective Evolving Research Engineer for Scientific Workflows",
+    "authors": [
+      "Balaji Dinesh Gangireddi",
+      "Aniketh Garikaparthi",
+      "Manasi Patwardhan",
+      "Arman Cohan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20667",
+    "pdf_url": "https://arxiv.org/pdf/2603.20667v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Agent 架构",
+      "持续学习",
+      "提示优化",
+      "代码智能体",
+      "科学工作流",
+      "记忆与反思",
+      "任务执行"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/revere-reflective-evolving-research-engineer-for-scientific-workflows.md"
+  },
+  {
+    "arxiv_id": "2603.20637",
+    "version": 1,
+    "title": "AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing",
+    "authors": [
+      "Sen Fang",
+      "Weiyuan Ding",
+      "Zhezhen Cao",
+      "Zhou Yang",
+      "Bowen Xu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.20637",
+    "pdf_url": "https://arxiv.org/pdf/2603.20637v1",
+    "github_url": "",
+    "published": "2026-03-21",
+    "tags": [
+      "Multi-Agent System",
+      "Agent Debate",
+      "Code Agent",
+      "Vulnerability Detection",
+      "Agent Reasoning",
+      "Agent Verification",
+      "Tool Use",
+      "Code Property Graph"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/21/aegis-from-clues-to-verdicts-graph-guided-deep-vulnerability-reasoning-via-diale.md"
+  }
+]
