@@ -2,23 +2,24 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-23 (16 篇)
+## 2026-03-24 (17 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [Dynamic analysis enhances issue resolution](https://arxiv.org/abs/2603.22048) | Code Agent, Automated Debugging, Dynamic Analysis |
-| 9.0 | [Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe](https://arxiv.org/abs/2603.21972) [[Code](https://github.com/WxxShirley/Agent-STAR)] | 强化学习, 工具使用, 长程规划 |
-| 9.0 | [Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/abs/2603.21489) | 多智能体协作, 软件工程智能体, 异步执行 |
-| 8.5 | [AgenticRec: End-to-End Tool-Integrated Policy Optimization for Ranking-Oriented Recommender Agents](https://arxiv.org/abs/2603.21613) | Recommender Agent, Tool Use, Policy Optimization |
-| 8.5 | [Counterfactual Credit Policy Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2603.21563) [[Code](https://github.com/bhai114/ccpo)] | Multi-Agent Collaboration, Credit Assignment, Reinforcement Learning |
-| 8.0 | [Lemma Discovery in Agentic Program Verification](https://arxiv.org/abs/2603.22114) | LLM Agent, Program Verification, Theorem Proving |
-| 8.0 | [P^2O: Joint Policy and Prompt Optimization](https://arxiv.org/abs/2603.21877) | 强化学习, 提示优化, 策略优化 |
-| 8.0 | [Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation](https://arxiv.org/abs/2603.21522) | 多智能体系统, 故障管理, 推理轨迹表示 |
-| 8.0 | [Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems](https://arxiv.org/abs/2603.21475) [[Code](https://github.com/linhh29/Unified-MAS)] | Multi-Agent Systems, Automatic Agent Generation, Knowledge-Intensive Tasks |
-| 7.5 | [Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs](https://arxiv.org/abs/2603.22206) | Multi-Agent Systems, LLM Serving, Scheduling |
-| 7.5 | [A Context Engineering Framework for Improving Enterprise AI Agents based on Digital-Twin MDP](https://arxiv.org/abs/2603.22083) | 企业智能体, 离线强化学习, 上下文工程 |
-| 7.5 | [MIND: Multi-agent inference for negotiation dialogue in travel planning](https://arxiv.org/abs/2603.21696) | Multi-Agent, Negotiation, Theory of Mind |
-| 7.5 | [Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692) | Agent Infrastructure, Reasoning Provenance, Behavioral Analytics |
-| 7.5 | [Are AI-assisted Development Tools Immune to Prompt Injection?](https://arxiv.org/abs/2603.21642) | Agent Security, Tool Use, Prompt Injection |
-| 7.5 | [EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises](https://arxiv.org/abs/2603.21630) | Agent Platform, Enterprise Agent, Tool Integration |
-| 7.5 | [Stabilizing Iterative Self-Training with Verified Reasoning via Symbolic Recursive Self-Alignment](https://arxiv.org/abs/2603.21558) | 自我训练, 推理验证, 符号验证 |
+| 9.0 | [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [[Code](https://github.com/MAC-AutoML/SpecEyes)] | Agent Acceleration, Speculative Execution, Multimodal Agent |
+| 9.0 | [MemCollab: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation](https://arxiv.org/abs/2603.23234) | Agent记忆, 多智能体协作, 知识蒸馏 |
+| 9.0 | [Polaris: A Gödel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair](https://arxiv.org/abs/2603.23129) | Agent Architecture, Self-Improvement, Policy Repair |
+| 8.5 | [PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments](https://arxiv.org/abs/2603.23231) [[Code](https://github.com/PolarisLiu1/PERMA)] | Agent记忆, 个性化Agent, 评测基准 |
+| 8.5 | [Knowledge Access Beats Model Size: Memory Augmented Routing for Persistent AI Agents](https://arxiv.org/abs/2603.23013) | Memory-Augmented Agents, Inference Efficiency, Retrieval-Augmented Generation |
+| 8.5 | [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://arxiv.org/abs/2603.22862) | 综述, 工具使用, 多工具编排 |
+| 8.5 | [Empirical Comparison of Agent Communication Protocols for Task Orchestration](https://arxiv.org/abs/2603.22823) | Agent Communication, Benchmark, Multi-Agent Systems |
+| 8.0 | [Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448) | Code Agent, Agent Benchmark, Agent Evaluation |
+| 8.0 | [Agent-Sentry: Bounding LLM Agents via Execution Provenance](https://arxiv.org/abs/2603.22868) | Agent Security, Tool Use Control, Execution Monitoring |
+| 8.0 | [ABSTRAL: Automatic Design of Multi-Agent Systems Through Iterative Refinement and Topology Optimization](https://arxiv.org/abs/2603.22791) | Multi-Agent Systems, System Design, Architecture Optimization |
+| 7.5 | [SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling](https://arxiv.org/abs/2603.23414) | 强化学习训练, 训练效率, 调度策略 |
+| 7.5 | [Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies](https://arxiv.org/abs/2603.23406) [[Code](https://github.com/armihia/CMASE-Endogenous-Stances)] | 多智能体社会, 立场形成, 身份协商 |
+| 7.5 | [AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://arxiv.org/abs/2603.23007) | Agent Security, Adversarial Attack, Mobile GUI Agent |
+| 7.5 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918) [[Code](https://github.com/wangruohui/EfficientVideoAgent)] | Video Agent, Reinforcement Learning, Planning-Before-Perception |
+| 7.5 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | Agent Security, Tool Use, Static Analysis |
+| 7.5 | [Beyond Binary Correctness: Scaling Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks](https://arxiv.org/abs/2603.22744) | Agent Evaluation, Long-Horizon Tasks, Subjective Tasks |
+| 7.5 | [Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies](https://arxiv.org/abs/2603.22651) | 多智能体架构, 信息抽取, 基准评测 |
