@@ -1,0 +1,589 @@
+[
+  {
+    "arxiv_id": "2603.24477",
+    "version": 1,
+    "title": "Composer 2 Technical Report",
+    "authors": [
+      "Cursor Reseach",
+      ":",
+      "Aaron Chan",
+      "Ahmed Shalaby",
+      "Alexander Wettig"
+    ],
+    "author_count": 56,
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24477",
+    "pdf_url": "https://arxiv.org/pdf/2603.24477v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Architecture/Training",
+      "Software Engineering Agent",
+      "Reinforcement Learning",
+      "Long-Horizon Planning",
+      "Tool Use",
+      "Benchmarking",
+      "SWE-bench"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/25/composer-2-technical-report.md"
+  },
+  {
+    "arxiv_id": "2603.24533",
+    "version": 1,
+    "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
+    "authors": [
+      "Zichuan Lin",
+      "Feiyu Liu",
+      "Yijun Yang",
+      "Jiafei Lyu",
+      "Yiming Gao"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24533",
+    "pdf_url": "https://arxiv.org/pdf/2603.24533v1",
+    "github_url": "https://github.com/ui-voyager/UI-Voyager",
+    "published": "2026-03-25",
+    "tags": [
+      "GUI Agent",
+      "Self-Evolving",
+      "Mobile Automation",
+      "Reinforcement Learning",
+      "Fine-Tuning",
+      "Knowledge Distillation",
+      "AndroidWorld",
+      "Multimodal LLM"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/25/ui-voyager-a-self-evolving-gui-agent-learning-via-failed-experience.md"
+  },
+  {
+    "arxiv_id": "2603.23951",
+    "version": 1,
+    "title": "From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents",
+    "authors": [
+      "Sirui Xia",
+      "Yikai Zhang",
+      "Aili Chen",
+      "Siye Wu",
+      "Siyu Yuan"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23951",
+    "pdf_url": "https://arxiv.org/pdf/2603.23951v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent 框架",
+      "自动化算法发现",
+      "策略优化",
+      "LLM 驱动的 Agent",
+      "闭环系统",
+      "强化学习",
+      "数学推理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/25/from-ai-assistant-to-ai-scientist-autonomous-discovery-of-llm-rl-algorithms-with.md"
+  },
+  {
+    "arxiv_id": "2603.24579",
+    "version": 1,
+    "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+    "authors": [
+      "Zhuo Li",
+      "Yupeng Zhang",
+      "Pengyu Cheng",
+      "Jiajun Song",
+      "Mengyu Zhou"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24579",
+    "pdf_url": "https://arxiv.org/pdf/2603.24579v1",
+    "github_url": "https://github.com/Qwen-Applications/MARCH",
+    "published": "2026-03-25",
+    "tags": [
+      "Hallucination Detection",
+      "Multi-Agent System",
+      "Reinforcement Learning",
+      "Retrieval-Augmented Generation",
+      "Self-Check",
+      "Factual Verification"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/march-multi-agent-reinforced-self-check-for-llm-hallucination.md"
+  },
+  {
+    "arxiv_id": "2603.24465",
+    "version": 1,
+    "title": "Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving",
+    "authors": [
+      "Ruichen Qiu",
+      "Yichuan Cao",
+      "Junqi Liu",
+      "Dakai Guo",
+      "Xiao-Shan Gao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24465",
+    "pdf_url": "https://arxiv.org/pdf/2603.24465v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Automated Theorem Proving",
+      "Proof Decomposition",
+      "Agent Workflow",
+      "Reasoning",
+      "Lean",
+      "Mathematical Reasoning",
+      "Formal Verification",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/mechanic-sorrifier-driven-formal-decomposition-workflow-for-automated-theorem-pr.md"
+  },
+  {
+    "arxiv_id": "2603.24440",
+    "version": 1,
+    "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+    "authors": [
+      "Xiangru Jian",
+      "Shravan Nayak",
+      "Kevin Qinghong Lin",
+      "Aarash Feizi",
+      "Kaixin Li"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24440",
+    "pdf_url": "https://arxiv.org/pdf/2603.24440v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Computer-Use Agent",
+      "Dataset",
+      "Video Demonstrations",
+      "Benchmark",
+      "UI Grounding",
+      "Desktop Automation",
+      "Human-in-the-Loop Data"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/cua-suite-massive-human-annotated-video-demonstrations-for-computer-use-agents.md"
+  },
+  {
+    "arxiv_id": "2603.24402",
+    "version": 1,
+    "title": "AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model",
+    "authors": [
+      "Yunbo Long"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24402",
+    "pdf_url": "https://arxiv.org/pdf/2603.24402v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "多智能体协作",
+      "智能体架构",
+      "知识表示与记忆",
+      "自主规划与推理",
+      "研究智能体",
+      "自我纠正",
+      "知识图谱"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/ai-supervisor-autonomous-ai-research-supervision-via-a-persistent-research-world.md"
+  },
+  {
+    "arxiv_id": "2603.24414",
+    "version": 1,
+    "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
+    "authors": [
+      "Songyang Liu",
+      "Chaozhuo Li",
+      "Chenxu Wang",
+      "Jinyu Hou",
+      "Zejian Chen"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24414",
+    "pdf_url": "https://arxiv.org/pdf/2603.24414v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Safety",
+      "Security Framework",
+      "Tool-Augmented Agents",
+      "Runtime Monitoring",
+      "Open Source Agent",
+      "Multi-Layer Protection"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/clawkeeper-comprehensive-safety-protection-for-openclaw-agents-through-skills-pl.md"
+  },
+  {
+    "arxiv_id": "2603.23848",
+    "version": 1,
+    "title": "BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents",
+    "authors": [
+      "Praveen Kumar Myakala",
+      "Manan Agrawal",
+      "Rahul Manche"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23848",
+    "pdf_url": "https://arxiv.org/pdf/2603.23848v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Benchmark",
+      "Long-term Memory",
+      "Belief Dynamics",
+      "Multi-session Interaction",
+      "Evaluation Metrics",
+      "RAG",
+      "Conversational Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/25/beliefshift-benchmarking-temporal-belief-consistency-and-opinion-drift-in-llm-ag.md"
+  },
+  {
+    "arxiv_id": "2603.24558",
+    "version": 1,
+    "title": "LensWalk: Agentic Video Understanding by Planning How You See in Videos",
+    "authors": [
+      "Keliang Li",
+      "Yansong Li",
+      "Hongze Shen",
+      "Mengdi Liu",
+      "Hong Chang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24558",
+    "pdf_url": "https://arxiv.org/pdf/2603.24558v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agentic Framework",
+      "Video Understanding",
+      "Tool Use",
+      "Reasoning and Planning",
+      "Active Perception",
+      "Vision-Language Models",
+      "Zero-Shot"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/lenswalk-agentic-video-understanding-by-planning-how-you-see-in-videos.md"
+  },
+  {
+    "arxiv_id": "2603.24284",
+    "version": 1,
+    "title": "The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents",
+    "authors": [
+      "Camilo Chacón Sartori"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24284",
+    "pdf_url": "https://arxiv.org/pdf/2603.24284v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Multi-Agent Collaboration",
+      "Code Agent",
+      "Specification",
+      "Coordination Failure",
+      "Evaluation",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/the-specification-gap-coordination-failure-under-partial-knowledge-in-code-agent.md"
+  },
+  {
+    "arxiv_id": "2603.24203",
+    "version": 1,
+    "title": "Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search",
+    "authors": [
+      "Yulin Shen",
+      "Xudong Pan",
+      "Geng Hong",
+      "Min Yang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24203",
+    "pdf_url": "https://arxiv.org/pdf/2603.24203v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Security",
+      "Tool-Augmented Agents",
+      "Adversarial Attack",
+      "Model Context Protocol (MCP)",
+      "Black-box Attack",
+      "Prompt Injection"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/invisible-threats-from-model-context-protocol-generating-stealthy-injection-payl.md"
+  },
+  {
+    "arxiv_id": "2603.24160",
+    "version": 1,
+    "title": "Towards Automated Crowdsourced Testing via Personified-LLM",
+    "authors": [
+      "Shengcheng Yu",
+      "Yuchen Ling",
+      "Chunrong Fang",
+      "Zhenyu Chen",
+      "Chunyang Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24160",
+    "pdf_url": "https://arxiv.org/pdf/2603.24160v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "GUI Testing Agent",
+      "Persona-Driven Agent",
+      "Agent Behavior Simulation",
+      "Automated Testing",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/towards-automated-crowdsourced-testing-via-personified-llm.md"
+  },
+  {
+    "arxiv_id": "2603.24051",
+    "version": 1,
+    "title": "FinToolSyn: A forward synthesis Framework for Financial Tool-Use Dialogue Data with Dynamic Tool Retrieval",
+    "authors": [
+      "Caishuang Huang",
+      "Yang Qiao",
+      "Rongyu Zhang",
+      "Junjie Ye",
+      "Pu Lu"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24051",
+    "pdf_url": "https://arxiv.org/pdf/2603.24051v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Tool-Use Agent",
+      "Data Synthesis",
+      "Financial Agent",
+      "Tool Retrieval",
+      "Benchmark",
+      "Dialogue Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/fintoolsyn-a-forward-synthesis-framework-for-financial-tool-use-dialogue-data-wi.md"
+  },
+  {
+    "arxiv_id": "2603.24014",
+    "version": 1,
+    "title": "Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing",
+    "authors": [
+      "Xusen Guo",
+      "Mingxing Peng",
+      "Hongliang Lu",
+      "Hai Yang",
+      "Jun Ma"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24014",
+    "pdf_url": "https://arxiv.org/pdf/2603.24014v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Multi-Agent",
+      "LLM-based Agent",
+      "Planning",
+      "Negotiation",
+      "Human-Agent Interaction",
+      "Urban Sensing",
+      "Fairness",
+      "Personalization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/language-grounded-multi-agent-planning-for-personalized-and-fair-participatory-u.md"
+  },
+  {
+    "arxiv_id": "2603.23875",
+    "version": 1,
+    "title": "Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios",
+    "authors": [
+      "Li Ma",
+      "Hao Peng",
+      "Yiming Wang",
+      "Hongbin Luo",
+      "Jie Liu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23875",
+    "pdf_url": "https://arxiv.org/pdf/2603.23875v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Multi-Agent",
+      "Real-Time Decision Making",
+      "LLM-based Agent",
+      "Planning",
+      "Memory",
+      "Self-Evolution",
+      "Efficiency Optimization",
+      "StarCraft II"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/self-evolving-multi-agent-framework-for-efficient-decision-making-in-real-time-s.md"
+  },
+  {
+    "arxiv_id": "2603.23852",
+    "version": 1,
+    "title": "APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs",
+    "authors": [
+      "Yanjing Yang",
+      "Chenxing Zhong",
+      "Ke Han",
+      "Zeru Cheng",
+      "Jinwei Xu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23852",
+    "pdf_url": "https://arxiv.org/pdf/2603.23852v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Tool Use",
+      "Web Agent",
+      "API Discovery",
+      "Robustness",
+      "Agent Infrastructure",
+      "Unsupervised Learning",
+      "Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/apisensor-robust-discovery-of-web-api-from-runtime-traffic-logs.md"
+  },
+  {
+    "arxiv_id": "2603.23840",
+    "version": 1,
+    "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
+    "authors": [
+      "Yuhao Chen",
+      "Yi Xu",
+      "Xinyun Ding",
+      "Xiang Fang",
+      "Shuochen Liu"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23840",
+    "pdf_url": "https://arxiv.org/pdf/2603.23840v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Benchmark",
+      "Long-Term Memory",
+      "Multi-User Interaction",
+      "Tool Use",
+      "In-Vehicle Agent",
+      "Simulation Environment",
+      "Memory Evolution",
+      "Preference Modeling"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/vehiclemembench-an-executable-benchmark-for-multi-user-long-term-memory-in-in-ve.md"
+  },
+  {
+    "arxiv_id": "2603.23806",
+    "version": 1,
+    "title": "Willful Disobedience: Automatically Detecting Failures in Agentic Traces",
+    "authors": [
+      "Reshabh K Sharma",
+      "Shraddha Barke",
+      "Benjamin Zorn"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.23806",
+    "pdf_url": "https://arxiv.org/pdf/2603.23806v1",
+    "github_url": "",
+    "published": "2026-03-25",
+    "tags": [
+      "Agent Evaluation",
+      "Agentic Traces",
+      "Specification Compliance",
+      "Failure Detection",
+      "Tool Usage",
+      "Multi-step Workflow",
+      "Benchmarking"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/25/willful-disobedience-automatically-detecting-failures-in-agentic-traces.md"
+  }
+]

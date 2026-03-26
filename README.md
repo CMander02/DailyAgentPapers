@@ -2,24 +2,26 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-24 (17 篇)
+## 2026-03-25 (19 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [[Code](https://github.com/MAC-AutoML/SpecEyes)] | Agent Acceleration, Speculative Execution, Multimodal Agent |
-| 9.0 | [MemCollab: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation](https://arxiv.org/abs/2603.23234) | Agent记忆, 多智能体协作, 知识蒸馏 |
-| 9.0 | [Polaris: A Gödel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair](https://arxiv.org/abs/2603.23129) | Agent Architecture, Self-Improvement, Policy Repair |
-| 8.5 | [PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments](https://arxiv.org/abs/2603.23231) [[Code](https://github.com/PolarisLiu1/PERMA)] | Agent记忆, 个性化Agent, 评测基准 |
-| 8.5 | [Knowledge Access Beats Model Size: Memory Augmented Routing for Persistent AI Agents](https://arxiv.org/abs/2603.23013) | Memory-Augmented Agents, Inference Efficiency, Retrieval-Augmented Generation |
-| 8.5 | [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://arxiv.org/abs/2603.22862) | 综述, 工具使用, 多工具编排 |
-| 8.5 | [Empirical Comparison of Agent Communication Protocols for Task Orchestration](https://arxiv.org/abs/2603.22823) | Agent Communication, Benchmark, Multi-Agent Systems |
-| 8.0 | [Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448) | Code Agent, Agent Benchmark, Agent Evaluation |
-| 8.0 | [Agent-Sentry: Bounding LLM Agents via Execution Provenance](https://arxiv.org/abs/2603.22868) | Agent Security, Tool Use Control, Execution Monitoring |
-| 8.0 | [ABSTRAL: Automatic Design of Multi-Agent Systems Through Iterative Refinement and Topology Optimization](https://arxiv.org/abs/2603.22791) | Multi-Agent Systems, System Design, Architecture Optimization |
-| 7.5 | [SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling](https://arxiv.org/abs/2603.23414) | 强化学习训练, 训练效率, 调度策略 |
-| 7.5 | [Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies](https://arxiv.org/abs/2603.23406) [[Code](https://github.com/armihia/CMASE-Endogenous-Stances)] | 多智能体社会, 立场形成, 身份协商 |
-| 7.5 | [AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://arxiv.org/abs/2603.23007) | Agent Security, Adversarial Attack, Mobile GUI Agent |
-| 7.5 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918) [[Code](https://github.com/wangruohui/EfficientVideoAgent)] | Video Agent, Reinforcement Learning, Planning-Before-Perception |
-| 7.5 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | Agent Security, Tool Use, Static Analysis |
-| 7.5 | [Beyond Binary Correctness: Scaling Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks](https://arxiv.org/abs/2603.22744) | Agent Evaluation, Long-Horizon Tasks, Subjective Tasks |
-| 7.5 | [Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies](https://arxiv.org/abs/2603.22651) | 多智能体架构, 信息抽取, 基准评测 |
+| 9.0 | [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477) | Agent Architecture/Training, Software Engineering Agent, Reinforcement Learning |
+| 8.5 | [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) [[Code](https://github.com/ui-voyager/UI-Voyager)] | GUI Agent, Self-Evolving, Mobile Automation |
+| 8.5 | [From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents](https://arxiv.org/abs/2603.23951) | Agent 框架, 自动化算法发现, 策略优化 |
+| 8.0 | [MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579) [[Code](https://github.com/Qwen-Applications/MARCH)] | Hallucination Detection, Multi-Agent System, Reinforcement Learning |
+| 8.0 | [Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving](https://arxiv.org/abs/2603.24465) | Automated Theorem Proving, Proof Decomposition, Agent Workflow |
+| 8.0 | [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://arxiv.org/abs/2603.24440) | Computer-Use Agent, Dataset, Video Demonstrations |
+| 8.0 | [AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model](https://arxiv.org/abs/2603.24402) | 多智能体协作, 智能体架构, 知识表示与记忆 |
+| 8.0 | [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://arxiv.org/abs/2603.24414) | Agent Safety, Security Framework, Tool-Augmented Agents |
+| 8.0 | [BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents](https://arxiv.org/abs/2603.23848) | Agent Benchmark, Long-term Memory, Belief Dynamics |
+| 7.5 | [LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558) | Agentic Framework, Video Understanding, Tool Use |
+| 7.5 | [The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents](https://arxiv.org/abs/2603.24284) | Multi-Agent Collaboration, Code Agent, Specification |
+| 7.5 | [Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search](https://arxiv.org/abs/2603.24203) | Agent Security, Tool-Augmented Agents, Adversarial Attack |
+| 7.5 | [Towards Automated Crowdsourced Testing via Personified-LLM](https://arxiv.org/abs/2603.24160) | GUI Testing Agent, Persona-Driven Agent, Agent Behavior Simulation |
+| 7.5 | [FinToolSyn: A forward synthesis Framework for Financial Tool-Use Dialogue Data with Dynamic Tool Retrieval](https://arxiv.org/abs/2603.24051) | Tool-Use Agent, Data Synthesis, Financial Agent |
+| 7.5 | [Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing](https://arxiv.org/abs/2603.24014) | Multi-Agent, LLM-based Agent, Planning |
+| 7.5 | [Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios](https://arxiv.org/abs/2603.23875) | Multi-Agent, Real-Time Decision Making, LLM-based Agent |
+| 7.5 | [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) | Tool Use, Web Agent, API Discovery |
+| 7.5 | [VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents](https://arxiv.org/abs/2603.23840) | Agent Benchmark, Long-Term Memory, Multi-User Interaction |
+| 7.5 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://arxiv.org/abs/2603.23806) | Agent Evaluation, Agentic Traces, Specification Compliance |
