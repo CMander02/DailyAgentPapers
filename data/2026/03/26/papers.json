@@ -1,0 +1,524 @@
+[
+  {
+    "arxiv_id": "2603.25268",
+    "version": 1,
+    "title": "CRAFT: Grounded Multi-Agent Coordination Under Partial Information",
+    "authors": [
+      "Abhijnan Nath",
+      "Hannah VanderHoeven",
+      "Nikhil Krishnaswamy"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25268",
+    "pdf_url": "https://arxiv.org/pdf/2603.25268v1",
+    "github_url": "https://github.com/csu-signal/CRAFT",
+    "published": "2026-03-26",
+    "tags": [
+      "多智能体协作",
+      "基准评测",
+      "部分信息",
+      "语用推理",
+      "通信",
+      "协调",
+      "诊断框架",
+      "3D结构构建"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/26/craft-grounded-multi-agent-coordination-under-partial-information.md"
+  },
+  {
+    "arxiv_id": "2603.25158",
+    "version": 1,
+    "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+    "authors": [
+      "Jingwei Ni",
+      "Yihao Liu",
+      "Xinpeng Liu",
+      "Yutao Sun",
+      "Mengyu Zhou"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25158",
+    "pdf_url": "https://arxiv.org/pdf/2603.25158v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent技能学习",
+      "技能蒸馏",
+      "轨迹分析",
+      "多智能体系统",
+      "归纳推理",
+      "技能泛化",
+      "开源模型",
+      "无需参数更新"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/26/trace2skill-distill-trajectory-local-lessons-into-transferable-agent-skills.md"
+  },
+  {
+    "arxiv_id": "2603.25111",
+    "version": 1,
+    "title": "SEVerA: Verified Synthesis of Self-Evolving Agents",
+    "authors": [
+      "Debangshu Banerjee",
+      "Changming Xu",
+      "Gagandeep Singh"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.PL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25111",
+    "pdf_url": "https://arxiv.org/pdf/2603.25111v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Self-Evolving Agent",
+      "Formal Verification",
+      "Agent Safety",
+      "Agent Synthesis",
+      "Program Synthesis",
+      "Constrained Learning",
+      "Tool Use",
+      "Agent Architecture"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/26/severa-verified-synthesis-of-self-evolving-agents.md"
+  },
+  {
+    "arxiv_id": "2603.25723",
+    "version": 1,
+    "title": "Natural-Language Agent Harnesses",
+    "authors": [
+      "Linyue Pan",
+      "Lexiao Zou",
+      "Shuo Guo",
+      "Jingchen Ni",
+      "Hai-Tao Zheng"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25723",
+    "pdf_url": "https://arxiv.org/pdf/2603.25723v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Architecture",
+      "Agent Control",
+      "Agent Engineering",
+      "Agent Runtime",
+      "Natural Language Programming",
+      "Tool Use",
+      "Benchmark Evaluation",
+      "Code Agent",
+      "Computer-Use Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/26/natural-language-agent-harnesses.md"
+  },
+  {
+    "arxiv_id": "2603.25091",
+    "version": 1,
+    "title": "Pixelis: Reasoning in Pixels, from Seeing to Acting",
+    "authors": [
+      "Yunpeng Zhou"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25091",
+    "pdf_url": "https://arxiv.org/pdf/2603.25091v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "视觉智能体",
+      "像素空间操作",
+      "工具学习",
+      "强化学习",
+      "测试时适应",
+      "视觉推理",
+      "多模态学习",
+      "视觉语言模型"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/26/pixelis-reasoning-in-pixels-from-seeing-to-acting.md"
+  },
+  {
+    "arxiv_id": "2603.25001",
+    "version": 1,
+    "title": "Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation",
+    "authors": [
+      "Yeonjun In",
+      "Mehrab Tanjim",
+      "Jayakumar Subramanian",
+      "Sungchul Kim",
+      "Uttaran Bhattacharya"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25001",
+    "pdf_url": "https://arxiv.org/pdf/2603.25001v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "多智能体系统",
+      "故障归因",
+      "评测基准",
+      "评估协议",
+      "大语言模型评估",
+      "系统诊断"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/26/rethinking-failure-attribution-in-multi-agent-systems-a-multi-perspective-benchm.md"
+  },
+  {
+    "arxiv_id": "2603.24973",
+    "version": 1,
+    "title": "Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation",
+    "authors": [
+      "Weiwei Fang",
+      "Lin Li",
+      "Kaize Shi",
+      "Yu Yang",
+      "Jianwei Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24973",
+    "pdf_url": "https://arxiv.org/pdf/2603.24973v1",
+    "github_url": "https://github.com/WUT-IDEA/BEACOF",
+    "published": "2026-03-26",
+    "tags": [
+      "多智能体协作",
+      "信念建模",
+      "不完全信息博弈",
+      "社会模拟",
+      "决策框架",
+      "贝叶斯均衡"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/26/belief-driven-multi-agent-collaboration-via-approximate-perfect-bayesian-equilib.md"
+  },
+  {
+    "arxiv_id": "2603.24943",
+    "version": 1,
+    "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+    "authors": [
+      "Jie Zhu",
+      "Yimin Tian",
+      "Boyang Li",
+      "Kehao Wu",
+      "Zhongzhi Liang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.24943",
+    "pdf_url": "https://arxiv.org/pdf/2603.24943v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Benchmark",
+      "Tool Use",
+      "Financial Agent",
+      "Model Context Protocol",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/26/finmcp-bench-benchmarking-llm-agents-for-real-world-financial-tool-use-under-the.md"
+  },
+  {
+    "arxiv_id": "2603.25719",
+    "version": 1,
+    "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+    "authors": [
+      "Abhishek Bhandwaldar",
+      "Mihir Choudhury",
+      "Ruchir Puri",
+      "Akash Srivastava"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.AR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25719",
+    "pdf_url": "https://arxiv.org/pdf/2603.25719v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Multi-Agent Systems",
+      "Code Generation Agent",
+      "Hardware Optimization",
+      "Automated Reasoning",
+      "Tool Use",
+      "Empirical Study"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/agent-factories-for-high-level-synthesis-how-far-can-general-purpose-coding-agen.md"
+  },
+  {
+    "arxiv_id": "2603.25620",
+    "version": 1,
+    "title": "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency",
+    "authors": [
+      "Minseo Kim",
+      "Sujeong Im",
+      "Junseong Choi",
+      "Junhee Lee",
+      "Chaeeun Shim"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25620",
+    "pdf_url": "https://arxiv.org/pdf/2603.25620v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Persona Agent",
+      "Evaluation Framework",
+      "Multi-turn Interaction",
+      "Consistency",
+      "Human-Agent Comparison",
+      "Benchmarking"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/picon-a-multi-turn-interrogation-framework-for-evaluating-persona-agent-consiste.md"
+  },
+  {
+    "arxiv_id": "2603.25697",
+    "version": 1,
+    "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+    "authors": [
+      "Yannick Roy"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25697",
+    "pdf_url": "https://arxiv.org/pdf/2603.25697v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Framework",
+      "Code Agent",
+      "Self-Evolving Systems",
+      "Synthetic User Simulation",
+      "Automated Testing",
+      "Continuous Integration",
+      "Trust Model",
+      "Production Validation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/the-kitchen-loop-user-spec-driven-development-for-a-self-evolving-codebase.md"
+  },
+  {
+    "arxiv_id": "2603.25253",
+    "version": 1,
+    "title": "MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation",
+    "authors": [
+      "Taolin Han",
+      "Shuang Wu",
+      "Jinghang Wang",
+      "Yuhao Zhou",
+      "Renquan Lv"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25253",
+    "pdf_url": "https://arxiv.org/pdf/2603.25253v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "科学智能体",
+      "评估基准",
+      "溯因推理",
+      "交互式任务",
+      "分子结构解析",
+      "多模态信息整合",
+      "规划与决策"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/molquest-a-benchmark-for-agentic-evaluation-of-abductive-reasoning-in-chemical-s.md"
+  },
+  {
+    "arxiv_id": "2603.25243",
+    "version": 1,
+    "title": "FluxEDA: A Unified Execution Infrastructure for Stateful Agentic EDA",
+    "authors": [
+      "Zhengrui Chen",
+      "Zixuan Song",
+      "Yu Li",
+      "Qi Sun",
+      "Cheng Zhuo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25243",
+    "pdf_url": "https://arxiv.org/pdf/2603.25243v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Infrastructure",
+      "Tool Use",
+      "State Management",
+      "EDA Automation",
+      "Iterative Execution",
+      "Application-Specific Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/fluxeda-a-unified-execution-infrastructure-for-stateful-agentic-eda.md"
+  },
+  {
+    "arxiv_id": "2603.25226",
+    "version": 1,
+    "title": "WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing",
+    "authors": [
+      "Fanheng Kong",
+      "Jingyuan Zhang",
+      "Yang Yue",
+      "Chenxi Sun",
+      "Yang Tian"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25226",
+    "pdf_url": "https://arxiv.org/pdf/2603.25226v1",
+    "github_url": "https://github.com/friedrichor/WebTestBench",
+    "published": "2026-03-26",
+    "tags": [
+      "Web Agent",
+      "Agent Benchmark",
+      "Agent Evaluation",
+      "Tool Use",
+      "Human-Computer Interaction",
+      "End-to-End Testing"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/webtestbench-evaluating-computer-use-agents-towards-end-to-end-automated-web-tes.md"
+  },
+  {
+    "arxiv_id": "2603.25097",
+    "version": 1,
+    "title": "ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents",
+    "authors": [
+      "Cristian Lupascu",
+      "Alexandru Lupascu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25097",
+    "pdf_url": "https://arxiv.org/pdf/2603.25097v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent 架构",
+      "记忆系统",
+      "知识图谱",
+      "检索增强",
+      "安全与可信",
+      "开源系统",
+      "实验验证"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/elephantbroker-a-knowledge-grounded-cognitive-runtime-for-trustworthy-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2603.25063",
+    "version": 1,
+    "title": "TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization",
+    "authors": [
+      "Nathaniel Gorski",
+      "Shusen Liu",
+      "Bei Wang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25063",
+    "pdf_url": "https://arxiv.org/pdf/2603.25063v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Architecture",
+      "Workflow Automation",
+      "Scientific Agent",
+      "Tool Use",
+      "Reliability & Verification",
+      "Multi-Agent System",
+      "Human-AI Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/topopilot-reliable-conversational-workflow-automation-for-topological-data-analy.md"
+  },
+  {
+    "arxiv_id": "2603.25056",
+    "version": 1,
+    "title": "The System Prompt Is the Attack Surface: How LLM Agent Configuration Shapes Security and Creates Exploitable Vulnerabilities",
+    "authors": [
+      "Ron Litvak"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.25056",
+    "pdf_url": "https://arxiv.org/pdf/2603.25056v1",
+    "github_url": "",
+    "published": "2026-03-26",
+    "tags": [
+      "Agent Security",
+      "Prompt Engineering",
+      "Adversarial Robustness",
+      "System Prompt",
+      "Vulnerability Analysis",
+      "Tool-Augmented Agent",
+      "Evaluation Metric"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/26/the-system-prompt-is-the-attack-surface-how-llm-agent-configuration-shapes-secur.md"
+  }
+]

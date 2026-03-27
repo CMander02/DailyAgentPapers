@@ -2,26 +2,24 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-25 (19 篇)
+## 2026-03-26 (17 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477) | Agent Architecture/Training, Software Engineering Agent, Reinforcement Learning |
-| 8.5 | [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533) [[Code](https://github.com/ui-voyager/UI-Voyager)] | GUI Agent, Self-Evolving, Mobile Automation |
-| 8.5 | [From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents](https://arxiv.org/abs/2603.23951) | Agent 框架, 自动化算法发现, 策略优化 |
-| 8.0 | [MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579) [[Code](https://github.com/Qwen-Applications/MARCH)] | Hallucination Detection, Multi-Agent System, Reinforcement Learning |
-| 8.0 | [Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving](https://arxiv.org/abs/2603.24465) | Automated Theorem Proving, Proof Decomposition, Agent Workflow |
-| 8.0 | [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://arxiv.org/abs/2603.24440) | Computer-Use Agent, Dataset, Video Demonstrations |
-| 8.0 | [AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model](https://arxiv.org/abs/2603.24402) | 多智能体协作, 智能体架构, 知识表示与记忆 |
-| 8.0 | [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://arxiv.org/abs/2603.24414) | Agent Safety, Security Framework, Tool-Augmented Agents |
-| 8.0 | [BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents](https://arxiv.org/abs/2603.23848) | Agent Benchmark, Long-term Memory, Belief Dynamics |
-| 7.5 | [LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558) | Agentic Framework, Video Understanding, Tool Use |
-| 7.5 | [The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents](https://arxiv.org/abs/2603.24284) | Multi-Agent Collaboration, Code Agent, Specification |
-| 7.5 | [Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search](https://arxiv.org/abs/2603.24203) | Agent Security, Tool-Augmented Agents, Adversarial Attack |
-| 7.5 | [Towards Automated Crowdsourced Testing via Personified-LLM](https://arxiv.org/abs/2603.24160) | GUI Testing Agent, Persona-Driven Agent, Agent Behavior Simulation |
-| 7.5 | [FinToolSyn: A forward synthesis Framework for Financial Tool-Use Dialogue Data with Dynamic Tool Retrieval](https://arxiv.org/abs/2603.24051) | Tool-Use Agent, Data Synthesis, Financial Agent |
-| 7.5 | [Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing](https://arxiv.org/abs/2603.24014) | Multi-Agent, LLM-based Agent, Planning |
-| 7.5 | [Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios](https://arxiv.org/abs/2603.23875) | Multi-Agent, Real-Time Decision Making, LLM-based Agent |
-| 7.5 | [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) | Tool Use, Web Agent, API Discovery |
-| 7.5 | [VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents](https://arxiv.org/abs/2603.23840) | Agent Benchmark, Long-Term Memory, Multi-User Interaction |
-| 7.5 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://arxiv.org/abs/2603.23806) | Agent Evaluation, Agentic Traces, Specification Compliance |
+| 9.0 | [CRAFT: Grounded Multi-Agent Coordination Under Partial Information](https://arxiv.org/abs/2603.25268) [[Code](https://github.com/csu-signal/CRAFT)] | 多智能体协作, 基准评测, 部分信息 |
+| 9.0 | [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158) | Agent技能学习, 技能蒸馏, 轨迹分析 |
+| 9.0 | [SEVerA: Verified Synthesis of Self-Evolving Agents](https://arxiv.org/abs/2603.25111) | Self-Evolving Agent, Formal Verification, Agent Safety |
+| 8.5 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | Agent Architecture, Agent Control, Agent Engineering |
+| 8.5 | [Pixelis: Reasoning in Pixels, from Seeing to Acting](https://arxiv.org/abs/2603.25091) | 视觉智能体, 像素空间操作, 工具学习 |
+| 8.0 | [Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation](https://arxiv.org/abs/2603.25001) | 多智能体系统, 故障归因, 评测基准 |
+| 8.0 | [Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation](https://arxiv.org/abs/2603.24973) [[Code](https://github.com/WUT-IDEA/BEACOF)] | 多智能体协作, 信念建模, 不完全信息博弈 |
+| 8.0 | [FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol](https://arxiv.org/abs/2603.24943) | Agent Benchmark, Tool Use, Financial Agent |
+| 7.5 | [Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?](https://arxiv.org/abs/2603.25719) | Multi-Agent Systems, Code Generation Agent, Hardware Optimization |
+| 7.5 | [PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency](https://arxiv.org/abs/2603.25620) | Persona Agent, Evaluation Framework, Multi-turn Interaction |
+| 7.5 | [The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase](https://arxiv.org/abs/2603.25697) | Agent Framework, Code Agent, Self-Evolving Systems |
+| 7.5 | [MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation](https://arxiv.org/abs/2603.25253) | 科学智能体, 评估基准, 溯因推理 |
+| 7.5 | [FluxEDA: A Unified Execution Infrastructure for Stateful Agentic EDA](https://arxiv.org/abs/2603.25243) | Agent Infrastructure, Tool Use, State Management |
+| 7.5 | [WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing](https://arxiv.org/abs/2603.25226) [[Code](https://github.com/friedrichor/WebTestBench)] | Web Agent, Agent Benchmark, Agent Evaluation |
+| 7.5 | [ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents](https://arxiv.org/abs/2603.25097) | Agent 架构, 记忆系统, 知识图谱 |
+| 7.5 | [TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization](https://arxiv.org/abs/2603.25063) | Agent Architecture, Workflow Automation, Scientific Agent |
+| 7.5 | [The System Prompt Is the Attack Surface: How LLM Agent Configuration Shapes Security and Creates Exploitable Vulnerabilities](https://arxiv.org/abs/2603.25056) | Agent Security, Prompt Engineering, Adversarial Robustness |
