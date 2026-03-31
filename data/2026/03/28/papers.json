@@ -1,0 +1,188 @@
+[
+  {
+    "arxiv_id": "2603.27304",
+    "version": 1,
+    "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
+    "authors": [
+      "Huacan Wang",
+      "Chaofa Yuan",
+      "Xialie Zhuang",
+      "Tu Hu",
+      "Shuo Zhang"
+    ],
+    "author_count": 18,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27304",
+    "pdf_url": "https://arxiv.org/pdf/2603.27304v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "多智能体协作",
+      "人机协作",
+      "基础设施",
+      "激励机制",
+      "任务市场",
+      "生态系统",
+      "工作流",
+      "可验证性"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/28/epochx-building-the-infrastructure-for-an-emergent-agent-civilization.md"
+  },
+  {
+    "arxiv_id": "2603.27148",
+    "version": 1,
+    "title": "SafetyDrift: Predicting When AI Agents Cross the Line Before They Actually Do",
+    "authors": [
+      "Aditya Dhodapkar",
+      "Farhaan Pishori"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27148",
+    "pdf_url": "https://arxiv.org/pdf/2603.27148v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "Agent Safety",
+      "Safety Monitoring",
+      "Risk Prediction",
+      "Markov Chain",
+      "Agent Evaluation",
+      "Multi-step Reasoning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/28/safetydrift-predicting-when-ai-agents-cross-the-line-before-they-actually-do.md"
+  },
+  {
+    "arxiv_id": "2603.27343",
+    "version": 1,
+    "title": "Beyond Completion: Probing Cumulative State Tracking to Predict LLM Agent Performance",
+    "authors": [
+      "Dengzhe Hou",
+      "Lingyu Jiang",
+      "Deng Li",
+      "Zirui Li",
+      "Fangzhou Lin"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27343",
+    "pdf_url": "https://arxiv.org/pdf/2603.27343v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "Agent Evaluation",
+      "State Tracking",
+      "Working Memory",
+      "Probing",
+      "Benchmarking",
+      "Model Capability Analysis",
+      "Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/28/beyond-completion-probing-cumulative-state-tracking-to-predict-llm-agent-perform.md"
+  },
+  {
+    "arxiv_id": "2603.27277",
+    "version": 1,
+    "title": "Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP",
+    "authors": [
+      "Martin Vogel",
+      "Falk Meyer-Eschenbach",
+      "Severin Kohler",
+      "Elias Grünewald",
+      "Felix Balzer"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27277",
+    "pdf_url": "https://arxiv.org/pdf/2603.27277v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "Code Agent",
+      "Knowledge Graph",
+      "Tool Use",
+      "Model Context Protocol",
+      "Code Exploration",
+      "Efficiency",
+      "System Design"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/28/codebase-memory-tree-sitter-based-knowledge-graphs-for-llm-code-exploration-via.md"
+  },
+  {
+    "arxiv_id": "2603.27204",
+    "version": 1,
+    "title": "\"Elementary, My Dear Watson.\" Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts",
+    "authors": [
+      "Shenao Wang",
+      "Junjie He",
+      "Yanjie Zhao",
+      "Yayi Wang",
+      "Kan Yu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27204",
+    "pdf_url": "https://arxiv.org/pdf/2603.27204v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "Agent Security",
+      "Malicious Skill Detection",
+      "Neuro-Symbolic Reasoning",
+      "Agent Supply Chain",
+      "Tool-Augmented Agent",
+      "Static Analysis",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/28/elementary-my-dear-watson-detecting-malicious-skills-via-neuro-symbolic-reasonin.md"
+  },
+  {
+    "arxiv_id": "2603.27150",
+    "version": 1,
+    "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+    "authors": [
+      "Xiaoyang Wang",
+      "Christopher C. Yang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27150",
+    "pdf_url": "https://arxiv.org/pdf/2603.27150v1",
+    "github_url": "",
+    "published": "2026-03-28",
+    "tags": [
+      "Multi-Agent Systems",
+      "Decentralized Architecture",
+      "Medical Reasoning",
+      "Role Assignment",
+      "Consensus Mechanism",
+      "LLM-based Agents",
+      "Agent Collaboration"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/28/medihive-a-decentralized-agent-collective-for-medical-reasoning.md"
+  }
+]

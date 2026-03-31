@@ -2,24 +2,23 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-26 (17 篇)
+## 2026-03-30 (16 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [CRAFT: Grounded Multi-Agent Coordination Under Partial Information](https://arxiv.org/abs/2603.25268) [[Code](https://github.com/csu-signal/CRAFT)] | 多智能体协作, 基准评测, 部分信息 |
-| 9.0 | [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158) | Agent技能学习, 技能蒸馏, 轨迹分析 |
-| 9.0 | [SEVerA: Verified Synthesis of Self-Evolving Agents](https://arxiv.org/abs/2603.25111) | Self-Evolving Agent, Formal Verification, Agent Safety |
-| 8.5 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | Agent Architecture, Agent Control, Agent Engineering |
-| 8.5 | [Pixelis: Reasoning in Pixels, from Seeing to Acting](https://arxiv.org/abs/2603.25091) | 视觉智能体, 像素空间操作, 工具学习 |
-| 8.0 | [Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation](https://arxiv.org/abs/2603.25001) | 多智能体系统, 故障归因, 评测基准 |
-| 8.0 | [Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation](https://arxiv.org/abs/2603.24973) [[Code](https://github.com/WUT-IDEA/BEACOF)] | 多智能体协作, 信念建模, 不完全信息博弈 |
-| 8.0 | [FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol](https://arxiv.org/abs/2603.24943) | Agent Benchmark, Tool Use, Financial Agent |
-| 7.5 | [Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?](https://arxiv.org/abs/2603.25719) | Multi-Agent Systems, Code Generation Agent, Hardware Optimization |
-| 7.5 | [PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency](https://arxiv.org/abs/2603.25620) | Persona Agent, Evaluation Framework, Multi-turn Interaction |
-| 7.5 | [The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase](https://arxiv.org/abs/2603.25697) | Agent Framework, Code Agent, Self-Evolving Systems |
-| 7.5 | [MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation](https://arxiv.org/abs/2603.25253) | 科学智能体, 评估基准, 溯因推理 |
-| 7.5 | [FluxEDA: A Unified Execution Infrastructure for Stateful Agentic EDA](https://arxiv.org/abs/2603.25243) | Agent Infrastructure, Tool Use, State Management |
-| 7.5 | [WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing](https://arxiv.org/abs/2603.25226) [[Code](https://github.com/friedrichor/WebTestBench)] | Web Agent, Agent Benchmark, Agent Evaluation |
-| 7.5 | [ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents](https://arxiv.org/abs/2603.25097) | Agent 架构, 记忆系统, 知识图谱 |
-| 7.5 | [TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization](https://arxiv.org/abs/2603.25063) | Agent Architecture, Workflow Automation, Scientific Agent |
-| 7.5 | [The System Prompt Is the Attack Surface: How LLM Agent Configuration Shapes Security and Creates Exploitable Vulnerabilities](https://arxiv.org/abs/2603.25056) | Agent Security, Prompt Engineering, Adversarial Robustness |
+| 9.0 | [Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web](https://arxiv.org/abs/2603.28428) | Agent Architecture, Multi-Agent Collaboration, Open Agentic Web |
+| 9.0 | [MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://arxiv.org/abs/2603.28407) [[Code](https://github.com/MiroMindAI/MiroEval)] | Benchmark, Multimodal, Research Agent |
+| 8.5 | [Dynamic Dual-Granularity Skill Bank for Agentic RL](https://arxiv.org/abs/2603.28716) | Agentic RL, Skill Learning, Memory |
+| 8.5 | [GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533) [[Code](https://github.com/XuShuwenn/GraphWalker)] | 知识图谱问答, 智能体训练, 轨迹合成 |
+| 8.5 | [COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game](https://arxiv.org/abs/2603.28386) | Agent 训练与生成, 环境生成, 对抗性学习 |
+| 8.0 | [CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569) | Agent评测基准, 真实世界评估, 云服务Agent |
+| 8.0 | [Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/abs/2603.28488) [[Code](https://github.com/mnc13/PROClaim)] | 多智能体辩论, 检索增强生成, 结构化智能体 |
+| 8.0 | [CoT2-Meta: Budgeted Metacognitive Control for Test-Time Reasoning](https://arxiv.org/abs/2603.28135) | 推理优化, 元认知控制, 测试时推理 |
+| 8.0 | [Heddle: A Distributed Orchestration System for Agentic RL Rollout](https://arxiv.org/abs/2603.28101) | Agentic RL, 系统优化, 分布式系统 |
+| 7.5 | [AMIGO: Agentic Multi-Image Grounding Oracle Benchmark](https://arxiv.org/abs/2603.28662) | Agent Benchmark, Vision-Language Model, Multi-Turn Interaction |
+| 7.5 | [BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations](https://arxiv.org/abs/2603.28653) | 代码智能体, 多智能体框架, 测试生成 |
+| 7.5 | [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589) | Agent Architecture, Scientific Agent, Clinical Medicine |
+| 7.5 | [Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering](https://arxiv.org/abs/2603.28583) | 视觉语言模型, 智能体框架, 多模态推理 |
+| 7.5 | [Evaluating Privilege Usage of Agents on Real-World Tools](https://arxiv.org/abs/2603.28166) | Agent Security, Tool Use, Privilege Control |
+| 7.5 | [Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013) | Agent Security, Prompt Injection, Multi-Stage Analysis |
+| 7.5 | [ViviDoc: Generating Interactive Documents through Human-Agent Collaboration](https://arxiv.org/abs/2603.27991) | Multi-Agent System, Human-Agent Collaboration, Interactive Document Generation |

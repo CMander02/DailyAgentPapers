@@ -1,0 +1,505 @@
+[
+  {
+    "arxiv_id": "2603.28428",
+    "version": 1,
+    "title": "Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web",
+    "authors": [
+      "Xiaohang Nie",
+      "Zihan Guo",
+      "Kezhuo Yang",
+      "Zhichong Zheng",
+      "Bochen Ge"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CY",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28428",
+    "pdf_url": "https://arxiv.org/pdf/2603.28428v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Collaboration",
+      "Open Agentic Web",
+      "Agent Identity",
+      "Lifelong Learning",
+      "General-Purpose Agent",
+      "Decentralized Systems"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/30/synergy-a-next-generation-general-purpose-agent-for-open-agentic-web.md"
+  },
+  {
+    "arxiv_id": "2603.28407",
+    "version": 1,
+    "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+    "authors": [
+      "Fangda Ye",
+      "Yuxin Hu",
+      "Pengxiang Zhu",
+      "Yibo Li",
+      "Ziqi Jin"
+    ],
+    "author_count": 22,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28407",
+    "pdf_url": "https://arxiv.org/pdf/2603.28407v1",
+    "github_url": "https://github.com/MiroMindAI/MiroEval",
+    "published": "2026-03-30",
+    "tags": [
+      "Benchmark",
+      "Multimodal",
+      "Research Agent",
+      "Evaluation Framework",
+      "Process Evaluation",
+      "Factuality Verification",
+      "Adaptive Synthesis"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/30/miroeval-benchmarking-multimodal-deep-research-agents-in-process-and-outcome.md"
+  },
+  {
+    "arxiv_id": "2603.28716",
+    "version": 1,
+    "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
+    "authors": [
+      "Songjun Tu",
+      "Chengdong Xu",
+      "Qichao Zhang",
+      "Yaocheng Zhang",
+      "Xiangyuan Lan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28716",
+    "pdf_url": "https://arxiv.org/pdf/2603.28716v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agentic RL",
+      "Skill Learning",
+      "Memory",
+      "Experience Reuse",
+      "Decision Support",
+      "Error Correction",
+      "Hindsight Learning",
+      "Policy Optimization",
+      "ALFWorld",
+      "WebShop"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/30/dynamic-dual-granularity-skill-bank-for-agentic-rl.md"
+  },
+  {
+    "arxiv_id": "2603.28533",
+    "version": 1,
+    "title": "GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum",
+    "authors": [
+      "Shuwen Xu",
+      "Yao Xu",
+      "Jiaxiang Liu",
+      "Chenhao Yuan",
+      "Wenshuo Peng"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28533",
+    "pdf_url": "https://arxiv.org/pdf/2603.28533v1",
+    "github_url": "https://github.com/XuShuwenn/GraphWalker",
+    "published": "2026-03-30",
+    "tags": [
+      "知识图谱问答",
+      "智能体训练",
+      "轨迹合成",
+      "课程学习",
+      "多阶段微调",
+      "推理泛化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/30/graphwalker-agentic-knowledge-graph-question-answering-via-synthetic-trajectory.md"
+  },
+  {
+    "arxiv_id": "2603.28386",
+    "version": 1,
+    "title": "COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game",
+    "authors": [
+      "Alkis Sygkounas",
+      "Rishi Hazra",
+      "Andreas Persson",
+      "Pedro Zuidberg Dos Martires",
+      "Amy Loutfi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28386",
+    "pdf_url": "https://arxiv.org/pdf/2603.28386v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent 训练与生成",
+      "环境生成",
+      "对抗性学习",
+      "持续学习",
+      "零和博弈",
+      "元策略",
+      "代码生成",
+      "自动化课程"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/30/covolve-adversarial-co-evolution-of-large-language-model-generated-policies-and.md"
+  },
+  {
+    "arxiv_id": "2603.28569",
+    "version": 1,
+    "title": "CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments",
+    "authors": [
+      "Yi Yu",
+      "Guangquan Hu",
+      "Chenghuang Shen",
+      "Xingyan Liu",
+      "Jing Gu"
+    ],
+    "author_count": 18,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IR",
+      "cs.PF"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28569",
+    "pdf_url": "https://arxiv.org/pdf/2603.28569v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent评测基准",
+      "真实世界评估",
+      "云服务Agent",
+      "多轮对话",
+      "工具使用",
+      "效率指标",
+      "客户满意度"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/30/cirrusbench-evaluating-llm-based-agents-beyond-correctness-in-real-world-cloud-s.md"
+  },
+  {
+    "arxiv_id": "2603.28488",
+    "version": 1,
+    "title": "Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification",
+    "authors": [
+      "Masnun Nuha Chowdhury",
+      "Nusrat Jahan Beg",
+      "Umme Hunny Khan",
+      "Syed Rifat Raiyan",
+      "Md Kamrul Hasan"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28488",
+    "pdf_url": "https://arxiv.org/pdf/2603.28488v1",
+    "github_url": "https://github.com/mnc13/PROClaim",
+    "published": "2026-03-30",
+    "tags": [
+      "多智能体辩论",
+      "检索增强生成",
+      "结构化智能体",
+      "争议性验证",
+      "角色扮演",
+      "零样本评估",
+      "基准测试"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/30/courtroom-style-multi-agent-debate-with-progressive-rag-and-role-switching-for-c.md"
+  },
+  {
+    "arxiv_id": "2603.28135",
+    "version": 1,
+    "title": "CoT2-Meta: Budgeted Metacognitive Control for Test-Time Reasoning",
+    "authors": [
+      "Siyuan Ma",
+      "Bo Gao",
+      "Zikai Xiao",
+      "Hailong Wang",
+      "Xinlei Yu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28135",
+    "pdf_url": "https://arxiv.org/pdf/2603.28135v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "推理优化",
+      "元认知控制",
+      "测试时推理",
+      "搜索算法",
+      "计算效率",
+      "链式思维",
+      "思维树"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/30/cot2-meta-budgeted-metacognitive-control-for-test-time-reasoning.md"
+  },
+  {
+    "arxiv_id": "2603.28101",
+    "version": 1,
+    "title": "Heddle: A Distributed Orchestration System for Agentic RL Rollout",
+    "authors": [
+      "Zili Zhang",
+      "Yinmin Zhong",
+      "Chengxu Yang",
+      "Chao Jin",
+      "Bingyang Wu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28101",
+    "pdf_url": "https://arxiv.org/pdf/2603.28101v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agentic RL",
+      "系统优化",
+      "分布式系统",
+      "轨迹生成",
+      "调度",
+      "资源管理",
+      "长尾延迟",
+      "工具调用"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/30/heddle-a-distributed-orchestration-system-for-agentic-rl-rollout.md"
+  },
+  {
+    "arxiv_id": "2603.28662",
+    "version": 1,
+    "title": "AMIGO: Agentic Multi-Image Grounding Oracle Benchmark",
+    "authors": [
+      "Min Wang",
+      "Ata Mahjoubfar"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28662",
+    "pdf_url": "https://arxiv.org/pdf/2603.28662v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent Benchmark",
+      "Vision-Language Model",
+      "Multi-Turn Interaction",
+      "Planning under Uncertainty",
+      "Long-Horizon Task",
+      "Evaluation Protocol"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/amigo-agentic-multi-image-grounding-oracle-benchmark.md"
+  },
+  {
+    "arxiv_id": "2603.28653",
+    "version": 1,
+    "title": "BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations",
+    "authors": [
+      "Kaushitha Silva",
+      "Srinath Perera"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.NE",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28653",
+    "pdf_url": "https://arxiv.org/pdf/2603.28653v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "代码智能体",
+      "多智能体框架",
+      "测试生成",
+      "贝叶斯方法",
+      "协同进化",
+      "代码生成",
+      "自我改进",
+      "评估基准"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/bace-llm-based-code-generation-through-bayesian-anchored-co-evolution-of-code-an.md"
+  },
+  {
+    "arxiv_id": "2603.28589",
+    "version": 1,
+    "title": "Towards a Medical AI Scientist",
+    "authors": [
+      "Hongtao Wu",
+      "Boyun Zheng",
+      "Dingjie Song",
+      "Yu Jiang",
+      "Jianfeng Gao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28589",
+    "pdf_url": "https://arxiv.org/pdf/2603.28589v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent Architecture",
+      "Scientific Agent",
+      "Clinical Medicine",
+      "Multi-Agent Collaboration",
+      "Evaluation",
+      "Tool Use",
+      "Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/towards-a-medical-ai-scientist.md"
+  },
+  {
+    "arxiv_id": "2603.28583",
+    "version": 1,
+    "title": "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering",
+    "authors": [
+      "Yanjie Zhang",
+      "Yafei Li",
+      "Rui Sheng",
+      "Zixin Chen",
+      "Yanna Lin"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28583",
+    "pdf_url": "https://arxiv.org/pdf/2603.28583v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "视觉语言模型",
+      "智能体框架",
+      "多模态推理",
+      "对抗鲁棒性",
+      "图表理解",
+      "工具使用",
+      "指令微调"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/navigating-the-mirage-a-dual-path-agentic-framework-for-robust-misleading-chart.md"
+  },
+  {
+    "arxiv_id": "2603.28166",
+    "version": 1,
+    "title": "Evaluating Privilege Usage of Agents on Real-World Tools",
+    "authors": [
+      "Quan Zhang",
+      "Lianhang Fu",
+      "Lvsi Lian",
+      "Gwihwan Go",
+      "Yujue Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28166",
+    "pdf_url": "https://arxiv.org/pdf/2603.28166v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent Security",
+      "Tool Use",
+      "Privilege Control",
+      "Evaluation Benchmark",
+      "Prompt Injection",
+      "Sandbox Environment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/evaluating-privilege-usage-of-agents-on-real-world-tools.md"
+  },
+  {
+    "arxiv_id": "2603.28013",
+    "version": 1,
+    "title": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers",
+    "authors": [
+      "Haochuan Kevin Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.28013",
+    "pdf_url": "https://arxiv.org/pdf/2603.28013v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Agent Security",
+      "Prompt Injection",
+      "Multi-Stage Analysis",
+      "Attack Surface",
+      "Defense Evaluation",
+      "LLM Agents",
+      "Adversarial Robustness"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/kill-chain-canaries-stage-level-tracking-of-prompt-injection-across-attack-surfa.md"
+  },
+  {
+    "arxiv_id": "2603.27991",
+    "version": 1,
+    "title": "ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+    "authors": [
+      "Yinghao Tang",
+      "Yupeng Xie",
+      "Yingchaojie Feng",
+      "Tingfeng Lan",
+      "Jiale Lao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.27991",
+    "pdf_url": "https://arxiv.org/pdf/2603.27991v1",
+    "github_url": "",
+    "published": "2026-03-30",
+    "tags": [
+      "Multi-Agent System",
+      "Human-Agent Collaboration",
+      "Interactive Document Generation",
+      "Controllable Generation",
+      "Evaluation Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/30/vividoc-generating-interactive-documents-through-human-agent-collaboration.md"
+  }
+]
