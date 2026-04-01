@@ -2,23 +2,26 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-03-30 (16 篇)
+## 2026-03-31 (19 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web](https://arxiv.org/abs/2603.28428) | Agent Architecture, Multi-Agent Collaboration, Open Agentic Web |
-| 9.0 | [MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://arxiv.org/abs/2603.28407) [[Code](https://github.com/MiroMindAI/MiroEval)] | Benchmark, Multimodal, Research Agent |
-| 8.5 | [Dynamic Dual-Granularity Skill Bank for Agentic RL](https://arxiv.org/abs/2603.28716) | Agentic RL, Skill Learning, Memory |
-| 8.5 | [GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533) [[Code](https://github.com/XuShuwenn/GraphWalker)] | 知识图谱问答, 智能体训练, 轨迹合成 |
-| 8.5 | [COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game](https://arxiv.org/abs/2603.28386) | Agent 训练与生成, 环境生成, 对抗性学习 |
-| 8.0 | [CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569) | Agent评测基准, 真实世界评估, 云服务Agent |
-| 8.0 | [Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/abs/2603.28488) [[Code](https://github.com/mnc13/PROClaim)] | 多智能体辩论, 检索增强生成, 结构化智能体 |
-| 8.0 | [CoT2-Meta: Budgeted Metacognitive Control for Test-Time Reasoning](https://arxiv.org/abs/2603.28135) | 推理优化, 元认知控制, 测试时推理 |
-| 8.0 | [Heddle: A Distributed Orchestration System for Agentic RL Rollout](https://arxiv.org/abs/2603.28101) | Agentic RL, 系统优化, 分布式系统 |
-| 7.5 | [AMIGO: Agentic Multi-Image Grounding Oracle Benchmark](https://arxiv.org/abs/2603.28662) | Agent Benchmark, Vision-Language Model, Multi-Turn Interaction |
-| 7.5 | [BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations](https://arxiv.org/abs/2603.28653) | 代码智能体, 多智能体框架, 测试生成 |
-| 7.5 | [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589) | Agent Architecture, Scientific Agent, Clinical Medicine |
-| 7.5 | [Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering](https://arxiv.org/abs/2603.28583) | 视觉语言模型, 智能体框架, 多模态推理 |
-| 7.5 | [Evaluating Privilege Usage of Agents on Real-World Tools](https://arxiv.org/abs/2603.28166) | Agent Security, Tool Use, Privilege Control |
-| 7.5 | [Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013) | Agent Security, Prompt Injection, Multi-Stage Analysis |
-| 7.5 | [ViviDoc: Generating Interactive Documents through Human-Agent Collaboration](https://arxiv.org/abs/2603.27991) | Multi-Agent System, Human-Agent Collaboration, Interactive Document Generation |
+| 9.0 | [ASI-Evolve: AI Accelerates AI](https://arxiv.org/abs/2603.29640) [[Code](https://github.com/GAIR-NLP/ASI-Evolve)] | AI-for-AI, Agentic Framework, Evolutionary Agents |
+| 9.0 | [MemFactory: Unified Inference & Training Framework for Agent Memory](https://arxiv.org/abs/2603.29493) [[Code](https://github.com/Valsure/MemFactory)] | Agent_Memory, Training_Framework, Inference_Framework |
+| 9.0 | [Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents](https://arxiv.org/abs/2603.29231) | Agent Evaluation, Long-Horizon Tasks, Reliability Metrics |
+| 9.0 | [APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay](https://arxiv.org/abs/2603.29093) | Agent Memory, Experience Replay, Non-Parametric Learning |
+| 8.5 | [Think Anywhere in Code Generation](https://arxiv.org/abs/2603.29957) | Code Agent, Reasoning Mechanism, On-Demand Thinking |
+| 8.0 | [SkillReducer: Optimizing LLM Agent Skills for Token Efficiency](https://arxiv.org/abs/2603.29919) | LLM Agent, Tool Use, Context Window Optimization |
+| 8.0 | [ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation](https://arxiv.org/abs/2603.29902) [[Code](https://github.com/Qwen-Applications/ATP-Bench)] | Agentic Tool Planning, Multimodal Large Language Models (MLLMs), Benchmark |
+| 8.0 | [6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management](https://arxiv.org/abs/2603.29656) | Tool Use, Data Synthesis, Agentic Learning |
+| 8.0 | [PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://arxiv.org/abs/2603.29318) | GUI Agent, Benchmark, Personalization |
+| 8.0 | [Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention](https://arxiv.org/abs/2603.29194) | Agent 记忆架构, 长期记忆, 对话系统 |
+| 7.5 | [Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis](https://arxiv.org/abs/2603.29828) [[Code](https://github.com/OpenOwlab/AuraID)] | Embodied Agent, GUI Automation, Scientific Discovery |
+| 7.5 | [CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing](https://arxiv.org/abs/2603.29755) | Multi-Agent, Neurosymbolic, Tool Use |
+| 7.5 | [Near-Miss: Latent Policy Failure Detection in Agentic Workflows](https://arxiv.org/abs/2603.29665) | Agent Safety & Robustness, Agent Evaluation, Tool Use |
+| 7.5 | [An Empirical Study of Multi-Agent Collaboration for Automated Research](https://arxiv.org/abs/2603.29632) | Multi-Agent Systems, Automated Research, Empirical Study |
+| 7.5 | [FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration](https://arxiv.org/abs/2603.29557) | Scientific Agent, Idea Generation, Retrieval-Augmented Generation |
+| 7.5 | [ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities](https://arxiv.org/abs/2603.29399) | AI Agent, Benchmark Evaluation, Data Engineering |
+| 7.5 | [MemRerank: Preference Memory for Personalized Product Reranking](https://arxiv.org/abs/2603.29247) | Agent Personalization, Memory, Product Reranking |
+| 7.5 | [Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping](https://arxiv.org/abs/2603.29161) | Web Agent, Tool Use, Multimodal LLM |
+| 7.5 | [REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour](https://arxiv.org/abs/2603.29142) | Multi-Agent System, Interactive Agent, Tool Use |

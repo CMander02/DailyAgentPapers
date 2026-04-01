@@ -1,0 +1,584 @@
+[
+  {
+    "arxiv_id": "2603.29640",
+    "version": 1,
+    "title": "ASI-Evolve: AI Accelerates AI",
+    "authors": [
+      "Weixian Xu",
+      "Tiantian Mi",
+      "Yixiu Liu",
+      "Yang Nan",
+      "Zhimeng Zhou"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29640",
+    "pdf_url": "https://arxiv.org/pdf/2603.29640v1",
+    "github_url": "https://github.com/GAIR-NLP/ASI-Evolve",
+    "published": "2026-03-31",
+    "tags": [
+      "AI-for-AI",
+      "Agentic Framework",
+      "Evolutionary Agents",
+      "Neural Architecture Search",
+      "Data Curation",
+      "Algorithm Design",
+      "Closed-loop Research",
+      "Multi-task Discovery"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/31/asi-evolve-ai-accelerates-ai.md"
+  },
+  {
+    "arxiv_id": "2603.29493",
+    "version": 1,
+    "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
+    "authors": [
+      "Ziliang Guo",
+      "Ziheng Li",
+      "Zhiyu Li"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29493",
+    "pdf_url": "https://arxiv.org/pdf/2603.29493v1",
+    "github_url": "https://github.com/Valsure/MemFactory",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent_Memory",
+      "Training_Framework",
+      "Inference_Framework",
+      "Reinforcement_Learning",
+      "Modular_Architecture",
+      "Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/31/memfactory-unified-inference-training-framework-for-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2603.29231",
+    "version": 1,
+    "title": "Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents",
+    "authors": [
+      "Aaditya Khanal",
+      "Yangyang Tao",
+      "Junxiu Zhou"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29231",
+    "pdf_url": "https://arxiv.org/pdf/2603.29231v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent Evaluation",
+      "Long-Horizon Tasks",
+      "Reliability Metrics",
+      "Benchmark",
+      "Agent Capability Analysis",
+      "Multi-Domain Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/31/beyond-pass1-a-reliability-science-framework-for-long-horizon-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2603.29093",
+    "version": 1,
+    "title": "APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay",
+    "authors": [
+      "Pratyay Banerjee",
+      "Masud Moshtaghi",
+      "Ankit Chadha"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29093",
+    "pdf_url": "https://arxiv.org/pdf/2603.29093v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent Memory",
+      "Experience Replay",
+      "Non-Parametric Learning",
+      "Procedural Memory",
+      "Online Learning",
+      "Task Planning",
+      "Code Generation",
+      "Knowledge Graph QA",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/03/31/apex-em-non-parametric-online-learning-for-autonomous-agents-via-structured-proc.md"
+  },
+  {
+    "arxiv_id": "2603.29957",
+    "version": 1,
+    "title": "Think Anywhere in Code Generation",
+    "authors": [
+      "Xue Jiang",
+      "Tianyu Zhang",
+      "Ge Li",
+      "Mengyang Liu",
+      "Taozhi Chen"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29957",
+    "pdf_url": "https://arxiv.org/pdf/2603.29957v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Code Agent",
+      "Reasoning Mechanism",
+      "On-Demand Thinking",
+      "Reinforcement Learning",
+      "Code Generation",
+      "LLM Training",
+      "Interpretability"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/31/think-anywhere-in-code-generation.md"
+  },
+  {
+    "arxiv_id": "2603.29919",
+    "version": 1,
+    "title": "SkillReducer: Optimizing LLM Agent Skills for Token Efficiency",
+    "authors": [
+      "Yudong Gao",
+      "Zongjie Li",
+      "Yuanyuanyuan",
+      "Zimo Ji",
+      "Pingchuan Ma"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29919",
+    "pdf_url": "https://arxiv.org/pdf/2603.29919v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Context Window Optimization",
+      "Skill Compression",
+      "Coding Agent",
+      "Empirical Study",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/31/skillreducer-optimizing-llm-agent-skills-for-token-efficiency.md"
+  },
+  {
+    "arxiv_id": "2603.29902",
+    "version": 1,
+    "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
+    "authors": [
+      "Yinuo Liu",
+      "Zi Qian",
+      "Heng Zhou",
+      "Jiahao Zhang",
+      "Yajie Zhang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29902",
+    "pdf_url": "https://arxiv.org/pdf/2603.29902v1",
+    "github_url": "https://github.com/Qwen-Applications/ATP-Bench",
+    "published": "2026-03-31",
+    "tags": [
+      "Agentic Tool Planning",
+      "Multimodal Large Language Models (MLLMs)",
+      "Benchmark",
+      "Tool Use",
+      "Interleaved Generation",
+      "Evaluation Framework",
+      "MLLM-as-a-Judge"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/31/atp-bench-towards-agentic-tool-planning-for-mllm-interleaved-generation.md"
+  },
+  {
+    "arxiv_id": "2603.29656",
+    "version": 1,
+    "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management",
+    "authors": [
+      "Jiao Chen",
+      "Jianhua Tang",
+      "Xiaotong Yang",
+      "Zuohong Lv"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.NI",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29656",
+    "pdf_url": "https://arxiv.org/pdf/2603.29656v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Tool Use",
+      "Data Synthesis",
+      "Agentic Learning",
+      "Closed-loop Interaction",
+      "Benchmark",
+      "Network Management",
+      "Reinforcement Learning",
+      "Self-Instruct"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/31/6gagentgym-tool-use-data-synthesis-and-agentic-learning-for-network-management.md"
+  },
+  {
+    "arxiv_id": "2603.29318",
+    "version": 1,
+    "title": "PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent",
+    "authors": [
+      "Hongyi Nie",
+      "Xunyuan Liu",
+      "Yudong Bai",
+      "Yaqing Wang",
+      "Yang Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29318",
+    "pdf_url": "https://arxiv.org/pdf/2603.29318v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "GUI Agent",
+      "Benchmark",
+      "Personalization",
+      "Evaluation",
+      "Smartphone"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/31/pspa-bench-a-personalized-benchmark-for-smartphone-gui-agent.md"
+  },
+  {
+    "arxiv_id": "2603.29194",
+    "version": 1,
+    "title": "Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention",
+    "authors": [
+      "Sunil Tiwari",
+      "Payal Fofadiya"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29194",
+    "pdf_url": "https://arxiv.org/pdf/2603.29194v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent 记忆架构",
+      "长期记忆",
+      "对话系统",
+      "上下文管理",
+      "实验评估"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/31/multi-layered-memory-architectures-for-llm-agents-an-experimental-evaluation-of.md"
+  },
+  {
+    "arxiv_id": "2603.29828",
+    "version": 1,
+    "title": "Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis",
+    "authors": [
+      "Han Deng",
+      "Anqi Zou",
+      "Hanling Zhang",
+      "Ben Fei",
+      "Chengyu Zhang"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29828",
+    "pdf_url": "https://arxiv.org/pdf/2603.29828v1",
+    "github_url": "https://github.com/OpenOwlab/AuraID",
+    "published": "2026-03-31",
+    "tags": [
+      "Embodied Agent",
+      "GUI Automation",
+      "Scientific Discovery",
+      "Tool Use",
+      "Workflow Automation",
+      "Multimodal Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/owl-auraid-10-an-intelligent-system-for-autonomous-scientific-instrumentation-an.md"
+  },
+  {
+    "arxiv_id": "2603.29755",
+    "version": 1,
+    "title": "CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing",
+    "authors": [
+      "Chathurangi Shyalika",
+      "Utkarshani Jaimini",
+      "Cory Henson",
+      "Amit Sheth"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29755",
+    "pdf_url": "https://arxiv.org/pdf/2603.29755v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Multi-Agent",
+      "Neurosymbolic",
+      "Tool Use",
+      "Industrial Application",
+      "Real-time Systems",
+      "Causal Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/causalpulse-an-industrial-grade-neurosymbolic-multi-agent-copilot-for-causal-dia.md"
+  },
+  {
+    "arxiv_id": "2603.29665",
+    "version": 1,
+    "title": "Near-Miss: Latent Policy Failure Detection in Agentic Workflows",
+    "authors": [
+      "Ella Rabinovich",
+      "David Boaz",
+      "Naama Zwerdling",
+      "Ateret Anaby-Tavor"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29665",
+    "pdf_url": "https://arxiv.org/pdf/2603.29665v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent Safety & Robustness",
+      "Agent Evaluation",
+      "Tool Use",
+      "Policy Compliance",
+      "Agentic Workflows",
+      "Failure Detection",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/near-miss-latent-policy-failure-detection-in-agentic-workflows.md"
+  },
+  {
+    "arxiv_id": "2603.29632",
+    "version": 1,
+    "title": "An Empirical Study of Multi-Agent Collaboration for Automated Research",
+    "authors": [
+      "Yang Shen",
+      "Zhenyi Yi",
+      "Ziyi Zhao",
+      "Lijun Sun",
+      "Dongyang Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29632",
+    "pdf_url": "https://arxiv.org/pdf/2603.29632v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Multi-Agent Systems",
+      "Automated Research",
+      "Empirical Study",
+      "Agent Collaboration",
+      "LLM-based Agents",
+      "Coordination Frameworks",
+      "Execution-based Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/an-empirical-study-of-multi-agent-collaboration-for-automated-research.md"
+  },
+  {
+    "arxiv_id": "2603.29557",
+    "version": 1,
+    "title": "FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration",
+    "authors": [
+      "Qiyao Wang",
+      "Hongbo Wang",
+      "Longze Chen",
+      "Zhihao Yang",
+      "Guhong Chen"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29557",
+    "pdf_url": "https://arxiv.org/pdf/2603.29557v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Scientific Agent",
+      "Idea Generation",
+      "Retrieval-Augmented Generation",
+      "Test-Time Optimization",
+      "Multi-Agent Evolution",
+      "Monte Carlo Tree Search",
+      "Generative Reward Model",
+      "Autonomous Research"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/flowpie-test-time-scientific-idea-evolution-with-flow-guided-literature-explorat.md"
+  },
+  {
+    "arxiv_id": "2603.29399",
+    "version": 1,
+    "title": "ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+    "authors": [
+      "Christopher Zanoli",
+      "Andrea Giovannini",
+      "Tengjun Jin",
+      "Ana Klimovic",
+      "Yotam Perlitz"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29399",
+    "pdf_url": "https://arxiv.org/pdf/2603.29399v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "AI Agent",
+      "Benchmark Evaluation",
+      "Data Engineering",
+      "ELT Pipeline",
+      "Benchmark Quality",
+      "LLM Evaluation",
+      "Agent Capability Assessment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/elt-bench-verified-benchmark-quality-issues-underestimate-ai-agent-capabilities.md"
+  },
+  {
+    "arxiv_id": "2603.29247",
+    "version": 1,
+    "title": "MemRerank: Preference Memory for Personalized Product Reranking",
+    "authors": [
+      "Zhiyuan Peng",
+      "Xuyang Wu",
+      "Huaixiao Tou",
+      "Yi Fang",
+      "Yi Gong"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29247",
+    "pdf_url": "https://arxiv.org/pdf/2603.29247v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Agent Personalization",
+      "Memory",
+      "Product Reranking",
+      "Reinforcement Learning",
+      "E-commerce Agent",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/memrerank-preference-memory-for-personalized-product-reranking.md"
+  },
+  {
+    "arxiv_id": "2603.29161",
+    "version": 1,
+    "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
+    "authors": [
+      "Guan-Lun Huang",
+      "Yuh-Jzer Joung"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29161",
+    "pdf_url": "https://arxiv.org/pdf/2603.29161v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Web Agent",
+      "Tool Use",
+      "Multimodal LLM",
+      "Autonomous Navigation",
+      "Structured Data Extraction",
+      "Framework"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/webscraper-leverage-multimodal-large-language-models-for-index-content-web-scrap.md"
+  },
+  {
+    "arxiv_id": "2603.29142",
+    "version": 1,
+    "title": "REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour",
+    "authors": [
+      "Fares Fawzi",
+      "Seyed Parsa Neshaei",
+      "Marta Knezevic",
+      "Tanya Nazaretsky",
+      "Tanja Käser"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.29142",
+    "pdf_url": "https://arxiv.org/pdf/2603.29142v1",
+    "github_url": "",
+    "published": "2026-03-31",
+    "tags": [
+      "Multi-Agent System",
+      "Interactive Agent",
+      "Tool Use",
+      "LLM-as-a-Judge",
+      "Educational Agent",
+      "Human-AI Interaction",
+      "System Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/31/refine-real-world-exploration-of-interactive-feedback-and-student-behaviour.md"
+  }
+]
