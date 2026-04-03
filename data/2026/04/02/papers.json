@@ -1,0 +1,642 @@
+[
+  {
+    "arxiv_id": "2604.01599",
+    "version": 1,
+    "title": "ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context",
+    "authors": [
+      "Andy Nguyen",
+      "Danh Doan",
+      "Hoang Pham",
+      "Bao Ha",
+      "Dat Pham"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01599",
+    "pdf_url": "https://arxiv.org/pdf/2604.01599v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent 架构",
+      "记忆增强",
+      "知识管理",
+      "上下文管理",
+      "检索策略",
+      "文件系统存储",
+      "实验验证",
+      "无外部依赖"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/02/byterover-agent-native-memory-through-llm-curated-hierarchical-context.md"
+  },
+  {
+    "arxiv_id": "2604.02268",
+    "version": 1,
+    "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+    "authors": [
+      "Zhengxi Lu",
+      "Zhiyuan Yao",
+      "Jinyang Wu",
+      "Chengcheng Han",
+      "Qi Gu"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02268",
+    "pdf_url": "https://arxiv.org/pdf/2604.02268v1",
+    "github_url": "https://github.com/ZJU-REAL/SkillZero",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Training",
+      "Skill Internalization",
+      "In-Context Reinforcement Learning",
+      "Tool Use",
+      "Multi-Turn Planning",
+      "Curriculum Learning",
+      "Parameter-Efficient Adaptation",
+      "Agent Benchmarking"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/skill0-in-context-agentic-reinforcement-learning-for-skill-internalization.md"
+  },
+  {
+    "arxiv_id": "2604.01707",
+    "version": 1,
+    "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
+    "authors": [
+      "Yanchen Wu",
+      "Tenghui Lin",
+      "Yingli Zhou",
+      "Fangyuan Zhang",
+      "Qintian Guo"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01707",
+    "pdf_url": "https://arxiv.org/pdf/2604.01707v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Memory",
+      "Unified Framework",
+      "Benchmark Evaluation",
+      "Modular Architecture",
+      "Comparative Analysis",
+      "Method Synthesis"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/memory-in-the-llm-era-modular-architectures-and-strategies-in-a-unified-framewor.md"
+  },
+  {
+    "arxiv_id": "2604.01687",
+    "version": 1,
+    "title": "EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification",
+    "authors": [
+      "Hanrong Zhang",
+      "Shicheng Fan",
+      "Henry Peng Zou",
+      "Yankai Chen",
+      "Zhenting Wang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01687",
+    "pdf_url": "https://arxiv.org/pdf/2604.01687v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent技能生成",
+      "自演化",
+      "协同进化",
+      "技能验证",
+      "代码生成",
+      "多文件技能",
+      "基准评估",
+      "SkillsBench"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/evoskills-self-evolving-agent-skills-via-co-evolutionary-verification.md"
+  },
+  {
+    "arxiv_id": "2604.01670",
+    "version": 1,
+    "title": "Hierarchical Memory Orchestration for Personalized Persistent Agents",
+    "authors": [
+      "Junming Liu",
+      "Yifei Sun",
+      "Weihua Cheng",
+      "Haodong Lei",
+      "Yuqi Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01670",
+    "pdf_url": "https://arxiv.org/pdf/2604.01670v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Memory",
+      "Personalization",
+      "Long-Term Memory",
+      "Hierarchical Architecture",
+      "Efficiency Optimization",
+      "Retrieval-Augmented Generation",
+      "User Persona",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/hierarchical-memory-orchestration-for-personalized-persistent-agents.md"
+  },
+  {
+    "arxiv_id": "2604.01658",
+    "version": 1,
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "authors": [
+      "Ao Qu",
+      "Han Zheng",
+      "Zijian Zhou",
+      "Yihao Yan",
+      "Yihong Tang"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01658",
+    "pdf_url": "https://arxiv.org/pdf/2604.01658v1",
+    "github_url": "https://github.com/Human-Agent-Society/CORAL",
+    "published": "2026-04-02",
+    "tags": [
+      "多智能体系统",
+      "自主进化",
+      "开放式发现",
+      "长期记忆",
+      "异步执行",
+      "协作探索",
+      "知识复用",
+      "框架设计"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/coral-towards-autonomous-multi-agent-evolution-for-open-ended-discovery.md"
+  },
+  {
+    "arxiv_id": "2604.01496",
+    "version": 1,
+    "title": "From SWE-ZERO to SWE-HERO: Execution-free to Execution-based Fine-tuning for Software Engineering Agents",
+    "authors": [
+      "Nikolai Ludwig",
+      "Wasi Uddin Ahmad",
+      "Somshubra Majumdar",
+      "Boris Ginsburg"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01496",
+    "pdf_url": "https://arxiv.org/pdf/2604.01496v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "代码智能体",
+      "软件工程智能体",
+      "指令微调",
+      "数据蒸馏",
+      "执行反馈",
+      "SWE-bench",
+      "工具使用",
+      "代码仓库理解",
+      "零样本迁移"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/02/from-swe-zero-to-swe-hero-execution-free-to-execution-based-fine-tuning-for-soft.md"
+  },
+  {
+    "arxiv_id": "2604.02006",
+    "version": 1,
+    "title": "ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning",
+    "authors": [
+      "Jingyue Gao",
+      "Yanjiang Guo",
+      "Xiaoshuai Chen",
+      "Jianyu Chen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02006",
+    "pdf_url": "https://arxiv.org/pdf/2604.02006v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "强化学习",
+      "Agentic Reasoning",
+      "探索策略",
+      "过程级批评家",
+      "长视野任务",
+      "多轮交互",
+      "错误累积",
+      "演示学习"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/proceedrl-process-critic-with-exploratory-demonstration-reinforcement-learning-f.md"
+  },
+  {
+    "arxiv_id": "2604.01664",
+    "version": 1,
+    "title": "ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents",
+    "authors": [
+      "Yong Wu",
+      "YanZhao Zheng",
+      "TianZe Xu",
+      "ZhenTao Zhang",
+      "YuanQiang Yu"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01664",
+    "pdf_url": "https://arxiv.org/pdf/2604.01664v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Long-Horizon Reasoning",
+      "Context Management",
+      "Reinforcement Learning",
+      "Compression",
+      "Web Agent",
+      "Budget Constraint",
+      "Sequential Decision"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/contextbudget-budget-aware-context-management-for-long-horizon-search-agents.md"
+  },
+  {
+    "arxiv_id": "2604.01610",
+    "version": 1,
+    "title": "GraphWalk: Enabling Reasoning in Large Language Models through Tool-Based Graph Navigation",
+    "authors": [
+      "Taraneh Ghandi",
+      "Hamidreza Mahyar",
+      "Shachar Klaiman"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01610",
+    "pdf_url": "https://arxiv.org/pdf/2604.01610v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Tool-Using Agent",
+      "Graph Reasoning",
+      "Multi-Hop Reasoning",
+      "Agent Framework",
+      "Knowledge Graph",
+      "LLM Agent",
+      "Training-Free",
+      "Agent Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/graphwalk-enabling-reasoning-in-large-language-models-through-tool-based-graph-n.md"
+  },
+  {
+    "arxiv_id": "2604.01508",
+    "version": 1,
+    "title": "ToolMisuseBench: An Offline Deterministic Benchmark for Tool Misuse and Recovery in Agentic Systems",
+    "authors": [
+      "Akshey Sigdel",
+      "Rista Baral"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01508",
+    "pdf_url": "https://arxiv.org/pdf/2604.01508v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent评测基准",
+      "工具使用",
+      "鲁棒性与恢复",
+      "离线评估",
+      "故障注入",
+      "开源数据集"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/toolmisusebench-an-offline-deterministic-benchmark-for-tool-misuse-and-recovery.md"
+  },
+  {
+    "arxiv_id": "2604.02022",
+    "version": 1,
+    "title": "ATBench: A Diverse and Realistic Trajectory Benchmark for Long-Horizon Agent Safety",
+    "authors": [
+      "Yu Li",
+      "Haoyu Luo",
+      "Yuejin Xie",
+      "Yuqian Fu",
+      "Zhonghao Yang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02022",
+    "pdf_url": "https://arxiv.org/pdf/2604.02022v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Safety",
+      "Evaluation Benchmark",
+      "Trajectory-Level Evaluation",
+      "Long-Horizon Interaction",
+      "Tool Use",
+      "Risk Taxonomy",
+      "Multi-Turn Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/02/atbench-a-diverse-and-realistic-trajectory-benchmark-for-long-horizon-agent-safe.md"
+  },
+  {
+    "arxiv_id": "2604.01560",
+    "version": 1,
+    "title": "DeltaMem: Towards Agentic Memory Management via Reinforcement Learning",
+    "authors": [
+      "Qi Zhang",
+      "Shen Huang",
+      "Chu Liu",
+      "Shouqing Yang",
+      "Junbo Zhao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01560",
+    "pdf_url": "https://arxiv.org/pdf/2604.01560v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Memory",
+      "Memory Management",
+      "Reinforcement Learning",
+      "Persona-Centric",
+      "Single-Agent",
+      "Dialogue Systems",
+      "Long-Term Memory",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/02/deltamem-towards-agentic-memory-management-via-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2604.01535",
+    "version": 1,
+    "title": "Read More, Think More: Revisiting Observation Reduction for Web Agents",
+    "authors": [
+      "Masafumi Enomoto",
+      "Ryoma Obara",
+      "Haochen Zhang",
+      "Masafumi Oyamada"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01535",
+    "pdf_url": "https://arxiv.org/pdf/2604.01535v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Web Agent",
+      "Observation Representation",
+      "HTML Parsing",
+      "Agent Planning",
+      "Model Capability",
+      "Benchmark Evaluation",
+      "MiniWoB++",
+      "WebArena"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/02/read-more-think-more-revisiting-observation-reduction-for-web-agents.md"
+  },
+  {
+    "arxiv_id": "2604.01532",
+    "version": 1,
+    "title": "PHMForge: A Scenario-Driven Agentic Benchmark for Industrial Asset Lifecycle Maintenance",
+    "authors": [
+      "Ayan Das",
+      "Dhaval Patel"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01532",
+    "pdf_url": "https://arxiv.org/pdf/2604.01532v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Benchmark",
+      "Tool Use",
+      "Industrial Application",
+      "Evaluation",
+      "Multi-Tool Orchestration"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/02/phmforge-a-scenario-driven-agentic-benchmark-for-industrial-asset-lifecycle-main.md"
+  },
+  {
+    "arxiv_id": "2604.02280",
+    "version": 1,
+    "title": "Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency",
+    "authors": [
+      "Payal Fofadiya",
+      "Sunil Tiwari"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02280",
+    "pdf_url": "https://arxiv.org/pdf/2604.02280v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Memory",
+      "Long-horizon Reasoning",
+      "Conversational Agent",
+      "Forgetting Mechanism",
+      "Memory Management",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/novel-memory-forgetting-techniques-for-autonomous-ai-agents-balancing-relevance.md"
+  },
+  {
+    "arxiv_id": "2604.02155",
+    "version": 1,
+    "title": "Brief Is Better: Non-Monotonic Chain-of-Thought Budget Effects in Function-Calling Language Agents",
+    "authors": [
+      "Xuan Qi"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02155",
+    "pdf_url": "https://arxiv.org/pdf/2604.02155v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Reasoning",
+      "Chain-of-Thought",
+      "Tool Use",
+      "Function Calling",
+      "Agent Efficiency",
+      "Error Analysis",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/brief-is-better-non-monotonic-chain-of-thought-budget-effects-in-function-callin.md"
+  },
+  {
+    "arxiv_id": "2604.02174",
+    "version": 1,
+    "title": "Quantifying Self-Preservation Bias in Large Language Models",
+    "authors": [
+      "Matteo Migliarini",
+      "Joaquin Pereira Pizzini",
+      "Luca Moresca",
+      "Valerio Santini",
+      "Indro Spinelli"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02174",
+    "pdf_url": "https://arxiv.org/pdf/2604.02174v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Safety",
+      "Agent Alignment",
+      "Agent Evaluation",
+      "Multi-Agent Interaction",
+      "Agent Reasoning",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/quantifying-self-preservation-bias-in-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2604.01647",
+    "version": 1,
+    "title": "Exploring Robust Multi-Agent Workflows for Environmental Data Management",
+    "authors": [
+      "Boyuan Guan",
+      "Jason Liu",
+      "Yanzhao Wu",
+      "Kiavash Bahreini"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01647",
+    "pdf_url": "https://arxiv.org/pdf/2604.01647v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Multi-Agent Systems",
+      "Agent Reliability",
+      "Tool Use",
+      "Production System",
+      "Workflow Design",
+      "Knowledge Architecture",
+      "Environmental Science"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/exploring-robust-multi-agent-workflows-for-environmental-data-management.md"
+  },
+  {
+    "arxiv_id": "2604.01527",
+    "version": 1,
+    "title": "ProdCodeBench: A Production-Derived Benchmark for Evaluating AI Coding Agents",
+    "authors": [
+      "Smriti Jha",
+      "Matteo Paltenghi",
+      "Chandra Maddila",
+      "Vijayaraghavan Murali",
+      "Shubham Ugare"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01527",
+    "pdf_url": "https://arxiv.org/pdf/2604.01527v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "代码智能体",
+      "评测基准",
+      "生产环境",
+      "工具使用",
+      "验证机制"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/prodcodebench-a-production-derived-benchmark-for-evaluating-ai-coding-agents.md"
+  },
+  {
+    "arxiv_id": "2604.01518",
+    "version": 1,
+    "title": "Are Benchmark Tests Strong Enough? Mutation-Guided Diagnosis and Augmentation of Regression Suites",
+    "authors": [
+      "Chenglin Li",
+      "Yisen Xu",
+      "Zehao Wang",
+      "Shin Hwei Tan",
+      "Tse-Hsun"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01518",
+    "pdf_url": "https://arxiv.org/pdf/2604.01518v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Benchmarking",
+      "SWE-bench",
+      "Test Augmentation",
+      "Code Agent",
+      "Evaluation Reliability",
+      "Automated Software Repair"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/are-benchmark-tests-strong-enough-mutation-guided-diagnosis-and-augmentation-of.md"
+  }
+]
