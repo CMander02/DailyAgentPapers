@@ -344,6 +344,65 @@
     "md_path": "data/2026/04/02/toolmisusebench-an-offline-deterministic-benchmark-for-tool-misuse-and-recovery.md"
   },
   {
+    "arxiv_id": "2604.02547",
+    "version": 1,
+    "title": "Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure",
+    "authors": [
+      "Tural Mehtiyev",
+      "Wesley Assunção"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02547",
+    "pdf_url": "https://arxiv.org/pdf/2604.02547v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Coding Agent",
+      "Empirical Study",
+      "Failure Analysis",
+      "Behavioral Analysis",
+      "Tool-Augmented Interaction",
+      "LLM Capability",
+      "Agent Framework",
+      "Benchmarking"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/beyond-resolution-rates-behavioral-drivers-of-coding-agent-success-and-failure.md"
+  },
+  {
+    "arxiv_id": "2604.02460",
+    "version": 1,
+    "title": "Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets",
+    "authors": [
+      "Dat Tran",
+      "Douwe Kiela"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02460",
+    "pdf_url": "https://arxiv.org/pdf/2604.02460v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "多智能体系统",
+      "单智能体系统",
+      "计算效率",
+      "推理效率",
+      "信息论分析",
+      "多跳推理",
+      "基准评测",
+      "实验验证"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/02/single-agent-llms-outperform-multi-agent-systems-on-multi-hop-reasoning-under-eq.md"
+  },
+  {
     "arxiv_id": "2604.02022",
     "version": 1,
     "title": "ATBench: A Diverse and Realistic Trajectory Benchmark for Long-Horizon Agent Safety",
@@ -638,5 +697,62 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/04/02/are-benchmark-tests-strong-enough-mutation-guided-diagnosis-and-augmentation-of.md"
+  },
+  {
+    "arxiv_id": "2604.02145",
+    "version": 1,
+    "title": "MTI: A Behavior-Based Temperament Profiling System for AI Agents",
+    "authors": [
+      "Jihoon Jeong"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02145",
+    "pdf_url": "https://arxiv.org/pdf/2604.02145v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "Agent Profiling",
+      "Behavior Analysis",
+      "Temperament Measurement",
+      "Model Evaluation",
+      "RLHF Analysis",
+      "Instruction-Tuned Models"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/mti-a-behavior-based-temperament-profiling-system-for-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2604.01608",
+    "version": 1,
+    "title": "From Multi-Agent to Single-Agent: When Is Skill Distillation Beneficial?",
+    "authors": [
+      "Binyan Xu",
+      "Dong Fang",
+      "Haitao Li",
+      "Kehuan Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.01608",
+    "pdf_url": "https://arxiv.org/pdf/2604.01608v1",
+    "github_url": "",
+    "published": "2026-04-02",
+    "tags": [
+      "多智能体系统",
+      "技能蒸馏",
+      "评估指标",
+      "自适应框架",
+      "单智能体",
+      "效率优化",
+      "理论分析"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/02/from-multi-agent-to-single-agent-when-is-skill-distillation-beneficial.md"
   }
 ]

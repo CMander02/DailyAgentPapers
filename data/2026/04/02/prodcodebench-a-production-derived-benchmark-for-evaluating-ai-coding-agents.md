@@ -10,7 +10,7 @@ authors:
 date: "2026-04-02"
 arxiv_id: "2604.01527"
 arxiv_url: "https://arxiv.org/abs/2604.01527"
-pdf_url: "https://arxiv.org/pdf/2604.01527v1"
+pdf_url: "https://arxiv.org/pdf/2604.01527v2"
 categories:
   - "cs.SE"
   - "cs.AI"
@@ -19,69 +19,65 @@ tags:
   - "代码智能体"
   - "评测基准"
   - "生产环境"
-  - "工具使用"
-  - "验证机制"
-relevance_score: 7.5
+  - "软件工程"
+  - "任务评估"
+  - "多语言编程"
+  - "模型评估"
+relevance_score: 8.0
 ---
 
 # ProdCodeBench: A Production-Derived Benchmark for Evaluating AI Coding Agents
 
 ## 原始摘要
 
-Benchmarks that reflect production workloads are better for evaluating AI coding agents in industrial settings, yet existing benchmarks differ from real usage in programming language distribution, prompt style and codebase structure. This paper presents a methodology for curating production-derived benchmarks, illustrated through ProdCodeBench - a benchmark built from real sessions with a production AI coding assistant. We detail our data collection and curation practices including LLM-based task classification, test relevance validation, and multi-run stability checks which address challenges in constructing reliable evaluation signals from monorepo environments. Each curated sample consists of a verbatim prompt, a committed code change and fail-to-pass tests spanning seven programming languages. Our systematic analysis of four foundation models yields solve rates from 53.2% to 72.2% revealing that models making greater use of work validation tools, such as executing tests and invoking static analysis, achieve higher solve rates. This suggests that iterative verification helps achieve effective agent behavior and that exposing codebase-specific verification mechanisms may significantly improve the performance of externally trained agents operating in unfamiliar environments. We share our methodology and lessons learned to enable other organizations to construct similar production-derived benchmarks.
+Benchmarks that reflect production workloads are better for evaluating AI coding agents in industrial settings, yet existing benchmarks differ from real usage in programming language distribution, prompt style and codebase structure. This paper presents a methodology for curating production-derived benchmarks, illustrated through ProdCodeBench, a benchmark sourced from real developer-agent sessions. We detail our data collection and curation practices including LLM-based task classification, test relevance validation, and multi-run stability checks which address challenges in constructing reliable evaluation signals from monorepo environments. Each curated sample consists of a verbatim prompt, a committed code change and fail-to-pass tests spanning seven programming languages. Our systematic analysis of four foundation models yields solve rates ranging from 53.2% to 72.2%. We demonstrate how these offline evaluation signals drive practical decisions around model selection and harness design, while noting that offline benchmarks provide directional signal that we complement with online A/B testing for production deployment decisions. We share our methodology and lessons learned to enable other organizations to construct similar production-derived benchmarks.
 
 ## Q&A 论文解读
 
 ### Q1: 这篇论文试图解决什么问题？
 
-这篇论文旨在解决如何构建一个能真实反映工业场景下生产工作负载的AI编程助手评估基准的问题。当前，评估AI编程助手的方法各有局限：在线A/B测试虽能获得高保真信号，但耗时耗力且可能影响用户体验；影子部署避免了用户干扰，却因非确定性而难以复现；而使用现有公开基准（如SWE-Bench）进行离线评估虽快速可复现，但其任务来源（如GitHub问题）与工业实际在编程语言分布（以Python为主 vs. 多语言代码库）、提示风格（结构化问题描述 vs. 非正式开发者请求）和代码库结构（独立仓库 vs. 包含多项目共享基础设施的大型单体仓库）上存在显著差异。这些差异导致现有基准难以准确评估AI助手在真实生产环境中的表现。
+这篇论文旨在解决如何构建一个贴近实际生产环境的评估基准，以更可靠地评估AI编程助手（AI coding agents）在工业场景中的性能。研究背景是，随着AI编程助手越来越多地被部署到实际软件开发流程中，组织需要快速、可重复的方法来比较不同基础模型、验证智能体配置变更以及评估基础设施更新。然而，现有的评估方法各有局限：在线A/B测试虽然信号保真度高，但耗时长、资源消耗大且可能影响用户体验；影子部署避免了用户干扰，但存在非确定性和可复现性问题；而使用现有公开基准（如SWE-Bench）进行离线评估虽然快速可复现，但其任务来源（如Python GitHub问题）与真实工业工作负载在多个关键维度上存在显著差异，包括编程语言分布（以Python为主 vs. 多语言代码库）、提示风格（结构化问题描述 vs. 非正式的开发者请求）以及代码库结构（独立仓库 vs. 大规模单体仓库）。这些差异使得现有基准难以准确反映生产环境的真实需求。
 
-因此，本文的核心问题是：如何从实际生产数据中构建一个既保留真实交互特征（如原始提示、多语言任务分布），又能提供稳定、基于执行的自动化评估信号的基准。为此，论文提出了ProdCodeBench，一个从生产AI编程助手真实会话中提炼的基准，其每个样本包含原始提示、已提交的代码变更以及一组“失败转通过”的测试，从而无需依赖LLM评判即可自动验证正确性。研究通过设计一套包含LLM任务分类、测试相关性验证和多轮稳定性检查的数据筛选流程，解决了单体仓库环境中构建可靠评估信号所面临的挑战。
+因此，本文的核心问题是：如何从真实的生产数据中构建一个评估基准，以弥合现有评估方法与实际工业应用之间的差距。具体而言，该基准需要能够：1）保留原始的真实用户提示，而非人工合成；2）反映目标部署环境中真实的编程语言和任务类型分布；3）提供稳定、基于代码执行的评估信号，既适用于快速实验，也支持强化学习。为此，论文提出了一个可复现的方法论，并通过构建名为ProdCodeBench的基准（源自真实开发者与智能体的交互会话）进行具体阐述，以解决上述问题。
 
 ### Q2: 有哪些相关研究？
 
-本文的相关研究主要可分为三大类：评测基准、开发者交互研究和模型训练方法。
+本文的相关研究可分为三大类：评测基准、开发者交互研究和模型训练方法。
 
-在**评测基准**方面，第一代基准（如HumanEval、MBPP）专注于从自然语言生成独立函数，评估功能正确性。第二代基准（如SWE-bench及其变体SWE-bench Verified、SWE-Gym）将评估置于真实代码库环境中，使用GitHub问题描述作为任务来源。本文提出的ProdCodeBench与SWE-bench共享代码库级评估范式，但关键区别在于任务提示的来源：现有基准使用开发者间沟通的GitHub问题描述，而本文直接从开发者与AI编码助手的真实交互会话中提取逐字提示，更贴近实际使用场景。
+在**评测基准**方面，相关工作分为两代。第一代基准（如HumanEval、MBPP）评估模型根据自然语言描述生成独立函数的能力，但脱离了真实开发环境。第二代基准（如SWE-bench及其变体SWE-bench Verified、SWE-Gym）将评估置于真实代码库上下文中，通过GitHub问题描述构建任务。本文提出的ProdCodeBench属于第二代，但关键区别在于任务来源：现有基准使用开发者间沟通的Issue描述，而本文直接采集开发者与AI助手交互的真实提示（verbatim prompts），这更能反映实际使用场景。其他多语言基准（如SWE-Sharp-Bench、Multi-SWE-bench）和跨文件评估基准（CrossCodeEval）也属于此类。
 
-在**开发者交互研究**方面，多项实证研究（如Barke等人对GitHub Copilot使用模式的观察、Vaithilingam等人对开发者价值的分析）揭示了开发者与AI工具交互的具体模式（如加速模式和探索模式）及信任因素。这些研究为理解真实交互提供了基础，但现有评测基准未能捕捉这些真实交互。本文的基准直接源于实际使用数据，填补了这一空白。
+在**开发者交互研究**方面，多项实证研究分析了开发者与AI工具的互动模式。例如，Barke等人识别了“加速”和“探索”两种模式；Vaithilingam等人研究了Copilot对开发效率的影响；Xiao等人整理了开发者与ChatGPT的对话数据集。这些研究揭示了真实交互模式，但未转化为评测基准。本文则直接利用真实交互数据构建基准，填补了这一空白。
 
-在**模型训练与改进方法**方面，自动程序修复（APR）研究（如ChatRepair）表明，结合测试反馈能有效提升模型性能。强化学习方法（如CodeRL、RLEF）利用测试结果作为奖励信号来训练模型。本文的基准通过其测试分类方案（如失败到通过的测试）支持此类训练范式，为构建细粒度奖励信号提供了基础。此外，本文还通过多运行稳定性检查应对测试不稳定性，并采用滚动更新设计来缓解数据污染问题。
+在**模型训练与改进**方面，自动程序修复（APR）研究（如ChatRepair）展示了如何利用测试反馈迭代改进代码生成。强化学习方法（如CodeRL、RLEF）使用测试结果作为奖励信号来训练模型。本文的基准设计（包含测试分类）可支持此类训练范式，提供细粒度的奖励信号构建。
+
+此外，本文还考虑了**基准可靠性**问题，通过多轮稳定性检查应对测试不稳定性，并采用滚动更新设计（类似LiveCodeBench）缓解数据污染问题。
 
 ### Q3: 论文如何解决这个问题？
 
-论文通过构建一个名为ProdCodeBench的基准测试来解决如何评估AI编程助手在真实生产环境中的表现问题。其核心方法是直接从生产环境中采集真实的开发者与AI助手交互数据，并设计了一套严格的数据筛选和验证流程，以确保评估信号可靠且贴近实际工作负载。
+论文通过构建一个名为ProdCodeBench的、源自真实生产环境的基准测试来解决现有评估基准与工业场景脱节的问题。其核心方法是建立一个从真实开发者-Agent会话中提取、并经过严格筛选和验证的基准数据集，以确保评估任务在编程语言分布、提示风格和代码库结构上反映实际生产工作负载。
 
-整体框架围绕三个目标构建：反映真实的开发者提示、在大型工业级单体仓库中运行、提供可靠的基于执行的评估信号。主要模块包括数据收集、任务筛选和测试验证三大环节。数据来源于集成了AI编程助手的IDE中记录的真实单轮对话，这些对话最终导致了代码变更被提交到主分支。每个基准任务包含三个组件：原始提示（保留真实措辞和上下文）、解决方案差异（已提交的代码变更）以及一组可执行测试。
+整体框架是一个数据筛选管道（Data Funnel），从海量的真实IDE内开发者-Agent单轮对话开始，通过多级过滤最终得到高质量的基准测试样本。每个样本包含三个核心组件：**原样保留的开发者自然语言提示**、**后续被批准并提交的代码变更（解决方案diff）**，以及一组**可执行的测试**。评估时，Agent在模拟的工业级单体代码库（monorepo）环境中工作，解决方案diff被隐藏，最终完全依赖测试执行结果（而非LLM评判）来提供通过/失败信号。
 
-关键技术体现在以下几个方面：
-1. **数据筛选管道**：采用多级过滤器确保任务质量。首先通过LLM驱动的分类器排除无法用自动化测试评估的任务（如文档更新、UI调整）。其次，过滤掉引用解决方案差异的提示，防止代理通过版本控制系统“作弊”。最后，排除模板化或系统自动生成的提示，确保只保留真实的交互任务。
+主要模块与关键技术包括：
+1.  **数据收集与真实性保障**：直接从集成了AI编程助手的IDE中收集会话，并利用代码溯源（AI provenance）技术，精确追踪哪些AI生成的内容被开发者接受并最终提交，从而建立从对话到提交代码的可靠映射。为确保任务意图明确，仅选取单轮对话且对应唯一代码提交的会话。
+2.  **提示质量过滤**：使用LLM分类器过滤掉无法通过自动化测试可靠评估的任务（如仅文档更新、UI调整）。同时，排除引用解决方案diff（可能让Agent通过版本控制系统“作弊”）或属于系统模板的提示，确保提示代表真实的开发者交互意图。
+3.  **测试质量过滤与验证**：这是确保评估信号可靠的关键。首先，通过**概率性测试检索**发现与代码变更相关的测试，并排除不稳定、失败或禁用的测试。其次，构建一个**测试相关性Agent**，该Agent配备代码差异获取和代码搜索工具，用于分析变更内容，验证每个测试是否确实受到代码变更的影响（直接或间接），提高了测试发现的精确度。最后，进行**测试验证与分类**：在变更前和变更后的代码版本上多次执行候选测试，根据其行为稳定地将测试分类为“失败转通过”（Fail-to-Pass, F2P，作为主要评估信号）或“通过转通过”（Pass-to-Pass, P2P，作为回归测试），并排除执行不一致的测试。
+4.  **滚动基准设计**：为应对大型单体代码库中工具链、索引和服务随时间推移而失效的“时间旅行”难题，基准被设计为**滚动更新**。定期用新样本刷新任务集，而非永久固定，这保证了基准与当前开发实践同步、免受数据污染，并维持足够的任务量。
 
-2. **测试验证机制**：为了解决单体仓库中“时间旅行”问题（即难以完全复现历史提交环境），论文设计了滚动基准方法，定期更新任务集以保持新鲜度。测试发现采用概率性检索，但进一步通过“测试相关性代理”进行验证，该代理配备代码搜索工具，分析代码变更是否真正影响特定测试，从而提高测试关联的精确性。随后，对候选测试进行多次执行，将其分类为“失败转通过”（F2P，核心评估信号）或“通过转通过”（P2P，回归测试），并排除不稳定测试。
-
-3. **评估完整性保障**：通过从当前代码库中“回退”解决方案差异，确保代理在评估时无法直接访问已提交的解决方案。同时，仅选择可干净回退的变更，排除存在冲突的案例。
-
-创新点包括：
-- **真实性**：直接捕获真实开发者提示，包含企业上下文、内部术语和调试场景，与合成任务描述形成鲜明对比。
-- **可靠性**：完全依赖可执行测试而非LLM评判，并通过多轮运行和测试分类确保评估信号稳定。
-- **适应性**：支持多编程语言，任务类型涵盖错误修复、功能请求和重构，且设计为滚动更新，避免数据污染并保持与当前开发实践同步。
-
-最终，该方法不仅提供了一个高质量基准，还通过分析发现，更充分利用工作验证工具（如执行测试、调用静态分析）的模型解决率更高，揭示了迭代验证对提升代理在陌生环境中性能的重要性。
+创新点在于：1）**生产源头性**：基准完全源于真实生产会话，其提示天然包含企业内部语境、调试真实故障、遵循现有模式等合成基准缺乏的特征。2）**评估完整性**：通过回退（back out）解决方案diff、隐藏答案、严格过滤测试相关性及稳定性，在动态的工业代码库环境中构建了可靠的、基于执行的评估信号。3）**方法论系统性**：提供了一套完整、可复用的方法论，包括从数据收集、多级过滤（提示质量、测试质量）到滚动维护的完整流程，使其他组织能够构建类似的生产衍生基准。
 
 ### Q4: 论文做了哪些实验？
 
-论文实验主要包括模型性能比较、评估工具链（harness）对比和定性分析三部分。实验在基准测试的“失败转通过”（F2P）子集上进行，即仅包含至少有一个“失败转通过”测试的代码变更。
+论文实验主要包括模型性能比较、评估工具链（harness）对比和定性分析三部分。实验在基准的“失败到通过”（F2P）子集上进行，该子集仅包含至少有一个相关失败测试的代码变更。
 
-在模型性能比较中，评估了多个大型语言模型（如Claude Opus、Claude Sonnet、Claude Haiku和GPT Codex），每个模型运行三次以测量方差。主要结果以解决率（solve rate）呈现，Claude Opus表现最佳，解决率达72.2%，Claude Sonnet为66.7%，Claude Haiku和GPT Codex分别为53.2%和55.6%（均附带95%置信区间）。分析发现，更频繁使用验证工具（如执行测试、调用静态分析）的模型解决率更高。
+在实验设置上，研究评估了多个大语言模型，每个模型运行三次以测量方差。数据集为ProdCodeBench，其样本来源于真实的开发者-Agent会话，包含逐字提示、已提交的代码变更以及涵盖七种编程语言的失败到通过测试。对比方法涉及不同模型（如Claude Opus、Claude Sonnet、GPT 5.1 Codex）以及两种评估工具链：功能有限的Agent-Basic和提供完整IDE类体验（包含代码导航、诊断等更多工具）的Agent-IDE。此外，还评估了包含代码库知识的“上下文文件”的影响。
 
-在评估工具链对比中，比较了两种工具链：功能有限的Agent-Basic和提供完整IDE类体验的Agent-IDE（工具数量约为前者的3倍）。实验还测试了“上下文文件”（Context Files，包含代码库内部知识的Markdown文件）的影响。结果显示，更强的Agent-IDE工具链显著提升了解决率；在较弱的Agent-Basic工具链上，模型间性能差异更大，而添加上下文文件能提升解决率，尤其对具有公司特定约定的编程语言帮助明显。
-
-定性分析包括对任务分类器和测试相关性分类器的人工验证。采样30个任务进行人工标注，任务分类器与人工共识的二进制（可测试/不可测试）一致率达96.67%（29/30）。测试相关性验证采样15对（代码变更，测试），分类器与人工共识的一致率为80%（12/15），分歧主要出现在相关性的主观边界上。
+主要结果方面，模型解决率（solve rates）在53.2%到72.2%之间，Claude Opus表现最佳。关键数据指标包括：Claude Opus在Agent-IDE工具链上的解决率最高（约72.2%）；使用Agent-IDE工具链比Agent-Basic能显著提升解决率；在较弱的Agent-Basic工具链上，添加上下文文件也能提升性能。工具使用分布显示，Agent-Basic会触发更多搜索调用（例如GPT 5.1 Codex达48.5%），而Agent-IDE的导航更高效。对用于数据整理的LLM分类器进行的人工验证显示，其在任务分类和测试相关性判断上与人工标注的一致性分别达到96.67%和80%。
 
 ### Q5: 有什么可以进一步探索的点？
 
-该论文的局限性及未来研究方向可从多个维度展开。首先，基准测试仅涵盖单轮交互，忽略了实际开发中常见的多轮调试、协作分解等复杂场景，这限制了其对智能体迭代和协作能力的评估。未来可纳入多轮对话数据，设计需要跨文件协调或领域知识的任务，以提升任务多样性和挑战性。其次，基准中约65%的样本为AI完全生成，可能导致评估偏向于模型自我一致性检验而非解决新问题，未来需区分数据来源，增强样本独立性。此外，当前解决率已达约70%，存在天花板效应，未来可通过纳入更复杂任务或不同助手的数据来提高区分度。在技术层面，可探索并行化测试执行、缓存机制以提升基准构建效率，并引入工作空间快照以还原真实开发环境。最后，基准的编程语言分布和任务复杂度可能不具备普适性，未来可扩展至更多样化的代码库和开发场景，以增强外部效性。
+基于论文的局限性分析，未来研究可从以下几个维度深入探索：首先，在任务设计上，当前基准局限于单轮交互，未能涵盖真实开发中常见的多轮调试、问题分解等协作模式。未来可构建支持迭代式对话的评估框架，并引入需要跨文件协调或领域知识的复杂任务，以提升基准的挑战性和生态效度。其次，在数据规模与质量方面，现有筛选流程导致样本量有限，难以支持基于强化学习的模型微调。可通过并行化测试执行、引入缓存机制来提升数据处理效率，同时扩展数据来源，纳入多轮对话记录及不同AI编程助手的数据，以丰富任务多样性。此外，评估环境的真实性有待加强，例如通过还原开发时的本地未提交变更快照，避免工具泄露解题信息，确保评估的公正性。最后，针对当前模型性能接近天花板的问题，需设计更具区分度的任务，并建立动态更新的基准体系，以持续追踪模型进展，同时结合在线A/B测试，使离线评估与线上部署决策形成互补。
 
 ### Q6: 总结一下论文的主要内容
 
-该论文提出了一种从实际生产环境中构建AI编程智能体评估基准的方法，并以ProdCodeBench为例进行说明。核心问题是现有基准在编程语言分布、提示风格和代码库结构上与真实工业场景存在差异。方法上，论文详细介绍了数据收集与筛选流程，包括基于LLM的任务分类、测试相关性验证和多轮稳定性检查，以解决从单体仓库环境中构建可靠评估信号的挑战。每个样本包含原始提示、已提交的代码变更和覆盖七种编程语言的测试用例。通过对四个基础模型的系统分析，发现解决率在53.2%至72.2%之间，且表现更好的模型更频繁地使用工作验证工具（如执行测试和静态分析）。主要结论表明，迭代验证有助于提升智能体效能，而暴露代码库特定的验证机制可显著改善外部训练智能体在陌生环境中的性能。该研究的意义在于提供了一套可复现的方法论，使其他组织能够基于自身生产数据构建类似的基准，从而更准确地评估AI编程智能体在真实工业场景中的能力。
+该论文提出了一种从实际生产环境中构建AI编程智能体评估基准的方法，并以ProdCodeBench为例进行说明。核心贡献在于设计了一套系统化的数据收集与筛选流程，包括基于大语言模型的任务分类、测试相关性验证和多轮运行稳定性检查，以解决从单体仓库环境中提取可靠评估信号所面临的挑战。该方法生成的基准保留了原始用户提示、已提交的代码变更以及覆盖七种编程语言的测试用例，更真实地反映了工业场景下的使用模式，与现有基于GitHub问题的基准形成区别。对四个基础模型的系统评估显示，其解决率在53.2%至72.2%之间，性能更高的模型更倾向于使用工作验证工具，表明迭代验证能提升智能体效能。论文强调离线基准可提供方向性指导，辅助模型选择与工具设计，但实际部署决策需结合在线A/B测试。所提出的方法论具有可复现性，旨在帮助其他组织基于自身生产数据构建类似基准。

@@ -1,0 +1,775 @@
+[
+  {
+    "arxiv_id": "2604.02721",
+    "version": 1,
+    "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
+    "authors": [
+      "DeepReinforce Team",
+      "Xiaoya Li",
+      "Xiaofei Sun",
+      "Guoyin Wang",
+      "Songqiao Su"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02721",
+    "pdf_url": "https://arxiv.org/pdf/2604.02721v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Multi-Agent System",
+      "Reinforcement Learning",
+      "Competitive Programming",
+      "Tool Use",
+      "Online Learning",
+      "Post-Training",
+      "Code Generation",
+      "Agent Architecture"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/03/grandcode-achieving-grandmaster-level-in-competitive-programming-via-agentic-rei.md"
+  },
+  {
+    "arxiv_id": "2604.03098",
+    "version": 1,
+    "title": "Co-Evolution of Policy and Internal Reward for Language Agents",
+    "authors": [
+      "Xinyu Wang",
+      "Hanwei Wu",
+      "Jingwei Song",
+      "Shuyuan Zhang",
+      "Jiayi Zhang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03098",
+    "pdf_url": "https://arxiv.org/pdf/2604.03098v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Training",
+      "Internal Reward",
+      "Policy Optimization",
+      "Credit Assignment",
+      "Self-Guidance",
+      "GRPO",
+      "Language Agent",
+      "Co-Evolution"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/co-evolution-of-policy-and-internal-reward-for-language-agents.md"
+  },
+  {
+    "arxiv_id": "2604.03035",
+    "version": 1,
+    "title": "Beyond Isolated Tasks: A Framework for Evaluating Coding Agents on Sequential Software Evolution",
+    "authors": [
+      "KN Ajay Shastry",
+      "Ganesh Senrayan",
+      "Shrey Satapara",
+      "Pranoy Panda",
+      "Chaitanya Devaguptapu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03035",
+    "pdf_url": "https://arxiv.org/pdf/2604.03035v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Coding Agent",
+      "Evaluation Benchmark",
+      "Sequential Task",
+      "Software Engineering",
+      "Agent Testing",
+      "Long-horizon Task",
+      "Dataset"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/beyond-isolated-tasks-a-framework-for-evaluating-coding-agents-on-sequential-sof.md"
+  },
+  {
+    "arxiv_id": "2604.03016",
+    "version": 1,
+    "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
+    "authors": [
+      "Qianshan Wei",
+      "Yishan Yang",
+      "Siyi Wang",
+      "Jinglin Chen",
+      "Binyu Wang"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03016",
+    "pdf_url": "https://arxiv.org/pdf/2604.03016v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent评测基准",
+      "多模态Agent",
+      "工具使用",
+      "过程验证",
+      "基准构建"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/agentic-mme-what-agentic-capability-really-brings-to-multimodal-intelligence.md"
+  },
+  {
+    "arxiv_id": "2604.02869",
+    "version": 1,
+    "title": "Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration",
+    "authors": [
+      "Wachiravit Modecrua",
+      "Krittanon Kaewtawee",
+      "Krittin Pachtrachai",
+      "Touchapon Kraisingkorn"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02869",
+    "pdf_url": "https://arxiv.org/pdf/2604.02869v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Tool-Calling Agent",
+      "Reinforcement Learning",
+      "Multi-Turn Interaction",
+      "Reward Design",
+      "Policy Optimization",
+      "Agent Training",
+      "LLM-based User Simulator",
+      "Customer Service"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/multi-turn-reinforcement-learning-for-tool-calling-agents-with-iterative-reward.md"
+  },
+  {
+    "arxiv_id": "2604.02734",
+    "version": 1,
+    "title": "Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents",
+    "authors": [
+      "Bin Wen",
+      "Ruoxuan Zhang",
+      "Yang Chen",
+      "Hongxia Xie",
+      "Lan-Zhe Guo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02734",
+    "pdf_url": "https://arxiv.org/pdf/2604.02734v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Architecture",
+      "Long-Horizon Planning",
+      "Neuro-Symbolic",
+      "Memory",
+      "Tool Use",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/aligning-progress-and-feasibility-a-neuro-symbolic-dual-memory-framework-for-lon.md"
+  },
+  {
+    "arxiv_id": "2604.02674",
+    "version": 1,
+    "title": "Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems",
+    "authors": [
+      "Kavana Venkatesh",
+      "Jiaming Cui"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02674",
+    "pdf_url": "https://arxiv.org/pdf/2604.02674v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Multi-Agent Systems",
+      "Coordination Dynamics",
+      "Collective Cognition",
+      "Empirical Study",
+      "Scaling Laws",
+      "Reasoning Cascades",
+      "Intellectual Elites",
+      "Integration Bottleneck",
+      "Deficit-Triggered Integration"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/03/do-agent-societies-develop-intellectual-elites-the-hidden-power-laws-of-collecti.md"
+  },
+  {
+    "arxiv_id": "2604.03088",
+    "version": 1,
+    "title": "SkillRT: Compiling Skills for Efficient Execution Everywhere",
+    "authors": [
+      "Le Chen",
+      "Erhu Feng",
+      "Yubin Xia",
+      "Haibo Chen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03088",
+    "pdf_url": "https://arxiv.org/pdf/2604.03088v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent 系统",
+      "技能编译",
+      "执行效率",
+      "可移植性",
+      "基准评测",
+      "运行时优化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/03/skillrt-compiling-skills-for-efficient-execution-everywhere.md"
+  },
+  {
+    "arxiv_id": "2604.02971",
+    "version": 1,
+    "title": "InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking",
+    "authors": [
+      "Ka Yiu Lee",
+      "Yuxuan Huang",
+      "Zhiyuan He",
+      "Huichi Zhou",
+      "Weilin Luo"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02971",
+    "pdf_url": "https://arxiv.org/pdf/2604.02971v1",
+    "github_url": "https://github.com/agent-on-the-fly/InfoSeeker",
+    "published": "2026-04-03",
+    "tags": [
+      "Web Agent",
+      "Multi-Agent System",
+      "Hierarchical Architecture",
+      "Parallel Execution",
+      "Information Seeking",
+      "Scalability",
+      "Error Mitigation",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/03/infoseeker-a-scalable-hierarchical-parallel-agent-framework-for-web-information.md"
+  },
+  {
+    "arxiv_id": "2604.03131",
+    "version": 1,
+    "title": "A Systematic Security Evaluation of OpenClaw and Its Variants",
+    "authors": [
+      "Yuhang Wang",
+      "Haichang Gao",
+      "Zhenxing Niu",
+      "Zhaoxiang Liu",
+      "Wenjing Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03131",
+    "pdf_url": "https://arxiv.org/pdf/2604.03131v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent安全",
+      "工具增强Agent",
+      "安全评估",
+      "基准构建",
+      "多框架分析",
+      "风险分析"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/03/a-systematic-security-evaluation-of-openclaw-and-its-variants.md"
+  },
+  {
+    "arxiv_id": "2604.03070",
+    "version": 1,
+    "title": "Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study",
+    "authors": [
+      "Zhihao Chen",
+      "Ying Zhang",
+      "Yi Liu",
+      "Gelei Deng",
+      "Yuekang Li"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03070",
+    "pdf_url": "https://arxiv.org/pdf/2604.03070v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Security",
+      "Tool Use / Skills",
+      "Empirical Study",
+      "Vulnerability Analysis",
+      "Prompt Injection",
+      "Multi-modal Analysis"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/03/credential-leakage-in-llm-agent-skills-a-large-scale-empirical-study.md"
+  },
+  {
+    "arxiv_id": "2604.02947",
+    "version": 1,
+    "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+    "authors": [
+      "Yunhao Feng",
+      "Yifan Ding",
+      "Yingshui Tan",
+      "Xingjun Ma",
+      "Yige Li"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02947",
+    "pdf_url": "https://arxiv.org/pdf/2604.02947v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Safety",
+      "Benchmark",
+      "Tool Use",
+      "Computer-Use Agent",
+      "Harmful Behavior",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/03/agenthazard-a-benchmark-for-evaluating-harmful-behavior-in-computer-use-agents.md"
+  },
+  {
+    "arxiv_id": "2604.02923",
+    "version": 1,
+    "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
+    "authors": [
+      "Shuai Wu",
+      "Xue Li",
+      "Yanna Feng",
+      "Yufang Li",
+      "Zhijun Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02923",
+    "pdf_url": "https://arxiv.org/pdf/2604.02923v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Multi-Agent",
+      "Hallucination Mitigation",
+      "Bias Reduction",
+      "Consensus Mechanism",
+      "System Architecture",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/03/council-mode-mitigating-hallucination-and-bias-in-llms-via-multi-agent-consensus.md"
+  },
+  {
+    "arxiv_id": "2604.02623",
+    "version": 1,
+    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+    "authors": [
+      "Wei Zou",
+      "Mingwen Dong",
+      "Miguel Romero Calvo",
+      "Wei Zou",
+      "Shuaichen Chang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02623",
+    "pdf_url": "https://arxiv.org/pdf/2604.02623v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Web Agent",
+      "Agent Security",
+      "Memory Poisoning",
+      "Adversarial Attack",
+      "WebArena",
+      "Multi-Session",
+      "Threat Model",
+      "Empirical Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/03/poison-once-exploit-forever-environment-injected-memory-poisoning-attacks-on-web.md"
+  },
+  {
+    "arxiv_id": "2604.03196",
+    "version": 1,
+    "title": "From Industry Claims to Empirical Reality: An Empirical Study of Code Review Agents in Pull Requests",
+    "authors": [
+      "Kowshik Chowdhury",
+      "Dipayan Banik",
+      "K M Ferdous",
+      "Shazibul Islam Shamim"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03196",
+    "pdf_url": "https://arxiv.org/pdf/2604.03196v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Code Agent",
+      "Code Review",
+      "Empirical Study",
+      "Pull Request",
+      "Human-Agent Collaboration",
+      "Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/from-industry-claims-to-empirical-reality-an-empirical-study-of-code-review-agen.md"
+  },
+  {
+    "arxiv_id": "2604.03173",
+    "version": 1,
+    "title": "Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents",
+    "authors": [
+      "Delip Rao",
+      "Eric Wong",
+      "Chris Callison-Burch"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03173",
+    "pdf_url": "https://arxiv.org/pdf/2604.03173v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Evaluation",
+      "Tool Use",
+      "Self-Correction",
+      "Hallucination Detection",
+      "Benchmark",
+      "Retrieval-Augmented Generation",
+      "Research Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/detecting-and-correcting-reference-hallucinations-in-commercial-llms-and-deep-re.md"
+  },
+  {
+    "arxiv_id": "2604.03159",
+    "version": 1,
+    "title": "BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation",
+    "authors": [
+      "Delip Rao",
+      "Chris Callison-Burch"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.DL",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03159",
+    "pdf_url": "https://arxiv.org/pdf/2604.03159v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Evaluation",
+      "Tool Use",
+      "Scientific Agent",
+      "Hallucination Mitigation",
+      "Benchmark",
+      "Search-Augmented Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/bibtex-citation-hallucinations-in-scientific-publishing-agents-evaluation-and-mi.md"
+  },
+  {
+    "arxiv_id": "2604.03081",
+    "version": 1,
+    "title": "Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems",
+    "authors": [
+      "Yubin Qu",
+      "Yi Liu",
+      "Tongcheng Geng",
+      "Gelei Deng",
+      "Yuekang Li"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03081",
+    "pdf_url": "https://arxiv.org/pdf/2604.03081v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Security",
+      "Supply-Chain Attack",
+      "Tool-Using Agent",
+      "Code Agent",
+      "Adversarial Attack",
+      "Safety Evaluation",
+      "Multi-Agent Framework"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/supply-chain-poisoning-attacks-against-llm-coding-agent-skill-ecosystems.md"
+  },
+  {
+    "arxiv_id": "2604.02988",
+    "version": 1,
+    "title": "Self-Optimizing Multi-Agent Systems for Deep Research",
+    "authors": [
+      "Arthur Câmara",
+      "Vincent Slot",
+      "Jakub Zavrel"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02988",
+    "pdf_url": "https://arxiv.org/pdf/2604.02988v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Multi-Agent Systems",
+      "Agent Optimization",
+      "Prompt Engineering",
+      "Information Retrieval",
+      "Self-Play",
+      "Research Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/self-optimizing-multi-agent-systems-for-deep-research.md"
+  },
+  {
+    "arxiv_id": "2604.02954",
+    "version": 1,
+    "title": "LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation",
+    "authors": [
+      "Yilin Xiao",
+      "Jin Chen",
+      "Qinggang Zhang",
+      "Yujing Zhang",
+      "Chuang Zhou"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02954",
+    "pdf_url": "https://arxiv.org/pdf/2604.02954v1",
+    "github_url": "https://github.com/Jord8061/logicPoison",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Security",
+      "Retrieval-Augmented Generation (RAG)",
+      "GraphRAG",
+      "Adversarial Attack",
+      "Logical Reasoning",
+      "Knowledge Graph",
+      "Robustness"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/logicpoison-logical-attacks-on-graph-retrieval-augmented-generation.md"
+  },
+  {
+    "arxiv_id": "2604.02863",
+    "version": 1,
+    "title": "EMS: Multi-Agent Voting via Efficient Majority-then-Stopping",
+    "authors": [
+      "Yiqing Liu",
+      "Hantao Yao",
+      "Wu Liu",
+      "Yongdong Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02863",
+    "pdf_url": "https://arxiv.org/pdf/2604.02863v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "多智能体系统",
+      "投票聚合",
+      "推理效率",
+      "资源调度",
+      "置信度建模",
+      "动态更新"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/ems-multi-agent-voting-via-efficient-majority-then-stopping.md"
+  },
+  {
+    "arxiv_id": "2604.02837",
+    "version": 1,
+    "title": "Towards Secure Agent Skills: Architecture, Threat Taxonomy, and Security Analysis",
+    "authors": [
+      "Zhiyuan Li",
+      "Jingzheng Wu",
+      "Xiang Ling",
+      "Xing Cui",
+      "Tianyue Luo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02837",
+    "pdf_url": "https://arxiv.org/pdf/2604.02837v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Security",
+      "Agent Skills",
+      "Threat Analysis",
+      "System Architecture",
+      "Multi-Agent Systems",
+      "Safety & Alignment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/towards-secure-agent-skills-architecture-threat-taxonomy-and-security-analysis.md"
+  },
+  {
+    "arxiv_id": "2604.02770",
+    "version": 1,
+    "title": "Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity",
+    "authors": [
+      "Guoling Zhou",
+      "Wenpei Han",
+      "Fengqin Yang",
+      "Li Wang",
+      "Yingcong Zhou"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02770",
+    "pdf_url": "https://arxiv.org/pdf/2604.02770v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Multi-Agent Collaboration",
+      "Role Consistency",
+      "Fine-Tuning",
+      "Semantic Similarity",
+      "ChatDev",
+      "Failure Mode Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/improving-role-consistency-in-multi-agent-collaboration-via-quantitative-role-cl.md"
+  },
+  {
+    "arxiv_id": "2604.02668",
+    "version": 1,
+    "title": "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems",
+    "authors": [
+      "Vira Kasprova",
+      "Amruta Parulekar",
+      "Abdulrahman AlRabah",
+      "Krishna Agaram",
+      "Ritwik Garg"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02668",
+    "pdf_url": "https://arxiv.org/pdf/2604.02668v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "多智能体系统",
+      "智能体行为分析",
+      "大语言模型",
+      "协同决策",
+      "社会行为模拟",
+      "实验验证"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/too-polite-to-disagree-understanding-sycophancy-propagation-in-multi-agent-syste.md"
+  },
+  {
+    "arxiv_id": "2604.02617",
+    "version": 1,
+    "title": "AutoVerifier: An Agentic Automated Verification Framework Using Large Language Models",
+    "authors": [
+      "Yuntao Du",
+      "Minh Dinh",
+      "Kaiyuan Zhang",
+      "Ninghui Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.IR",
+      "cs.LG",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.02617",
+    "pdf_url": "https://arxiv.org/pdf/2604.02617v1",
+    "github_url": "",
+    "published": "2026-04-03",
+    "tags": [
+      "Agent Framework",
+      "Automated Verification",
+      "Knowledge Graph",
+      "Structured Reasoning",
+      "Multi-step Agent",
+      "Scientific Intelligence",
+      "Claim Verification"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/03/autoverifier-an-agentic-automated-verification-framework-using-large-language-mo.md"
+  }
+]
