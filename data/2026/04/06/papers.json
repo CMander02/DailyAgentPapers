@@ -1,0 +1,686 @@
+[
+  {
+    "arxiv_id": "2604.04804",
+    "version": 1,
+    "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+    "authors": [
+      "Chenxi Wang",
+      "Zhuoyun Yu",
+      "Xin Xie",
+      "Wuguannan Yao",
+      "Runnan Fang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04804",
+    "pdf_url": "https://arxiv.org/pdf/2604.04804v1",
+    "github_url": "https://github.com/zjunlp/SkillX",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent 架构",
+      "技能库",
+      "经验复用",
+      "自动化构建",
+      "分层表示",
+      "长期规划",
+      "工具使用",
+      "基准评测"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/06/skillx-automatically-constructing-skill-knowledge-bases-for-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04580",
+    "version": 1,
+    "title": "Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints",
+    "authors": [
+      "Kefan Li",
+      "Yuan Yuan",
+      "Mengfei Wang",
+      "Shihao Zheng",
+      "Wei Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04580",
+    "pdf_url": "https://arxiv.org/pdf/2604.04580v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "代码智能体",
+      "多智能体协作",
+      "软件工程智能体",
+      "工具使用",
+      "规划与推理",
+      "测试与验证",
+      "SWE-bench",
+      "代码修复"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/06/beyond-fixed-tests-repository-level-issue-resolution-as-coevolution-of-code-and.md"
+  },
+  {
+    "arxiv_id": "2604.04514",
+    "version": 1,
+    "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+    "authors": [
+      "Varun Pratap Bhardwaj"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04514",
+    "pdf_url": "https://arxiv.org/pdf/2604.04514v1",
+    "github_url": "https://github.com/qualixar/superlocalmemory",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Memory",
+      "Long-Term Memory",
+      "Retrieval-Augmented Generation",
+      "Local AI",
+      "Cognitive Architecture",
+      "Forgetting Mechanism",
+      "Quantization",
+      "Multi-Channel Retrieval",
+      "Information Geometry",
+      "Agent System"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/06/superlocalmemory-v33-the-living-brain-biologically-inspired-forgetting-cognitive.md"
+  },
+  {
+    "arxiv_id": "2604.04503",
+    "version": 1,
+    "title": "Memory Intelligence Agent",
+    "authors": [
+      "Jingyang Qiao",
+      "Weicheng Meng",
+      "Yu Cheng",
+      "Zhihang Lin",
+      "Zhizhong Zhang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04503",
+    "pdf_url": "https://arxiv.org/pdf/2604.04503v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent 架构",
+      "记忆系统",
+      "规划与推理",
+      "测试时学习",
+      "强化学习",
+      "多智能体协作",
+      "工具使用",
+      "基准评测"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/06/memory-intelligence-agent.md"
+  },
+  {
+    "arxiv_id": "2604.04872",
+    "version": 1,
+    "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+    "authors": [
+      "Yuhang Zhou",
+      "Lizhu Zhang",
+      "Yifan Wu",
+      "Jiayi Liu",
+      "Xiangjun Fan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04872",
+    "pdf_url": "https://arxiv.org/pdf/2604.04872v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Training",
+      "Multi-Agent Framework",
+      "Reinforcement Learning",
+      "Machine Learning Engineering",
+      "Synthetic Data",
+      "Benchmarking",
+      "Tool Use"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/06/synthetic-sandbox-for-training-machine-learning-engineering-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04853",
+    "version": 1,
+    "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+    "authors": [
+      "Shu Wang",
+      "Edwin Yu",
+      "Oscar Love",
+      "Tom Zhang",
+      "Tom Wong"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04853",
+    "pdf_url": "https://arxiv.org/pdf/2604.04853v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Memory",
+      "Retrieval-Augmented Generation (RAG)",
+      "Personalization",
+      "Long-Term Reasoning",
+      "Multi-Session Interaction",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/06/memmachine-a-ground-truth-preserving-memory-system-for-personalized-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04373",
+    "version": 1,
+    "title": "Decocted Experience Improves Test-Time Inference in LLM Agents",
+    "authors": [
+      "Maohao Shen",
+      "Kaiwen Zha",
+      "Zexue He",
+      "Zhang-Wei Hong",
+      "Siru Ouyang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04373",
+    "pdf_url": "https://arxiv.org/pdf/2604.04373v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Reasoning",
+      "Test-Time Inference",
+      "Experience Utilization",
+      "Context Construction",
+      "Agent Architecture",
+      "Agent Evaluation",
+      "Math Reasoning",
+      "Web Agent",
+      "Code Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/06/decocted-experience-improves-test-time-inference-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04347",
+    "version": 1,
+    "title": "RoboPhD: Evolving Diverse Complex Agents Under Tight Evaluation Budgets",
+    "authors": [
+      "Andrew Borthwick",
+      "Stephen Ash",
+      "Anthony Galczak"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04347",
+    "pdf_url": "https://arxiv.org/pdf/2604.04347v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Evolution",
+      "Optimization Algorithms",
+      "LLM-Guided Evolution",
+      "Benchmarking",
+      "Agent Architecture",
+      "Code Generation",
+      "Evaluation Budget",
+      "Multi-Domain"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/06/robophd-evolving-diverse-complex-agents-under-tight-evaluation-budgets.md"
+  },
+  {
+    "arxiv_id": "2604.04323",
+    "version": 1,
+    "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
+    "authors": [
+      "Yujian Liu",
+      "Jiabao Ji",
+      "Li An",
+      "Tommi Jaakkola",
+      "Yang Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04323",
+    "pdf_url": "https://arxiv.org/pdf/2604.04323v1",
+    "github_url": "https://github.com/UCSB-NLP-Chang/Skill-Usage",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Benchmarking",
+      "Skill Retrieval",
+      "Skill Refinement",
+      "Tool Use",
+      "Real-world Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/06/how-well-do-agentic-skills-work-in-the-wild-benchmarking-llm-skill-usage-in-real.md"
+  },
+  {
+    "arxiv_id": "2604.04901",
+    "version": 1,
+    "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+    "authors": [
+      "Shuai Liu",
+      "Shulin Tian",
+      "Kairui Hu",
+      "Yuhao Dong",
+      "Zhe Yang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04901",
+    "pdf_url": "https://arxiv.org/pdf/2604.04901v1",
+    "github_url": "https://github.com/synvo-ai/FileGram",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Personalization",
+      "Agent Memory",
+      "File-System Agent",
+      "Benchmark",
+      "Data Synthesis",
+      "Multimodal Traces",
+      "Human-AI Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/filegram-grounding-agent-personalization-in-file-system-behavioral-traces.md"
+  },
+  {
+    "arxiv_id": "2604.04820",
+    "version": 1,
+    "title": "ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture",
+    "authors": [
+      "Xu Mingze"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04820",
+    "pdf_url": "https://arxiv.org/pdf/2604.04820v1",
+    "github_url": "https://github.com/mountorc/anx-protocol",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent 协议",
+      "Agent 架构",
+      "人机交互",
+      "工具使用",
+      "多智能体协作",
+      "效率优化",
+      "安全性"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/anx-protocol-first-design-for-ai-agent-interaction-with-a-supporting-3ex-decoupl.md"
+  },
+  {
+    "arxiv_id": "2604.04759",
+    "version": 1,
+    "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+    "authors": [
+      "Zijun Wang",
+      "Haoqin Tu",
+      "Letian Zhang",
+      "Hardy Chen",
+      "Juncheng Wu"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04759",
+    "pdf_url": "https://arxiv.org/pdf/2604.04759v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Safety",
+      "Real-World Evaluation",
+      "Attack Scenarios",
+      "Defense Strategies",
+      "System Access",
+      "Tool-Using Agent",
+      "Benchmark"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/your-agent-their-asset-a-real-world-safety-analysis-of-openclaw.md"
+  },
+  {
+    "arxiv_id": "2604.04651",
+    "version": 1,
+    "title": "Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents",
+    "authors": [
+      "Yizhou Liu",
+      "Qi Sun",
+      "Yulin Chen",
+      "Siyue Zhang",
+      "Chen Zhao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04651",
+    "pdf_url": "https://arxiv.org/pdf/2604.04651v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Search Agent",
+      "Small Language Model",
+      "Tool Use",
+      "Fine-tuning",
+      "Knowledge-Intensive Tasks",
+      "Multi-hop Reasoning",
+      "Agent Distillation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/search-do-not-guess-teaching-small-language-models-to-be-effective-search-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04561",
+    "version": 1,
+    "title": "Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities",
+    "authors": [
+      "Charafeddine Mouzouni"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04561",
+    "pdf_url": "https://arxiv.org/pdf/2604.04561v1",
+    "github_url": "https://github.com/Cmouzouni/exploitation-surface",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Safety",
+      "Tool-Using Agent",
+      "Adversarial Prompting",
+      "Security Vulnerability",
+      "Empirical Evaluation",
+      "System Prompt",
+      "Goal Reframing",
+      "Sandbox Experiment"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/mapping-the-exploitation-surface-a-10000-trial-taxonomy-of-what-makes-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04426",
+    "version": 1,
+    "title": "ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems",
+    "authors": [
+      "Zhuowen Yuan",
+      "Zhaorun Chen",
+      "Zhen Xiang",
+      "Nathaniel D. Bastian",
+      "Seyyed Hadi Hashemi"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04426",
+    "pdf_url": "https://arxiv.org/pdf/2604.04426v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Security",
+      "Supply-Chain Attack",
+      "Benchmark",
+      "Network-Level Guardrail",
+      "Tool Use",
+      "MCP",
+      "Detection"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/shieldnet-network-level-guardrails-against-emerging-supply-chain-injections-in-a.md"
+  },
+  {
+    "arxiv_id": "2604.04399",
+    "version": 1,
+    "title": "GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis",
+    "authors": [
+      "Yuwen Zhai",
+      "Runze Li",
+      "Liang Wang",
+      "Nian Shi",
+      "Liwu Xu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04399",
+    "pdf_url": "https://arxiv.org/pdf/2604.04399v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Evaluation",
+      "GUI Agent",
+      "Interpretability",
+      "Diagnostic Framework",
+      "Benchmarking",
+      "Trajectory Analysis"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/06/guide-interpretable-gui-agent-evaluation-via-hierarchical-diagnosis.md"
+  },
+  {
+    "arxiv_id": "2604.04847",
+    "version": 1,
+    "title": "Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency",
+    "authors": [
+      "Guan-Ting Lin",
+      "Chen Chen",
+      "Zhehuai Chen",
+      "Hung-yi Lee"
+    ],
+    "author_count": 4,
+    "categories": [
+      "eess.AS",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04847",
+    "pdf_url": "https://arxiv.org/pdf/2604.04847v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "语音智能体",
+      "工具使用",
+      "基准评测",
+      "实时交互",
+      "多步推理",
+      "真实世界评估",
+      "口语对话系统"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/full-duplex-bench-v3-benchmarking-tool-use-for-full-duplex-voice-agents-under-re.md"
+  },
+  {
+    "arxiv_id": "2604.04767",
+    "version": 1,
+    "title": "Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems",
+    "authors": [
+      "Justin Chih-Yao Chen",
+      "Archiki Prasad",
+      "Zaid Khan",
+      "Joykirat Singh",
+      "Runchu Tian"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04767",
+    "pdf_url": "https://arxiv.org/pdf/2604.04767v1",
+    "github_url": "https://github.com/dinobby/Cog-DRIFT",
+    "published": "2026-04-06",
+    "tags": [
+      "强化学习",
+      "推理",
+      "课程学习",
+      "LLM后训练",
+      "任务重构",
+      "探索",
+      "GRPO"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/cog-drift-exploration-on-adaptively-reformulated-instances-enables-learning-from.md"
+  },
+  {
+    "arxiv_id": "2604.04660",
+    "version": 1,
+    "title": "Springdrift: An Auditable Persistent Runtime for LLM Agents with Case-Based Memory, Normative Safety, and Ambient Self-Perception",
+    "authors": [
+      "Seamus Brady"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04660",
+    "pdf_url": "https://arxiv.org/pdf/2604.04660v1",
+    "github_url": "https://github.com/seamus-brady/springdrift",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Runtime",
+      "Persistent Memory",
+      "Case-Based Reasoning",
+      "Safety & Auditing",
+      "Long-Lived Agent",
+      "Self-Perception",
+      "Systems Design"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/springdrift-an-auditable-persistent-runtime-for-llm-agents-with-case-based-memor.md"
+  },
+  {
+    "arxiv_id": "2604.04565",
+    "version": 1,
+    "title": "PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning",
+    "authors": [
+      "Madhav S Baidya"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04565",
+    "pdf_url": "https://arxiv.org/pdf/2604.04565v1",
+    "github_url": "https://github.com/MadsDoodle/PassiveQA",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent Reasoning",
+      "Agent Decision-Making",
+      "Supervised Finetuning",
+      "Epistemic Awareness",
+      "Question Answering",
+      "Retrieval-Augmented Generation",
+      "Hallucination Reduction",
+      "Information Sufficiency"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/passiveqa-a-three-action-framework-for-epistemically-calibrated-question-answeri.md"
+  },
+  {
+    "arxiv_id": "2604.04532",
+    "version": 1,
+    "title": "Multilingual Prompt Localization for Agent-as-a-Judge: Language and Backbone Sensitivity in Requirement-Level Evaluation",
+    "authors": [
+      "Alhasan Mahmood",
+      "Samir Abdaljalil",
+      "Hasan Kurban"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04532",
+    "pdf_url": "https://arxiv.org/pdf/2604.04532v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Agent-as-a-Judge",
+      "多语言评估",
+      "提示工程",
+      "评估基准",
+      "代码生成Agent",
+      "LLM评估",
+      "鲁棒性"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/multilingual-prompt-localization-for-agent-as-a-judge-language-and-backbone-sens.md"
+  },
+  {
+    "arxiv_id": "2604.04383",
+    "version": 1,
+    "title": "Optimizing Service Operations via LLM-Powered Multi-Agent Simulation",
+    "authors": [
+      "Yanyuan Wang",
+      "Xiaowei Zhang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "math.OC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04383",
+    "pdf_url": "https://arxiv.org/pdf/2604.04383v1",
+    "github_url": "",
+    "published": "2026-04-06",
+    "tags": [
+      "Multi-Agent Simulation",
+      "LLM-Powered Agent",
+      "Service Operations",
+      "Stochastic Optimization",
+      "Decision-Dependent Uncertainty",
+      "On-Trajectory Learning",
+      "Supply Chain",
+      "Contest Design"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/06/optimizing-service-operations-via-llm-powered-multi-agent-simulation.md"
+  }
+]

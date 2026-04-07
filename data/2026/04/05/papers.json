@@ -1,0 +1,334 @@
+[
+  {
+    "arxiv_id": "2604.04247",
+    "version": 1,
+    "title": "Combee: Scaling Prompt Learning for Self-Improving Language Model Agents",
+    "authors": [
+      "Hanchen Li",
+      "Runyuan He",
+      "Qizheng Zhang",
+      "Changxiu Ji",
+      "Qiuyang Mang"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04247",
+    "pdf_url": "https://arxiv.org/pdf/2604.04247v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Agent Self-Improvement",
+      "Prompt Learning",
+      "Multi-Agent",
+      "System Prompt",
+      "Inference-Time Learning",
+      "Parallel Learning",
+      "Agentic Traces",
+      "Scalability"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/05/combee-scaling-prompt-learning-for-self-improving-language-model-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04202",
+    "version": 1,
+    "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
+    "authors": [
+      "Haonian Ji",
+      "Kaiwen Xiong",
+      "Siwei Han",
+      "Peng Xia",
+      "Shi Qiu"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04202",
+    "pdf_url": "https://arxiv.org/pdf/2604.04202v1",
+    "github_url": "https://github.com/aiming-lab/ClawArena",
+    "published": "2026-04-05",
+    "tags": [
+      "Agent Benchmark",
+      "Dynamic Information",
+      "Belief Revision",
+      "Multi-Source Reasoning",
+      "Implicit Personalization",
+      "Evaluation Framework"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/05/clawarena-benchmarking-ai-agents-in-evolving-information-environments.md"
+  },
+  {
+    "arxiv_id": "2604.04226",
+    "version": 1,
+    "title": "Agentization of Digital Assets for the Agentic Web: Concepts, Techniques, and Benchmark",
+    "authors": [
+      "Linyao Chen",
+      "Bo Huang",
+      "Qinlao Zhao",
+      "Shuai Shao",
+      "Zhi Han"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04226",
+    "pdf_url": "https://arxiv.org/pdf/2604.04226v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Agentic Web",
+      "Agentization",
+      "Multi-Agent Collaboration",
+      "Benchmark",
+      "Tool Use",
+      "Web Automation",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/05/agentization-of-digital-assets-for-the-agentic-web-concepts-techniques-and-bench.md"
+  },
+  {
+    "arxiv_id": "2604.04017",
+    "version": 1,
+    "title": "GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces",
+    "authors": [
+      "Xinyu Geng",
+      "Yanjing Xiao",
+      "Yuyang Zhang",
+      "Hanwen Wang",
+      "Xinyan Liu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04017",
+    "pdf_url": "https://arxiv.org/pdf/2604.04017v1",
+    "github_url": "https://github.com/ornamentt/GeoBrowse",
+    "published": "2026-04-05",
+    "tags": [
+      "Agent Benchmark",
+      "Tool Use",
+      "Multimodal Agent",
+      "Visual Reasoning",
+      "Knowledge-Intensive Query",
+      "Agentic Workflow",
+      "Reasoning Traces",
+      "Geolocation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/05/geobrowse-a-geolocation-benchmark-for-agentic-tool-use-with-expert-annotated-rea.md"
+  },
+  {
+    "arxiv_id": "2604.04157",
+    "version": 1,
+    "title": "Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents",
+    "authors": [
+      "Hsieh-Ting Lin",
+      "Tsung-Yu Hou"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04157",
+    "pdf_url": "https://arxiv.org/pdf/2604.04157v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Theory of Mind",
+      "Multi-Agent Interaction",
+      "Memory",
+      "Agent Evaluation",
+      "Emergent Behavior",
+      "Game Playing"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/05/readable-minds-emergent-theory-of-mind-like-behavior-in-llm-poker-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04131",
+    "version": 1,
+    "title": "Profile-Then-Reason: Bounded Semantic Complexity for Tool-Augmented Language Agents",
+    "authors": [
+      "Paulo Akira F. Enabe"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04131",
+    "pdf_url": "https://arxiv.org/pdf/2604.04131v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Tool-Augmented Agents",
+      "Agent Architecture",
+      "Reasoning",
+      "Workflow Synthesis",
+      "Execution Framework",
+      "Verification",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/05/profile-then-reason-bounded-semantic-complexity-for-tool-augmented-language-agen.md"
+  },
+  {
+    "arxiv_id": "2604.03964",
+    "version": 1,
+    "title": "SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources",
+    "authors": [
+      "Shuaike Shen",
+      "Wenduo Cheng",
+      "Mingqian Ma",
+      "Alistair Turcan",
+      "Martin Jinye Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03964",
+    "pdf_url": "https://arxiv.org/pdf/2604.03964v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Scientific Agent",
+      "Skill Library",
+      "Self-Evolving",
+      "Tool Use",
+      "Knowledge Extraction",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/05/skillfoundry-building-self-evolving-agent-skill-libraries-from-heterogeneous-sci.md"
+  },
+  {
+    "arxiv_id": "2604.04211",
+    "version": 1,
+    "title": "LOCARD: An Agentic Framework for Blockchain Forensics",
+    "authors": [
+      "Xiaohang Yu",
+      "William Knottenbelt"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04211",
+    "pdf_url": "https://arxiv.org/pdf/2604.04211v1",
+    "github_url": "https://github.com/xhyumiracle/locard",
+    "published": "2026-04-05",
+    "tags": [
+      "Agentic Framework",
+      "Tool Use",
+      "Planning",
+      "Structured Belief State",
+      "Blockchain Forensics",
+      "Benchmark Dataset",
+      "Sequential Decision-Making"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/05/locard-an-agentic-framework-for-blockchain-forensics.md"
+  },
+  {
+    "arxiv_id": "2604.04035",
+    "version": 1,
+    "title": "Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents",
+    "authors": [
+      "Mohammad Hossein Chinaei"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04035",
+    "pdf_url": "https://arxiv.org/pdf/2604.04035v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Agent Security",
+      "Tool-Calling Agents",
+      "Provenance Tracking",
+      "Adversarial Attacks",
+      "Runtime Enforcement",
+      "Causal Inference",
+      "Information Leakage"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/05/causality-laundering-denial-feedback-leakage-in-tool-calling-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.04060",
+    "version": 1,
+    "title": "CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks",
+    "authors": [
+      "Siyuan Li",
+      "Zehao Liu",
+      "Xi Lin",
+      "Qinghua Mao",
+      "Yuliang Chen"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.04060",
+    "pdf_url": "https://arxiv.org/pdf/2604.04060v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Multi-Agent Systems",
+      "LLM Safety",
+      "Adversarial Defense",
+      "Multi-Round Interaction",
+      "Stateful Agent",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/05/coopguard-stateful-cooperative-agents-safeguarding-llms-against-evolving-multi-r.md"
+  },
+  {
+    "arxiv_id": "2604.03968",
+    "version": 1,
+    "title": "TraceGuard: Structured Multi-Dimensional Monitoring as a Collusion-Resistant Control Protocol",
+    "authors": [
+      "Khanh Linh Nguyen",
+      "Hoa Nghiem",
+      "Tu Tran"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.03968",
+    "pdf_url": "https://arxiv.org/pdf/2604.03968v1",
+    "github_url": "",
+    "published": "2026-04-05",
+    "tags": [
+      "Agent Safety",
+      "Monitoring & Control",
+      "Multi-Dimensional Evaluation",
+      "Collusion Resistance",
+      "Tool-Using Agent",
+      "BashArena",
+      "ControlArena"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/05/traceguard-structured-multi-dimensional-monitoring-as-a-collusion-resistant-cont.md"
+  }
+]
