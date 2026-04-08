@@ -2,29 +2,37 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-04-06 (22 篇)
+## 2026-04-07 (30 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.0 | [SkillX: Automatically Constructing Skill Knowledge Bases for Agents](https://arxiv.org/abs/2604.04804) [[Code](https://github.com/zjunlp/SkillX)] | Agent 架构, 技能库, 经验复用 |
-| 9.0 | [Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints](https://arxiv.org/abs/2604.04580) | 代码智能体, 多智能体协作, 软件工程智能体 |
-| 9.0 | [SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems](https://arxiv.org/abs/2604.04514) [[Code](https://github.com/qualixar/superlocalmemory)] | Agent Memory, Long-Term Memory, Retrieval-Augmented Generation |
-| 9.0 | [Memory Intelligence Agent](https://arxiv.org/abs/2604.04503) | Agent 架构, 记忆系统, 规划与推理 |
-| 8.5 | [Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872) | Agent Training, Multi-Agent Framework, Reinforcement Learning |
-| 8.5 | [MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853) | Agent Memory, Retrieval-Augmented Generation (RAG), Personalization |
-| 8.5 | [Decocted Experience Improves Test-Time Inference in LLM Agents](https://arxiv.org/abs/2604.04373) | Agent Reasoning, Test-Time Inference, Experience Utilization |
-| 8.5 | [RoboPhD: Evolving Diverse Complex Agents Under Tight Evaluation Budgets](https://arxiv.org/abs/2604.04347) | Agent Evolution, Optimization Algorithms, LLM-Guided Evolution |
-| 8.5 | [How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings](https://arxiv.org/abs/2604.04323) [[Code](https://github.com/UCSB-NLP-Chang/Skill-Usage)] | Agent Benchmarking, Skill Retrieval, Skill Refinement |
-| 8.0 | [FileGram: Grounding Agent Personalization in File-System Behavioral Traces](https://arxiv.org/abs/2604.04901) [[Code](https://github.com/synvo-ai/FileGram)] | Agent Personalization, Agent Memory, File-System Agent |
-| 8.0 | [ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture](https://arxiv.org/abs/2604.04820) [[Code](https://github.com/mountorc/anx-protocol)] | Agent 协议, Agent 架构, 人机交互 |
-| 8.0 | [Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://arxiv.org/abs/2604.04759) | Agent Safety, Real-World Evaluation, Attack Scenarios |
-| 8.0 | [Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents](https://arxiv.org/abs/2604.04651) | Search Agent, Small Language Model, Tool Use |
-| 8.0 | [Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities](https://arxiv.org/abs/2604.04561) [[Code](https://github.com/Cmouzouni/exploitation-surface)] | Agent Safety, Tool-Using Agent, Adversarial Prompting |
-| 8.0 | [ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems](https://arxiv.org/abs/2604.04426) | Agent Security, Supply-Chain Attack, Benchmark |
-| 8.0 | [GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://arxiv.org/abs/2604.04399) | Agent Evaluation, GUI Agent, Interpretability |
-| 7.5 | [Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency](https://arxiv.org/abs/2604.04847) | 语音智能体, 工具使用, 基准评测 |
-| 7.5 | [Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems](https://arxiv.org/abs/2604.04767) [[Code](https://github.com/dinobby/Cog-DRIFT)] | 强化学习, 推理, 课程学习 |
-| 7.5 | [Springdrift: An Auditable Persistent Runtime for LLM Agents with Case-Based Memory, Normative Safety, and Ambient Self-Perception](https://arxiv.org/abs/2604.04660) [[Code](https://github.com/seamus-brady/springdrift)] | Agent Runtime, Persistent Memory, Case-Based Reasoning |
-| 7.5 | [PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning](https://arxiv.org/abs/2604.04565) [[Code](https://github.com/MadsDoodle/PassiveQA)] | Agent Reasoning, Agent Decision-Making, Supervised Finetuning |
-| 7.5 | [Multilingual Prompt Localization for Agent-as-a-Judge: Language and Backbone Sensitivity in Requirement-Level Evaluation](https://arxiv.org/abs/2604.04532) | Agent-as-a-Judge, 多语言评估, 提示工程 |
-| 7.5 | [Optimizing Service Operations via LLM-Powered Multi-Agent Simulation](https://arxiv.org/abs/2604.04383) | Multi-Agent Simulation, LLM-Powered Agent, Service Operations |
+| 9.0 | [Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents](https://arxiv.org/abs/2604.06132) | Agent Evaluation, Benchmark, Safety |
+| 9.0 | [Gym-Anything: Turn any Software into an Agent Environment](https://arxiv.org/abs/2604.06126) | Agent Environment, Computer-Use Agent, Multi-Agent System |
+| 9.0 | [ACE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments](https://arxiv.org/abs/2604.06111) | Agent Benchmark, Evaluation Methodology, Planning and Reasoning |
+| 9.0 | [AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846) [[Code](https://github.com/sunyuanfu/AgentGL)] | Agent Architecture, Tool Use, Reinforcement Learning |
+| 9.0 | [CODESTRUCT: Code Agents over Structured Action Spaces](https://arxiv.org/abs/2604.05407) | Code Agent, Agent Architecture, Tool Use |
+| 9.0 | [TRACE: Capability-Targeted Agentic Training](https://arxiv.org/abs/2604.05336) | Agent Training, Capability Analysis, Reinforcement Learning |
+| 8.5 | [Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents](https://arxiv.org/abs/2604.05808) [[Code](https://github.com/TonyStark042/STEP-HRL)] | 强化学习, 分层强化学习, LLM Agent |
+| 8.5 | [Auditable Agents](https://arxiv.org/abs/2604.05485) | Agent Security, Agent Accountability, Agent Auditing |
+| 8.5 | [Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills](https://arxiv.org/abs/2604.05333) [[Code](https://github.com/davidliuk/graph-of-skills)] | Agent Architecture, Skill Retrieval, Tool Use |
+| 8.0 | [A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms](https://arxiv.org/abs/2604.05969) | Agent Security, Tool Use, Model Context Protocol (MCP) |
+| 8.0 | [Deep Researcher Agent: An Autonomous Framework for 24/7 Deep Learning Experimentation with Zero-Cost Monitoring](https://arxiv.org/abs/2604.05854) [[Code](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)] | Autonomous Agent, Multi-Agent System, Agent Architecture |
+| 8.0 | [Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719) | Automated Penetration Testing, Agent Architecture, Systematization of Knowledge |
+| 8.0 | [EpiBench: Benchmarking Multi-turn Research Workflows for Multimodal Agents](https://arxiv.org/abs/2604.05557) | Agent Benchmark, Multimodal Agent, Research Agent |
+| 8.0 | [Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents](https://arxiv.org/abs/2604.05549) | Agent Security, Red-Teaming, Jailbreaking |
+| 8.0 | [Experience Transfer for Multimodal LLM Agents in Minecraft Game](https://arxiv.org/abs/2604.05533) | Agent Memory, Experience Transfer, Multimodal Agent |
+| 8.0 | [Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction](https://arxiv.org/abs/2604.05477) | GUI Agent, Robustness, Self-Correction |
+| 8.0 | [PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection](https://arxiv.org/abs/2604.05424) | 推理增强, 规划与搜索, MCTS |
+| 8.0 | [Human Values Matter: Investigating How Misalignment Shapes Collective Behaviors in LLM Agent Communities](https://arxiv.org/abs/2604.05339) | 多智能体系统, 价值观对齐, 社会模拟 |
+| 8.0 | [Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/abs/2604.05278) | AI Coding Agent, Multi-Agent System, Software Engineering |
+| 7.5 | [Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170) [[Code](https://github.com/MAXNORM8650/papercircle)] | Multi-agent System, Research Agent, Tool Use |
+| 7.5 | [Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives](https://arxiv.org/abs/2604.06091) | 多智能体系统, 社会动力学, 决策脆弱性 |
+| 7.5 | [From Hallucination to Structure Snowballing: The Alignment Tax of Constrained Decoding in LLM Reflection](https://arxiv.org/abs/2604.06066) [[Code](https://github.com/hongxuzhou/agentic_llm_structured_self_critique)] | Agent 反思与自我纠正, 结构化解码, 幻觉传播 |
+| 7.5 | [Flowr -- Scaling Up Retail Supply Chain Operations Through Agentic AI in Large Scale Supermarket Chains](https://arxiv.org/abs/2604.05987) | Multi-Agent System, Supply Chain Automation, Human-in-the-Loop |
+| 7.5 | [Does Pass Rate Tell the Whole Story? Evaluating Design Constraint Compliance in LLM-based Issue Resolution](https://arxiv.org/abs/2604.05955) | Agent Evaluation, Benchmark, Software Engineering Agent |
+| 7.5 | [Context-Agent: Dynamic Discourse Trees for Non-Linear Dialogue](https://arxiv.org/abs/2604.05552) | 对话智能体, 上下文管理, 记忆架构 |
+| 7.5 | [COSMO-Agent: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration](https://arxiv.org/abs/2604.05547) | Tool-Augmented Agent, Reinforcement Learning, Closed-loop Optimization |
+| 7.5 | [LanG -- A Governance-Aware Agentic AI Platform for Unified Security Operations](https://arxiv.org/abs/2604.05440) | Agentic AI Platform, AI Orchestrator, Tool Use |
+| 7.5 | [Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use](https://arxiv.org/abs/2604.05432) | Agent Security, Tool Use, Data Exfiltration |
+| 7.5 | [Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning](https://arxiv.org/abs/2604.05404) [[Code](https://github.com/sqs-ustc/tool-reasoning-framework-PTE)] | Tool-Integrated Reasoning, Efficiency Metrics, KV-Cache |
+| 7.5 | [FLARE: Agentic Coverage-Guided Fuzzing for LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2604.05289) | 多智能体系统, 测试与验证, 鲁棒性与安全 |
