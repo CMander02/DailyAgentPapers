@@ -1,0 +1,533 @@
+[
+  {
+    "arxiv_id": "2604.07165",
+    "version": 1,
+    "title": "Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization",
+    "authors": [
+      "Yu Li",
+      "Sizhe Tang",
+      "Tian Lan"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07165",
+    "pdf_url": "https://arxiv.org/pdf/2604.07165v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Policy Optimization",
+      "Multi-turn Reasoning",
+      "Reinforcement Learning",
+      "Reward Shaping",
+      "Tree-based Reasoning",
+      "Self-Rectification",
+      "Cognitive Tree",
+      "Surgical Policy Optimization"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/08/reason-in-chains-learn-in-trees-self-rectification-and-grafting-for-multi-turn-a.md"
+  },
+  {
+    "arxiv_id": "2604.06753",
+    "version": 1,
+    "title": "Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents",
+    "authors": [
+      "Heng Zhou",
+      "Zelin Tan",
+      "Zhemeng Zhang",
+      "Yutao Fan",
+      "Yibing Lin"
+    ],
+    "author_count": 18,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06753",
+    "pdf_url": "https://arxiv.org/pdf/2604.06753v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "推理范式",
+      "路由选择",
+      "推理时优化",
+      "基准评测",
+      "LLM智能体"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/08/select-then-solve-paradigm-routing-as-inference-time-optimization-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.07269",
+    "version": 1,
+    "title": "Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent",
+    "authors": [
+      "Bingxuan Li",
+      "Simo Du",
+      "Yue Guo"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07269",
+    "pdf_url": "https://arxiv.org/pdf/2604.07269v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Diagnostic Agent",
+      "Self-Learning",
+      "Dual-Memory",
+      "Reinforcement Training",
+      "Clinical Reasoning",
+      "Continual Learning",
+      "Experience Reuse"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/joint-optimization-of-reasoning-and-dual-memory-for-self-learning-diagnostic-age.md"
+  },
+  {
+    "arxiv_id": "2604.07236",
+    "version": 1,
+    "title": "How Much LLM Does a Self-Revising Agent Actually Need?",
+    "authors": [
+      "Seongwoo Jeong",
+      "Seonil Son"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07236",
+    "pdf_url": "https://arxiv.org/pdf/2604.07236v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Architecture",
+      "Reflection",
+      "World Modeling",
+      "Planning",
+      "Modularity",
+      "LLM Ablation",
+      "Multi-Agent Collaboration",
+      "Empirical Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/how-much-llm-does-a-self-revising-agent-actually-need.md"
+  },
+  {
+    "arxiv_id": "2604.07223",
+    "version": 1,
+    "title": "TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories",
+    "authors": [
+      "Yen-Shan Chen",
+      "Sian-Yao Huang",
+      "Cheng-Lin Yang",
+      "Yun-Nung Chen"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07223",
+    "pdf_url": "https://arxiv.org/pdf/2604.07223v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Safety",
+      "Tool-Calling",
+      "Benchmark",
+      "Guardrails",
+      "Multi-Step Trajectories",
+      "Security",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/tracesafe-a-systematic-assessment-of-llm-guardrails-on-multi-step-tool-calling-t.md"
+  },
+  {
+    "arxiv_id": "2604.07041",
+    "version": 1,
+    "title": "AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views",
+    "authors": [
+      "Minh Tam Pham",
+      "Trinh Pham",
+      "Tong Chen",
+      "Hongzhi Yin",
+      "Quoc Viet Hung Nguyen"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.DB",
+      "cs.AI",
+      "cs.ET",
+      "cs.HC",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07041",
+    "pdf_url": "https://arxiv.org/pdf/2604.07041v1",
+    "github_url": "https://github.com/pminhtam/AV-SQL",
+    "published": "2026-04-08",
+    "tags": [
+      "Text-to-SQL",
+      "Agent Architecture",
+      "Multi-Agent Collaboration",
+      "Query Decomposition",
+      "Tool Use",
+      "LLM Agent",
+      "Database Interaction",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/av-sql-decomposing-complex-text-to-sql-queries-with-agentic-views.md"
+  },
+  {
+    "arxiv_id": "2604.07036",
+    "version": 1,
+    "title": "ReDAct: Uncertainty-Aware Deferral for LLM Agents",
+    "authors": [
+      "Dzianis Piatrashyn",
+      "Nikita Kotelevskii",
+      "Kirill Grishchenkov",
+      "Nikita Glazkov",
+      "Ivan Nasonov"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07036",
+    "pdf_url": "https://arxiv.org/pdf/2604.07036v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "LLM Agent",
+      "Uncertainty Estimation",
+      "Model Cascading",
+      "Sequential Decision-Making",
+      "Cost-Efficiency",
+      "Embodied Environments",
+      "ALFWorld",
+      "MiniGrid"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/redact-uncertainty-aware-deferral-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.07028",
+    "version": 1,
+    "title": "Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation",
+    "authors": [
+      "Philipp D. Siedler"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07028",
+    "pdf_url": "https://arxiv.org/pdf/2604.07028v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "多智能体系统",
+      "法律智能体",
+      "策略性交互",
+      "基于LLM的智能体",
+      "角色特质建模",
+      "强化学习优化",
+      "模拟环境",
+      "说服力评估"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/strategic-persuasion-with-trait-conditioned-multi-agent-systems-for-iterative-le.md"
+  },
+  {
+    "arxiv_id": "2604.07003",
+    "version": 1,
+    "title": "EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration",
+    "authors": [
+      "Yunbo Long",
+      "Yunhan Liu",
+      "Liming Xu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07003",
+    "pdf_url": "https://arxiv.org/pdf/2604.07003v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Multi-Agent System",
+      "Negotiation",
+      "Emotion Modeling",
+      "Bayesian Methods",
+      "Edge Computing",
+      "Benchmark",
+      "Small Language Models (SLMs)"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/emomas-emotion-aware-multi-agent-system-for-high-stakes-edge-deployable-negotiat.md"
+  },
+  {
+    "arxiv_id": "2604.06811",
+    "version": 1,
+    "title": "SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems",
+    "authors": [
+      "Yunhao Feng",
+      "Yifan Ding",
+      "Yingshui Tan",
+      "Boren Zheng",
+      "Yanming Guo"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06811",
+    "pdf_url": "https://arxiv.org/pdf/2604.06811v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Security",
+      "Backdoor Attack",
+      "Skill-Based Agent",
+      "Compositional Reasoning",
+      "Adversarial Robustness",
+      "Code Agent",
+      "Security Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/skilltrojan-backdoor-attacks-on-skill-based-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2604.06742",
+    "version": 1,
+    "title": "Evaluating LLM-Based 0-to-1 Software Generation in End-to-End CLI Tool Scenarios",
+    "authors": [
+      "Ruida Hu",
+      "Xinchen Wang",
+      "Chao Peng",
+      "Cuiyun Gao",
+      "David Lo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06742",
+    "pdf_url": "https://arxiv.org/pdf/2604.06742v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Benchmark",
+      "Code Agent",
+      "Software Engineering",
+      "Evaluation Framework",
+      "Black-box Testing",
+      "0-to-1 Generation",
+      "CLI Tools"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/evaluating-llm-based-0-to-1-software-generation-in-end-to-end-cli-tool-scenarios.md"
+  },
+  {
+    "arxiv_id": "2604.06696",
+    "version": 1,
+    "title": "AgentGate: A Lightweight Structured Routing Engine for the Internet of Agents",
+    "authors": [
+      "Yujun Cheng",
+      "Enfang Cui",
+      "Hao Qin",
+      "Zhiyuan Liang",
+      "Qi Xu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06696",
+    "pdf_url": "https://arxiv.org/pdf/2604.06696v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Routing",
+      "Internet of Agents",
+      "Multi-Agent Systems",
+      "Agent Dispatch",
+      "Structured Decision",
+      "Model Fine-tuning",
+      "System Design",
+      "Resource-Constrained Deployment"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/agentgate-a-lightweight-structured-routing-engine-for-the-internet-of-agents.md"
+  },
+  {
+    "arxiv_id": "2604.06633",
+    "version": 1,
+    "title": "Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection",
+    "authors": [
+      "Zi Liang",
+      "Qipeng Xie",
+      "Jun He",
+      "Bohuan Xue",
+      "Weizheng Wang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CR",
+      "cs.CL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06633",
+    "pdf_url": "https://arxiv.org/pdf/2604.06633v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "多智能体协作",
+      "工具使用",
+      "安全Agent",
+      "代码Agent",
+      "检索增强生成",
+      "ReAct",
+      "静态分析",
+      "漏洞检测",
+      "工作流编排"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/08/argus-reorchestrating-static-analysis-via-a-multi-agent-ensemble-for-full-chain.md"
+  },
+  {
+    "arxiv_id": "2604.07054",
+    "version": 1,
+    "title": "Sell More, Play Less: Benchmarking LLM Realistic Selling Skill",
+    "authors": [
+      "Xuanbo Su",
+      "Wenhao Hu",
+      "Le Zhan",
+      "Yanqi Yang",
+      "Leo Huang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.07054",
+    "pdf_url": "https://arxiv.org/pdf/2604.07054v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "对话智能体",
+      "评测基准",
+      "用户模拟",
+      "销售场景",
+      "多轮对话",
+      "目标导向"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/08/sell-more-play-less-benchmarking-llm-realistic-selling-skill.md"
+  },
+  {
+    "arxiv_id": "2604.06995",
+    "version": 1,
+    "title": "What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning",
+    "authors": [
+      "Songze Li",
+      "Xiaoke Guo",
+      "Tianqi Liu",
+      "Biao Yi",
+      "Zhaoyan Gong"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06995",
+    "pdf_url": "https://arxiv.org/pdf/2604.06995v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "GUI Agent",
+      "Multimodal Agent",
+      "UI Understanding",
+      "Agent Reasoning",
+      "Benchmark",
+      "Human-Computer Interaction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/08/whats-missing-in-screen-to-action-towards-a-ui-in-the-loop-paradigm-for-multimod.md"
+  },
+  {
+    "arxiv_id": "2604.06861",
+    "version": 1,
+    "title": "REAgent: Requirement-Driven LLM Agents for Software Issue Resolution",
+    "authors": [
+      "Shiqi Kuang",
+      "Zhao Tian",
+      "Kaiwei Lin",
+      "Chaofan Tao",
+      "Shaowei Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06861",
+    "pdf_url": "https://arxiv.org/pdf/2604.06861v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Software Agent",
+      "Tool Use",
+      "Planning/Reasoning",
+      "Iterative Refinement",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/08/reagent-requirement-driven-llm-agents-for-software-issue-resolution.md"
+  },
+  {
+    "arxiv_id": "2604.06550",
+    "version": 1,
+    "title": "SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills",
+    "authors": [
+      "Yinghan Hou",
+      "Zongyou Yang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.06550",
+    "pdf_url": "https://arxiv.org/pdf/2604.06550v1",
+    "github_url": "",
+    "published": "2026-04-08",
+    "tags": [
+      "Agent Security",
+      "Agent Skills",
+      "Malicious Detection",
+      "Hierarchical Framework",
+      "LLM-as-Judge",
+      "Tool Use",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/08/skillsieve-a-hierarchical-triage-framework-for-detecting-malicious-ai-agent-skil.md"
+  }
+]
