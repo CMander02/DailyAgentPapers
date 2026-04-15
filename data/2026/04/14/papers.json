@@ -1,0 +1,738 @@
+[
+  {
+    "arxiv_id": "2604.12948",
+    "version": 1,
+    "title": "Drawing on Memory: Dual-Trace Encoding Improves Cross-Session Recall in LLM Agents",
+    "authors": [
+      "Benjamin Stern",
+      "Peter Nadel"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12948",
+    "pdf_url": "https://arxiv.org/pdf/2604.12948v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Memory",
+      "Memory Encoding",
+      "Long-term Memory",
+      "Cognitive Science",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/14/drawing-on-memory-dual-trace-encoding-improves-cross-session-recall-in-llm-agent.md"
+  },
+  {
+    "arxiv_id": "2604.12717",
+    "version": 1,
+    "title": "Transferable Expertise for Autonomous Agents via Real-World Case-Based Learning",
+    "authors": [
+      "Zhenyu Ma",
+      "Yuyang Song",
+      "Chunyi Yang",
+      "Jingyi Zhu",
+      "Letian Yang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12717",
+    "pdf_url": "https://arxiv.org/pdf/2604.12717v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent 记忆",
+      "经验学习",
+      "知识迁移",
+      "结构化记忆",
+      "案例学习",
+      "专业智能体"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/14/transferable-expertise-for-autonomous-agents-via-real-world-case-based-learning.md"
+  },
+  {
+    "arxiv_id": "2604.12290",
+    "version": 1,
+    "title": "Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization",
+    "authors": [
+      "Yizhe Chi",
+      "Deyao Hong",
+      "Dapeng Jiang",
+      "Tianwei Luo",
+      "Kaisen Yang"
+    ],
+    "author_count": 21,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12290",
+    "pdf_url": "https://arxiv.org/pdf/2604.12290v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Benchmark",
+      "Generative Optimization",
+      "Iterative Agent",
+      "Propose-Execute-Evaluate Loop",
+      "Engineering Agent",
+      "Continuous Feedback",
+      "Feasibility Constraints",
+      "Multi-Task Benchmark"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/14/frontier-eng-benchmarking-self-evolving-agents-on-real-world-engineering-tasks-w.md"
+  },
+  {
+    "arxiv_id": "2604.12285",
+    "version": 1,
+    "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
+    "authors": [
+      "Zhaofen Wu",
+      "Hanrong Zhang",
+      "Fulin Lin",
+      "Wujiang Xu",
+      "Xinran Xu"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12285",
+    "pdf_url": "https://arxiv.org/pdf/2604.12285v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Memory",
+      "Hierarchical Memory",
+      "Graph-based Memory",
+      "Memory Consolidation",
+      "Long-term Interaction",
+      "Retrieval Strategy"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/14/gam-hierarchical-graph-based-agentic-memory-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.12231",
+    "version": 1,
+    "title": "Thought-Retriever: Don't Just Retrieve Raw Data, Retrieve Thoughts for Memory-Augmented Agentic Systems",
+    "authors": [
+      "Tao Feng",
+      "Pengrui Han",
+      "Guanyu Lin",
+      "Ge Liu",
+      "Jiaxuan You"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12231",
+    "pdf_url": "https://arxiv.org/pdf/2604.12231v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "记忆增强",
+      "检索增强生成",
+      "长期记忆",
+      "智能体架构",
+      "算法创新",
+      "基准评测",
+      "自我演化"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/14/thought-retriever-dont-just-retrieve-raw-data-retrieve-thoughts-for-memory-augme.md"
+  },
+  {
+    "arxiv_id": "2604.12986",
+    "version": 1,
+    "title": "Parallax: Why AI Agents That Think Must Never Act",
+    "authors": [
+      "Joel Fokou"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12986",
+    "pdf_url": "https://arxiv.org/pdf/2604.12986v1",
+    "github_url": "https://github.com/openparallax/openparallax",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent安全",
+      "Agent架构",
+      "执行安全",
+      "系统设计",
+      "对抗评估",
+      "开源实现"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/14/parallax-why-ai-agents-that-think-must-never-act.md"
+  },
+  {
+    "arxiv_id": "2604.12666",
+    "version": 1,
+    "title": "From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation",
+    "authors": [
+      "Chuang Peng",
+      "Wei Zhang",
+      "Renshuai Tao",
+      "Xinhao Zhang",
+      "Jian Yang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12666",
+    "pdf_url": "https://arxiv.org/pdf/2604.12666v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Web Agent",
+      "Curriculum Learning",
+      "Preference Optimization",
+      "Data Synthesis",
+      "Agent Training",
+      "HTML Understanding",
+      "Navigation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/14/from-imitation-to-discrimination-progressive-curriculum-learning-for-robust-web.md"
+  },
+  {
+    "arxiv_id": "2604.12162",
+    "version": 1,
+    "title": "AlphaEval: Evaluating Agents in Production",
+    "authors": [
+      "Pengrui Lu",
+      "Bingyu Xu",
+      "Wenjun Zhang",
+      "Shengjia Hua",
+      "Xuanjian Gao"
+    ],
+    "author_count": 27,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12162",
+    "pdf_url": "https://arxiv.org/pdf/2604.12162v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Evaluation",
+      "Production Benchmark",
+      "Multi-Modal",
+      "Long-Horizon Tasks",
+      "Evaluation Framework",
+      "LLM-as-a-Judge",
+      "Multi-Agent System (间接)"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/14/alphaeval-evaluating-agents-in-production.md"
+  },
+  {
+    "arxiv_id": "2604.13018",
+    "version": 1,
+    "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+    "authors": [
+      "Guoxin Chen",
+      "Jie Chen",
+      "Lei Chen",
+      "Jiale Zhao",
+      "Fanzhe Meng"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13018",
+    "pdf_url": "https://arxiv.org/pdf/2604.13018v1",
+    "github_url": "https://github.com/AweAI-Team/AiScientist",
+    "published": "2026-04-14",
+    "tags": [
+      "Autonomous Agent",
+      "Long-Horizon Task",
+      "Hierarchical Orchestration",
+      "File-as-Bus",
+      "ML Research Engineering",
+      "System Design",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/toward-autonomous-long-horizon-engineering-for-ml-research.md"
+  },
+  {
+    "arxiv_id": "2604.12890",
+    "version": 1,
+    "title": "Towards Long-horizon Agentic Multimodal Search",
+    "authors": [
+      "Yifan Du",
+      "Zikang Liu",
+      "Jinbiao Peng",
+      "Jie Wu",
+      "Junyi Li"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12890",
+    "pdf_url": "https://arxiv.org/pdf/2604.12890v1",
+    "github_url": "https://github.com/RUCAIBox/LMM-Searcher",
+    "published": "2026-04-14",
+    "tags": [
+      "Multimodal Agent",
+      "Long-horizon Planning",
+      "Tool Use",
+      "Visual Representation",
+      "Data Synthesis",
+      "Agent Fine-tuning",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/towards-long-horizon-agentic-multimodal-search.md"
+  },
+  {
+    "arxiv_id": "2604.12776",
+    "version": 1,
+    "title": "EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution",
+    "authors": [
+      "Shiyu He",
+      "Minchi Kuang",
+      "Mengxian Wang",
+      "Bin Hu",
+      "Tingxiang Gu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12776",
+    "pdf_url": "https://arxiv.org/pdf/2604.12776v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "多智能体系统",
+      "叙事生成",
+      "长期模拟",
+      "社会记忆",
+      "一致性保持",
+      "框架设计"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/evospark-endogenous-interactive-agent-societies-for-unified-long-horizon-narrati.md"
+  },
+  {
+    "arxiv_id": "2604.12262",
+    "version": 1,
+    "title": "CascadeDebate: Multi-Agent Deliberation for Cost-Aware LLM Cascades",
+    "authors": [
+      "Raeyoung Chang",
+      "Dongwook Kwon",
+      "Jisoo Lee",
+      "Nikhil Verma"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12262",
+    "pdf_url": "https://arxiv.org/pdf/2604.12262v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "多智能体系统",
+      "级联系统",
+      "成本效率",
+      "置信度路由",
+      "不确定性处理",
+      "模型编排",
+      "推理优化"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/cascadedebate-multi-agent-deliberation-for-cost-aware-llm-cascades.md"
+  },
+  {
+    "arxiv_id": "2604.12250",
+    "version": 1,
+    "title": "How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm",
+    "authors": [
+      "Taisei Hishiki",
+      "Takaya Arita",
+      "Reiji Suzuki"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.GT",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12250",
+    "pdf_url": "https://arxiv.org/pdf/2604.12250v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "多智能体系统",
+      "生成式智能体建模",
+      "记忆机制",
+      "社会模拟",
+      "囚徒困境",
+      "智能体个性",
+      "模型对齐",
+      "涌现行为",
+      "比较实验"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/how-memory-can-affect-collective-and-cooperative-behaviors-in-an-llm-based-socia.md"
+  },
+  {
+    "arxiv_id": "2604.12213",
+    "version": 1,
+    "title": "Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension",
+    "authors": [
+      "Vasundra Srinivasan"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12213",
+    "pdf_url": "https://arxiv.org/pdf/2604.12213v1",
+    "github_url": "https://github.com/vasundras/modality-native-routing-a2a-protocol",
+    "published": "2026-04-14",
+    "tags": [
+      "多智能体系统",
+      "多模态",
+      "通信协议",
+      "路由机制",
+      "基准测试",
+      "架构设计"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/modality-native-routing-in-agent-to-agent-networks-a-multimodal-a2a-protocol-ext.md"
+  },
+  {
+    "arxiv_id": "2604.12198",
+    "version": 1,
+    "title": "Towards grounded autonomous research: an end-to-end LLM mini research loop on published computational physics",
+    "authors": [
+      "Haonan Huang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.mtrl-sci",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12198",
+    "pdf_url": "https://arxiv.org/pdf/2604.12198v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Autonomous Research Agent",
+      "Scientific Agent",
+      "Agent Evaluation",
+      "Tool Use",
+      "Reasoning",
+      "Multi-step Planning",
+      "End-to-End Automation",
+      "Physics"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/towards-grounded-autonomous-research-an-end-to-end-llm-mini-research-loop-on-pub.md"
+  },
+  {
+    "arxiv_id": "2604.12177",
+    "version": 1,
+    "title": "Policy-Invisible Violations in LLM-Based Agents",
+    "authors": [
+      "Jie Wu",
+      "Ming Gong"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12177",
+    "pdf_url": "https://arxiv.org/pdf/2604.12177v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Safety",
+      "Policy Compliance",
+      "Benchmark",
+      "Knowledge Graph",
+      "Agent Architecture",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/14/policy-invisible-violations-in-llm-based-agents.md"
+  },
+  {
+    "arxiv_id": "2604.12967",
+    "version": 1,
+    "title": "Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training",
+    "authors": [
+      "Sohyun An",
+      "Shuibenyang Yuan",
+      "Hayeon Lee",
+      "Cho-Jui Hsieh",
+      "Alexander Min"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12967",
+    "pdf_url": "https://arxiv.org/pdf/2604.12967v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Search Agent",
+      "Reinforcement Learning",
+      "Unsupervised Training",
+      "Reward Modeling",
+      "Information Retrieval",
+      "Question Answering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/cycle-consistent-search-question-reconstructability-as-a-proxy-reward-for-search.md"
+  },
+  {
+    "arxiv_id": "2604.12867",
+    "version": 1,
+    "title": "QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence",
+    "authors": [
+      "Zhichao Lin",
+      "Zhichao Liang",
+      "Gaoqiang Liu",
+      "Meng Xu",
+      "Baoyu Xiang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12867",
+    "pdf_url": "https://arxiv.org/pdf/2604.12867v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "垂直领域Agent",
+      "长视野搜索",
+      "医疗Agent",
+      "数据合成",
+      "训练策略",
+      "评估基准",
+      "工具调用",
+      "反思"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/quarkmedsearch-a-long-horizon-deep-search-agent-for-exploring-medical-intelligen.md"
+  },
+  {
+    "arxiv_id": "2604.12762",
+    "version": 1,
+    "title": "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search",
+    "authors": [
+      "Myungchul Kim",
+      "Kwanyong Park",
+      "Junmo Kim",
+      "In So Kweon"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12762",
+    "pdf_url": "https://arxiv.org/pdf/2604.12762v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Agent Benchmark",
+      "Multi-Agent Systems",
+      "Tool Use",
+      "Planning and Reasoning",
+      "Multi-Modal Agent",
+      "Human-Agent Interaction",
+      "Spatio-Temporal Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/argos-who-where-and-when-in-agentic-multi-camera-person-search.md"
+  },
+  {
+    "arxiv_id": "2604.12461",
+    "version": 1,
+    "title": "CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems",
+    "authors": [
+      "Yongxuan Wu",
+      "Xixun Lin",
+      "He Zhang",
+      "Nan Sun",
+      "Kun Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12461",
+    "pdf_url": "https://arxiv.org/pdf/2604.12461v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Multi-Agent Systems",
+      "Communication Topology",
+      "Privacy & Security",
+      "Inference Attack",
+      "Black-Box Setting",
+      "Adversarial Query",
+      "Semantic Correlation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/cia-inferring-the-communication-topology-from-llm-based-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2604.12616",
+    "version": 1,
+    "title": "Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs",
+    "authors": [
+      "Jianhao Chen",
+      "Haoyang Chen",
+      "Hanjie Zhao",
+      "Haozhe Liang",
+      "Tieyun Qian"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12616",
+    "pdf_url": "https://arxiv.org/pdf/2604.12616v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "多智能体",
+      "对抗攻击",
+      "越狱攻击",
+      "视觉语言模型",
+      "记忆机制",
+      "安全与对齐",
+      "评测基准"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/every-picture-tells-a-dangerous-story-memory-augmented-multi-agent-jailbreak-att.md"
+  },
+  {
+    "arxiv_id": "2604.12282",
+    "version": 1,
+    "title": "Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning",
+    "authors": [
+      "Houxing Ren",
+      "Mingjie Zhan",
+      "Zimu Lu",
+      "Ke Wang",
+      "Yunqiao Yang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12282",
+    "pdf_url": "https://arxiv.org/pdf/2604.12282v1",
+    "github_url": "https://github.com/renhouxing/SpreadsheetAgent",
+    "published": "2026-04-14",
+    "tags": [
+      "Multi-Agent",
+      "Tool Use",
+      "Reasoning",
+      "Multi-Modal",
+      "Real-World Application",
+      "Benchmark Evaluation",
+      "Code Execution",
+      "Verification"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/towards-robust-real-world-spreadsheet-understanding-with-multi-agent-multi-forma.md"
+  },
+  {
+    "arxiv_id": "2604.12237",
+    "version": 1,
+    "title": "MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization",
+    "authors": [
+      "Ziqing Wang",
+      "Yibo Wen",
+      "Abhishek Pandy",
+      "Han Liu",
+      "Kaize Ding"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12237",
+    "pdf_url": "https://arxiv.org/pdf/2604.12237v1",
+    "github_url": "https://github.com/REAL-Lab-NU/MolMem",
+    "published": "2026-04-14",
+    "tags": [
+      "Agentic Reinforcement Learning",
+      "Memory-Augmented Agent",
+      "Molecular Optimization",
+      "Sample Efficiency",
+      "Tool-Augmented Agent",
+      "Multi-Turn Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/molmem-memory-augmented-agentic-reinforcement-learning-for-sample-efficient-mole.md"
+  },
+  {
+    "arxiv_id": "2604.12184",
+    "version": 1,
+    "title": "TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning",
+    "authors": [
+      "Gautama Shastry Bulusu Venkata",
+      "Santhosh Kakarla",
+      "Maheedhar Omtri Mohan",
+      "Aishwarya Gaddam"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.12184",
+    "pdf_url": "https://arxiv.org/pdf/2604.12184v1",
+    "github_url": "",
+    "published": "2026-04-14",
+    "tags": [
+      "Multi-Agent System",
+      "Fact Verification",
+      "Explainable AI",
+      "Tool Use",
+      "Retrieval-Augmented Generation",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/14/trust-agents-a-collaborative-multi-agent-framework-for-fake-news-detection-expla.md"
+  }
+]
