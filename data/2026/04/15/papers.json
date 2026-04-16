@@ -1,0 +1,633 @@
+[
+  {
+    "arxiv_id": "2604.13787",
+    "version": 1,
+    "title": "ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution",
+    "authors": [
+      "Shouzheng Huang",
+      "Meishan Zhang",
+      "Baotian Hu",
+      "Min Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13787",
+    "pdf_url": "https://arxiv.org/pdf/2604.13787v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Tool Use",
+      "Agent Framework",
+      "Open-World",
+      "Reinforcement Learning",
+      "Retrieval-Augmented",
+      "Generalization",
+      "SFT",
+      "GRPO",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/15/toolomni-enabling-open-world-tool-use-via-agentic-learning-with-proactive-retrie.md"
+  },
+  {
+    "arxiv_id": "2604.14054",
+    "version": 1,
+    "title": "$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data",
+    "authors": [
+      "Yaocheng Zhang",
+      "Yuanheng Zhu",
+      "Wenyue Chong",
+      "Songjun Tu",
+      "Qichao Zhang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14054",
+    "pdf_url": "https://arxiv.org/pdf/2604.14054v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Multi-Agent",
+      "Self-Play",
+      "Self-Distillation",
+      "Privileged Information",
+      "Training Framework",
+      "Search Agent",
+      "Data-Efficient Learning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/π-play-multi-agent-self-play-via-privileged-self-distillation-without-external-d.md"
+  },
+  {
+    "arxiv_id": "2604.14116",
+    "version": 1,
+    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+    "authors": [
+      "Zerun Ma",
+      "Guoqiang Wang",
+      "Xinchen Xie",
+      "Yicheng Chen",
+      "He Du"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14116",
+    "pdf_url": "https://arxiv.org/pdf/2604.14116v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Multi-Agent System",
+      "Automated Workflow",
+      "LLM Fine-tuning",
+      "Tree-based Planning",
+      "Agent Benchmarking",
+      "Open-Domain Research"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/trex-automating-llm-fine-tuning-via-agent-driven-tree-based-exploration.md"
+  },
+  {
+    "arxiv_id": "2604.13822",
+    "version": 1,
+    "title": "UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization",
+    "authors": [
+      "Zhengxi Lu",
+      "Fei Tang",
+      "Guangyi Liu",
+      "Kaitao Song",
+      "Xu Tan"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13822",
+    "pdf_url": "https://arxiv.org/pdf/2604.13822v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "GUI Agent",
+      "Tool Use",
+      "Memory",
+      "Policy Optimization",
+      "Long-Horizon Task",
+      "Multi-Modal Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/ui-copilot-advancing-long-horizon-gui-automation-via-tool-integrated-policy-opti.md"
+  },
+  {
+    "arxiv_id": "2604.13731",
+    "version": 1,
+    "title": "Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA",
+    "authors": [
+      "Yuanlei Zheng",
+      "Pei Fu",
+      "Hang Li",
+      "Ziyang Wang",
+      "Yuyi Zhang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13731",
+    "pdf_url": "https://arxiv.org/pdf/2604.13731v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Document Agent",
+      "Visual Reasoning",
+      "Agentic Framework",
+      "Interactive Navigation",
+      "Imitation Learning",
+      "Multi-Page VQA",
+      "OCR-free",
+      "Evidence Aggregation",
+      "Working Memory",
+      "Policy Optimization"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/doc-vcoarse-to-fine-interactive-visual-reasoning-for-multi-page-document-vqa.md"
+  },
+  {
+    "arxiv_id": "2604.13488",
+    "version": 1,
+    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+    "authors": [
+      "Ziwei Wang",
+      "Junjie Zheng",
+      "Leyang Yang",
+      "Sheng Zhou",
+      "Xiaoxuan Tang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13488",
+    "pdf_url": "https://arxiv.org/pdf/2604.13488v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "GUI Agent",
+      "Multi-Agent Systems",
+      "Lightweight MLLM",
+      "Knowledge Distillation",
+      "Reinforcement Learning",
+      "Task Scalability",
+      "Multi-Role Orchestration",
+      "Framework"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/towards-scalable-lightweight-gui-agents-via-multi-role-orchestration.md"
+  },
+  {
+    "arxiv_id": "2604.13418",
+    "version": 1,
+    "title": "MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments",
+    "authors": [
+      "Han Wang",
+      "David Wan",
+      "Hyunji Lee",
+      "Thinh Pham",
+      "Mikaela Cankosyan"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13418",
+    "pdf_url": "https://arxiv.org/pdf/2604.13418v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Benchmark",
+      "Multimodal",
+      "Web Search",
+      "Retrieval-Augmented Generation",
+      "Tool Use",
+      "Reasoning",
+      "Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/15/merrin-a-benchmark-for-multimodal-evidence-retrieval-and-reasoning-in-noisy-web.md"
+  },
+  {
+    "arxiv_id": "2604.14004",
+    "version": 1,
+    "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
+    "authors": [
+      "Kangsan Kim",
+      "Minki Kang",
+      "Taeil Kim",
+      "Yanlai Yang",
+      "Mengye Ren"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14004",
+    "pdf_url": "https://arxiv.org/pdf/2604.14004v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Coding Agent",
+      "Memory",
+      "Transfer Learning",
+      "Self-Evolution",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/memory-transfer-learning-how-memories-are-transferred-across-domains-in-coding-a.md"
+  },
+  {
+    "arxiv_id": "2604.13946",
+    "version": 1,
+    "title": "CollabCoder: Plan-Code Co-Evolution via Collaborative Decision-Making for Efficient Code Generation",
+    "authors": [
+      "Duy Tung Doan",
+      "Quang Huy Phung",
+      "Dzung Nguyen",
+      "Khac-Hoai Nam Bui"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13946",
+    "pdf_url": "https://arxiv.org/pdf/2604.13946v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "多智能体协作",
+      "代码生成",
+      "规划",
+      "工具使用",
+      "决策机制",
+      "效率优化",
+      "软件工程Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/collabcoder-plan-code-co-evolution-via-collaborative-decision-making-for-efficie.md"
+  },
+  {
+    "arxiv_id": "2604.13888",
+    "version": 1,
+    "title": "GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis",
+    "authors": [
+      "Bo Yu",
+      "Cheng Yang",
+      "Dongyang Hou",
+      "Chengfu Liu",
+      "Jiayao Liu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13888",
+    "pdf_url": "https://arxiv.org/pdf/2604.13888v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Agent Benchmark",
+      "Tool-Augmented Agent",
+      "Agent Architecture",
+      "Spatial Analysis",
+      "Dynamic Execution",
+      "Parameter Tuning",
+      "Error Recovery",
+      "Multi-step Reasoning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/geoagentbench-a-dynamic-execution-benchmark-for-tool-augmented-agents-in-spatial.md"
+  },
+  {
+    "arxiv_id": "2604.13592",
+    "version": 1,
+    "title": "Foresight Optimization for Strategic Reasoning in Large Language Models",
+    "authors": [
+      "Jiashuo Wang",
+      "Jiawen Duan",
+      "Jian Wang",
+      "Kaitao Song",
+      "Chunpu Xu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13592",
+    "pdf_url": "https://arxiv.org/pdf/2604.13592v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "多智能体",
+      "战略推理",
+      "对手建模",
+      "策略优化",
+      "前瞻性建模",
+      "自我博弈",
+      "推理增强"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/foresight-optimization-for-strategic-reasoning-in-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2604.13579",
+    "version": 1,
+    "title": "MM-Doc-R1: Training Agents for Long Document Visual Question Answering through Multi-turn Reinforcement Learning",
+    "authors": [
+      "Jiahang Lin",
+      "Kai Hu",
+      "Binghai Wang",
+      "Yuhao Zhou",
+      "Zhiheng Xi"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13579",
+    "pdf_url": "https://arxiv.org/pdf/2604.13579v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Agent Training",
+      "Multi-turn Reinforcement Learning",
+      "Visual Question Answering",
+      "Long Document Understanding",
+      "Retrieval-Augmented Generation",
+      "Policy Optimization",
+      "Vision-Language Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/mm-doc-r1-training-agents-for-long-document-visual-question-answering-through-mu.md"
+  },
+  {
+    "arxiv_id": "2604.13551",
+    "version": 1,
+    "title": "Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate",
+    "authors": [
+      "Cunda Wang",
+      "Ziying Ma",
+      "Po Hu",
+      "Weihua Wang",
+      "Feilong Bao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13551",
+    "pdf_url": "https://arxiv.org/pdf/2604.13551v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "多智能体协作",
+      "知识图谱对齐",
+      "LLM推理",
+      "多智能体辩论",
+      "实体对齐",
+      "Agent架构"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/debate-to-align-reliable-entity-alignment-through-two-stage-multi-agent-debate.md"
+  },
+  {
+    "arxiv_id": "2604.13531",
+    "version": 1,
+    "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+    "authors": [
+      "Renqi Chen",
+      "Zeyin Tao",
+      "Jianming Guo",
+      "Jing Wang",
+      "Zezhou Xu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13531",
+    "pdf_url": "https://arxiv.org/pdf/2604.13531v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "GUI Agent",
+      "Interactive Benchmark",
+      "E-commerce",
+      "Risk Management",
+      "Agent Evaluation",
+      "Agentic RL",
+      "Web Automation",
+      "Long-Horizon Tasks"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/riskwebworld-a-realistic-interactive-benchmark-for-gui-agents-in-e-commerce-risk.md"
+  },
+  {
+    "arxiv_id": "2604.13519",
+    "version": 1,
+    "title": "ToolSpec: Accelerating Tool Calling via Schema-Aware and Retrieval-Augmented Speculative Decoding",
+    "authors": [
+      "Heming Xia",
+      "Yongqi Li",
+      "Cunxiao Du",
+      "Mingbo Song",
+      "Wenjie Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13519",
+    "pdf_url": "https://arxiv.org/pdf/2604.13519v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Tool Calling",
+      "Speculative Decoding",
+      "System Optimization",
+      "Latency Reduction",
+      "Retrieval-Augmented Generation",
+      "Schema-Aware",
+      "Multi-Step Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/15/toolspec-accelerating-tool-calling-via-schema-aware-and-retrieval-augmented-spec.md"
+  },
+  {
+    "arxiv_id": "2604.13954",
+    "version": 1,
+    "title": "HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark",
+    "authors": [
+      "Jiacheng Wang",
+      "Jinchang Hou",
+      "Fabian Wang",
+      "Ping Jian",
+      "Chenfu Bao"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13954",
+    "pdf_url": "https://arxiv.org/pdf/2604.13954v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Agent Safety",
+      "Benchmark",
+      "Risk Assessment",
+      "Long-Horizon Trajectory",
+      "Intrinsic Risk",
+      "Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/15/hintbench-horizon-agent-intrinsic-non-attack-trajectory-benchmark.md"
+  },
+  {
+    "arxiv_id": "2604.13828",
+    "version": 1,
+    "title": "MUSE: Multi-Domain Chinese User Simulation via Self-Evolving Profiles and Rubric-Guided Alignment",
+    "authors": [
+      "Zihao Liu",
+      "Hantao Zhou",
+      "Jiguo Li",
+      "Jun Xu",
+      "Jiuchong Gao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13828",
+    "pdf_url": "https://arxiv.org/pdf/2604.13828v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "用户模拟",
+      "强化学习",
+      "多轮对话",
+      "对齐",
+      "中文",
+      "多领域",
+      "评估",
+      "训练数据"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/15/muse-multi-domain-chinese-user-simulation-via-self-evolving-profiles-and-rubric.md"
+  },
+  {
+    "arxiv_id": "2604.13824",
+    "version": 1,
+    "title": "Beyond State Consistency: Behavior Consistency in Text-Based World Models",
+    "authors": [
+      "Youling Huang",
+      "Guanqiao Chen",
+      "Junchi Yao",
+      "Lu Wang",
+      "Fangkai Yang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13824",
+    "pdf_url": "https://arxiv.org/pdf/2604.13824v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "World Model",
+      "Agent Evaluation",
+      "Offline Evaluation",
+      "Online Planning",
+      "Training Paradigm",
+      "Text-Based Environment",
+      "Behavior Alignment",
+      "WebShop",
+      "TextWorld"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/15/beyond-state-consistency-behavior-consistency-in-text-based-world-models.md"
+  },
+  {
+    "arxiv_id": "2604.13759",
+    "version": 1,
+    "title": "The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents",
+    "authors": [
+      "Rafflesia Khan",
+      "Nafiul Islam Khan"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13759",
+    "pdf_url": "https://arxiv.org/pdf/2604.13759v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Agent Monitoring",
+      "Reasoning Degradation",
+      "Parallel Architecture",
+      "LLM-as-Judge",
+      "Probe-based Monitoring",
+      "Feasibility Study",
+      "Task-Type Sensitivity",
+      "Computational Overhead"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/15/the-cognitive-companion-a-lightweight-parallel-monitoring-architecture-for-detec.md"
+  },
+  {
+    "arxiv_id": "2604.13630",
+    "version": 1,
+    "title": "SafeHarness: Lifecycle-Integrated Security Architecture for LLM-based Agent Deployment",
+    "authors": [
+      "Xixun Lin",
+      "Yang Liu",
+      "Yancheng Chen",
+      "Yongxuan Wu",
+      "Yucheng Ning"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.13630",
+    "pdf_url": "https://arxiv.org/pdf/2604.13630v1",
+    "github_url": "",
+    "published": "2026-04-15",
+    "tags": [
+      "Agent Security",
+      "System Architecture",
+      "Tool Use",
+      "Adversarial Robustness",
+      "Deployment",
+      "Safety"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/15/safeharness-lifecycle-integrated-security-architecture-for-llm-based-agent-deplo.md"
+  }
+]
