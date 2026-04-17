@@ -1,0 +1,871 @@
+[
+  {
+    "arxiv_id": "2604.15186",
+    "version": 1,
+    "title": "Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines",
+    "authors": [
+      "Marcel Wagenländer",
+      "Otto White",
+      "Britannio Jarrett",
+      "Pedro Silvestre",
+      "Yanda Tao"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.DC",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15186",
+    "pdf_url": "https://arxiv.org/pdf/2604.15186v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agentic Workflows",
+      "LLM Serving",
+      "System Optimization",
+      "GPU Scheduling",
+      "Latency/Throughput Prediction",
+      "Cluster Management",
+      "Aggregate LLM Pipeline"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/16/scepsy-serving-agentic-workflows-using-aggregate-llm-pipelines.md"
+  },
+  {
+    "arxiv_id": "2604.15093",
+    "version": 1,
+    "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
+    "authors": [
+      "Kanzhi Cheng",
+      "Zehao Li",
+      "Zheng Ma",
+      "Nuo Chen",
+      "Jialin Cao"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15093",
+    "pdf_url": "https://arxiv.org/pdf/2604.15093v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Mobile Agent",
+      "Data Synthesis",
+      "Imitation Learning",
+      "Benchmark Evaluation",
+      "Open Source",
+      "Vision-Language Model",
+      "Task Synthesis",
+      "Trajectory Synthesis"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/16/openmobile-building-open-mobile-agents-with-task-and-trajectory-synthesis.md"
+  },
+  {
+    "arxiv_id": "2604.14820",
+    "version": 1,
+    "title": "SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling",
+    "authors": [
+      "Hao Han",
+      "Jin Xie",
+      "Xuehao Ma",
+      "Weiquan Zhu",
+      "Ziyao Zhang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14820",
+    "pdf_url": "https://arxiv.org/pdf/2604.14820v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Architecture",
+      "Reinforcement Learning for Agents",
+      "Tool Use / Code Agent",
+      "Process Reward Model",
+      "Long-Horizon Reasoning",
+      "Benchmark Evaluation",
+      "Inference Optimization"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/16/swe-trace-optimizing-long-horizon-swe-agents-through-rubric-process-reward-model.md"
+  },
+  {
+    "arxiv_id": "2604.14712",
+    "version": 1,
+    "title": "SGA-MCTS: Decoupling Planning from Execution via Training-Free Atomic Experience Retrieval",
+    "authors": [
+      "Xin Xie",
+      "Dongyun Xue",
+      "Wuguannan Yao",
+      "Mingxiao Feng",
+      "Wengang Zhou"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14712",
+    "pdf_url": "https://arxiv.org/pdf/2604.14712v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Planning",
+      "Reasoning",
+      "Retrieval-Augmented Generation",
+      "Monte Carlo Tree Search",
+      "Knowledge Distillation",
+      "Training-Free",
+      "Agent Architecture",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/16/sga-mcts-decoupling-planning-from-execution-via-training-free-atomic-experience.md"
+  },
+  {
+    "arxiv_id": "2604.15148",
+    "version": 1,
+    "title": "IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning",
+    "authors": [
+      "Zihan Liang",
+      "Yufei Ma",
+      "Ben Chen",
+      "Zhipeng Qian",
+      "Huangyu Dai"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15148",
+    "pdf_url": "https://arxiv.org/pdf/2604.15148v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "强化学习",
+      "搜索增强推理",
+      "信息增益",
+      "奖励设计",
+      "信用分配",
+      "问答",
+      "多跳推理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/ig-search-step-level-information-gain-rewards-for-search-augmented-reasoning.md"
+  },
+  {
+    "arxiv_id": "2604.15075",
+    "version": 1,
+    "title": "Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap",
+    "authors": [
+      "Naryeong Kim",
+      "Shin Yoo"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15075",
+    "pdf_url": "https://arxiv.org/pdf/2604.15075v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Efficiency",
+      "Cost Optimization",
+      "Self-Consistency",
+      "Early Termination",
+      "Model Hotswap",
+      "Graph Neural Networks",
+      "Software Engineering Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/atropos-improving-cost-benefit-trade-off-of-llm-based-agents-under-self-consiste.md"
+  },
+  {
+    "arxiv_id": "2604.15034",
+    "version": 1,
+    "title": "Autogenesis: A Self-Evolving Agent Protocol",
+    "authors": [
+      "Wentao Zhang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15034",
+    "pdf_url": "https://arxiv.org/pdf/2604.15034v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Architecture",
+      "Multi-Agent Systems",
+      "Agent Protocol",
+      "Self-Improvement",
+      "Tool Use",
+      "Long-Horizon Planning",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/autogenesis-a-self-evolving-agent-protocol.md"
+  },
+  {
+    "arxiv_id": "2604.14877",
+    "version": 1,
+    "title": "Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis",
+    "authors": [
+      "Zhiyuan Zhai",
+      "Wenjing Yan",
+      "Xiaodan Shao",
+      "Xin Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14877",
+    "pdf_url": "https://arxiv.org/pdf/2604.14877v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "强化学习",
+      "工具使用",
+      "能力边界分析",
+      "评估指标",
+      "交互深度",
+      "信息整合",
+      "实验验证",
+      "对比分析"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/does-rl-expand-the-capability-boundary-of-llm-agents-a-passkt-analysis.md"
+  },
+  {
+    "arxiv_id": "2604.14683",
+    "version": 1,
+    "title": "DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
+    "authors": [
+      "Qianqian Xie",
+      "Qingheng Xiong",
+      "He Zhu",
+      "Tiantian Xia",
+      "Xueming Han"
+    ],
+    "author_count": 19,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14683",
+    "pdf_url": "https://arxiv.org/pdf/2604.14683v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Benchmark",
+      "Evaluation",
+      "Multi-Agent",
+      "Retrieval",
+      "Multimodal",
+      "Long-Horizon Tasks",
+      "Report Generation",
+      "Research Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/dr3-eval-towards-realistic-and-reproducible-deep-research-evaluation.md"
+  },
+  {
+    "arxiv_id": "2604.14609",
+    "version": 1,
+    "title": "El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation",
+    "authors": [
+      "Zijian Zhang",
+      "Aiwei Yin",
+      "Amaan Baweja",
+      "Jiaru Bai",
+      "Ignacio Gustin"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "physics.comp-ph"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14609",
+    "pdf_url": "https://arxiv.org/pdf/2604.14609v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Multi-Agent System",
+      "Tool Use",
+      "Tool Generation",
+      "AI for Science",
+      "Quantum Simulation",
+      "Autonomous Agent",
+      "Code Generation",
+      "Reusable Tools"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/el-agente-forjador-task-driven-agent-generation-for-quantum-simulation.md"
+  },
+  {
+    "arxiv_id": "2604.14572",
+    "version": 1,
+    "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+    "authors": [
+      "Yiqun Sun",
+      "Pengfei Wei",
+      "Lawrence B. Hsieh"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14572",
+    "pdf_url": "https://arxiv.org/pdf/2604.14572v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Architecture",
+      "Retrieval-Augmented Generation (RAG)",
+      "Knowledge Navigation",
+      "Enterprise QA",
+      "Hierarchical Planning",
+      "Document Corpus Distillation",
+      "Agentic RAG"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/dont-retrieve-navigate-distilling-enterprise-knowledge-into-navigable-agent-skil.md"
+  },
+  {
+    "arxiv_id": "2604.15082",
+    "version": 1,
+    "title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+    "authors": [
+      "Cunxi Yu",
+      "Haoxing Ren"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15082",
+    "pdf_url": "https://arxiv.org/pdf/2604.15082v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Multi-Agent",
+      "Tool Use",
+      "Code Generation",
+      "Self-Improvement",
+      "Autonomous Systems",
+      "EDA",
+      "LLM Agents"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/autonomous-evolution-of-eda-tools-multi-agent-self-evolved-abc.md"
+  },
+  {
+    "arxiv_id": "2604.14989",
+    "version": 1,
+    "title": "Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+    "authors": [
+      "Wenji Fang",
+      "Yao Lu",
+      "Shang Liu",
+      "Jing Wang",
+      "Ziyan Guo"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.AR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14989",
+    "pdf_url": "https://arxiv.org/pdf/2604.14989v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agentic Framework",
+      "Tool Use",
+      "Self-Improvement",
+      "Multi-Agent",
+      "RTL Optimization",
+      "Closed-Loop Optimization",
+      "Skill Learning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/drrtl-autonomous-agentic-rtl-optimization-through-tool-grounded-self-improvement.md"
+  },
+  {
+    "arxiv_id": "2604.14967",
+    "version": 1,
+    "title": "UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards",
+    "authors": [
+      "Jun Wang",
+      "Shuo Tan",
+      "Zelong Sun",
+      "Tiancheng Gu",
+      "Yongle Zhao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14967",
+    "pdf_url": "https://arxiv.org/pdf/2604.14967v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "视觉RAG",
+      "强化学习",
+      "分层决策",
+      "主动感知",
+      "文档理解",
+      "多目标奖励"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/unidoc-rl-coarse-to-fine-visual-rag-with-hierarchical-actions-and-dense-rewards.md"
+  },
+  {
+    "arxiv_id": "2604.14930",
+    "version": 1,
+    "title": "IE as Cache: Information Extraction Enhanced Agentic Reasoning",
+    "authors": [
+      "Hang Lv",
+      "Sheng Liang",
+      "Hongchao Gu",
+      "Wei Guo",
+      "Defu Lian"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14930",
+    "pdf_url": "https://arxiv.org/pdf/2604.14930v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agentic Reasoning",
+      "Information Extraction",
+      "Cognitive Cache",
+      "Multi-step Inference",
+      "Architecture"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/ie-as-cache-information-extraction-enhanced-agentic-reasoning.md"
+  },
+  {
+    "arxiv_id": "2604.14847",
+    "version": 1,
+    "title": "TrigReason: Trigger-Based Collaboration between Small and Large Reasoning Models",
+    "authors": [
+      "Yi Zhao",
+      "Yajuan Peng",
+      "Cam-Tu Nguyen",
+      "Zuchao Li",
+      "Xiaoliang Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14847",
+    "pdf_url": "https://arxiv.org/pdf/2604.14847v1",
+    "github_url": "https://github.com/QQQ-yi/TrigReason",
+    "published": "2026-04-16",
+    "tags": [
+      "推理加速",
+      "模型协作",
+      "计算效率",
+      "推理风险",
+      "选择性干预",
+      "边缘计算"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/trigreason-trigger-based-collaboration-between-small-and-large-reasoning-models.md"
+  },
+  {
+    "arxiv_id": "2604.14564",
+    "version": 1,
+    "title": "MARS$^2$: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation",
+    "authors": [
+      "Pengfei Li",
+      "Shijie Wang",
+      "Fangyuan Li",
+      "Yikun Fu",
+      "Kaifeng Liu"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14564",
+    "pdf_url": "https://arxiv.org/pdf/2604.14564v1",
+    "github_url": "https://github.com/TsinghuaC3I/MARTI",
+    "published": "2026-04-16",
+    "tags": [
+      "Multi-Agent",
+      "Reinforcement Learning",
+      "Tree Search",
+      "Code Generation",
+      "Collaboration",
+      "Search Enhancement"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/mars2-scaling-multi-agent-tree-search-via-reinforcement-learning-for-code-genera.md"
+  },
+  {
+    "arxiv_id": "2604.14518",
+    "version": 1,
+    "title": "Mind DeepResearch Technical Report",
+    "authors": [
+      "MindDR Team",
+      "Li Auto Inc"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14518",
+    "pdf_url": "https://arxiv.org/pdf/2604.14518v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Multi-Agent System",
+      "Agent Training Pipeline",
+      "Data Synthesis",
+      "Reinforcement Learning",
+      "Web Agent",
+      "Benchmark",
+      "Chinese Language Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/mind-deepresearch-technical-report.md"
+  },
+  {
+    "arxiv_id": "2604.15309",
+    "version": 1,
+    "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+    "authors": [
+      "Yan Li",
+      "Zezi Zeng",
+      "Yifan Yang",
+      "Yuqing Yang",
+      "Ning Liao"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15309",
+    "pdf_url": "https://arxiv.org/pdf/2604.15309v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Multimodal Agent",
+      "Web Agent",
+      "Hierarchical Planning",
+      "Self-Reflection",
+      "AIGC Integration",
+      "Benchmark",
+      "UI/UX Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/mm-webagent-a-hierarchical-multimodal-web-agent-for-webpage-generation.md"
+  },
+  {
+    "arxiv_id": "2604.15233",
+    "version": 1,
+    "title": "Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications",
+    "authors": [
+      "Moin Aminnaseri",
+      "Farima Fatahi Bayat",
+      "Nikita Bhutani",
+      "Jean-Flavien Bussotti",
+      "Kevin Chan"
+    ],
+    "author_count": 20,
+    "categories": [
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15233",
+    "pdf_url": "https://arxiv.org/pdf/2604.15233v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Compound AI System",
+      "Multi-Agent Orchestration",
+      "Multi-Source Data Integration",
+      "Data-Centric AI",
+      "Query Planning",
+      "NL2SQL",
+      "Enterprise Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/blue-data-intelligence-layer-streaming-data-and-agents-for-multi-source-multi-mo.md"
+  },
+  {
+    "arxiv_id": "2604.15231",
+    "version": 1,
+    "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+    "authors": [
+      "Mélanie Roschewitz",
+      "Kenneth Styppa",
+      "Yitian Tao",
+      "Jiwoong Sohn",
+      "Jean-Benoit Delbrouck"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15231",
+    "pdf_url": "https://arxiv.org/pdf/2604.15231v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Tool-Using Agent",
+      "Medical AI",
+      "Interpretability",
+      "Vision-Language Model",
+      "Stepwise Reasoning",
+      "Report Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/radagent-a-tool-using-ai-agent-for-stepwise-interpretation-of-chest-computed-tom.md"
+  },
+  {
+    "arxiv_id": "2604.15001",
+    "version": 1,
+    "title": "COEVO: Co-Evolutionary Framework for Joint Functional Correctness and PPA Optimization in LLM-Based RTL Generation",
+    "authors": [
+      "Heng Ping",
+      "Peiyu Zhang",
+      "Shixuan Li",
+      "Wei Yang",
+      "Anzhe Cheng"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15001",
+    "pdf_url": "https://arxiv.org/pdf/2604.15001v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Code Agent",
+      "Multi-Agent System",
+      "Evolutionary Algorithm",
+      "Multi-Objective Optimization",
+      "Hardware Design",
+      "RTL Generation",
+      "LLM-based Code Generation",
+      "Functional Correctness",
+      "PPA Optimization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/coevo-co-evolutionary-framework-for-joint-functional-correctness-and-ppa-optimiz.md"
+  },
+  {
+    "arxiv_id": "2604.14956",
+    "version": 1,
+    "title": "FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems",
+    "authors": [
+      "Wenhao Wang",
+      "Haoting Shi",
+      "Mengying Yuan",
+      "Yiquan Lin",
+      "Panrong Tong"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14956",
+    "pdf_url": "https://arxiv.org/pdf/2604.14956v1",
+    "github_url": "https://github.com/wwh0411/FedGUI",
+    "published": "2026-04-16",
+    "tags": [
+      "GUI Agent",
+      "Federated Learning",
+      "Benchmark",
+      "Cross-Platform",
+      "Cross-Device",
+      "Cross-OS",
+      "Privacy",
+      "Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/fedgui-benchmarking-federated-gui-agents-across-heterogeneous-platforms-devices.md"
+  },
+  {
+    "arxiv_id": "2604.14951",
+    "version": 1,
+    "title": "RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models",
+    "authors": [
+      "Gabriele Mattioli",
+      "Evelyn Turri",
+      "Sara Sarto",
+      "Lorenzo Baraldi",
+      "Marcella Cornia"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14951",
+    "pdf_url": "https://arxiv.org/pdf/2604.14951v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "工具学习",
+      "多模态大语言模型",
+      "检索增强",
+      "开放世界工具使用",
+      "偏好优化",
+      "数据集构建"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/rata-tool-retrieval-based-tool-selection-with-multimodal-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2604.14799",
+    "version": 1,
+    "title": "Knowing When Not to Answer: Evaluating Abstention in Multimodal Reasoning Systems",
+    "authors": [
+      "Nishanth Madhusudhan",
+      "Vikas Yadav",
+      "Alexandre Lacoste"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14799",
+    "pdf_url": "https://arxiv.org/pdf/2604.14799v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "多模态智能体",
+      "评估基准",
+      "拒绝回答",
+      "视觉语言模型",
+      "多智能体系统",
+      "可靠性"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/knowing-when-not-to-answer-evaluating-abstention-in-multimodal-reasoning-systems.md"
+  },
+  {
+    "arxiv_id": "2604.14709",
+    "version": 1,
+    "title": "HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks",
+    "authors": [
+      "Fan Cui",
+      "Hongyuan Hou",
+      "Zizhang Luo",
+      "Chenyun Yin",
+      "Yun Liang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14709",
+    "pdf_url": "https://arxiv.org/pdf/2604.14709v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Benchmark",
+      "Hardware Bug Repair",
+      "Tool Use",
+      "Repository-Level Evaluation",
+      "Agent Framework Comparison",
+      "Failure Analysis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/hwe-bench-benchmarking-llm-agents-on-real-world-hardware-bug-repair-tasks.md"
+  },
+  {
+    "arxiv_id": "2604.14655",
+    "version": 1,
+    "title": "AgentGA: Evolving Code Solutions in Agent-Seed Space",
+    "authors": [
+      "David Y. Y. Tan",
+      "Kellie Chin",
+      "Jingxian Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14655",
+    "pdf_url": "https://arxiv.org/pdf/2604.14655v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "代码智能体",
+      "进化算法",
+      "遗传算法",
+      "自动机器学习",
+      "任务规划",
+      "工作空间管理",
+      "基准评测"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/agentga-evolving-code-solutions-in-agent-seed-space.md"
+  },
+  {
+    "arxiv_id": "2604.14585",
+    "version": 1,
+    "title": "Prompt Optimization Is a Coin Flip: Diagnosing When It Helps in Compound AI Systems",
+    "authors": [
+      "Xing Zhang",
+      "Guanghui Wang",
+      "Yanwei Cui",
+      "Wei Qiu",
+      "Ziyuan Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14585",
+    "pdf_url": "https://arxiv.org/pdf/2604.14585v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Prompt Optimization",
+      "Compound AI Systems",
+      "Agent Diagnosis",
+      "Experimental Analysis",
+      "System Evaluation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/prompt-optimization-is-a-coin-flip-diagnosing-when-it-helps-in-compound-ai-syste.md"
+  }
+]
