@@ -130,6 +130,36 @@
     "md_path": "data/2026/04/16/sga-mcts-decoupling-planning-from-execution-via-training-free-atomic-experience.md"
   },
   {
+    "arxiv_id": "2604.15505",
+    "version": 1,
+    "title": "PolicyBank: Evolving Policy Understanding for LLM Agents",
+    "authors": [
+      "Jihye Choi",
+      "Jinsung Yoon",
+      "Long T. Le",
+      "Somesh Jha",
+      "Tomas Pfister"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15505",
+    "pdf_url": "https://arxiv.org/pdf/2604.15505v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent 记忆",
+      "策略理解与演化",
+      "工具调用",
+      "对齐与合规",
+      "测试基准"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/16/policybank-evolving-policy-understanding-for-llm-agents.md"
+  },
+  {
     "arxiv_id": "2604.15148",
     "version": 1,
     "title": "IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning",
@@ -347,6 +377,34 @@
     "md_path": "data/2026/04/16/dont-retrieve-navigate-distilling-enterprise-knowledge-into-navigable-agent-skil.md"
   },
   {
+    "arxiv_id": "2604.15529",
+    "version": 1,
+    "title": "LACE: Lattice Attention for Cross-thread Exploration",
+    "authors": [
+      "Yang Li",
+      "Zirui Zhang",
+      "Yang Liu",
+      "Chengzhi Mao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15529",
+    "pdf_url": "https://arxiv.org/pdf/2604.15529v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "推理增强",
+      "并行搜索",
+      "架构修改",
+      "数据合成",
+      "单智能体"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/16/lace-lattice-attention-for-cross-thread-exploration.md"
+  },
+  {
     "arxiv_id": "2604.15082",
     "version": 1,
     "title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
@@ -555,6 +613,98 @@
     ],
     "relevance_score": 8.0,
     "md_path": "data/2026/04/16/mind-deepresearch-technical-report.md"
+  },
+  {
+    "arxiv_id": "2604.15456",
+    "version": 1,
+    "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+    "authors": [
+      "Zhizheng Wang",
+      "Chih-Hsuan Wei",
+      "Joey Chan",
+      "Robert Leaman",
+      "Chi-Ping Day"
+    ],
+    "author_count": 22,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15456",
+    "pdf_url": "https://arxiv.org/pdf/2604.15456v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agentic AI",
+      "Medical Agent",
+      "Evidence-Based Research",
+      "Multi-Agent Collaboration",
+      "Benchmark",
+      "Tool Use"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/deeper-med-advancing-deep-evidence-based-research-in-medicine-through-agentic-ai.md"
+  },
+  {
+    "arxiv_id": "2604.15415",
+    "version": 1,
+    "title": "HarmfulSkillBench: How Do Harmful Skills Weaponize Your Agents?",
+    "authors": [
+      "Yukun Jiang",
+      "Yage Zhang",
+      "Michael Backes",
+      "Xinyue Shen",
+      "Yang Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15415",
+    "pdf_url": "https://arxiv.org/pdf/2604.15415v1",
+    "github_url": "https://github.com/TrustAIRLab/HarmfulSkillBench",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Safety",
+      "Harmful Skills",
+      "Benchmark",
+      "Measurement Study",
+      "Tool Use",
+      "Security",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/harmfulskillbench-how-do-harmful-skills-weaponize-your-agents.md"
+  },
+  {
+    "arxiv_id": "2604.15037",
+    "version": 1,
+    "title": "From Reactive to Proactive: Assessing the Proactivity of Voice Agents via ProVoice-Bench",
+    "authors": [
+      "Ke Xu",
+      "Yuhao Wang",
+      "Yu Wang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SD"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15037",
+    "pdf_url": "https://arxiv.org/pdf/2604.15037v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Evaluation",
+      "Multimodal Agent",
+      "Proactive Agent",
+      "Benchmark",
+      "Voice Agent",
+      "Data Synthesis"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/16/from-reactive-to-proactive-assessing-the-proactivity-of-voice-agents-via-provoic.md"
   },
   {
     "arxiv_id": "2604.15309",
@@ -867,5 +1017,257 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/04/16/prompt-optimization-is-a-coin-flip-diagnosing-when-it-helps-in-compound-ai-syste.md"
+  },
+  {
+    "arxiv_id": "2604.15579",
+    "version": 1,
+    "title": "Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility",
+    "authors": [
+      "Yining Hong",
+      "Yining She",
+      "Eunsuk Kang",
+      "Christopher S. Timperley",
+      "Christian Kästner"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15579",
+    "pdf_url": "https://arxiv.org/pdf/2604.15579v1",
+    "github_url": "https://github.com/hyn0027/agent-symbolic-guardrails",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Safety",
+      "Symbolic Guardrails",
+      "Policy Enforcement",
+      "Security",
+      "Benchmark Analysis",
+      "Tool-Using Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/symbolic-guardrails-for-domain-specific-agents-stronger-safety-and-security-guar.md"
+  },
+  {
+    "arxiv_id": "2604.15559",
+    "version": 1,
+    "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+    "authors": [
+      "Jacob Dang",
+      "Brian Y. Xie",
+      "Omar G. Younis"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15559",
+    "pdf_url": "https://arxiv.org/pdf/2604.15559v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Distillation",
+      "Agent Safety",
+      "Behavior Transfer",
+      "Tool-Using Agent",
+      "Model Distillation",
+      "Unsafe Behaviors",
+      "Trajectory Learning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/subliminal-transfer-of-unsafe-behaviors-in-ai-agent-distillation.md"
+  },
+  {
+    "arxiv_id": "2604.15184",
+    "version": 1,
+    "title": "Agent-Aided Design for Dynamic CAD Models",
+    "authors": [
+      "Mitch Adler",
+      "Matthew Russo",
+      "Michael Cafarella"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15184",
+    "pdf_url": "https://arxiv.org/pdf/2604.15184v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent-Aided Design",
+      "Tool Use",
+      "Visual Feedback",
+      "Code Generation",
+      "CAD",
+      "Iterative Refinement",
+      "Constraint Solver",
+      "3D Assembly"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/agent-aided-design-for-dynamic-cad-models.md"
+  },
+  {
+    "arxiv_id": "2604.14858",
+    "version": 1,
+    "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX",
+    "authors": [
+      "Zhonghao Yang",
+      "Yu Li",
+      "Yanxu Zhu",
+      "Tianyi Zhou",
+      "Yuejin Xie"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14858",
+    "pdf_url": "https://arxiv.org/pdf/2604.14858v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Safety",
+      "Benchmark",
+      "Trajectory Evaluation",
+      "Tool Use",
+      "Code Agent",
+      "Risk Taxonomy",
+      "Diagnosis"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/benchmarks-for-trajectory-safety-evaluation-and-diagnosis-in-openclaw-and-codex.md"
+  },
+  {
+    "arxiv_id": "2604.14661",
+    "version": 1,
+    "title": "AIPC: Agent-Based Automation for AI Model Deployment with Qualcomm AI Runtime",
+    "authors": [
+      "Jianhao Su",
+      "Zhanwei Wu",
+      "ShengTing Huang",
+      "Weidong Feng"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14661",
+    "pdf_url": "https://arxiv.org/pdf/2604.14661v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "AI Agent",
+      "Model Deployment",
+      "Automation",
+      "Edge AI",
+      "Tool Use",
+      "Multi-stage Workflow",
+      "Qualcomm AI Runtime"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/aipc-agent-based-automation-for-ai-model-deployment-with-qualcomm-ai-runtime.md"
+  },
+  {
+    "arxiv_id": "2604.14604",
+    "version": 1,
+    "title": "Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection",
+    "authors": [
+      "Meng Chen",
+      "Kun Wang",
+      "Li Lu",
+      "Jiaheng Zhang",
+      "Tianwei Zhang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.SD"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14604",
+    "pdf_url": "https://arxiv.org/pdf/2604.14604v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent Security",
+      "Adversarial Attack",
+      "Prompt Injection",
+      "Audio-Language Model",
+      "Multi-Modal Agent",
+      "Robustness"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/hijacking-large-audio-language-models-via-context-agnostic-and-imperceptible-aud.md"
+  },
+  {
+    "arxiv_id": "2604.15384",
+    "version": 1,
+    "title": "LinuxArena: A Control Setting for AI Agents in Live Production Software Environments",
+    "authors": [
+      "Tyler Tracy",
+      "Ram Potham",
+      "Nick Kuhn",
+      "Myles Heller",
+      "Anshul Khandelwal"
+    ],
+    "author_count": 34,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15384",
+    "pdf_url": "https://arxiv.org/pdf/2604.15384v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Agent 评测基准",
+      "软件工程 Agent",
+      "安全与监控",
+      "控制设置",
+      "多任务环境",
+      "数据集"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/linuxarena-a-control-setting-for-ai-agents-in-live-production-software-environme.md"
+  },
+  {
+    "arxiv_id": "2604.14550",
+    "version": 1,
+    "title": "VeriGraphi: A Multi-Agent Framework of Hierarchical RTL Generation for Large Hardware Designs",
+    "authors": [
+      "Sazzadul Islam",
+      "Tasnim Tabassum",
+      "Hao Zheng"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AR",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.14550",
+    "pdf_url": "https://arxiv.org/pdf/2604.14550v1",
+    "github_url": "",
+    "published": "2026-04-16",
+    "tags": [
+      "Multi-Agent Systems",
+      "Hierarchical Planning",
+      "Tool Use",
+      "Code Generation",
+      "Knowledge Graph",
+      "Hardware Design",
+      "RTL Generation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/16/verigraphi-a-multi-agent-framework-of-hierarchical-rtl-generation-for-large-hard.md"
   }
 ]

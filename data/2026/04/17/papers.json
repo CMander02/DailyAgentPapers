@@ -1,0 +1,411 @@
+[
+  {
+    "arxiv_id": "2604.15840",
+    "version": 1,
+    "title": "CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution",
+    "authors": [
+      "Shidong Yang",
+      "Ziyu Ma",
+      "Tongwen Huang",
+      "Yiming Hu",
+      "Yong Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15840",
+    "pdf_url": "https://arxiv.org/pdf/2604.15840v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agent Training",
+      "Reinforcement Learning",
+      "Data Synthesis",
+      "Agent-Data Co-evolution",
+      "Interactive Learning",
+      "Tool Use",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/17/coevolve-training-llm-agents-via-agent-data-mutual-evolution.md"
+  },
+  {
+    "arxiv_id": "2604.15715",
+    "version": 1,
+    "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+    "authors": [
+      "Jize Wang",
+      "Xuanxuan Liu",
+      "Yining Li",
+      "Songyang Zhang",
+      "Yijun Wang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15715",
+    "pdf_url": "https://arxiv.org/pdf/2604.15715v1",
+    "github_url": "https://github.com/open-compass/GTA",
+    "published": "2026-04-17",
+    "tags": [
+      "Tool Use",
+      "Benchmark",
+      "Workflow",
+      "Evaluation",
+      "Agent Framework",
+      "General-Purpose Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/17/gta-2-benchmarking-general-tool-agents-from-atomic-tool-use-to-open-ended-workfl.md"
+  },
+  {
+    "arxiv_id": "2604.15972",
+    "version": 1,
+    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
+    "authors": [
+      "Haoyu Bian",
+      "Chaoning Zhang",
+      "Jiaquan Zhang",
+      "Xingyao Li",
+      "Yuanfang Guo"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15972",
+    "pdf_url": "https://arxiv.org/pdf/2604.15972v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Multi-Agent Collaboration",
+      "Reasoning Stability",
+      "Weak-Link Optimization",
+      "Meta-Learning",
+      "Swarm Intelligence",
+      "Uncertainty-Driven Allocation",
+      "Zero-Shot Prediction",
+      "Agent Performance Weighting"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/17/weak-link-optimization-for-multi-agent-reasoning-and-collaboration.md"
+  },
+  {
+    "arxiv_id": "2604.16004",
+    "version": 1,
+    "title": "AgentV-RL: Scaling Reward Modeling with Agentic Verifier",
+    "authors": [
+      "Jiazheng Zhang",
+      "Ziche Fu",
+      "Zhiheng Xi",
+      "Wenqing Jing",
+      "Mingxu Chai"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.16004",
+    "pdf_url": "https://arxiv.org/pdf/2604.16004v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agentic Verifier",
+      "Reward Modeling",
+      "Tool-Augmented Reasoning",
+      "Multi-Agent Collaboration",
+      "Reinforcement Learning",
+      "Reasoning Verification",
+      "Test-Time Scaling"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/17/agentv-rl-scaling-reward-modeling-with-agentic-verifier.md"
+  },
+  {
+    "arxiv_id": "2604.15877",
+    "version": 1,
+    "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+    "authors": [
+      "Xing Zhang",
+      "Guanghui Wang",
+      "Yanwei Cui",
+      "Wei Qiu",
+      "Ziyuan Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15877",
+    "pdf_url": "https://arxiv.org/pdf/2604.15877v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agent Memory",
+      "Agent Skill",
+      "Agent Framework",
+      "Experience Compression",
+      "Knowledge Reuse",
+      "Survey/Analysis",
+      "Agent Efficiency",
+      "Long-Horizon Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/17/experience-compression-spectrum-unifying-memory-skills-and-rules-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.15839",
+    "version": 1,
+    "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
+    "authors": [
+      "Chengwu Liu",
+      "Yichun Yin",
+      "Ye Yuan",
+      "Jiaxuan Xie",
+      "Botao Li"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LO"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15839",
+    "pdf_url": "https://arxiv.org/pdf/2604.15839v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Automated Theorem Proving",
+      "Agentic Framework",
+      "Reasoning",
+      "Benchmark",
+      "Hard Mode",
+      "Self-Reflection",
+      "Tool Use",
+      "Formal Verification"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/17/discover-and-prove-an-open-source-agentic-framework-for-hard-mode-automated-theo.md"
+  },
+  {
+    "arxiv_id": "2604.15709",
+    "version": 1,
+    "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
+    "authors": [
+      "Chenyi Huang",
+      "Haoting Zhang",
+      "Jingxu Xu",
+      "Zeyu Zheng",
+      "Yunduan Lin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15709",
+    "pdf_url": "https://arxiv.org/pdf/2604.15709v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agent Skill Optimization",
+      "Bilevel Optimization",
+      "Monte Carlo Tree Search",
+      "Tool Use",
+      "Instruction Tuning",
+      "Operations Research"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/17/bilevel-optimization-of-agent-skills-via-monte-carlo-tree-search.md"
+  },
+  {
+    "arxiv_id": "2604.16024",
+    "version": 1,
+    "title": "AstroVLM: Expert Multi-agent Collaborative Reasoning for Astronomical Imaging Quality Diagnosis",
+    "authors": [
+      "Yaohui Han",
+      "Tianshuo Wang",
+      "Zixi Zhao",
+      "Zhengchun Zhu",
+      "Shuo Ren"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.MA",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.16024",
+    "pdf_url": "https://arxiv.org/pdf/2604.16024v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "多智能体协作",
+      "视觉语言模型",
+      "专家系统",
+      "天文图像诊断",
+      "任务规划",
+      "领域特定Agent"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/17/astrovlm-expert-multi-agent-collaborative-reasoning-for-astronomical-imaging-qua.md"
+  },
+  {
+    "arxiv_id": "2604.15774",
+    "version": 1,
+    "title": "MemEvoBench: Benchmarking Memory MisEvolution in LLM Agents",
+    "authors": [
+      "Weiwei Xie",
+      "Shaoxiong Guo",
+      "Fan Zhang",
+      "Tian Xia",
+      "Xue Yang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15774",
+    "pdf_url": "https://arxiv.org/pdf/2604.15774v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agent Safety",
+      "Memory",
+      "Benchmark",
+      "Evaluation",
+      "Long-Horizon Interaction",
+      "Adversarial Attack"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/17/memevobench-benchmarking-memory-misevolution-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.15719",
+    "version": 1,
+    "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
+    "authors": [
+      "Chuyang Wei",
+      "Maohang Gao",
+      "Zhixin Han",
+      "Kefei Chen",
+      "Yu Zhuang"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15719",
+    "pdf_url": "https://arxiv.org/pdf/2604.15719v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "LLM Agent",
+      "Future Prediction",
+      "Self-Evolving System",
+      "Internal Feedback",
+      "Temporal Reasoning",
+      "Agent Architecture",
+      "Evidence Gathering",
+      "Uncertainty Handling"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/17/the-world-leaks-the-future-harness-evolution-for-future-prediction-agents.md"
+  },
+  {
+    "arxiv_id": "2604.16021",
+    "version": 1,
+    "title": "Neurosymbolic Repo-level Code Localization",
+    "authors": [
+      "Xiufeng Xu",
+      "Xiufeng Wu",
+      "Zejun Zhang",
+      "Yi Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.16021",
+    "pdf_url": "https://arxiv.org/pdf/2604.16021v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Code Agent",
+      "Agent Architecture",
+      "Reasoning",
+      "Tool Use",
+      "LLM + Symbolic AI",
+      "Benchmark",
+      "Software Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/17/neurosymbolic-repo-level-code-localization.md"
+  },
+  {
+    "arxiv_id": "2604.15725",
+    "version": 1,
+    "title": "Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing",
+    "authors": [
+      "Zehao Wang",
+      "Lanjun Wang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15725",
+    "pdf_url": "https://arxiv.org/pdf/2604.15725v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Agent Safety",
+      "Jailbreak Attack",
+      "Reasoning Models",
+      "Adversarial Attack",
+      "Safety Alignment",
+      "Multi-step Reasoning"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/17/reasoning-targeted-jailbreak-attacks-on-large-reasoning-models-via-semantic-trig.md"
+  },
+  {
+    "arxiv_id": "2604.15687",
+    "version": 1,
+    "title": "Preference Estimation via Opponent Modeling in Multi-Agent Negotiation",
+    "authors": [
+      "Yuta Konishi",
+      "Kento Yamamoto",
+      "Eisuke Sonomoto",
+      "Rikuho Takeda",
+      "Ryo Furukawa"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.15687",
+    "pdf_url": "https://arxiv.org/pdf/2604.15687v1",
+    "github_url": "",
+    "published": "2026-04-17",
+    "tags": [
+      "Multi-Agent",
+      "Opponent Modeling",
+      "Negotiation",
+      "Bayesian Reasoning",
+      "LLM Integration",
+      "Preference Estimation",
+      "Natural Language Understanding"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/17/preference-estimation-via-opponent-modeling-in-multi-agent-negotiation.md"
+  }
+]
