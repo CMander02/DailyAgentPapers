@@ -1,0 +1,680 @@
+[
+  {
+    "arxiv_id": "2604.20714",
+    "version": 1,
+    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
+    "authors": [
+      "Shan He",
+      "Runze Wang",
+      "Zhuoyun Du",
+      "Huiyu Bai",
+      "Zouying Cao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20714",
+    "pdf_url": "https://arxiv.org/pdf/2604.20714v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Multi-Agent Systems",
+      "Self-Improvement",
+      "Meta-Learning",
+      "Agent Architecture",
+      "Optimization Framework",
+      "Textual Parameter Graph",
+      "Agent Engineering",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/22/learning-to-evolve-a-self-improving-framework-for-multi-agent-systems-via-textua.md"
+  },
+  {
+    "arxiv_id": "2604.20117",
+    "version": 1,
+    "title": "To Know is to Construct: Schema-Constrained Generation for Agent Memory",
+    "authors": [
+      "Lei Zheng",
+      "Weinan Song",
+      "Daili Li",
+      "Yanming Yang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20117",
+    "pdf_url": "https://arxiv.org/pdf/2604.20117v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Memory",
+      "Cognitive Schema",
+      "Generative Memory",
+      "Retrieval-Augmented Generation",
+      "Long-Term Adaptation",
+      "Multi-Hop Reasoning",
+      "Architecture Design"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/22/to-know-is-to-construct-schema-constrained-generation-for-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2604.20572",
+    "version": 1,
+    "title": "Ask Only When Needed: Proactive Retrieval from Memory and Skills for Experience-Driven Lifelong Agents",
+    "authors": [
+      "Yuxuan Cai",
+      "Jie Zhou",
+      "Qin Chen",
+      "Liang He"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20572",
+    "pdf_url": "https://arxiv.org/pdf/2604.20572v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Lifelong Learning",
+      "Experience Retrieval",
+      "Proactive Agent",
+      "Memory-Augmented Agent",
+      "Reinforcement Learning",
+      "Agent Architecture",
+      "Online Learning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/22/ask-only-when-needed-proactive-retrieval-from-memory-and-skills-for-experience-d.md"
+  },
+  {
+    "arxiv_id": "2604.20398",
+    "version": 1,
+    "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
+    "authors": [
+      "Juyong Jiang",
+      "Chenglin Cai",
+      "Chansung Park",
+      "Jiasi Shen",
+      "Sunghun Kim"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20398",
+    "pdf_url": "https://arxiv.org/pdf/2604.20398v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Training",
+      "Reinforcement Learning",
+      "Tool Use / Code Generation",
+      "Web Agent",
+      "Multimodal Reward",
+      "Project-Level Generation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/22/webgen-r1-incentivizing-large-language-models-to-generate-functional-and-aesthet.md"
+  },
+  {
+    "arxiv_id": "2604.20087",
+    "version": 1,
+    "title": "SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks",
+    "authors": [
+      "Shanshan Zhong",
+      "Yi Lu",
+      "Jingjie Ning",
+      "Yibing Wan",
+      "Lihan Feng"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20087",
+    "pdf_url": "https://arxiv.org/pdf/2604.20087v1",
+    "github_url": "https://github.com/cxcscmu/SkillLearnBench",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Skill Learning",
+      "Continual Learning",
+      "Benchmark",
+      "Real-World Tasks",
+      "Skill Generation",
+      "Evaluation Framework"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/22/skilllearnbench-benchmarking-continual-learning-methods-for-agent-skill-generati.md"
+  },
+  {
+    "arxiv_id": "2604.20779",
+    "version": 1,
+    "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+    "authors": [
+      "Joachim Baumann",
+      "Vishakh Padmakumar",
+      "Xiang Li",
+      "John Yang",
+      "Diyi Yang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20779",
+    "pdf_url": "https://arxiv.org/pdf/2604.20779v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Coding Agent",
+      "Dataset",
+      "Human-Agent Interaction",
+      "Empirical Study",
+      "Real-World Evaluation",
+      "Failure Analysis",
+      "Tool Usage"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/swe-chat-coding-agent-interactions-from-real-users-in-the-wild.md"
+  },
+  {
+    "arxiv_id": "2604.20659",
+    "version": 1,
+    "title": "GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning",
+    "authors": [
+      "Jingyi Wang",
+      "Lei Zhu",
+      "Tengjin Weng",
+      "Song-Li Wu",
+      "Haochen Tan"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20659",
+    "pdf_url": "https://arxiv.org/pdf/2604.20659v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "强化学习",
+      "策略优化",
+      "推理",
+      "过程监督",
+      "数学推理",
+      "通用推理",
+      "模型训练"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/grpo-vps-enhancing-group-relative-policy-optimization-with-verifiable-process-su.md"
+  },
+  {
+    "arxiv_id": "2604.20658",
+    "version": 1,
+    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+    "authors": [
+      "Shivani Kumar",
+      "Adarsh Bharathwaj",
+      "David Jurgens"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20658",
+    "pdf_url": "https://arxiv.org/pdf/2604.20658v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "多智能体协作",
+      "行为经济学",
+      "科学AI工作流",
+      "智能体评测",
+      "协作能力预测",
+      "预算约束"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/cooperative-profiles-predict-multi-agent-llm-team-performance-in-ai-for-science.md"
+  },
+  {
+    "arxiv_id": "2604.20316",
+    "version": 1,
+    "title": "R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling",
+    "authors": [
+      "Aijia Cheng",
+      "Kailong Wang",
+      "Ling Shi",
+      "Yongxin Zhao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20316",
+    "pdf_url": "https://arxiv.org/pdf/2604.20316v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Function Calling",
+      "Reinforcement Learning",
+      "Reasoning Alignment",
+      "Interpretability",
+      "Tool Use",
+      "Reward Design",
+      "GRPO"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/r2if-aligning-reasoning-with-decisions-via-composite-rewards-for-interpretable-l.md"
+  },
+  {
+    "arxiv_id": "2604.20183",
+    "version": 1,
+    "title": "Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving",
+    "authors": [
+      "Xinyu Zhang",
+      "Yuchen Wan",
+      "Boxuan Zhang",
+      "Zesheng Yang",
+      "Lingling Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20183",
+    "pdf_url": "https://arxiv.org/pdf/2604.20183v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Architecture",
+      "Memory-Augmented Reasoning",
+      "Problem-Solving Agent",
+      "Optimization",
+      "Training-Free Enhancement",
+      "Knowledge Distillation",
+      "Error Detection and Repair",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/dual-cluster-memory-agent-resolving-multi-paradigm-ambiguity-in-optimization-pro.md"
+  },
+  {
+    "arxiv_id": "2604.20136",
+    "version": 1,
+    "title": "IMPACT-CYCLE: A Contract-Based Multi-Agent System for Claim-Level Supervisory Correction of Long-Video Semantic Memory",
+    "authors": [
+      "Weitong Kong",
+      "Di Wen",
+      "Kunyu Peng",
+      "David Schneider",
+      "Zeyun Zhong"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20136",
+    "pdf_url": "https://arxiv.org/pdf/2604.20136v1",
+    "github_url": "https://github.com/MKong17/IMPACT_CYCLE",
+    "published": "2026-04-22",
+    "tags": [
+      "Multi-Agent System",
+      "Agent Architecture",
+      "Semantic Memory",
+      "Human-in-the-Loop",
+      "Long-Context Understanding",
+      "Video Understanding",
+      "Supervisory Correction",
+      "Contract-Based Interaction"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/impact-cycle-a-contract-based-multi-agent-system-for-claim-level-supervisory-cor.md"
+  },
+  {
+    "arxiv_id": "2604.20133",
+    "version": 1,
+    "title": "EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation",
+    "authors": [
+      "Aimin Zhang",
+      "Jiajing Guo",
+      "Fuwei Jia",
+      "Chen Lv",
+      "Boyu Wang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20133",
+    "pdf_url": "https://arxiv.org/pdf/2604.20133v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Architecture",
+      "Skill Learning",
+      "Multi-Agent Delegation",
+      "Hierarchical Planning",
+      "Memory",
+      "Closed-Loop Learning",
+      "Evaluation"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/22/evoagent-an-evolvable-agent-framework-with-skill-learning-and-multi-agent-delega.md"
+  },
+  {
+    "arxiv_id": "2604.20755",
+    "version": 1,
+    "title": "V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization",
+    "authors": [
+      "Yubo Jiang",
+      "Yitong An",
+      "Xin Yang",
+      "Abudukelimu Wuerkaixi",
+      "Xuxin Cheng"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20755",
+    "pdf_url": "https://arxiv.org/pdf/2604.20755v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "强化学习",
+      "视觉语言模型",
+      "表格推理",
+      "过程监督",
+      "策略优化",
+      "多步推理",
+      "视觉链式思维",
+      "可验证推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/v-tabler1-process-supervised-multimodal-table-reasoning-with-critic-guided-polic.md"
+  },
+  {
+    "arxiv_id": "2604.20727",
+    "version": 1,
+    "title": "Supplement Generation Training for Enhancing Agentic Task Performance",
+    "authors": [
+      "Young Min Cho",
+      "Daniele Bonadiman",
+      "Divya Bhargavi",
+      "Tamer Alkhouli",
+      "Salvatore Romeo"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20727",
+    "pdf_url": "https://arxiv.org/pdf/2604.20727v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Training",
+      "Efficient Training",
+      "LLM Supplement",
+      "Task Adaptation",
+      "Decoupled Optimization",
+      "Agent Performance Enhancement"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/supplement-generation-training-for-enhancing-agentic-task-performance.md"
+  },
+  {
+    "arxiv_id": "2604.20582",
+    "version": 1,
+    "title": "Trust, Lies, and Long Memories: Emergent Social Dynamics and Reputation in Multi-Round Avalon with LLM Agents",
+    "authors": [
+      "Suveen Ellawela"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20582",
+    "pdf_url": "https://arxiv.org/pdf/2604.20582v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "多智能体协作",
+      "社会动态",
+      "记忆与声誉",
+      "欺骗与策略",
+      "重复交互",
+      "实验验证"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/trust-lies-and-long-memories-emergent-social-dynamics-and-reputation-in-multi-ro.md"
+  },
+  {
+    "arxiv_id": "2604.20548",
+    "version": 1,
+    "title": "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies",
+    "authors": [
+      "Shuai Chen",
+      "Chengzhi Zhang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.DL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20548",
+    "pdf_url": "https://arxiv.org/pdf/2604.20548v1",
+    "github_url": "https://github.com/ChenShuai00/MAGenIdeas",
+    "published": "2026-04-22",
+    "tags": [
+      "多智能体系统",
+      "研究构思生成",
+      "组合创新",
+      "迭代规划",
+      "LLM Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/enhancing-research-idea-generation-through-combinatorial-innovation-and-multi-ag.md"
+  },
+  {
+    "arxiv_id": "2604.20441",
+    "version": 1,
+    "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
+    "authors": [
+      "Yingyong Hou",
+      "Xinyuan Lao",
+      "Huimei Wang",
+      "Qianyu Yao",
+      "Wei Chen"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20441",
+    "pdf_url": "https://arxiv.org/pdf/2604.20441v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Evaluation",
+      "Agent Safety",
+      "Domain-Specific Agent",
+      "Medical Agent",
+      "Audit Framework",
+      "Skill Assessment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/medskillaudit-a-domain-specific-audit-framework-for-medical-research-agent-skill.md"
+  },
+  {
+    "arxiv_id": "2604.20300",
+    "version": 1,
+    "title": "FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory",
+    "authors": [
+      "Yingjie Gu",
+      "Bo Xiong",
+      "Yijuan Guo",
+      "Chao Li",
+      "Xiaojing Zhang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20300",
+    "pdf_url": "https://arxiv.org/pdf/2604.20300v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Memory",
+      "Selective Forgetting",
+      "Memory Management",
+      "Cognitive Science",
+      "Agent Architecture",
+      "Resource Efficiency",
+      "Security & Privacy",
+      "Vector Database"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/fsfm-a-biologically-inspired-framework-for-selective-forgetting-of-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2604.20279",
+    "version": 1,
+    "title": "AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents",
+    "authors": [
+      "Jeonghyeon Kim",
+      "Byeongjun Joung",
+      "Junwon Lee",
+      "Joohyung Lee",
+      "Taehoon Min"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20279",
+    "pdf_url": "https://arxiv.org/pdf/2604.20279v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Human-Agent Interaction",
+      "GUI Agent",
+      "Mobile Agent",
+      "Adaptive Communication",
+      "Visual Modality",
+      "Usability Study"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/agentlens-adaptive-visual-modalities-for-human-agent-interaction-in-mobile-gui-a.md"
+  },
+  {
+    "arxiv_id": "2604.20261",
+    "version": 1,
+    "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
+    "authors": [
+      "Fengxian Dong",
+      "Zhi Zheng",
+      "Xiao Han",
+      "Wei Chen",
+      "Jingqing Ruan"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20261",
+    "pdf_url": "https://arxiv.org/pdf/2604.20261v1",
+    "github_url": "https://github.com/fxdong24/MALMAS",
+    "published": "2026-04-22",
+    "tags": [
+      "Multi-Agent System",
+      "Automated Feature Engineering",
+      "Memory-Augmented",
+      "Iterative Refinement",
+      "Tabular Data",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/memory-augmented-llm-based-multi-agent-system-for-automated-feature-generation-o.md"
+  },
+  {
+    "arxiv_id": "2604.20200",
+    "version": 1,
+    "title": "Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows",
+    "authors": [
+      "Hardy Chen",
+      "Nancy Lau",
+      "Haoqin Tu",
+      "Shuo Yan",
+      "Xiangyan Liu"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20200",
+    "pdf_url": "https://arxiv.org/pdf/2604.20200v1",
+    "github_url": "",
+    "published": "2026-04-22",
+    "tags": [
+      "Coding Agent",
+      "Evaluation Exploitation",
+      "Safety & Robustness",
+      "User-Agent Interaction",
+      "Benchmark",
+      "Multi-round Interaction",
+      "Prompt Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/chasing-the-public-score-user-pressure-and-evaluation-exploitation-in-coding-age.md"
+  },
+  {
+    "arxiv_id": "2604.20158",
+    "version": 1,
+    "title": "Stateless Decision Memory for Enterprise AI Agents",
+    "authors": [
+      "Vasundra Srinivasan"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20158",
+    "pdf_url": "https://arxiv.org/pdf/2604.20158v1",
+    "github_url": "https://github.com/vasundras/stateless-decision-memory-enterprise-ai-agents",
+    "published": "2026-04-22",
+    "tags": [
+      "Agent Memory",
+      "Enterprise AI",
+      "Decision-Making",
+      "Determinism",
+      "Auditability",
+      "Retrieval-Augmented Generation",
+      "Long-Horizon Tasks",
+      "System Properties"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/22/stateless-decision-memory-for-enterprise-ai-agents.md"
+  }
+]
