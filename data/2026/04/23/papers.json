@@ -1,0 +1,575 @@
+[
+  {
+    "arxiv_id": "2604.21794",
+    "version": 1,
+    "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
+    "authors": [
+      "Ye Yu",
+      "Heming Liu",
+      "Haibo Jin",
+      "Xiaopeng Yuan",
+      "Peng Kuang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21794",
+    "pdf_url": "https://arxiv.org/pdf/2604.21794v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "多智能体通信",
+      "潜在通信",
+      "端到端优化",
+      "参数高效训练",
+      "推理增强",
+      "LLM Agent",
+      "DiffMAS",
+      "数学推理",
+      "代码生成",
+      "心智理论"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/23/learning-to-communicate-toward-end-to-end-optimization-of-multi-agent-language-s.md"
+  },
+  {
+    "arxiv_id": "2604.21255",
+    "version": 1,
+    "title": "When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors",
+    "authors": [
+      "Chenghao Yang",
+      "Yuning Zhang",
+      "Zhoufutu Wen",
+      "Tao Gong",
+      "Jiaheng Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21255",
+    "pdf_url": "https://arxiv.org/pdf/2604.21255v1",
+    "github_url": "https://github.com/Syuchin/AgentEcho",
+    "published": "2026-04-23",
+    "tags": [
+      "Agent行为分析",
+      "模型蒸馏",
+      "工具使用",
+      "行为相似性度量",
+      "评估基准",
+      "多智能体分析"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/04/23/when-agents-look-the-same-quantifying-distillation-induced-similarity-in-tool-us.md"
+  },
+  {
+    "arxiv_id": "2604.21860",
+    "version": 1,
+    "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+    "authors": [
+      "Naheed Rayhan",
+      "Sohely Jahan"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21860",
+    "pdf_url": "https://arxiv.org/pdf/2604.21860v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent",
+      "多轮攻击",
+      "对抗鲁棒性",
+      "安全评估",
+      "自动攻击智能体",
+      "对话安全"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/23/transient-turn-injection-exposing-stateless-multi-turn-vulnerabilities-in-large.md"
+  },
+  {
+    "arxiv_id": "2604.21590",
+    "version": 1,
+    "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
+    "authors": [
+      "Yuanjie Lyu",
+      "Chengyu Wang",
+      "Haonan Zheng",
+      "Yuanhao Yue",
+      "Junbing Yan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21590",
+    "pdf_url": "https://arxiv.org/pdf/2604.21590v1",
+    "github_url": "https://github.com/haruhi-sudo/data_synth_and_rl",
+    "published": "2026-04-23",
+    "tags": [
+      "小模型Agent",
+      "工具使用",
+      "多轮强化学习",
+      "数据合成飞轮",
+      "推理RL",
+      "Agentic RL",
+      "多分支行为树",
+      "工业级Agent",
+      "开源数据"
+    ],
+    "relevance_score": 9,
+    "md_path": "data/2026/04/23/agenticqwen-training-small-agentic-language-models-with-dual-data-flywheels-for.md"
+  },
+  {
+    "arxiv_id": "2604.21375",
+    "version": 1,
+    "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
+    "authors": [
+      "Qijun Han",
+      "Haoqin Tu",
+      "Zijun Wang",
+      "Haoyue Dai",
+      "Yiyang Zhou"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21375",
+    "pdf_url": "https://arxiv.org/pdf/2604.21375v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "GUI Agent",
+      "模块化框架",
+      "停止策略",
+      "循环中断",
+      "验证模块",
+      "搜索Agent",
+      "编码Agent",
+      "基础Agent",
+      "OSWorld",
+      "WindowsAgentArena"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/23/vlaa-gui-knowing-when-to-stop-recover-and-search-a-modular-framework-for-gui-aut.md"
+  },
+  {
+    "arxiv_id": "2604.21816",
+    "version": 1,
+    "title": "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows",
+    "authors": [
+      "Anuj Sadani",
+      "Deepak Kumar"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21816",
+    "pdf_url": "https://arxiv.org/pdf/2604.21816v1",
+    "github_url": "https://github.com/asadani/tool-attention",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Efficient Inference",
+      "Context Reduction",
+      "Middleware",
+      "MCP"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/tool-attention-is-all-you-need-dynamic-tool-gating-and-lazy-schema-loading-for-e.md"
+  },
+  {
+    "arxiv_id": "2604.21725",
+    "version": 1,
+    "title": "AEL: Agent Evolving Learning for Open-Ended Environments",
+    "authors": [
+      "Wujiang Xu",
+      "Jiaojiao Han",
+      "Minghao Guo",
+      "Kai Mei",
+      "Xi Zhu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21725",
+    "pdf_url": "https://arxiv.org/pdf/2604.21725v1",
+    "github_url": "https://github.com/WujiangXu/AEL",
+    "published": "2026-04-23",
+    "tags": [
+      "Agent记忆与反思",
+      "LLM Agent自适应学习",
+      "多智能体协作",
+      "Agent评估基准",
+      "开放环境Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/ael-agent-evolving-learning-for-open-ended-environments.md"
+  },
+  {
+    "arxiv_id": "2604.21748",
+    "version": 1,
+    "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+    "authors": [
+      "Buqiang Xu",
+      "Yijun Chen",
+      "Jizhan Fang",
+      "Ruobin Zhong",
+      "Yunzhi Yao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21748",
+    "pdf_url": "https://arxiv.org/pdf/2604.21748v1",
+    "github_url": "https://github.com/zjunlp/LightMem",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent Memory",
+      "Hierarchical Memory",
+      "Temporal Reasoning",
+      "Multi-hop QA",
+      "Conversational Agent",
+      "Long-horizon Agent",
+      "Structured Memory"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/structmem-structured-memory-for-long-horizon-behavior-in-llms.md"
+  },
+  {
+    "arxiv_id": "2604.21598",
+    "version": 1,
+    "title": "DryRUN: On the Role of Public Tests in LLM-Driven Code Generation",
+    "authors": [
+      "Kaushitha Silva",
+      "Srinath Perera"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21598",
+    "pdf_url": "https://arxiv.org/pdf/2604.21598v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM驱动的代码生成",
+      "多智能体框架",
+      "自生成测试输入",
+      "算法过度自信缓解",
+      "模拟驱动调试"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/dryrun-on-the-role-of-public-tests-in-llm-driven-code-generation.md"
+  },
+  {
+    "arxiv_id": "2604.21480",
+    "version": 1,
+    "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+    "authors": [
+      "Itay Nakash",
+      "George Kour",
+      "Ateret Anaby-Tavor"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21480",
+    "pdf_url": "https://arxiv.org/pdf/2604.21480v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "Agent评估",
+      "用户模拟",
+      "交互测试",
+      "覆盖引导",
+      "分支探索",
+      "多样化探索",
+      "LLM Agent",
+      "效率优化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/efficient-agent-evaluation-via-diversity-guided-user-simulation.md"
+  },
+  {
+    "arxiv_id": "2604.21446",
+    "version": 1,
+    "title": "AI-Gram: When Visual Agents Interact in a Social Network",
+    "authors": [
+      "Andrew Shin"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21446",
+    "pdf_url": "https://arxiv.org/pdf/2604.21446v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "多智能体系统",
+      "社交网络模拟",
+      "视觉Agent",
+      "自主交互",
+      "通信结构",
+      "身份保持"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/ai-gram-when-visual-agents-interact-in-a-social-network.md"
+  },
+  {
+    "arxiv_id": "2604.21444",
+    "version": 1,
+    "title": "HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration",
+    "authors": [
+      "Yuehan Zhu",
+      "Jingqi Zhao",
+      "Jiawen Zhao",
+      "Xudong Mao",
+      "Baoquan Zhao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21444",
+    "pdf_url": "https://arxiv.org/pdf/2604.21444v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "Hierarchical Multi-Agent",
+      "Video Understanding",
+      "Question-Aware",
+      "Collaboration",
+      "Temporal Reasoning",
+      "LLM Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/hicrew-hierarchical-reasoning-for-long-form-video-understanding-via-question-awa.md"
+  },
+  {
+    "arxiv_id": "2604.21308",
+    "version": 1,
+    "title": "CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents",
+    "authors": [
+      "Wenjie Fu",
+      "Xiaoting Qin",
+      "Jue Zhang",
+      "Qingwei Lin",
+      "Lukas Wutschitz"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21308",
+    "pdf_url": "https://arxiv.org/pdf/2604.21308v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent安全",
+      "企业Agent基准测试",
+      "上下文完整性",
+      "隐私泄露",
+      "信息流评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2604.21282",
+    "version": 1,
+    "title": "Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection",
+    "authors": [
+      "Zhaohui Geoffrey Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21282",
+    "pdf_url": "https://arxiv.org/pdf/2604.21282v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "multi-agent architecture",
+      "code vulnerability detection",
+      "LLM-based agent",
+      "heterogeneous agents",
+      "game theory",
+      "adversarial verification",
+      "cost-effective",
+      "security"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/23/strategic-heterogeneous-multi-agent-architecture-for-cost-effective-code-vulnera.md"
+  },
+  {
+    "arxiv_id": "2604.21910",
+    "version": 1,
+    "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+    "authors": [
+      "Bartosz Balis",
+      "Michal Orzechowski",
+      "Piotr Kica",
+      "Michal Dygas",
+      "Michal Kuszewski"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21910",
+    "pdf_url": "https://arxiv.org/pdf/2604.21910v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent",
+      "Science Automation",
+      "Workflow Generation",
+      "Intent Extraction",
+      "Knowledge Engineering"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/from-research-question-to-scientific-workflow-leveraging-agentic-ai-for-science.md"
+  },
+  {
+    "arxiv_id": "2604.21611",
+    "version": 1,
+    "title": "Process Supervision via Verbal Critique Improves Reasoning in Large Language Models",
+    "authors": [
+      "Hao-Yuan Chen"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21611",
+    "pdf_url": "https://arxiv.org/pdf/2604.21611v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "推理时扩展",
+      "过程监督",
+      "语言批评",
+      "自我改进",
+      "大语言模型推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/process-supervision-via-verbal-critique-improves-reasoning-in-large-language-mod.md"
+  },
+  {
+    "arxiv_id": "2604.21564",
+    "version": 1,
+    "title": "Measuring Opinion Bias and Sycophancy via LLM-based Coercion",
+    "authors": [
+      "Rodrigo Nogueira",
+      "Giovana Kerche Bonás",
+      "Thales Sales Almeida",
+      "Andrea Roque",
+      "Ramon Pires"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21564",
+    "pdf_url": "https://arxiv.org/pdf/2604.21564v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM安全",
+      "对齐研究",
+      "心理谄媚",
+      "Agent偏差评估",
+      "多轮交互",
+      "基准测试"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/measuring-opinion-bias-and-sycophancy-via-llm-based-coercion.md"
+  },
+  {
+    "arxiv_id": "2604.21354",
+    "version": 1,
+    "title": "Decoupled Travel Planning with Behavior Forest",
+    "authors": [
+      "Duanyang Yuan",
+      "Sihang Zhou",
+      "Yanning Hou",
+      "Xiaoshu Chen",
+      "Haoyuan Chen"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21354",
+    "pdf_url": "https://arxiv.org/pdf/2604.21354v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM决策引擎",
+      "多约束规划",
+      "行为树",
+      "任务解耦",
+      "旅行规划智能体",
+      "模块化推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/decoupled-travel-planning-with-behavior-forest.md"
+  },
+  {
+    "arxiv_id": "2604.21229",
+    "version": 1,
+    "title": "EngramaBench: Evaluating Long-Term Conversational Memory with Structured Graph Retrieval",
+    "authors": [
+      "Julian Acuna"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21229",
+    "pdf_url": "https://arxiv.org/pdf/2604.21229v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "Long-Term Memory",
+      "Memory-Augmented Agent",
+      "Conversational Agent",
+      "Graph Retrieval",
+      "Evaluation Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/engramabench-evaluating-long-term-conversational-memory-with-structured-graph-re.md"
+  }
+]
