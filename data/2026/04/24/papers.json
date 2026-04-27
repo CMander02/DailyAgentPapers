@@ -1,0 +1,329 @@
+[
+  {
+    "arxiv_id": "2604.22748",
+    "version": 1,
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "authors": [
+      "Meng Chu",
+      "Xuan Billy Zhang",
+      "Kevin Qinghong Lin",
+      "Lingdong Kong",
+      "Jize Zhang"
+    ],
+    "author_count": 42,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22748",
+    "pdf_url": "https://arxiv.org/pdf/2604.22748v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "Agent世界模型",
+      "智能体架构分类",
+      "多智能体模拟",
+      "科学发现Agent",
+      "环境动力学建模"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/24/agentic-world-modeling-foundations-capabilities-laws-and-beyond.md"
+  },
+  {
+    "arxiv_id": "2604.22708",
+    "version": 1,
+    "title": "Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems",
+    "authors": [
+      "Mengzhuo Chen",
+      "Junjie Wang",
+      "Fangwen Mu",
+      "Yawen Wang",
+      "Zhe Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22708",
+    "pdf_url": "https://arxiv.org/pdf/2604.22708v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "Multi-Agent System",
+      "Failure Attribution",
+      "Benchmark",
+      "Debugging",
+      "Trace Analysis",
+      "LLM-based Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/24/seeing-the-whole-elephant-a-benchmark-for-failure-attribution-in-llm-based-multi.md"
+  },
+  {
+    "arxiv_id": "2604.22452",
+    "version": 1,
+    "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+    "authors": [
+      "Xirui Li",
+      "Ming Li",
+      "Yunze Xiao",
+      "Ryan Wong",
+      "Dianqi Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22452",
+    "pdf_url": "https://arxiv.org/pdf/2604.22452v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "多智能体系统",
+      "集体智能评估",
+      "Agent交互分析",
+      "大规模Agent社会",
+      "智能体评测基准",
+      "LLM Agent社会模拟"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/24/superminds-test-actively-evaluating-collective-intelligence-of-agent-society-via.md"
+  },
+  {
+    "arxiv_id": "2604.22446",
+    "version": 1,
+    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+    "authors": [
+      "Zhengxu Yu",
+      "Yu Fu",
+      "Zhiyuan He",
+      "Yuxuan Huang",
+      "Lee Ka Yiu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22446",
+    "pdf_url": "https://arxiv.org/pdf/2604.22446v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "多智能体系统",
+      "组织框架",
+      "动态配置",
+      "人才市场",
+      "E2R树搜索",
+      "PRDBench"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/24/from-skills-to-talent-organising-heterogeneous-agents-as-a-real-world-company.md"
+  },
+  {
+    "arxiv_id": "2604.22577",
+    "version": 1,
+    "title": "QuantClaw: Precision Where It Matters for OpenClaw",
+    "authors": [
+      "Manyi Zhang",
+      "Ji-Fu Li",
+      "Zhongao Sun",
+      "Xiaohao Liu",
+      "Zhenhua Dong"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22577",
+    "pdf_url": "https://arxiv.org/pdf/2604.22577v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "量化",
+      "计算效率",
+      "低延迟",
+      "任务感知路由",
+      "开源 Agent 系统",
+      "LLM Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/24/quantclaw-precision-where-it-matters-for-openclaw.md"
+  },
+  {
+    "arxiv_id": "2604.22273",
+    "version": 1,
+    "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+    "authors": [
+      "Aofan Liu",
+      "Jingxiang Meng"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22273",
+    "pdf_url": "https://arxiv.org/pdf/2604.22273v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "LLM Self-Correction",
+      "Agentic Systems",
+      "Control Theory",
+      "Prompt Engineering",
+      "Agent Diagnostics"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/24/when-does-llm-self-correction-help-a-control-theoretic-markov-diagnostic-and-ver.md"
+  },
+  {
+    "arxiv_id": "2604.22154",
+    "version": 1,
+    "title": "Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems",
+    "authors": [
+      "Meghana Karnam",
+      "Ananya Joshi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22154",
+    "pdf_url": "https://arxiv.org/pdf/2604.22154v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "Multi-Agent Systems",
+      "LLM-as-a-Judge",
+      "Adaptive Sampling",
+      "Behavioral Health",
+      "Safety-Critical Agent",
+      "Confidence Bounds",
+      "DAG-structured Agent Pipelines"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/24/reliable-self-harm-risk-screening-via-adaptive-multi-agent-llm-systems.md"
+  },
+  {
+    "arxiv_id": "2604.22436",
+    "version": 1,
+    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+    "authors": [
+      "Bin Wu",
+      "Arastun Mammadli",
+      "Xiaoyu Zhang",
+      "Emine Yilmaz"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22436",
+    "pdf_url": "https://arxiv.org/pdf/2604.22436v1",
+    "github_url": "https://github.com/Bingo-W/AgentSearchBench",
+    "published": "2026-04-24",
+    "tags": [
+      "Agent检索",
+      "Agent评测基准",
+      "Agent能力评估",
+      "信息检索",
+      "多智能体系统"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/24/agentsearchbench-a-benchmark-for-ai-agent-search-in-the-wild.md"
+  },
+  {
+    "arxiv_id": "2604.22750",
+    "version": 1,
+    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+    "authors": [
+      "Longju Bai",
+      "Zhemin Huang",
+      "Xingyao Wang",
+      "Jiao Sun",
+      "Rada Mihalcea"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL",
+      "cs.CY",
+      "cs.HC",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22750",
+    "pdf_url": "https://arxiv.org/pdf/2604.22750v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "Agent经济性",
+      "Token消耗分析",
+      "Coding Agent",
+      "SWE-bench",
+      "成本预测",
+      "效率分析",
+      "Agent行为分析"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/24/how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in.md"
+  },
+  {
+    "arxiv_id": "2604.22239",
+    "version": 1,
+    "title": "Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA",
+    "authors": [
+      "Zhanli Li",
+      "Yixuan Cao",
+      "Lvzhou Luo",
+      "Ping Luo"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22239",
+    "pdf_url": "https://arxiv.org/pdf/2604.22239v1",
+    "github_url": "https://github.com/Zhanli-Li/MuDABench",
+    "published": "2026-04-24",
+    "tags": [
+      "Multi-Document QA",
+      "RAG",
+      "Multi-Agent Workflow",
+      "Benchmark",
+      "Information Extraction"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/24/navigating-large-scale-document-collections-mudabench-for-multi-document-analyti.md"
+  },
+  {
+    "arxiv_id": "2604.22136",
+    "version": 1,
+    "title": "Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems",
+    "authors": [
+      "Jun He",
+      "Deying Yu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22136",
+    "pdf_url": "https://arxiv.org/pdf/2604.22136v1",
+    "github_url": "",
+    "published": "2026-04-24",
+    "tags": [
+      "LLM Agent Safety",
+      "Agent Architecture",
+      "Execution Control",
+      "Policy Enforcement",
+      "Auditability"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/24/sovereign-agentic-loops-decoupling-ai-reasoning-from-execution-in-real-world-sys.md"
+  }
+]

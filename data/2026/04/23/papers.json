@@ -36,6 +36,69 @@
     "md_path": "data/2026/04/23/learning-to-communicate-toward-end-to-end-optimization-of-multi-agent-language-s.md"
   },
   {
+    "arxiv_id": "2604.22085",
+    "version": 1,
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "authors": [
+      "Seyed Moein Abtahi",
+      "Rasa Rahnema",
+      "Hetkumar Patel",
+      "Neel Patel",
+      "Majid Fekri"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22085",
+    "pdf_url": "https://arxiv.org/pdf/2604.22085v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "Agent Memory",
+      "Long-Horizon Agent",
+      "Semantic Memory",
+      "Information Retrieval",
+      "Multi-Session Agent",
+      "Memory Architecture",
+      "Production Agent Systems"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/23/memanto-typed-semantic-memory-with-information-theoretic-retrieval-for-long-hori.md"
+  },
+  {
+    "arxiv_id": "2604.21965",
+    "version": 1,
+    "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+    "authors": [
+      "Benjamin Kohler",
+      "David Zollikofer",
+      "Johanna Einsiedler",
+      "Alexander Hoyle",
+      "Elliott Ash"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21965",
+    "pdf_url": "https://arxiv.org/pdf/2604.21965v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM Agent",
+      "Scientific Agent",
+      "Reproducibility",
+      "Code Generation",
+      "Data Analysis Agent",
+      "Agent Evaluation",
+      "Error Attribution",
+      "Multi-Agent Scaffold"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/23/read-the-paper-write-the-code-agentic-reproduction-of-social-science-results.md"
+  },
+  {
     "arxiv_id": "2604.21255",
     "version": 1,
     "title": "When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors",
@@ -161,6 +224,35 @@
     ],
     "relevance_score": 9.0,
     "md_path": "data/2026/04/23/vlaa-gui-knowing-when-to-stop-recover-and-search-a-modular-framework-for-gui-aut.md"
+  },
+  {
+    "arxiv_id": "2604.22119",
+    "version": 1,
+    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "authors": [
+      "Tharindu Kumarage",
+      "Lisa Bauer",
+      "Yao Ma",
+      "Dan Rosen",
+      "Yashasvi Raghavendra Guduri"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22119",
+    "pdf_url": "https://arxiv.org/pdf/2604.22119v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "AI安全",
+      "智能体行为评估",
+      "推理风险",
+      "评估框架",
+      "欺骗检测"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/23/emergent-strategic-reasoning-risks-in-ai-a-taxonomy-driven-evaluation-framework.md"
   },
   {
     "arxiv_id": "2604.21816",
@@ -432,6 +524,37 @@
     "md_path": "data/2026/04/23/strategic-heterogeneous-multi-agent-architecture-for-cost-effective-code-vulnera.md"
   },
   {
+    "arxiv_id": "2604.22074",
+    "version": 1,
+    "title": "Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning",
+    "authors": [
+      "Qinan Yu",
+      "Alexa Tartaglini",
+      "Peter Hase",
+      "Carlos Guestrin",
+      "Christopher Potts"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22074",
+    "pdf_url": "https://arxiv.org/pdf/2604.22074v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "LLM推理",
+      "结果奖励",
+      "因果重要性",
+      "推理链评估",
+      "RLVR",
+      "思维链",
+      "后训练"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/23/outcome-rewards-do-not-guarantee-verifiable-or-causally-important-reasoning.md"
+  },
+  {
     "arxiv_id": "2604.21910",
     "version": 1,
     "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
@@ -571,5 +694,36 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/04/23/engramabench-evaluating-long-term-conversational-memory-with-structured-graph-re.md"
+  },
+  {
+    "arxiv_id": "2604.21744",
+    "version": 1,
+    "title": "Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development",
+    "authors": [
+      "Magnus Palmblad",
+      "Jared M. Ragland",
+      "Benjamin A. Neely"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "q-bio.BM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.21744",
+    "pdf_url": "https://arxiv.org/pdf/2604.21744v1",
+    "github_url": "",
+    "published": "2026-04-23",
+    "tags": [
+      "AI-assisted coding",
+      "agent scaffolding",
+      "epistemic grounding",
+      "domain-specific software",
+      "community-governed documents",
+      "agentic AI",
+      "scientific computing"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/23/agentic-ai-assisted-coding-offers-a-unique-opportunity-to-instill-epistemic-grou.md"
   }
 ]
