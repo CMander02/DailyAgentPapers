@@ -1,0 +1,35 @@
+[
+  {
+    "arxiv_id": "2604.20869",
+    "version": 1,
+    "title": "Clinical Reasoning AI for Oncology Treatment Planning: A Multi-Specialty Case-Based Evaluation",
+    "authors": [
+      "Philippe E. Spiess",
+      "Md Muntasir Zitu",
+      "Alison Walker",
+      "Daniel A. Anaya",
+      "Robert M. Wenham"
+    ],
+    "author_count": 36,
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.HC",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.20869",
+    "pdf_url": "https://arxiv.org/pdf/2604.20869v1",
+    "github_url": "",
+    "published": "2026-03-27",
+    "tags": [
+      "AI临床推理",
+      "肿瘤治疗规划",
+      "检索增强生成",
+      "安全机制",
+      "临床验证"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/27/clinical-reasoning-ai-for-oncology-treatment-planning-a-multi-specialty-case-bas.md"
+  }
+]

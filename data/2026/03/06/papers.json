@@ -1,0 +1,146 @@
+[
+  {
+    "arxiv_id": "2603.06856",
+    "version": 1,
+    "title": "Evaluating Multi-Agent LLM Architectures for Rare Disease Diagnosis",
+    "authors": [
+      "Ahmed Almasoud"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.06856",
+    "pdf_url": "https://arxiv.org/pdf/2603.06856v1",
+    "github_url": "",
+    "published": "2026-03-06",
+    "tags": [
+      "Multi-Agent Systems",
+      "Medical Diagnosis",
+      "Rare Diseases",
+      "Agent Architecture",
+      "Evaluation Metrics"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/06/evaluating-multi-agent-llm-architectures-for-rare-disease-diagnosis.md"
+  },
+  {
+    "arxiv_id": "2604.22756",
+    "version": 1,
+    "title": "Your Reviews Replicate You: LLM-Based Agents as Customer Digital Twins for Conjoint Analysis",
+    "authors": [
+      "Bin Xuan",
+      "Jungmin Hwang",
+      "Hakyeon Lee"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.22756",
+    "pdf_url": "https://arxiv.org/pdf/2604.22756v1",
+    "github_url": "",
+    "published": "2026-03-06",
+    "tags": [
+      "LLM-based Agents",
+      "Customer Digital Twins",
+      "Conjoint Analysis",
+      "RAG",
+      "Preference Modeling",
+      "Marketing Research"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/03/06/your-reviews-replicate-you-llm-based-agents-as-customer-digital-twins-for-conjoi.md"
+  },
+  {
+    "arxiv_id": "2604.09596",
+    "version": 1,
+    "title": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
+    "authors": [
+      "Ziwen Chen",
+      "Zhendong Wang",
+      "Chongjing Wang",
+      "Yurui Dong",
+      "Luozhijie Jin"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.09596",
+    "pdf_url": "https://arxiv.org/pdf/2604.09596v1",
+    "github_url": "",
+    "published": "2026-03-06",
+    "tags": [
+      "多智能体协作",
+      "资源高效框架",
+      "轻量级多模态LLM",
+      "皮肤科诊断治疗",
+      "中医",
+      "少样本微调"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/03/06/derm-3r-a-resource-efficient-multimodal-agents-framework-for-dermatologic-diagno.md"
+  },
+  {
+    "arxiv_id": "2603.06271",
+    "version": 1,
+    "title": "Agentic retrieval-augmented reasoning reshapes collective reliability under model variability in radiology question answering",
+    "authors": [
+      "Mina Farajiamiri",
+      "Jeta Sopa",
+      "Saba Afza",
+      "Lisa Adams",
+      "Felix Barajas Ordonez"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.06271",
+    "pdf_url": "https://arxiv.org/pdf/2603.06271v1",
+    "github_url": "",
+    "published": "2026-03-06",
+    "tags": [
+      "agentic reasoning",
+      "retrieval-augmented generation",
+      "model variability",
+      "radiology QA",
+      "collective reliability",
+      "clinical decision support"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/06/agentic-retrieval-augmented-reasoning-reshapes-collective-reliability-under-mode.md"
+  },
+  {
+    "arxiv_id": "2603.05980",
+    "version": 1,
+    "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
+    "authors": [
+      "Bin Xuan",
+      "Ruo Ai",
+      "Hakyeon Lee"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.05980",
+    "pdf_url": "https://arxiv.org/pdf/2603.05980v1",
+    "github_url": "",
+    "published": "2026-03-06",
+    "tags": [
+      "多智能体系统",
+      "产品概念评估",
+      "检索增强生成(RAG)",
+      "工具使用",
+      "角色扮演",
+      "跨职能团队"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/03/06/an-interactive-multi-agent-system-for-evaluation-of-new-product-concepts.md"
+  }
+]
