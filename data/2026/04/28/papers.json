@@ -1,0 +1,610 @@
+[
+  {
+    "arxiv_id": "2604.25899",
+    "version": 1,
+    "title": "Pythia: Toward Predictability-Driven Agent-Native LLM Serving",
+    "authors": [
+      "Shan Yu",
+      "Junyi Shu",
+      "Yuanjiang Ni",
+      "Kun Qian",
+      "Xue Li"
+    ],
+    "author_count": 17,
+    "categories": [
+      "cs.MA",
+      "cs.DC",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25899",
+    "pdf_url": "https://arxiv.org/pdf/2604.25899v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM serving system",
+      "multi-agent architecture",
+      "workflow optimization",
+      "predictability-driven scheduling",
+      "production trace analysis"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/pythia-toward-predictability-driven-agent-native-llm-serving.md"
+  },
+  {
+    "arxiv_id": "2604.25917",
+    "version": 1,
+    "title": "Recursive Multi-Agent Systems",
+    "authors": [
+      "Xiyuan Yang",
+      "Jiaru Zou",
+      "Rui Pan",
+      "Ruizhong Qiu",
+      "Pan Lu"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25917",
+    "pdf_url": "https://arxiv.org/pdf/2604.25917v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "多智能体系统",
+      "递归计算",
+      "协作学习",
+      "端到端优化",
+      "Agent架构"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/recursive-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2604.25737",
+    "version": 1,
+    "title": "SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?",
+    "authors": [
+      "Noam Tarshish",
+      "Nofar Selouk",
+      "Daniel Hodisan",
+      "Bar Ezra Gafniel",
+      "Yuval Elovici"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25737",
+    "pdf_url": "https://arxiv.org/pdf/2604.25737v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Multi-Agent",
+      "Code Editing",
+      "LLM Agent",
+      "Agent Framework",
+      "Agent Benchmark",
+      "Iterative Refinement",
+      "Failure Analysis"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/safedit-does-multi-agent-decomposition-resolve-the-reliability-challenges-of-ins.md"
+  },
+  {
+    "arxiv_id": "2604.25419",
+    "version": 1,
+    "title": "JURY-RL: Votes Propose, Proofs Dispose for Label-Free RLVR",
+    "authors": [
+      "Xinjie Chen",
+      "Biao Fu",
+      "Jing Wu",
+      "Guoxin Chen",
+      "Xinggao Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25419",
+    "pdf_url": "https://arxiv.org/pdf/2604.25419v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Agent",
+      "RLVR",
+      "形式化验证",
+      "推理增强",
+      "标签无关训练",
+      "多智能体投票"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/jury-rl-votes-propose-proofs-dispose-for-label-free-rlvr.md"
+  },
+  {
+    "arxiv_id": "2604.25318",
+    "version": 1,
+    "title": "Cutscene Agent: An LLM Agent Framework for Automated 3D Cutscene Generation",
+    "authors": [
+      "Lanshan He",
+      "Haozhou Pang",
+      "Qi Gan",
+      "Xin Shen",
+      "Ziwei Zhang"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.GR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25318",
+    "pdf_url": "https://arxiv.org/pdf/2604.25318v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Agent",
+      "Multi-Agent System",
+      "多智能体协作",
+      "视觉推理反馈循环",
+      "评估基准",
+      "游戏与交互媒体",
+      "工具使用",
+      "MCP模型上下文协议"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/cutscene-agent-an-llm-agent-framework-for-automated-3d-cutscene-generation.md"
+  },
+  {
+    "arxiv_id": "2604.25136",
+    "version": 1,
+    "title": "Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment",
+    "authors": [
+      "James Pustejovsky",
+      "Nikhil Krishnaswamy"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25136",
+    "pdf_url": "https://arxiv.org/pdf/2604.25136v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Policy Optimization",
+      "Epistemic Risk",
+      "Alignment",
+      "Intervention Strategy",
+      "Reflective Alignment",
+      "Frictive Policy",
+      "Risk-Sensitive Control",
+      "Preference Learning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/28/frictive-policy-optimization-for-llms-epistemic-intervention-risk-sensitive-cont.md"
+  },
+  {
+    "arxiv_id": "2604.25088",
+    "version": 1,
+    "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent Conquest",
+    "authors": [
+      "Abigail O'Neill",
+      "Alan Zhu",
+      "Mihran Miroyan",
+      "Narges Norouzi",
+      "Joseph E. Gonzalez"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25088",
+    "pdf_url": "https://arxiv.org/pdf/2604.25088v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "多智能体协作",
+      "混合动机博弈",
+      "谈判策略",
+      "人类-AI对比",
+      "基准测试"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/28/cooperate-to-compete-strategic-coordination-in-multi-agent-conquest.md"
+  },
+  {
+    "arxiv_id": "2604.25849",
+    "version": 1,
+    "title": "ADEMA: A Knowledge-State Orchestration Architecture for Long-Horizon Knowledge Synthesis with LLMAgents",
+    "authors": [
+      "Zhou Hanlin",
+      "Chan Huah Yong"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25849",
+    "pdf_url": "https://arxiv.org/pdf/2604.25849v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Agent",
+      "Knowledge-State Orchestration",
+      "Long-Horizon Synthesis",
+      "Multi-Agent Governance",
+      "Checkpoint Persistence"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/adema-a-knowledge-state-orchestration-architecture-for-long-horizon-knowledge-sy.md"
+  },
+  {
+    "arxiv_id": "2604.25850",
+    "version": 1,
+    "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+    "authors": [
+      "Jiahang Lin",
+      "Shichun Liu",
+      "Chengjun Pan",
+      "Lizhi Lin",
+      "Shihan Dou"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25850",
+    "pdf_url": "https://arxiv.org/pdf/2604.25850v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Code Agent",
+      "Agent Evolution",
+      "Observability",
+      "Coding Agent Harness",
+      "Automated Engineering",
+      "Autonomous Improvement"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.md"
+  },
+  {
+    "arxiv_id": "2604.25727",
+    "version": 1,
+    "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
+    "authors": [
+      "Zhiyuan Fan",
+      "Tinghao Yu",
+      "Yuanjun Cai",
+      "Jiangtao Guan",
+      "Yun Yang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25727",
+    "pdf_url": "https://arxiv.org/pdf/2604.25727v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "终端Agent",
+      "任务合成",
+      "技能图谱",
+      "多智能体",
+      "训练数据生成"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/toward-scalable-terminal-task-synthesis-via-skill-graphs.md"
+  },
+  {
+    "arxiv_id": "2604.25724",
+    "version": 1,
+    "title": "Scalable Inference Architectures for Compound AI Systems: A Production Deployment Study",
+    "authors": [
+      "Srikanta Prasad S",
+      "Utkarsh Arora"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25724",
+    "pdf_url": "https://arxiv.org/pdf/2604.25724v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Compound AI Systems",
+      "Production Deployment",
+      "Inference Architecture",
+      "Multi-Agent Workloads",
+      "Serverless Execution",
+      "Autoscaling",
+      "Enterprise Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/scalable-inference-architectures-for-compound-ai-systems-a-production-deployment.md"
+  },
+  {
+    "arxiv_id": "2604.25684",
+    "version": 1,
+    "title": "Think Before You Act -- A Neurocognitive Governance Model for Autonomous AI Agents",
+    "authors": [
+      "Eranga Bandara",
+      "Ross Gore",
+      "Asanga Gunaratna",
+      "Sachini Rajapakse",
+      "Isurunima Kularathna"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25684",
+    "pdf_url": "https://arxiv.org/pdf/2604.25684v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Agent Governance",
+      "Neurocognitive Framework",
+      "Pre-Action Reasoning",
+      "Compliance",
+      "LLM-driven Agent",
+      "Safety",
+      "Self-Governance",
+      "Supply Chain",
+      "Explainability"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/think-before-you-act-a-neurocognitive-governance-model-for-autonomous-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2604.25562",
+    "version": 1,
+    "title": "SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents",
+    "authors": [
+      "Mengyao Du",
+      "Han Fang",
+      "Haokai Ma",
+      "Jiahao Chen",
+      "Kai Xu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25562",
+    "pdf_url": "https://arxiv.org/pdf/2604.25562v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Web Agent安全",
+      "提示注入检测",
+      "轻量级防御",
+      "多模态Agent",
+      "对抗攻击防御"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/snapguard-lightweight-prompt-injection-detection-for-screenshot-based-web-agents.md"
+  },
+  {
+    "arxiv_id": "2604.25444",
+    "version": 1,
+    "title": "One Refiner to Unlock Them All: Inference-Time Reasoning Elicitation via Reinforcement Query Refinement",
+    "authors": [
+      "Yixiao Zhou",
+      "Dongzhou Cheng",
+      "zhiliang wu",
+      "Yi Yang",
+      "Yu Cheng"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25444",
+    "pdf_url": "https://arxiv.org/pdf/2604.25444v1",
+    "github_url": "https://github.com/newera-xiao/ReQueR",
+    "published": "2026-04-28",
+    "tags": [
+      "inference-time reasoning elicitation",
+      "query refinement",
+      "reinforcement learning",
+      "LLM reasoning",
+      "multi-model alignment",
+      "curriculum learning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/one-refiner-to-unlock-them-all-inference-time-reasoning-elicitation-via-reinforc.md"
+  },
+  {
+    "arxiv_id": "2604.25256",
+    "version": 1,
+    "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
+    "authors": [
+      "Lei Xiong",
+      "Kun Luo",
+      "Ziyi Xia",
+      "Wenbo Zhang",
+      "Jin-Ge Yao"
+    ],
+    "author_count": 18,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25256",
+    "pdf_url": "https://arxiv.org/pdf/2604.25256v1",
+    "github_url": "https://github.com/CherYou/AutoResearchBench",
+    "published": "2026-04-28",
+    "tags": [
+      "AI Agent Benchmark",
+      "Scientific Literature Discovery",
+      "Multi-step Reasoning",
+      "Information Retrieval",
+      "Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/autoresearchbench-benchmarking-ai-agents-on-complex-scientific-literature-discov.md"
+  },
+  {
+    "arxiv_id": "2604.25135",
+    "version": 1,
+    "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments",
+    "authors": [
+      "Amir Saeidi",
+      "Venkatesh Mishra",
+      "Souradeep Mukhopadhyay",
+      "Gaowen Liu",
+      "Ali Payani"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25135",
+    "pdf_url": "https://arxiv.org/pdf/2604.25135v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Multi-Agent",
+      "Error Analysis",
+      "Open-Source LLMs",
+      "Interactive Environments"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/fama-failure-aware-meta-agentic-framework-for-open-source-llms-in-interactive-to.md"
+  },
+  {
+    "arxiv_id": "2604.25109",
+    "version": 1,
+    "title": "Structured Security Auditing and Robustness Enhancement for Untrusted Agent Skills",
+    "authors": [
+      "Lijia Lv",
+      "Xuehai Tang",
+      "Jie Wen",
+      "Jizhong Han",
+      "Songlin Hu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25109",
+    "pdf_url": "https://arxiv.org/pdf/2604.25109v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "Agent安全",
+      "Agent技能审计",
+      "鲁棒性增强",
+      "预加载审计",
+      "三路分类",
+      "跨文件安全审查",
+      "SkillGuard-Robust"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/28/structured-security-auditing-and-robustness-enhancement-for-untrusted-agent-skil.md"
+  },
+  {
+    "arxiv_id": "2604.25203",
+    "version": 1,
+    "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
+    "authors": [
+      "Arnon Mazza",
+      "Elad Levi"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25203",
+    "pdf_url": "https://arxiv.org/pdf/2604.25203v1",
+    "github_url": "",
+    "published": "2026-04-28",
+    "tags": [
+      "LLM Agent安全",
+      "多智能体辩论",
+      "合成数据训练",
+      "策略护栏",
+      "小模型微调"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/04/28/barred-synthetic-training-of-custom-policy-guardrails-via-asymmetric-debate.md"
+  },
+  {
+    "arxiv_id": "2604.25847",
+    "version": 1,
+    "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
+    "authors": [
+      "Jianghao Lin",
+      "Zi Ling",
+      "Chenyu Zhou",
+      "Tianyi Xu",
+      "Ruoqing Jiang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "math.OC",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25847",
+    "pdf_url": "https://arxiv.org/pdf/2604.25847v1",
+    "github_url": "https://github.com/CHIANGEL/Agora-Opt",
+    "published": "2026-04-28",
+    "tags": [
+      "Agent架构",
+      "多智能体协作",
+      "LLM Agent",
+      "规划与推理",
+      "工具使用",
+      "记忆机制",
+      "优化建模",
+      "基准评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/28/from-soliloquy-to-agora-memory-enhanced-llm-agents-with-decentralized-debate-for.md"
+  },
+  {
+    "arxiv_id": "2604.25555",
+    "version": 1,
+    "title": "From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems",
+    "authors": [
+      "Ignacio Peyrano"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.25555",
+    "pdf_url": "https://arxiv.org/pdf/2604.25555v1",
+    "github_url": "https://github.com/PeyranoDev/semantic-gateway-poc",
+    "published": "2026-04-28",
+    "tags": [
+      "Agent安全",
+      "零信任架构",
+      "语义网关",
+      "形式化验证",
+      "企业级Agent",
+      "MCP协议",
+      "模糊测试",
+      "访问控制"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/28/from-crud-to-autonomous-agents-formal-validation-and-zero-trust-security-for-sem.md"
+  }
+]
