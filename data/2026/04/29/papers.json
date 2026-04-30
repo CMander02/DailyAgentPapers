@@ -66,6 +66,35 @@
     "md_path": "data/2026/04/29/futureworld-a-live-environment-for-training-predictive-agents-with-real-world-ou.md"
   },
   {
+    "arxiv_id": "2604.26703",
+    "version": 1,
+    "title": "A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch",
+    "authors": [
+      "Yue Li",
+      "Bijun Tang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cs.AI",
+      "physics.comp-ph"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26703",
+    "pdf_url": "https://arxiv.org/pdf/2604.26703v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "LLM Agent",
+      "Scientific Agent",
+      "Autonomous Diagnosis",
+      "Bayesian Hypothesis Selection",
+      "Materials Science",
+      "DFT"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/04/29/a-self-evolving-agent-for-explainable-diagnosis-of-dft-experiment-band-gap-misma.md"
+  },
+  {
     "arxiv_id": "2604.26904",
     "version": 1,
     "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
