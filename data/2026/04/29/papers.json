@@ -1,0 +1,255 @@
+[
+  {
+    "arxiv_id": "2604.26805",
+    "version": 1,
+    "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+    "authors": [
+      "Bochao Liu",
+      "Zhipeng Qian",
+      "Yang Zhao",
+      "Xinyuan Jiang",
+      "Zihan Liang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26805",
+    "pdf_url": "https://arxiv.org/pdf/2604.26805v1",
+    "github_url": "https://github.com/benchen4395/BianQue_Assistant",
+    "published": "2026-04-29",
+    "tags": [
+      "LLM Agent",
+      "Autonomous Agent",
+      "Multi-Agent System",
+      "Agent Framework",
+      "System Operations",
+      "Root Cause Analysis",
+      "Skill Arrangement",
+      "Self-Evolution",
+      "Tool-Use Agent",
+      "Knowledge Retrieval"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/29/bian-que-an-agentic-framework-with-flexible-skill-arrangement-for-online-system.md"
+  },
+  {
+    "arxiv_id": "2604.26733",
+    "version": 1,
+    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
+    "authors": [
+      "Zhixin Han",
+      "Yanzhi Zhang",
+      "Chuyang Wei",
+      "Maohang Gao",
+      "Xiawei Yue"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26733",
+    "pdf_url": "https://arxiv.org/pdf/2604.26733v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "LLM Agent",
+      "Reinforcement Learning",
+      "Environment for Agent Training",
+      "Future Prediction",
+      "Benchmark",
+      "Online Learning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/04/29/futureworld-a-live-environment-for-training-predictive-agents-with-real-world-ou.md"
+  },
+  {
+    "arxiv_id": "2604.26904",
+    "version": 1,
+    "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+    "authors": [
+      "Fei Bai",
+      "Huatong Song",
+      "Shuang Sun",
+      "Daixuan Cheng",
+      "Yike Yang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26904",
+    "pdf_url": "https://arxiv.org/pdf/2604.26904v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "Agent训练",
+      "数据合成",
+      "基准评估",
+      "Claw-style Agent",
+      "沙箱环境",
+      "监督微调",
+      "强化学习"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/clawgym-a-scalable-framework-for-building-effective-claw-agents.md"
+  },
+  {
+    "arxiv_id": "2604.26649",
+    "version": 1,
+    "title": "When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models",
+    "authors": [
+      "Dongxin Guo",
+      "Jikun Wu",
+      "Siu Ming Yiu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26649",
+    "pdf_url": "https://arxiv.org/pdf/2604.26649v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "大推理模型",
+      "自适应检索",
+      "检索增强生成",
+      "推理中检索",
+      "不确定性检测",
+      "多跳推理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/when-to-retrieve-during-reasoning-adaptive-retrieval-for-large-reasoning-models.md"
+  },
+  {
+    "arxiv_id": "2604.26622",
+    "version": 1,
+    "title": "OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory",
+    "authors": [
+      "Jinze Li",
+      "Yang Zhang",
+      "Xin Yang",
+      "Jiayi Qu",
+      "Jinfeng Xu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26622",
+    "pdf_url": "https://arxiv.org/pdf/2604.26622v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "LLM Agent",
+      "Agent Memory",
+      "Long-Horizon Agent",
+      "Visual Context Retrieval",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/ocr-memory-optical-context-retrieval-for-long-horizon-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2604.26522",
+    "version": 1,
+    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+    "authors": [
+      "Mahnoor Shahid",
+      "Hannes Rothe"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.LO",
+      "cs.MA",
+      "cs.SC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26522",
+    "pdf_url": "https://arxiv.org/pdf/2604.26522v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "神经符号Agent",
+      "组合泛化",
+      "因果程序图",
+      "归纳逻辑编程",
+      "混合推理",
+      "世界模型",
+      "子目标规划"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/agel-comp-a-neuro-symbolic-framework-for-compositional-generalization-in-interac.md"
+  },
+  {
+    "arxiv_id": "2604.26511",
+    "version": 1,
+    "title": "Tatemae: Detecting Alignment Faking via Tool Selection in LLMs",
+    "authors": [
+      "Matteo Leonesi",
+      "Francesco Belardinelli",
+      "Flavio Corradini",
+      "Marco Piangerelli"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26511",
+    "pdf_url": "https://arxiv.org/pdf/2604.26511v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "LLM Agent",
+      "alignment faking",
+      "tool selection",
+      "AI safety",
+      "adversarial compliance",
+      "detection method",
+      "LLM evaluation",
+      "agent behavior"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/tatemae-detecting-alignment-faking-via-tool-selection-in-llms.md"
+  },
+  {
+    "arxiv_id": "2604.26197",
+    "version": 1,
+    "title": "Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent",
+    "authors": [
+      "Zhentao Xu",
+      "Shangjing Zhang",
+      "Emir Poyraz",
+      "Yvonne Li",
+      "Ye Jin"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.26197",
+    "pdf_url": "https://arxiv.org/pdf/2604.26197v1",
+    "github_url": "",
+    "published": "2026-04-29",
+    "tags": [
+      "长期记忆",
+      "层次化记忆",
+      "招聘代理",
+      "个性化",
+      "生产部署",
+      "商用Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/29/hierarchical-long-term-semantic-memory-for-linkedins-hiring-agent.md"
+  }
+]
