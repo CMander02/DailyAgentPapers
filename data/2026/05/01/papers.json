@@ -1,0 +1,555 @@
+[
+  {
+    "arxiv_id": "2605.00737",
+    "version": 1,
+    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+    "authors": [
+      "Qinyuan Wu",
+      "Soumi Das",
+      "Mahsa Amani",
+      "Arijit Nag",
+      "Seungeon Lee"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00737",
+    "pdf_url": "https://arxiv.org/pdf/2605.00737v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM Agent",
+      "工具使用",
+      "决策优化",
+      "智能体架构",
+      "Web搜索"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/01/to-call-or-not-to-call-a-framework-to-assess-and-optimize-llm-tool-calling.md"
+  },
+  {
+    "arxiv_id": "2605.00528",
+    "version": 1,
+    "title": "SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters",
+    "authors": [
+      "Dongxin Guo",
+      "Jikun Wu",
+      "Siu Ming Yiu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.DC",
+      "cs.AI",
+      "cs.LG",
+      "cs.OS"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00528",
+    "pdf_url": "https://arxiv.org/pdf/2605.00528v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "Agent调度",
+      "GPU集群",
+      "KV缓存复用",
+      "工作流感知",
+      "多智能体",
+      "编程级调度",
+      "SAGA",
+      "SWE-bench",
+      "WebArena"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/01/saga-workflow-atomic-scheduling-for-ai-agent-inference-on-gpu-clusters.md"
+  },
+  {
+    "arxiv_id": "2605.00314",
+    "version": 1,
+    "title": "Semia: Auditing Agent Skills via Constraint-Guided Representation Synthesis",
+    "authors": [
+      "Hongbo Wen",
+      "Ying Li",
+      "Hanzhi Liu",
+      "Chaofan Shou",
+      "Yanju Chen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00314",
+    "pdf_url": "https://arxiv.org/pdf/2605.00314v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "Agent安全审计",
+      "Agent技能形式化验证",
+      "LLM驱动Agent安全",
+      "静态分析",
+      "Datalog"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/01/semia-auditing-agent-skills-via-constraint-guided-representation-synthesis.md"
+  },
+  {
+    "arxiv_id": "2605.00347",
+    "version": 1,
+    "title": "Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning",
+    "authors": [
+      "Chengshuai Shi",
+      "Wenzhe Li",
+      "Xinran Liang",
+      "Yizhou Lu",
+      "Wenjia Yang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00347",
+    "pdf_url": "https://arxiv.org/pdf/2605.00347v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM/VLM Agent",
+      "强化学习",
+      "决策智能体",
+      "游戏智能体",
+      "PPO",
+      "多模态智能体",
+      "长期规划",
+      "训练框架"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/01/odysseus-scaling-vlms-to-100-turn-decision-making-in-games-via-reinforcement-lea.md"
+  },
+  {
+    "arxiv_id": "2605.00702",
+    "version": 1,
+    "title": "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory",
+    "authors": [
+      "Derong Xu",
+      "Shuochen Liu",
+      "Pengfei Luo",
+      "Pengyue Jia",
+      "Yingyi Zhang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00702",
+    "pdf_url": "https://arxiv.org/pdf/2605.00702v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM Agent 记忆",
+      "记忆更新策略",
+      "强化学习",
+      "个性化",
+      "认知启发"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/01/learning-how-and-what-to-memorize-cognition-inspired-two-stage-optimization-for.md"
+  },
+  {
+    "arxiv_id": "2605.00382",
+    "version": 1,
+    "title": "Social Bias in LLM-Generated Code: Benchmark and Mitigation",
+    "authors": [
+      "Fazle Rabbi",
+      "Lin Ling",
+      "Song Wang",
+      "Jinqiu Yang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.SI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00382",
+    "pdf_url": "https://arxiv.org/pdf/2605.00382v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM生成的代码中的社会偏见",
+      "多智能体软件流程",
+      "公平性监控智能体",
+      "基准评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/01/social-bias-in-llm-generated-code-benchmark-and-mitigation.md"
+  },
+  {
+    "arxiv_id": "2605.00798",
+    "version": 1,
+    "title": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
+    "authors": [
+      "Arunabh Srivastava",
+      "Mohammad A.",
+      "Khojastepour",
+      "Srimat Chakradhar",
+      "Sennur Ulukus"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00798",
+    "pdf_url": "https://arxiv.org/pdf/2605.00798v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "多智能体系统",
+      "规划与执行",
+      "约束引导执行",
+      "自然语言规划",
+      "错误纠正",
+      "代码生成与执行",
+      "工具使用"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/runagent-interpreting-natural-language-plans-with-constraint-guided-execution.md"
+  },
+  {
+    "arxiv_id": "2605.00803",
+    "version": 1,
+    "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+    "authors": [
+      "Ziyang Huang",
+      "Yi Cao",
+      "Ali K. Shargh",
+      "Jing Luo",
+      "Ruidong Mei"
+    ],
+    "author_count": 18,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00803",
+    "pdf_url": "https://arxiv.org/pdf/2605.00803v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "科学智能Agent",
+      "代码Agent",
+      "基准测试",
+      "计算材料学",
+      "可复现性",
+      "领域专用Agent评估",
+      "LLM Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/can-coding-agents-reproduce-findings-in-computational-materials-science.md"
+  },
+  {
+    "arxiv_id": "2605.00642",
+    "version": 1,
+    "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
+    "authors": [
+      "Yan Zhang",
+      "Daiqing Wu",
+      "Huawen Shen",
+      "Yu Zhou",
+      "Can Ma"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00642",
+    "pdf_url": "https://arxiv.org/pdf/2605.00642v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "GUI Agent",
+      "GUI Grounding",
+      "Self-Distillation",
+      "On-Policy Training",
+      "Entropy-Guided Distillation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/learn-where-to-click-from-yourself-on-policy-self-distillation-for-gui-grounding.md"
+  },
+  {
+    "arxiv_id": "2605.00551",
+    "version": 1,
+    "title": "A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction",
+    "authors": [
+      "Michito Takeshita",
+      "Takuro Kawada",
+      "Takumi Ohashi",
+      "Shunsuke Kitada",
+      "Hitoshi Iyatomi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00551",
+    "pdf_url": "https://arxiv.org/pdf/2605.00551v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "GUI Agent",
+      "Observation Representation",
+      "Accessibility Tree",
+      "Input Compression",
+      "Efficiency",
+      "OSWorld Benchmark"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/a11y-compressor-a-framework-for-enhancing-the-efficiency-of-gui-agent-observatio.md"
+  },
+  {
+    "arxiv_id": "2605.00425",
+    "version": 1,
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "authors": [
+      "Haotian Zhao",
+      "Yuxin Zhang",
+      "Songlin Zhou",
+      "Stephen S. -T. Yau",
+      "Wenyu Zhang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00425",
+    "pdf_url": "https://arxiv.org/pdf/2605.00425v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM Agent",
+      "多轮训练",
+      "强化学习",
+      "信用分配",
+      "熵调制",
+      "SWE-bench"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/aem-adaptive-entropy-modulation-for-multi-turn-agentic-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2605.00365",
+    "version": 1,
+    "title": "Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity",
+    "authors": [
+      "Anamika Lochab",
+      "Bolian Li",
+      "Ruqi Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00365",
+    "pdf_url": "https://arxiv.org/pdf/2605.00365v1",
+    "github_url": "https://github.com/AnamikaLochab/UCPO",
+    "published": "2026-05-01",
+    "tags": [
+      "RLVR",
+      "策略优化",
+      "多样性崩塌",
+      "GRPO",
+      "推理任务",
+      "数学推理",
+      "一致性正则化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/uniform-correct-policy-optimization-breaking-rlvrs-indifference-to-diversity.md"
+  },
+  {
+    "arxiv_id": "2605.00356",
+    "version": 1,
+    "title": "MemRouter: Memory-as-Embedding Routing for Long-Term Conversational Agents",
+    "authors": [
+      "Tianyu Hu",
+      "Weikai Lin",
+      "Weizhi Zhang",
+      "Jing Ma",
+      "Song Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00356",
+    "pdf_url": "https://arxiv.org/pdf/2605.00356v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "长期对话记忆",
+      "记忆路由",
+      "嵌入路由",
+      "轻量分类器",
+      "LoCoMo基准",
+      "延迟优化",
+      "LLM智能体"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/01/memrouter-memory-as-embedding-routing-for-long-term-conversational-agents.md"
+  },
+  {
+    "arxiv_id": "2605.00557",
+    "version": 1,
+    "title": "Structure Liberates: How Constrained Sensemaking Produces More Novel Research Output",
+    "authors": [
+      "James Mooney",
+      "Zae Myung Kim",
+      "Young-Jun Lee",
+      "Dongyeop Kang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00557",
+    "pdf_url": "https://arxiv.org/pdf/2605.00557v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM驱动的科研Agent",
+      "研究构思框架",
+      "认知阶段建模",
+      "AI for Science",
+      "Agent轨迹数据合成"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/01/structure-liberates-how-constrained-sensemaking-produces-more-novel-research-out.md"
+  },
+  {
+    "arxiv_id": "2605.00420",
+    "version": 1,
+    "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
+    "authors": [
+      "Maksym Nechepurenko",
+      "Pavel Shuvalov"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.MA",
+      "cs.LG",
+      "q-fin.GN"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00420",
+    "pdf_url": "https://arxiv.org/pdf/2605.00420v1",
+    "github_url": "https://github.com/foresight-arena/contracts",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM Agent",
+      "AI Forecasting Agent",
+      "Benchmark",
+      "On-chain Evaluation",
+      "Prediction Markets",
+      "Brier Score",
+      "Alpha Score"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/01/foresight-arena-an-on-chain-benchmark-for-evaluating-ai-forecasting-agents.md"
+  },
+  {
+    "arxiv_id": "2605.00410",
+    "version": 1,
+    "title": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines",
+    "authors": [
+      "Aninda Ray"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00410",
+    "pdf_url": "https://arxiv.org/pdf/2605.00410v1",
+    "github_url": "https://github.com/aray-17/agent-capsules",
+    "published": "2026-05-01",
+    "tags": [
+      "多智能体系统",
+      "Agent流水线优化",
+      "LLM调用效率",
+      "质量约束",
+      "自适应执行运行时",
+      "Agent压缩",
+      "缓存对齐提示",
+      "拓扑感知上下文注入"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/01/agent-capsules-quality-gated-granularity-control-for-multi-agent-llm-pipelines.md"
+  },
+  {
+    "arxiv_id": "2605.00380",
+    "version": 1,
+    "title": "ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning",
+    "authors": [
+      "Zihan Lin",
+      "Xiaohan Wang",
+      "Jie Cao",
+      "Jiajun Chai",
+      "Li Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00380",
+    "pdf_url": "https://arxiv.org/pdf/2605.00380v1",
+    "github_url": "https://github.com/1229095296/ResRL",
+    "published": "2026-05-01",
+    "tags": [
+      "LLM推理增强",
+      "强化学习",
+      "负样本优化",
+      "Agent任务",
+      "函数调用"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/01/resrl-boosting-llm-reasoning-via-negative-sample-projection-residual-reinforceme.md"
+  },
+  {
+    "arxiv_id": "2605.00334",
+    "version": 1,
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "authors": [
+      "Ranit Karmakar",
+      "Jayita Chatterjee"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00334",
+    "pdf_url": "https://arxiv.org/pdf/2605.00334v1",
+    "github_url": "",
+    "published": "2026-05-01",
+    "tags": [
+      "Agent Benchmark",
+      "Tool Use",
+      "Open-Weight Models",
+      "Planning",
+      "Routing",
+      "Multi-Step Coordination",
+      "Small Models"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/01/agentfloor-how-far-up-the-tool-use-ladder-can-small-open-weight-models-go.md"
+  }
+]

@@ -636,6 +636,94 @@
     "md_path": "data/2026/04/30/heterogeneous-scientific-foundation-model-collaboration.md"
   },
   {
+    "arxiv_id": "2604.28123",
+    "version": 1,
+    "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
+    "authors": [
+      "Sudong Wang",
+      "Weiquan Huang",
+      "Xiaomin Yu",
+      "Zuhao Yang",
+      "Hehai Lin"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.28123",
+    "pdf_url": "https://arxiv.org/pdf/2604.28123v1",
+    "github_url": "https://github.com/XIAO4579/PRISM",
+    "published": "2026-04-30",
+    "tags": [
+      "多模态Agent",
+      "强化学习",
+      "策略对齐",
+      "知识蒸馏",
+      "专家混合模型",
+      "RLVR"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/30/prism-pre-alignment-via-black-box-on-policy-distillation-for-multimodal-reinforc.md"
+  },
+  {
+    "arxiv_id": "2604.27707",
+    "version": 1,
+    "title": "Contextual Agentic Memory is a Memo, Not True Memory",
+    "authors": [
+      "Binyan Xu",
+      "Xilin Dai",
+      "Kehuan Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.27707",
+    "pdf_url": "https://arxiv.org/pdf/2604.27707v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "Agent记忆",
+      "理论分析",
+      "泛化上限",
+      "记忆安全",
+      "互补学习系统"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/30/contextual-agentic-memory-is-a-memo-not-true-memory.md"
+  },
+  {
+    "arxiv_id": "2605.00060",
+    "version": 1,
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "authors": [
+      "Rong Lu"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "eess.SY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00060",
+    "pdf_url": "https://arxiv.org/pdf/2605.00060v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "LLM Agent",
+      "Tool-Augmented Agent",
+      "Domain-Specific Agent",
+      "Drilling Intelligence",
+      "Data Integration",
+      "Multi-Step Reasoning",
+      "Evidence Grounding"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/04/30/tadi-tool-augmented-drilling-intelligence-via-agentic-llm-orchestration-over-het.md"
+  },
+  {
     "arxiv_id": "2604.27998",
     "version": 1,
     "title": "Latent-GRPO: Group Relative Policy Optimization for Latent Reasoning",
@@ -753,5 +841,149 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/04/30/learning-when-to-remember-risk-sensitive-contextual-bandits-for-abstention-aware.md"
+  },
+  {
+    "arxiv_id": "2605.00197",
+    "version": 1,
+    "title": "The $\\textit{Silicon Society}$ Cookbook: Design Space of LLM-based Social Simulations",
+    "authors": [
+      "Aurélien Bück-Kaeffer",
+      "Sneheel Sarangi",
+      "Maximilian Puelma Touzel",
+      "Reihaneh Rabbany",
+      "Zachary Yang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.00197",
+    "pdf_url": "https://arxiv.org/pdf/2605.00197v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "LLM-based Social Simulation",
+      "Multi-Agent Systems",
+      "Agent Design Space",
+      "Survey Proxy",
+      "Base Model Impact"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/30/the-textitsilicon-society-cookbook-design-space-of-llm-based-social-simulations.md"
+  },
+  {
+    "arxiv_id": "2604.28043",
+    "version": 1,
+    "title": "Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents",
+    "authors": [
+      "Rahul Ramachandran",
+      "Nidhi Jha",
+      "Muthukumaran Ramasubramanian"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.28043",
+    "pdf_url": "https://arxiv.org/pdf/2604.28043v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "Agent设计方法论",
+      "LLM Agents",
+      "结构化工程化",
+      "人机协作",
+      "科学Agent",
+      "NASA",
+      "Earth Science"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/30/collaborative-agent-reasoning-engineering-care-a-three-party-design-methodology.md"
+  },
+  {
+    "arxiv_id": "2604.27996",
+    "version": 1,
+    "title": "Exploring Interaction Paradigms for LLM Agents in Scientific Visualization",
+    "authors": [
+      "Jackson Vonderhorst",
+      "Kuangshi Ai",
+      "Haichao Miao",
+      "Shusen Liu",
+      "Chaoli Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.GR",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.27996",
+    "pdf_url": "https://arxiv.org/pdf/2604.27996v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "LLM Agent",
+      "Scientific Visualization",
+      "Interaction Paradigm",
+      "Agent Evaluation",
+      "Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/30/exploring-interaction-paradigms-for-llm-agents-in-scientific-visualization.md"
+  },
+  {
+    "arxiv_id": "2604.27713",
+    "version": 1,
+    "title": "Knowledge Graph Representations for LLM-Based Policy Compliance Reasoning",
+    "authors": [
+      "Wilder Baldwin",
+      "Sepideh Ghanavati"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.27713",
+    "pdf_url": "https://arxiv.org/pdf/2604.27713v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "合规智能体",
+      "RAG+知识图谱",
+      "LLM Agent框架",
+      "政策推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/30/knowledge-graph-representations-for-llm-based-policy-compliance-reasoning.md"
+  },
+  {
+    "arxiv_id": "2604.27540",
+    "version": 1,
+    "title": "In-Context Examples Suppress Scientific Knowledge Recall in LLMs",
+    "authors": [
+      "Chaemin Jang",
+      "Woojin Park",
+      "Hyeok Yun",
+      "Dongman Lee",
+      "Jihee Kim"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2604.27540",
+    "pdf_url": "https://arxiv.org/pdf/2604.27540v1",
+    "github_url": "",
+    "published": "2026-04-30",
+    "tags": [
+      "LLM科学推理",
+      "上下文学习",
+      "知识抑制",
+      "知识驱动推理",
+      "模式拟合"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/04/30/in-context-examples-suppress-scientific-knowledge-recall-in-llms.md"
   }
 ]
