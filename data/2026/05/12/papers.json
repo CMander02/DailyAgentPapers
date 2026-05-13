@@ -1,0 +1,67 @@
+[
+  {
+    "arxiv_id": "2605.12361",
+    "version": 1,
+    "title": "MedHopQA: A Disease-Centered Multi-Hop Reasoning Benchmark and Evaluation Framework for LLM-Based Biomedical Question Answering",
+    "authors": [
+      "Rezarta Islamaj",
+      "Robert Leaman",
+      "Joey Chan",
+      "Nicholas Wan",
+      "Qiao Jin"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.12361",
+    "pdf_url": "https://arxiv.org/pdf/2605.12361v1",
+    "github_url": "",
+    "published": "2026-05-12",
+    "tags": [
+      "Multi-Hop Reasoning",
+      "Biomedical QA",
+      "LLM Evaluation Benchmark",
+      "Open-Ended Generation",
+      "LLM-as-a-Judge",
+      "Concept-Level Evaluation",
+      "Dataset Construction Framework"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/12/medhopqa-a-disease-centered-multi-hop-reasoning-benchmark-and-evaluation-framewo.md"
+  },
+  {
+    "arxiv_id": "2605.12313",
+    "version": 1,
+    "title": "Overview of the MedHopQA track at BioCreative IX: track description, participation and evaluation of systems for multi-hop medical question answering",
+    "authors": [
+      "Rezarta Islamaj",
+      "Joey Chan",
+      "Robert Leaman",
+      "Jongmyung Jung",
+      "Hyeongsoon Hwang"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.12313",
+    "pdf_url": "https://arxiv.org/pdf/2605.12313v1",
+    "github_url": "",
+    "published": "2026-05-12",
+    "tags": [
+      "多跳问答",
+      "生物医学问答",
+      "检索增强生成",
+      "大型语言模型",
+      "共享任务基准",
+      "多步推理",
+      "评估方法"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/12/overview-of-the-medhopqa-track-at-biocreative-ix-track-description-participation.md"
+  }
+]
