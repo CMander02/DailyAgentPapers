@@ -1,0 +1,618 @@
+[
+  {
+    "arxiv_id": "2605.17193",
+    "version": 1,
+    "title": "Multi-LLM Systems Exhibit Robust Semantic Collapse",
+    "authors": [
+      "Weiyi Kong",
+      "Shiyang Lai",
+      "Jinghua Piao",
+      "James Evans"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17193",
+    "pdf_url": "https://arxiv.org/pdf/2605.17193v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "Multi-LLM Systems",
+      "Semantic Collapse",
+      "Autoregressive Generation",
+      "Open-Ended Generation",
+      "Agent Diversity",
+      "Mechanistic Analysis"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/multi-llm-systems-exhibit-robust-semantic-collapse.md"
+  },
+  {
+    "arxiv_id": "2605.17072",
+    "version": 1,
+    "title": "RAGA: Reading-And-Graph-building-Agent for Autonomous Knowledge Graph Construction and Retrieval-Augmented Generation",
+    "authors": [
+      "Chengrui Han",
+      "Zesheng Cheng"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17072",
+    "pdf_url": "https://arxiv.org/pdf/2605.17072v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM驱动的知识图谱构建",
+      "自主Agent框架",
+      "ReAct工具循环",
+      "检索增强生成(RAG)",
+      "多步推理与规划"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/raga-reading-and-graph-building-agent-for-autonomous-knowledge-graph-constructio.md"
+  },
+  {
+    "arxiv_id": "2605.16986",
+    "version": 1,
+    "title": "Skills on the Fly: Test-Time Adaptive Skill Synthesis for LLM Agents",
+    "authors": [
+      "Jingxing Wang",
+      "Chenyu Zhou",
+      "Zhihui Fu",
+      "Jun Wang",
+      "Weiwen Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16986",
+    "pdf_url": "https://arxiv.org/pdf/2605.16986v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM Agent",
+      "Skill Synthesis",
+      "Test-Time Adaptation",
+      "Retrieval-Augmented",
+      "Task-Specific Skills",
+      "Agent Planning",
+      "SpreadsheetBench",
+      "ALFWorld",
+      "BigCodeBench"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/skills-on-the-fly-test-time-adaptive-skill-synthesis-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2605.16909",
+    "version": 1,
+    "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+    "authors": [
+      "Zhiqiang Liu",
+      "Wenhui Dong",
+      "Yilang Tan",
+      "Yuwen Qu",
+      "Haochen Yin"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16909",
+    "pdf_url": "https://arxiv.org/pdf/2605.16909v1",
+    "github_url": "https://github.com/Pi3AI/TOBench",
+    "published": "2026-05-16",
+    "tags": [
+      "工具使用Agent",
+      "多模态Agent",
+      "Agent评测基准",
+      "闭环多模态验证",
+      "MCP协议",
+      "任务导向Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/tobench-a-task-oriented-omni-modal-benchmark-for-real-world-tool-using-agents.md"
+  },
+  {
+    "arxiv_id": "2605.16883",
+    "version": 1,
+    "title": "SE-GA: Memory-Augmented Self-Evolution for GUI Agents",
+    "authors": [
+      "Shilong Jin",
+      "Lanjun Wang",
+      "Zhuosheng Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16883",
+    "pdf_url": "https://arxiv.org/pdf/2605.16883v1",
+    "github_url": "https://github.com/jinshilong-dev/SE-GA",
+    "published": "2026-05-16",
+    "tags": [
+      "GUI Agent",
+      "Memory-Augmented Self-Evolution",
+      "Hierarchical Memory",
+      "Test-Time Memory Extension",
+      "Self-Improvement"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/se-ga-memory-augmented-self-evolution-for-gui-agents.md"
+  },
+  {
+    "arxiv_id": "2605.16790",
+    "version": 1,
+    "title": "TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition",
+    "authors": [
+      "Anay Kulkarni",
+      "ChiaEn Lu",
+      "Dheeraj Mekala",
+      "Jayanth Srinivasa",
+      "Gaowen Liu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16790",
+    "pdf_url": "https://arxiv.org/pdf/2605.16790v1",
+    "github_url": "https://github.com/anaykulkarni/TIER",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM工具使用",
+      "多步工具组合",
+      "强化学习",
+      "奖励函数设计",
+      "执行轨迹不变性",
+      "密集奖励",
+      "组合推理",
+      "DepthBench"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/tier-trajectory-invariant-execution-rewards-for-multi-step-tool-composition.md"
+  },
+  {
+    "arxiv_id": "2605.16727",
+    "version": 1,
+    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play",
+    "authors": [
+      "Roger Creus Castanyer",
+      "Geoffrey Bradway",
+      "Lorenz Wolf",
+      "Maxwill Lin",
+      "Augustine N. Mavor-Parker"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16727",
+    "pdf_url": "https://arxiv.org/pdf/2605.16727v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM Agent",
+      "多智能体自博弈",
+      "强化学习",
+      "LoRA适配器",
+      "推理能力提升",
+      "代码生成",
+      "数学推理",
+      "种群进化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/16/populora-co-evolving-llm-populations-for-reasoning-self-play.md"
+  },
+  {
+    "arxiv_id": "2605.16746",
+    "version": 1,
+    "title": "State Contamination in Memory-Augmented LLM Agents",
+    "authors": [
+      "Yian Wang",
+      "Agam Goyal",
+      "Yuen Chen",
+      "Hari Sundaram"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16746",
+    "pdf_url": "https://arxiv.org/pdf/2605.16746v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "Memory-Augmented Agent",
+      "Agent Safety",
+      "Memory Laundering",
+      "Sub-threshold Propagation Gap (SPG)",
+      "Multi-agent Rollouts",
+      "State Control"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/05/16/state-contamination-in-memory-augmented-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2605.17101",
+    "version": 1,
+    "title": "SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning",
+    "authors": [
+      "Yongfeng Huang",
+      "Ruiying Chen",
+      "James Cheng"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17101",
+    "pdf_url": "https://arxiv.org/pdf/2605.17101v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "多智能体RAG",
+      "医学问答",
+      "自进化检索",
+      "任务解耦",
+      "临床推理",
+      "LLM Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/16/sema-rag-a-self-evolving-multi-agent-retrieval-augmented-generation-framework-fo.md"
+  },
+  {
+    "arxiv_id": "2605.16821",
+    "version": 1,
+    "title": "Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework",
+    "authors": [
+      "Xiaohua Wang",
+      "Chao Han",
+      "Kai Yu",
+      "XiaoLiang Xu",
+      "Liang Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16821",
+    "pdf_url": "https://arxiv.org/pdf/2605.16821v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "多智能体编排",
+      "对抗性评估",
+      "ReAct循环",
+      "记忆增强",
+      "Sprint Contract",
+      "buddyMe框架",
+      "LLM Agent",
+      "工具使用",
+      "质量评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/16/multi-paradigm-agent-interaction-in-practicea-systematic-analysis-of-generator-e.md"
+  },
+  {
+    "arxiv_id": "2605.16757",
+    "version": 1,
+    "title": "NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning",
+    "authors": [
+      "Haoran Lu",
+      "Luyang Fang",
+      "Wenxuan Zhong",
+      "Ping Ma"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16757",
+    "pdf_url": "https://arxiv.org/pdf/2605.16757v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "多智能体系统",
+      "神经网络架构",
+      "联合强化学习",
+      "LLM智能体",
+      "可扩展性",
+      "层次化分解"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/16/neuromas-multi-agent-systems-as-neural-networks-with-joint-reinforcement-learnin.md"
+  },
+  {
+    "arxiv_id": "2605.17172",
+    "version": 1,
+    "title": "OpenJarvis: Personal AI, On Personal Devices",
+    "authors": [
+      "Jon Saad-Falcon",
+      "Avanika Narayan",
+      "Robby Manihani",
+      "Tanvir Bhathal",
+      "Herumb Shandilya"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17172",
+    "pdf_url": "https://arxiv.org/pdf/2605.17172v1",
+    "github_url": "https://github.com/openjarvis/openjarvis",
+    "published": "2026-05-16",
+    "tags": [
+      "个人AI智能体",
+      "设备端Agent",
+      "Agent架构",
+      "本地模型",
+      "云-端协作",
+      "Agent优化",
+      "低延迟",
+      "成本效率"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/openjarvis-personal-ai-on-personal-devices.md"
+  },
+  {
+    "arxiv_id": "2605.17170",
+    "version": 1,
+    "title": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
+    "authors": [
+      "Hanzhang Shen",
+      "Haoran Wu",
+      "Yiren Zhao",
+      "Robert Mullins"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17170",
+    "pdf_url": "https://arxiv.org/pdf/2605.17170v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "KV-cache量化",
+      "混合精度量化",
+      "Agent推理效率",
+      "长上下文",
+      "多模态Agent",
+      "Computer Use Agent",
+      "系统优化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/triaxialkv-toward-extreme-low-precision-kv-cache-quantization-for-agentic-infere.md"
+  },
+  {
+    "arxiv_id": "2605.17169",
+    "version": 1,
+    "title": "Responsible Agentic AI Requires Explicit Provenance",
+    "authors": [
+      "Jinwei Hu",
+      "Xinmiao Huang",
+      "Qisong He",
+      "Youcheng Sun",
+      "Yi Dong"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17169",
+    "pdf_url": "https://arxiv.org/pdf/2605.17169v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "Agent 安全/Responsibility",
+      "Agent 治理/Provenance",
+      "多智能体系统/Composition",
+      "Agent 生命周期管理",
+      "Agent 因果归因"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/responsible-agentic-ai-requires-explicit-provenance.md"
+  },
+  {
+    "arxiv_id": "2605.17106",
+    "version": 1,
+    "title": "HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools",
+    "authors": [
+      "Aashna Garg",
+      "Siddharth Singha Roy",
+      "Jinu Jang",
+      "Federico Brancasi",
+      "Shengyu Fu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17106",
+    "pdf_url": "https://arxiv.org/pdf/2605.17106v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM路由",
+      "异构模型池",
+      "任务-能力匹配",
+      "零重训练",
+      "多维度能力预测",
+      "SWE-bench",
+      "生产部署",
+      "语言无关路由"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/hydra-hybrid-dynamic-routing-architecture-for-heterogeneous-llm-pools.md"
+  },
+  {
+    "arxiv_id": "2605.17044",
+    "version": 1,
+    "title": "PersonaArena: Dynamic Simulation for Evaluating and Enhancing Persona-Level Role-Playing in Large Language Models",
+    "authors": [
+      "Wenlong Shi",
+      "Jianxun Lian",
+      "Mingqi Wu",
+      "Haiming Qin",
+      "Mingyang Zhou"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.17044",
+    "pdf_url": "https://arxiv.org/pdf/2605.17044v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM Agent",
+      "角色扮演",
+      "动态模拟",
+      "多智能体评测",
+      "社交智能体"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/personaarena-dynamic-simulation-for-evaluating-and-enhancing-persona-level-role.md"
+  },
+  {
+    "arxiv_id": "2605.16857",
+    "version": 1,
+    "title": "Learning to Learn from Multimodal Experience",
+    "authors": [
+      "Xingyu Sui",
+      "Weixiang Zhao",
+      "Yongxin Tang",
+      "Yanyan Zhao",
+      "Yang Wu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16857",
+    "pdf_url": "https://arxiv.org/pdf/2605.16857v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "经验驱动学习",
+      "自适应记忆",
+      "多模态智能体",
+      "Agent记忆机制",
+      "交互学习"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/learning-to-learn-from-multimodal-experience.md"
+  },
+  {
+    "arxiv_id": "2605.16874",
+    "version": 1,
+    "title": "Reasoning Can Be Restored by Correcting a Few Decision Tokens",
+    "authors": [
+      "Changshuo Shen",
+      "Leheng Sheng",
+      "Yuxin Chen",
+      "An Zhang",
+      "Xiang Wang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16874",
+    "pdf_url": "https://arxiv.org/pdf/2605.16874v1",
+    "github_url": "https://github.com/AlphaLab-USTC/RRTokenIntervention",
+    "published": "2026-05-16",
+    "tags": [
+      "推理模型",
+      "token干预",
+      "规划token",
+      "推理差距分析",
+      "推理恢复",
+      "分布差异",
+      "推理路径控制"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/reasoning-can-be-restored-by-correcting-a-few-decision-tokens.md"
+  },
+  {
+    "arxiv_id": "2605.16819",
+    "version": 1,
+    "title": "AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents",
+    "authors": [
+      "Sharareh Younesian",
+      "Wenwen Ouyang",
+      "Sina Rafati",
+      "Mehdi Rezagholizadeh",
+      "Sharon Zhou"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16819",
+    "pdf_url": "https://arxiv.org/pdf/2605.16819v1",
+    "github_url": "",
+    "published": "2026-05-16",
+    "tags": [
+      "LLM Agent",
+      "代码Agent",
+      "Agent评测基准",
+      "GPU内核优化",
+      "泛化能力测试",
+      "多智能体对比"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/16/agentkernelarena-generalization-aware-benchmarking-of-gpu-kernel-optimization-ag.md"
+  },
+  {
+    "arxiv_id": "2605.16962",
+    "version": 1,
+    "title": "OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics",
+    "authors": [
+      "Jinjie Shen",
+      "Zheng Huang",
+      "Yuchen Zhang",
+      "Yujiao Wu",
+      "Yaxiong Wang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.16962",
+    "pdf_url": "https://arxiv.org/pdf/2605.16962v1",
+    "github_url": "https://github.com/shen8424/OmniVL-Guard-Pro",
+    "published": "2026-05-16",
+    "tags": [
+      "Tool-Augmented Agent",
+      "Vision-Language Forensics",
+      "Reinforcement Learning",
+      "Multi-modal Agent",
+      "Zero-shot Generalization"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/16/omnivl-guard-pro-a-tool-augmented-agent-for-omnibus-vision-language-forensics.md"
+  }
+]
