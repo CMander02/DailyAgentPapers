@@ -1,0 +1,517 @@
+[
+  {
+    "arxiv_id": "2605.23904",
+    "version": 1,
+    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "authors": [
+      "Yifan Yang",
+      "Ziyang Gong",
+      "Weiquan Huang",
+      "Qihao Yang",
+      "Ziwei Zhou"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23904",
+    "pdf_url": "https://arxiv.org/pdf/2605.23904v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent技能优化",
+      "文本空间优化",
+      "多智能体系统",
+      "技能迁移",
+      "自我进化Agent",
+      "SWE-bench",
+      "WebArena",
+      "LLM驱动Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/22/skillopt-executive-strategy-for-self-evolving-agent-skills.md"
+  },
+  {
+    "arxiv_id": "2605.23414",
+    "version": 1,
+    "title": "When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems",
+    "authors": [
+      "Zehao Wang",
+      "Shilong Jin",
+      "Zhao Cao",
+      "Lanjun Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23414",
+    "pdf_url": "https://arxiv.org/pdf/2605.23414v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "多智能体系统",
+      "规划校准",
+      "认知偏差",
+      "信息一致性",
+      "智能体协作"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/22/when-planning-fails-despite-correct-execution-on-epistemic-calibration-for-llm-b.md"
+  },
+  {
+    "arxiv_id": "2605.23220",
+    "version": 1,
+    "title": "WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents",
+    "authors": [
+      "Zhixiang Guo",
+      "Siyuan Liang",
+      "Shi Fu",
+      "Cheng Guo",
+      "Andras Balogh"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23220",
+    "pdf_url": "https://arxiv.org/pdf/2605.23220v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "对抗攻击",
+      "World Model Agent",
+      "自主攻击搜索",
+      "鲁棒性评估",
+      "DreamerV3"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/22/wmattack-automated-attack-search-for-adversarial-evaluation-of-world-model-agent.md"
+  },
+  {
+    "arxiv_id": "2605.23218",
+    "version": 1,
+    "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+    "authors": [
+      "Bang Liu",
+      "Yongfeng Gu",
+      "Jiayi Zhang",
+      "Zhaoyang Yu",
+      "Sirui Hong"
+    ],
+    "author_count": 29,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23218",
+    "pdf_url": "https://arxiv.org/pdf/2605.23218v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent 协调协议",
+      "多智能体系统",
+      "智能体经济",
+      "社会基础设施",
+      "人机协作",
+      "安全与审计",
+      "协议设计",
+      "去中心化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/22/foundation-protocol-a-coordination-layer-for-agentic-society.md"
+  },
+  {
+    "arxiv_id": "2605.23215",
+    "version": 1,
+    "title": "FastKernels: Benchmarking GPU Kernel Generation in Production",
+    "authors": [
+      "Gabriele Oliaro",
+      "Yichao Fu",
+      "May Jiang",
+      "Owen Lu",
+      "Junli Wang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23215",
+    "pdf_url": "https://arxiv.org/pdf/2605.23215v1",
+    "github_url": "https://github.com/Snowflake-AI-Research/fastkernels",
+    "published": "2026-05-22",
+    "tags": [
+      "GPU kernel generation",
+      "agent benchmark",
+      "production alignment",
+      "code agent",
+      "LLM-based code generation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/22/fastkernels-benchmarking-gpu-kernel-generation-in-production.md"
+  },
+  {
+    "arxiv_id": "2605.23723",
+    "version": 1,
+    "title": "MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection",
+    "authors": [
+      "Zhewen Tan",
+      "Yilun Yao",
+      "Huiyan Jin",
+      "Wenhan Yu",
+      "Guoan Wang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23723",
+    "pdf_url": "https://arxiv.org/pdf/2605.23723v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent Memory",
+      "Security",
+      "Post-hoc Auditing",
+      "Causal Attribution",
+      "Anomaly Detection",
+      "Memory Poisoning Attack",
+      "LLM Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/22/memaudit-post-hoc-auditing-of-poisoned-agent-memory-via-causal-attribution-and-s.md"
+  },
+  {
+    "arxiv_id": "2605.23590",
+    "version": 1,
+    "title": "Co-ReAct: Rubrics as Step-Level Collaborators for ReAct Agents",
+    "authors": [
+      "Jiazheng Kang",
+      "Bowen Zhang",
+      "Zixin Song",
+      "Jiangwang Chen",
+      "Xiao Yang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23590",
+    "pdf_url": "https://arxiv.org/pdf/2605.23590v1",
+    "github_url": "https://github.com/ZBWpro/Co-ReAct",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent决策与规划",
+      "推理时指导",
+      "ReAct框架",
+      "多步推理",
+      "搜索增强Agent",
+      "评分规则生成",
+      "GRPO优化"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/22/co-react-rubrics-as-step-level-collaborators-for-react-agents.md"
+  },
+  {
+    "arxiv_id": "2605.23382",
+    "version": 1,
+    "title": "From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning",
+    "authors": [
+      "Ranxu zhang",
+      "zeyang li",
+      "Jiacheng Huang",
+      "Rui Zhang",
+      "Xiaozhou Xu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23382",
+    "pdf_url": "https://arxiv.org/pdf/2605.23382v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Personalized Agent",
+      "Agentic Reinforcement Learning",
+      "Preference Optimization",
+      "Policy Optimization",
+      "Skill Memory",
+      "Multi-Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/22/from-correctness-to-preference-a-framework-for-personalized-agentic-reinforcemen.md"
+  },
+  {
+    "arxiv_id": "2605.23296",
+    "version": 1,
+    "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
+    "authors": [
+      "Musa Cim",
+      "Burak Topcu",
+      "Chita Das",
+      "Mahmut Taylan Kandemir"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23296",
+    "pdf_url": "https://arxiv.org/pdf/2605.23296v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "LLM Agent Serving",
+      "Context Window Management",
+      "Parallel Compaction",
+      "Multi-hop QA",
+      "Long-Context Dialogue",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/22/parallel-context-compaction-for-long-horizon-llm-agent-serving.md"
+  },
+  {
+    "arxiv_id": "2605.23899",
+    "version": 1,
+    "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+    "authors": [
+      "Zisu Huang",
+      "Jingwen Xu",
+      "Yifan Yang",
+      "Ziyang Gong",
+      "Qihao Yang"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23899",
+    "pdf_url": "https://arxiv.org/pdf/2605.23899v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent技能提取与消费",
+      "多智能体评估",
+      "负迁移分析",
+      "元技能",
+      "LLM驱动的技能重用"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/from-raw-experience-to-skill-consumption-a-systematic-study-of-model-generated-a.md"
+  },
+  {
+    "arxiv_id": "2605.23772",
+    "version": 1,
+    "title": "Agentic Proving for Program Verification",
+    "authors": [
+      "Alessandro Sosso",
+      "Akhil Arora",
+      "Bas Spitters"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LO",
+      "cs.PL",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23772",
+    "pdf_url": "https://arxiv.org/pdf/2605.23772v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agentic Theorem Proving",
+      "Program Verification",
+      "LLM Agent",
+      "Agentic Framework",
+      "Formal Verification",
+      "Lean 4",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/agentic-proving-for-program-verification.md"
+  },
+  {
+    "arxiv_id": "2605.23657",
+    "version": 1,
+    "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+    "authors": [
+      "Jiahao Ying",
+      "Boxian Ai",
+      "Wei Tang",
+      "Siyuan Liu",
+      "Yixin Cao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23657",
+    "pdf_url": "https://arxiv.org/pdf/2605.23657v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "LLM Agent",
+      "Agent Skill Evaluation",
+      "Skill-Augmented Agent",
+      "Open-Source Skill Ecosystem",
+      "Automatic Evaluation Framework"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/openskilleval-automatically-auditing-the-open-skill-ecosystem-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2605.23574",
+    "version": 1,
+    "title": "Push Your Agent: Measuring and Enforcing Quantitative Goal Persistence in Long-Horizon LLM Agents",
+    "authors": [
+      "Yuandao Cai",
+      "Yuzhang Zhu",
+      "Liyou Gao",
+      "Wensheng Tang",
+      "Shengchao Qin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23574",
+    "pdf_url": "https://arxiv.org/pdf/2605.23574v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "Agent评测",
+      "长期任务",
+      "目标持久性",
+      "工具使用",
+      "工作单元追踪",
+      "状态追踪"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/push-your-agent-measuring-and-enforcing-quantitative-goal-persistence-in-long-ho.md"
+  },
+  {
+    "arxiv_id": "2605.23311",
+    "version": 1,
+    "title": "DART: Semantic Recoverability for Structured Tool Agents",
+    "authors": [
+      "Ke Yang",
+      "Panpan Li",
+      "Zonghan Wu",
+      "Kejin Xu",
+      "Huaxi Huang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23311",
+    "pdf_url": "https://arxiv.org/pdf/2605.23311v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Error Recovery",
+      "Runtime Framework",
+      "Semantic Correctness"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/dart-semantic-recoverability-for-structured-tool-agents.md"
+  },
+  {
+    "arxiv_id": "2605.23200",
+    "version": 1,
+    "title": "Adaptive Mass-Segmented KV Compression for Long-Context Reasoning",
+    "authors": [
+      "Junzhe Yang",
+      "Xiaoyu Shen"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23200",
+    "pdf_url": "https://arxiv.org/pdf/2605.23200v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "KV Cache Compression",
+      "Long-Context Reasoning",
+      "LLM Inference",
+      "Attention Mechanism",
+      "Memory Management"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/22/adaptive-mass-segmented-kv-compression-for-long-context-reasoning.md"
+  },
+  {
+    "arxiv_id": "2605.23384",
+    "version": 1,
+    "title": "Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals",
+    "authors": [
+      "Sirui Chen",
+      "Lei Xu",
+      "Yuying Zhao",
+      "Yutian Chen",
+      "Yu Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23384",
+    "pdf_url": "https://arxiv.org/pdf/2605.23384v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "LLM reasoning",
+      "reinforcement learning",
+      "reward design",
+      "metacognition",
+      "process reward model",
+      "RLVR",
+      "reasoning trajectory optimization"
+    ],
+    "relevance_score": 7.8,
+    "md_path": "data/2026/05/22/metacognition-as-reward-reinforcing-llm-reasoning-via-knowledge-and-regulation-s.md"
+  },
+  {
+    "arxiv_id": "2605.23243",
+    "version": 1,
+    "title": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
+    "authors": [
+      "Vivek Dahiya",
+      "Sunny Nehra",
+      "Vipul Dholariya",
+      "Bhavik Shangari",
+      "Chandra Khatri"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.23243",
+    "pdf_url": "https://arxiv.org/pdf/2605.23243v1",
+    "github_url": "",
+    "published": "2026-05-22",
+    "tags": [
+      "网络安全Agent",
+      "Agent基准测试",
+      "领域专用模型",
+      "漏洞检测",
+      "渗透测试",
+      "LLM评估"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/22/are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model.md"
+  }
+]
