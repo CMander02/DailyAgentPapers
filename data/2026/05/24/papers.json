@@ -1,0 +1,504 @@
+[
+  {
+    "arxiv_id": "2605.25188",
+    "version": 1,
+    "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs",
+    "authors": [
+      "Yi Li",
+      "Songtao Wei",
+      "Dongming Jiang",
+      "Zhichun Guo",
+      "Qiannan Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25188",
+    "pdf_url": "https://arxiv.org/pdf/2605.25188v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "Multi-Agent LLM",
+      "Controlled Communication",
+      "Belief Distribution",
+      "Error Propagation Mitigation",
+      "Reasoning Benchmark"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/24/darkforest-less-talk-higher-accuracy-for-multi-agent-llms.md"
+  },
+  {
+    "arxiv_id": "2605.24949",
+    "version": 1,
+    "title": "APT-Agent: Automated Penetration Testing using Large Language Models",
+    "authors": [
+      "William Guanting Li",
+      "Alsharif Abuadbba",
+      "Kristen Moore",
+      "Dan Dongseong Kim"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24949",
+    "pdf_url": "https://arxiv.org/pdf/2605.24949v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent",
+      "Cybersecurity Agent",
+      "Penetration Testing",
+      "Command Rectification",
+      "Memory Architecture",
+      "Automated Exploitation",
+      "Multi-step Planning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/24/apt-agent-automated-penetration-testing-using-large-language-models.md"
+  },
+  {
+    "arxiv_id": "2605.24941",
+    "version": 1,
+    "title": "Memory-Induced Tool-Drift in LLM Agents",
+    "authors": [
+      "Mahavir Dabas",
+      "Jihyun Jeong",
+      "Ming Jin",
+      "Ruoxi Jia"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24941",
+    "pdf_url": "https://arxiv.org/pdf/2605.24941v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent安全",
+      "Agent记忆系统",
+      "工具使用",
+      "模型鲁棒性",
+      "Agent评测基准",
+      "多智能体安全",
+      "对抗攻击",
+      "生产系统Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/05/24/memory-induced-tool-drift-in-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2605.24785",
+    "version": 1,
+    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+    "authors": [
+      "Yubo Li",
+      "Yidi Miao",
+      "Haotian Shen",
+      "Yuxin Liu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24785",
+    "pdf_url": "https://arxiv.org/pdf/2605.24785v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "多模态Web Agent",
+      "在线技能蒸馏",
+      "效率优化",
+      "任务规划",
+      "工具使用",
+      "缓存感知",
+      "视觉压缩"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/05/24/pando-efficient-multimodal-ai-agents-via-online-skill-distillation.md"
+  },
+  {
+    "arxiv_id": "2605.25233",
+    "version": 1,
+    "title": "Meta-Agent: From Task Descriptions to Verified Multi-Agent Systems",
+    "authors": [
+      "Andy Xu",
+      "Yu-Wing Tai"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25233",
+    "pdf_url": "https://arxiv.org/pdf/2605.25233v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "Multi-Agent Systems",
+      "Task Planning",
+      "Verification",
+      "Code Generation",
+      "Error Recovery",
+      "Agent Architecture"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/24/meta-agent-from-task-descriptions-to-verified-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2605.25200",
+    "version": 1,
+    "title": "GroupTravelBench: Benchmarking LLM Agents on Multi-Person Travel Planning",
+    "authors": [
+      "Xiang Cheng",
+      "Yulan Hu",
+      "Lulu Zheng",
+      "Zheng Pan",
+      "Xin Li"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25200",
+    "pdf_url": "https://arxiv.org/pdf/2605.25200v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent Benchmark",
+      "Multi-Agent Planning",
+      "Tool-Use",
+      "Multi-User Coordination",
+      "Travel Planning Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/24/grouptravelbench-benchmarking-llm-agents-on-multi-person-travel-planning.md"
+  },
+  {
+    "arxiv_id": "2605.25160",
+    "version": 1,
+    "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking",
+    "authors": [
+      "Guohong Liu",
+      "Jialei Ye",
+      "Pengzhi Gao",
+      "Wei Liu",
+      "Jian Luan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25160",
+    "pdf_url": "https://arxiv.org/pdf/2605.25160v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "Mobile GUI Agent",
+      "Benchmark",
+      "LLM",
+      "Synthetic Environment",
+      "Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/24/simuwob-simulating-real-world-mobile-apps-for-fast-and-faithful-gui-agent-benchm.md"
+  },
+  {
+    "arxiv_id": "2605.24900",
+    "version": 1,
+    "title": "ProActor: Timing-Aware Reinforcement Learning for Proactive Task Scheduling Agents",
+    "authors": [
+      "Lei Ding",
+      "Bin He",
+      "Chenguang Wang",
+      "Yang Liu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24900",
+    "pdf_url": "https://arxiv.org/pdf/2605.24900v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "proactive agent",
+      "reinforcement learning",
+      "task scheduling agent",
+      "timing-aware RL",
+      "GRPO",
+      "RL training infrastructure"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/24/proactor-timing-aware-reinforcement-learning-for-proactive-task-scheduling-agent.md"
+  },
+  {
+    "arxiv_id": "2605.24812",
+    "version": 1,
+    "title": "CoRe-Code: Collaborative Reinforcement Learning for Code Generation",
+    "authors": [
+      "Zhihao Dou",
+      "Qinjian Zhao",
+      "Zhongwei Wan",
+      "Xiaoyu Xia",
+      "Sumon Biswas"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24812",
+    "pdf_url": "https://arxiv.org/pdf/2605.24812v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "多智能体协作",
+      "代码生成",
+      "强化学习",
+      "角色专业化",
+      "GRPO",
+      "规划-编码范式",
+      "协调对齐"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/05/24/core-code-collaborative-reinforcement-learning-for-code-generation.md"
+  },
+  {
+    "arxiv_id": "2605.25246",
+    "version": 1,
+    "title": "FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization",
+    "authors": [
+      "Minwei Kong",
+      "Chonghe Jiang",
+      "Ao Qu",
+      "Wenbin Ouyang",
+      "Zhaoming Zeng"
+    ],
+    "author_count": 27,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25246",
+    "pdf_url": "https://arxiv.org/pdf/2605.25246v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent",
+      "代码生成Agent",
+      "科学Agent",
+      "Agent评测基准",
+      "优化算法设计"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/24/frontieror-benchmarking-llms-capacity-for-efficient-algorithm-design-in-large-sc.md"
+  },
+  {
+    "arxiv_id": "2605.25198",
+    "version": 1,
+    "title": "Hide to Guide: Learning via Semantic Masking",
+    "authors": [
+      "Ruitao Liu",
+      "Qinghao Hu",
+      "Alex Hu",
+      "Yecheng Wu",
+      "Shang Yang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25198",
+    "pdf_url": "https://arxiv.org/pdf/2605.25198v1",
+    "github_url": "https://github.com/mit-han-lab/SMEPO",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent训练",
+      "专家引导强化学习",
+      "语义掩码",
+      "奖励伪造防御",
+      "多领域推理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/24/hide-to-guide-learning-via-semantic-masking.md"
+  },
+  {
+    "arxiv_id": "2605.25133",
+    "version": 1,
+    "title": "Trust but Verify: Prover-Verifier Deliberation for Selective LLM Prediction",
+    "authors": [
+      "João Sedoc",
+      "Baotong Zhang",
+      "Dean Foster"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25133",
+    "pdf_url": "https://arxiv.org/pdf/2605.25133v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "选择性预测",
+      "交互式证明",
+      "验证器-证明器协议",
+      "推理时协议",
+      "多智能体辩论",
+      "置信度验证"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/24/trust-but-verify-prover-verifier-deliberation-for-selective-llm-prediction.md"
+  },
+  {
+    "arxiv_id": "2605.24828",
+    "version": 1,
+    "title": "Test-Time Deep Thinking to Explore Implicit Rules",
+    "authors": [
+      "Wentong Chen",
+      "Xin Cong",
+      "Zhong Zhang",
+      "Yaxi Lu",
+      "Siyuan Zhao"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24828",
+    "pdf_url": "https://arxiv.org/pdf/2605.24828v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM Agent",
+      "隐式规则推理",
+      "Test-Time 推理",
+      "强化学习训练",
+      "智能体规划"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/24/test-time-deep-thinking-to-explore-implicit-rules.md"
+  },
+  {
+    "arxiv_id": "2605.24794",
+    "version": 1,
+    "title": "DUEL: Adversarial Self-Play for Multimodal Reasoning",
+    "authors": [
+      "Lin Qiu",
+      "Hanqing Zeng",
+      "Yao Liu",
+      "Bingjun Sun",
+      "Guangdeng Liao"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24794",
+    "pdf_url": "https://arxiv.org/pdf/2605.24794v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "多模态推理",
+      "自对弈强化学习",
+      "视觉语言模型",
+      "对抗训练",
+      "无监督后训练"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/05/24/duel-adversarial-self-play-for-multimodal-reasoning.md"
+  },
+  {
+    "arxiv_id": "2605.24953",
+    "version": 1,
+    "title": "Towards Multi-Turn Dialog Systems for Industrial Asset Operations and Maintenance",
+    "authors": [
+      "Chengrui Li",
+      "Rujing Li",
+      "Yitong Bai",
+      "Rui Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24953",
+    "pdf_url": "https://arxiv.org/pdf/2605.24953v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "Multi-Agent",
+      "Tool Use",
+      "Industrial Agent",
+      "Multi-Turn Dialog",
+      "System Profiling"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/05/24/towards-multi-turn-dialog-systems-for-industrial-asset-operations-and-maintenanc.md"
+  },
+  {
+    "arxiv_id": "2605.25030",
+    "version": 1,
+    "title": "MimirRAG: A Multi-Agent RAG Framework for Financial Data Retrieval with Metadata Integration",
+    "authors": [
+      "Magnus Samuelsen",
+      "Wilmer Nyström",
+      "Somnath Mazumdar",
+      "Mansoor Hussain",
+      "Mikkel Strange"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.25030",
+    "pdf_url": "https://arxiv.org/pdf/2605.25030v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "多智能体RAG",
+      "金融领域Agent",
+      "Agent工作流",
+      "元数据集成",
+      "查询规划"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/24/mimirrag-a-multi-agent-rag-framework-for-financial-data-retrieval-with-metadata.md"
+  },
+  {
+    "arxiv_id": "2605.24834",
+    "version": 1,
+    "title": "Reflect-Guard: Enhancing LLM Safeguards against Adversarial Prompts via Logical Self-Reflection",
+    "authors": [
+      "Lixing Lin",
+      "Juli You",
+      "Yue Li",
+      "Luyun Lin",
+      "Yiqing Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.24834",
+    "pdf_url": "https://arxiv.org/pdf/2605.24834v1",
+    "github_url": "",
+    "published": "2026-05-24",
+    "tags": [
+      "LLM安全",
+      "对抗性提示",
+      "自我反思",
+      "参数高效微调",
+      "安全分类器",
+      "链式思维推理"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/05/24/reflect-guard-enhancing-llm-safeguards-against-adversarial-prompts-via-logical-s.md"
+  }
+]
