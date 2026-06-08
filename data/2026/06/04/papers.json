@@ -578,6 +578,99 @@
     "md_path": "data/2026/06/04/aura-intent-directed-probing-for-implicit-need-surfacing-in-situated-llm-agents.md"
   },
   {
+    "arxiv_id": "2606.06741",
+    "version": 1,
+    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+    "authors": [
+      "Zhiling Yan",
+      "Dingjie Song",
+      "Hanrong Zhang",
+      "Wei Liang",
+      "Yuxuan Zhang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06741",
+    "pdf_url": "https://arxiv.org/pdf/2606.06741v1",
+    "github_url": "https://github.com/OpenLAIR/OpenSkill",
+    "published": "2026-06-04",
+    "tags": [
+      "Self-Evolution",
+      "Open-World Agent",
+      "Skill Acquisition",
+      "Verification Anchors",
+      "Transferable Skills",
+      "Agent Training",
+      "No-Supervision Learning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/04/openskill-open-world-self-evolution-for-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2606.06566",
+    "version": 1,
+    "title": "NTILC: Neural Tool Invocation via Learned Compression",
+    "authors": [
+      "Andrew Krikorian",
+      "Yayuan Li",
+      "Jason J. Corso"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06566",
+    "pdf_url": "https://arxiv.org/pdf/2606.06566v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "工具调用",
+      "工具选择",
+      "检索增强",
+      "嵌入空间",
+      "函数调用",
+      "上下文节约",
+      "延迟优化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/04/ntilc-neural-tool-invocation-via-learned-compression.md"
+  },
+  {
+    "arxiv_id": "2606.06560",
+    "version": 1,
+    "title": "MacArena: Benchmarking Computer Use Agents on an Online macOS Environment",
+    "authors": [
+      "Victor Muryn",
+      "Maksym Shamrai",
+      "Sofiia Mazepa",
+      "Yehor Khodysko"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06560",
+    "pdf_url": "https://arxiv.org/pdf/2606.06560v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "GUI Agent",
+      "Benchmark",
+      "Computer-Use Agent",
+      "Multi-Platform Evaluation",
+      "macOS"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/04/macarena-benchmarking-computer-use-agents-on-an-online-macos-environment.md"
+  },
+  {
     "arxiv_id": "2606.06054",
     "version": 1,
     "title": "Beyond Similarity: Trustworthy Memory Search for Personal AI Agents",
@@ -1411,6 +1504,93 @@
     "md_path": "data/2026/06/04/adk-arena-evaluating-agent-development-kits-via-llm-as-a-developer.md"
   },
   {
+    "arxiv_id": "2606.06474",
+    "version": 1,
+    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+    "authors": [
+      "Paul Jünger",
+      "Justin Lovelace",
+      "Linxi Zhao",
+      "Dongyoung Go",
+      "Kilian Q. Weinberger"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06474",
+    "pdf_url": "https://arxiv.org/pdf/2606.06474v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "Retrieval-Augmented Generation",
+      "Diffusion Language Model",
+      "Dynamic RAG",
+      "Discrete Diffusion",
+      "Question Answering"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/04/self-augmenting-retrieval-for-diffusion-language-models.md"
+  },
+  {
+    "arxiv_id": "2606.06240",
+    "version": 1,
+    "title": "TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory",
+    "authors": [
+      "Ziming Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.DB",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06240",
+    "pdf_url": "https://arxiv.org/pdf/2606.06240v1",
+    "github_url": "https://github.com/ZenAlexa/toki-bitemporal-memory",
+    "published": "2026-06-04",
+    "tags": [
+      "LLM Agent Memory",
+      "Contradiction Resolution",
+      "Bitemporal Data",
+      "Write-time Concurrency Control",
+      "Provenance",
+      "Memory Persistence"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/04/toki-a-bitemporal-operator-algebra-for-contradiction-resolution-in-llm-agent-per.md"
+  },
+  {
+    "arxiv_id": "2606.06545",
+    "version": 1,
+    "title": "Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration",
+    "authors": [
+      "Dutao Zhang",
+      "Liaotian"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06545",
+    "pdf_url": "https://arxiv.org/pdf/2606.06545v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "多智能体架构",
+      "企业Agent",
+      "MCP编排",
+      "治理与策略执行",
+      "工具使用",
+      "检索增强生成",
+      "审计回溯"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/04/queen-bee-agents-a-beespec-centered-architecture-for-governed-enterprise-mcp-orc.md"
+  },
+  {
     "arxiv_id": "2606.06388",
     "version": 1,
     "title": "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
@@ -1587,6 +1767,32 @@
     "md_path": "data/2026/06/04/zero-apt-a-closed-loop-adversarial-framework-for-llm-driven-automated-penetratio.md"
   },
   {
+    "arxiv_id": "2606.06708",
+    "version": 1,
+    "title": "Signal-Driven Observation for Long-Horizon Web Agents",
+    "authors": [
+      "Shubham Gaur",
+      "Ian Lane"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06708",
+    "pdf_url": "https://arxiv.org/pdf/2606.06708v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "Web Agent",
+      "Observation Compression",
+      "Long-Horizon Agent",
+      "DOM Processing",
+      "Agent Architecture"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/04/signal-driven-observation-for-long-horizon-web-agents.md"
+  },
+  {
     "arxiv_id": "2606.06399",
     "version": 1,
     "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
@@ -1731,5 +1937,124 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/06/04/scivisagentskills-design-and-evaluation-of-agent-skills-for-scientific-data-anal.md"
+  },
+  {
+    "arxiv_id": "2606.05901",
+    "version": 1,
+    "title": "Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)",
+    "authors": [
+      "Christopher J. Wedge",
+      "Joshua Stutter",
+      "Danny Dixon",
+      "Jacek Cała"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.05901",
+    "pdf_url": "https://arxiv.org/pdf/2606.05901v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "RAG",
+      "Graph-based RAG",
+      "Hallucination Mitigation",
+      "Complex QA",
+      "Agentic System",
+      "Tool Use",
+      "Wikipedia QA Benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/04/reducing-hallucinations-in-complex-question-answering-using-simple-graph-based-r.md"
+  },
+  {
+    "arxiv_id": "2606.05658",
+    "version": 1,
+    "title": "Agent-Orchestrated Adaptive RAG: A Comparative Study on Structured and Multi-Hop Retrieval",
+    "authors": [
+      "Anuj Maharjan",
+      "Devinder Kaur",
+      "Richard Molyet"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.05658",
+    "pdf_url": "https://arxiv.org/pdf/2606.05658v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "Agent-Orchestrated RAG",
+      "Adaptive Retrieval",
+      "Query Decomposition",
+      "Multi-Hop Reasoning",
+      "Self-Reflection",
+      "Agent for RAG"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/04/agent-orchestrated-adaptive-rag-a-comparative-study-on-structured-and-multi-hop.md"
+  },
+  {
+    "arxiv_id": "2606.05559",
+    "version": 1,
+    "title": "CLaaS: Continual learning as a service for sample efficient online learning",
+    "authors": [
+      "Kion Fallah",
+      "Silen Naihin",
+      "Barak Widawsky",
+      "Qingqing Mao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.05559",
+    "pdf_url": "https://arxiv.org/pdf/2606.05559v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "LLM Agent",
+      "Continual Learning",
+      "Experience Replay",
+      "Online Adaptation",
+      "Sample Efficiency",
+      "Agent System"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/04/claas-continual-learning-as-a-service-for-sample-efficient-online-learning.md"
+  },
+  {
+    "arxiv_id": "2606.05563",
+    "version": 1,
+    "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
+    "authors": [
+      "Taewon Yun",
+      "Hyeonseong Park",
+      "Jeonghwan Choi",
+      "Hayoon Park",
+      "Yeeun Choi"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.05563",
+    "pdf_url": "https://arxiv.org/pdf/2606.05563v1",
+    "github_url": "",
+    "published": "2026-06-04",
+    "tags": [
+      "LLM Agent评估",
+      "多智能体调解",
+      "社会认知适应",
+      "众包测试",
+      "Agent基准测试"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/04/socrates-towards-reliable-automated-evaluation-of-proactive-llm-mediation-across.md"
   }
 ]

@@ -1,0 +1,698 @@
+[
+  {
+    "arxiv_id": "2606.07512",
+    "version": 1,
+    "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+    "authors": [
+      "Cong Chen",
+      "Guo Gan",
+      "Kaixiang Ji",
+      "ChaoYang Zhang",
+      "Zhen Yang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07512",
+    "pdf_url": "https://arxiv.org/pdf/2606.07512v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Agentic Retrieval",
+      "Hierarchical Graph Memory",
+      "Long Video Understanding",
+      "Vision-Language Model",
+      "Perception-Decoupling",
+      "Reasoning-Action Loop",
+      "Plug-and-Play Framework",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/memdreamer-decoupling-perception-and-reasoning-for-long-video-understanding-via.md"
+  },
+  {
+    "arxiv_id": "2606.07513",
+    "version": 1,
+    "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+    "authors": [
+      "Xintao Wang",
+      "Sirui Zheng",
+      "Hongqiu Wu",
+      "Weiyuan Li",
+      "Jen-tse Huang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07513",
+    "pdf_url": "https://arxiv.org/pdf/2606.07513v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "多智能体系统",
+      "智能体社会模拟",
+      "长时间模拟",
+      "LLM训练",
+      "生命周期学习",
+      "社交行为涌现",
+      "角色扮演基准"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/agentopia-long-term-life-simulation-and-learning-in-agent-societies.md"
+  },
+  {
+    "arxiv_id": "2606.07462",
+    "version": 1,
+    "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
+    "authors": [
+      "Jiayu Wang",
+      "Weijiang Lv",
+      "Bowen Fu",
+      "Jing Fu",
+      "Jiayi Song"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07462",
+    "pdf_url": "https://arxiv.org/pdf/2606.07462v1",
+    "github_url": "https://github.com/AARR-bench/AARRI-bench",
+    "published": "2026-06-05",
+    "tags": [
+      "Agent评测基准",
+      "科研Agent",
+      "前沿模型评估",
+      "Agent框架比较",
+      "研究自动化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/act-as-a-real-researcher-a-suite-of-benchmarks-evaluating-frontier-llms-and-agen.md"
+  },
+  {
+    "arxiv_id": "2606.07367",
+    "version": 1,
+    "title": "Self-evolving LLM agents with in-distribution Optimization",
+    "authors": [
+      "Yudi Zhang",
+      "Meng Fang",
+      "Zhenfang Chen",
+      "Mykola Pechenizkiy"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07367",
+    "pdf_url": "https://arxiv.org/pdf/2606.07367v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LLM Agent",
+      "Credit Assignment",
+      "Process Reward",
+      "Self-Evolution",
+      "Implicit Q-Learning",
+      "Reinforcement Learning",
+      "Interactive Environments"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/self-evolving-llm-agents-with-in-distribution-optimization.md"
+  },
+  {
+    "arxiv_id": "2606.07316",
+    "version": 1,
+    "title": "Hierarchical Certified Semantic Commitment for Byzantine-Resilient LLM-Agent Collaboration",
+    "authors": [
+      "Haoran Xu",
+      "Lei Zhang",
+      "Iadh Ounis",
+      "Xianbin Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.DC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07316",
+    "pdf_url": "https://arxiv.org/pdf/2606.07316v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "多智能体协作",
+      "拜占庭容错",
+      "语义共识",
+      "LLM Agent 安全",
+      "分层认证",
+      "BFT协议",
+      "Agent 鲁棒性"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/hierarchical-certified-semantic-commitment-for-byzantine-resilient-llm-agent-col.md"
+  },
+  {
+    "arxiv_id": "2606.07297",
+    "version": 1,
+    "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
+    "authors": [
+      "Shaoqiu Zhang",
+      "Yuhang Wang",
+      "Jialiang Liang",
+      "Yuling Shi",
+      "Wenhao Zeng"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.SE",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07297",
+    "pdf_url": "https://arxiv.org/pdf/2606.07297v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "代码Agent",
+      "Agent评测基准",
+      "仓库探索",
+      "代码定位",
+      "上下文检索",
+      "SWE-bench",
+      "多语言",
+      "Agent能力评估"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/swe-explore-benchmarking-how-coding-agents-explore-repositories.md"
+  },
+  {
+    "arxiv_id": "2606.07131",
+    "version": 1,
+    "title": "MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills",
+    "authors": [
+      "Wenbo Guo",
+      "Wei Zeng",
+      "Chengwei Liu",
+      "Xiaojun Jia",
+      "Yijia Xu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07131",
+    "pdf_url": "https://arxiv.org/pdf/2606.07131v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Agent安全",
+      "恶意技能检测",
+      "基准测试",
+      "供应链攻击",
+      "代码注入",
+      "提示注入",
+      "红蓝对抗",
+      "多模态检测"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/malskillbench-a-runtime-verified-benchmark-of-malicious-agent-skills.md"
+  },
+  {
+    "arxiv_id": "2606.06976",
+    "version": 1,
+    "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+    "authors": [
+      "Yijin Zhou",
+      "Linqian Zeng",
+      "Xiaoya Lu",
+      "Wenyuan Xie",
+      "Dongrui Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06976",
+    "pdf_url": "https://arxiv.org/pdf/2606.06976v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Reinforcement Learning",
+      "Uncertainty Quantification",
+      "Decision Making",
+      "Multi-turn Interaction",
+      "Reward Design"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/exploring-agentic-tool-calling-decisions-via-uncertainty-aligned-reinforcement-l.md"
+  },
+  {
+    "arxiv_id": "2606.06787",
+    "version": 1,
+    "title": "AdMem: Advanced Memory for Task-solving Agents",
+    "authors": [
+      "Runzhe Wang",
+      "Huilin Lu",
+      "Shengjie Liu",
+      "Li Dong",
+      "Jason Zhu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06787",
+    "pdf_url": "https://arxiv.org/pdf/2606.06787v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LLM Agent",
+      "Memory Architecture",
+      "Multi-Agent System",
+      "Task Planning",
+      "Procedural Memory",
+      "Episodic Memory",
+      "Semantic Memory",
+      "Agent Scalability",
+      "Long-Horizon Tasks",
+      "Autonomous Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/05/admem-advanced-memory-for-task-solving-agents.md"
+  },
+  {
+    "arxiv_id": "2606.07054",
+    "version": 1,
+    "title": "TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents",
+    "authors": [
+      "Vijitha Mittapalli",
+      "Shreyaa Jayant Dani",
+      "Satya Srujana Pilli",
+      "Snigdha Ansu",
+      "Mohammadreza Teymoorianfard"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07054",
+    "pdf_url": "https://arxiv.org/pdf/2606.07054v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LLM Agent安全",
+      "恶意行为检测",
+      "长轨迹监控",
+      "证据聚合",
+      "Agent鲁棒性",
+      "Trajectory Monitoring",
+      "Multi-step Reasoning"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/06/05/trace-trajectory-reasoning-through-adaptive-cross-step-evidence-aggregation-for.md"
+  },
+  {
+    "arxiv_id": "2606.07412",
+    "version": 1,
+    "title": "Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills",
+    "authors": [
+      "Chuan Xiao",
+      "Zhengbo Jiao",
+      "Shaobo Wang",
+      "Wei Wang",
+      "Bing Zhao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07412",
+    "pdf_url": "https://arxiv.org/pdf/2606.07412v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "代码Agent",
+      "自我进化",
+      "数据合成",
+      "SWE-bench",
+      "Agent训练",
+      "闭环框架",
+      "工具使用"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/05/socratic-swe-self-evolving-coding-agents-via-trace-derived-agent-skills.md"
+  },
+  {
+    "arxiv_id": "2606.07402",
+    "version": 1,
+    "title": "M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions",
+    "authors": [
+      "Zhengjun Huang",
+      "Wenxuan Liu",
+      "Zhoujin Tian",
+      "Wei Chen",
+      "Junle Chen"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07402",
+    "pdf_url": "https://arxiv.org/pdf/2606.07402v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "多模态智能体",
+      "评估基准",
+      "对话记忆",
+      "跨模态推理",
+      "MLLM",
+      "查询引导"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/05/m3exam-benchmarking-multimodal-memory-for-realistic-user-agent-interactions.md"
+  },
+  {
+    "arxiv_id": "2606.07379",
+    "version": 1,
+    "title": "Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests",
+    "authors": [
+      "Thanawat Lodkaew",
+      "Johannes Ackermann",
+      "Soichiro Nishimori",
+      "Nontawat Charoenphakdee",
+      "Masashi Sugiyama"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "stat.ME"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07379",
+    "pdf_url": "https://arxiv.org/pdf/2606.07379v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Agent安全",
+      "Agent评估",
+      "作弊检测",
+      "代码Agent",
+      "评测基准",
+      "奖励设计"
+    ],
+    "relevance_score": 9,
+    "md_path": "data/2026/06/05/do-coding-agents-deceive-us-detecting-and-preventing-cheating-via-capped-evaluat.md"
+  },
+  {
+    "arxiv_id": "2606.07299",
+    "version": 1,
+    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+    "authors": [
+      "Lingyong Yan",
+      "Can Xu",
+      "Yukun Zhao",
+      "Wenxuan Li",
+      "Qingyang Chen"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07299",
+    "pdf_url": "https://arxiv.org/pdf/2606.07299v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Multi-Agent System",
+      "Deep Research",
+      "Tool-Use Agent",
+      "Long-Horizon Planning",
+      "Recursive Search",
+      "Auditable Agent",
+      "Dynamic Planning",
+      "Test-Time Optimization",
+      "Agent Benchmark"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/05/dumate-deepresearch-an-auditable-multi-agent-system-with-recursive-search-and-ru.md"
+  },
+  {
+    "arxiv_id": "2606.07074",
+    "version": 1,
+    "title": "SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating",
+    "authors": [
+      "Zequn Xie",
+      "Junjie Wang",
+      "Dan Yang",
+      "Jie Feng",
+      "Yue Shen"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07074",
+    "pdf_url": "https://arxiv.org/pdf/2606.07074v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Web Agent",
+      "训练效率",
+      "奖励塑造",
+      "自适应奖励门控",
+      "帕累托最优",
+      "监督微调",
+      "强化学习",
+      "工具使用",
+      "推理效率"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/05/slimsearcher-training-efficiency-aware-web-agents-via-adaptive-reward-gating.md"
+  },
+  {
+    "arxiv_id": "2606.07489",
+    "version": 1,
+    "title": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
+    "authors": [
+      "Jeremy Yang",
+      "Kate Zyskowski",
+      "Noah Yonack",
+      "Jerry Ma"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "econ.GN"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07489",
+    "pdf_url": "https://arxiv.org/pdf/2606.07489v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "AI Agent",
+      "知识工作自动化",
+      "自主性",
+      "效率",
+      "Perplexity产品分析",
+      "任务分解",
+      "工作流加速",
+      "用户研究",
+      "实证分析"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/05/how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope.md"
+  },
+  {
+    "arxiv_id": "2606.07027",
+    "version": 1,
+    "title": "StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents",
+    "authors": [
+      "Haojie Hao",
+      "Longkun Hao",
+      "Yihang Lou",
+      "Yan Bai",
+      "Zhenyang Li"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07027",
+    "pdf_url": "https://arxiv.org/pdf/2606.07027v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "GUI Agent",
+      "Process Reward Model",
+      "Reinforcement Learning",
+      "Entity Tracking",
+      "多智能体协作"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/05/stainflow-entity-stain-tracking-and-evidence-linking-for-process-rewards-in-gui.md"
+  },
+  {
+    "arxiv_id": "2606.07020",
+    "version": 1,
+    "title": "MADE: Beyond Scoring via a Multilingual Agentic Diagnosing Engine for Fine-Grained Evaluation Insights",
+    "authors": [
+      "Yilun Liu",
+      "Miao Zhang",
+      "Shimin Tao",
+      "Minggui He",
+      "Chunguang Zhao"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07020",
+    "pdf_url": "https://arxiv.org/pdf/2606.07020v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "多语言Agent",
+      "Agent评估与诊断",
+      "多Agent协作",
+      "细粒度分析",
+      "报告生成"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/05/made-beyond-scoring-via-a-multilingual-agentic-diagnosing-engine-for-fine-graine.md"
+  },
+  {
+    "arxiv_id": "2606.06923",
+    "version": 1,
+    "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+    "authors": [
+      "M. Danish Lim",
+      "I. Danial Bin Sharudin",
+      "Wen Han Chen",
+      "Cedric Lim",
+      "Laura Wynter"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06923",
+    "pdf_url": "https://arxiv.org/pdf/2606.06923v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Agent Orchestration",
+      "Declarative Agent",
+      "Tool-Using Agent",
+      "Skill Files",
+      "Knowledge-Grounded Workflow",
+      "Dec-POMDP Analysis",
+      "Retrieval Bottleneck"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/05/declarative-skills-for-ai-agents-in-knowledge-grounded-tool-use-workflows.md"
+  },
+  {
+    "arxiv_id": "2606.06893",
+    "version": 1,
+    "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+    "authors": [
+      "Yuyang Zhang",
+      "Xinyuan Han",
+      "Xudong Jiang",
+      "Run Wang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06893",
+    "pdf_url": "https://arxiv.org/pdf/2606.06893v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "Skill Creation",
+      "Agent Workflow",
+      "Agent Memory/Planning",
+      "Autonomous Agent",
+      "LLM Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/05/workflow-to-skill-skill-creation-via-routing-workflow-semantics-attachments-deco.md"
+  },
+  {
+    "arxiv_id": "2606.07000",
+    "version": 1,
+    "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
+    "authors": [
+      "Shizhe Xiang",
+      "Ke An",
+      "Wenlong Yu",
+      "Yue Liu",
+      "Jian Luan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07000",
+    "pdf_url": "https://arxiv.org/pdf/2606.07000v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LVLM推理优化",
+      "策略蒸馏",
+      "多模态推理",
+      "RLVR",
+      "Token级监督",
+      "奖励稀疏性",
+      "教师-学生框架",
+      "上下文学习"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/05/teaching-the-way-not-the-answer-privileged-tutoring-distillation-for-multimodal.md"
+  },
+  {
+    "arxiv_id": "2606.06960",
+    "version": 1,
+    "title": "Tree-of-Experience: A Structured Experience-Management Solution for Self-Evolving Agents under Low-Repetition and Implicit-Reward Environments",
+    "authors": [
+      "Zihao Deng",
+      "Yining Zhu",
+      "Leiming Wang",
+      "Jingfei Lu",
+      "Junbo Wang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.06960",
+    "pdf_url": "https://arxiv.org/pdf/2606.06960v1",
+    "github_url": "",
+    "published": "2026-06-05",
+    "tags": [
+      "LLM Agent",
+      "自我进化",
+      "经验管理",
+      "基准测试",
+      "金融情感预测",
+      "工具使用"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/05/tree-of-experience-a-structured-experience-management-solution-for-self-evolving.md"
+  }
+]
