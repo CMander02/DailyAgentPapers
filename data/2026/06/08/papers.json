@@ -1,0 +1,1124 @@
+[
+  {
+    "arxiv_id": "2606.09826",
+    "version": 1,
+    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "authors": [
+      "Mingxian Lin",
+      "Shengju Qian",
+      "Yuqi Liu",
+      "Yi-Hua Huang",
+      "Yiyu Wang"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09826",
+    "pdf_url": "https://arxiv.org/pdf/2606.09826v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "游戏智能体",
+      "VLM智能体",
+      "基准测试",
+      "自主提示优化",
+      "多轮交互",
+      "智能体评测"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/omnigamearena-a-unified-ue5-benchmark-for-vlm-game-agents-with-improvement-dynam.md"
+  },
+  {
+    "arxiv_id": "2606.09764",
+    "version": 1,
+    "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+    "authors": [
+      "Lawrence Keunho Jang",
+      "Mareks Woodside",
+      "Geronimo Carom",
+      "Andrew Keunwoo Jang",
+      "Jing Yu Koh"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09764",
+    "pdf_url": "https://arxiv.org/pdf/2606.09764v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "手机智能体",
+      "个性化智能体",
+      "iOS模拟器基准",
+      "多应用任务",
+      "记忆与个性化",
+      "视觉语言模型"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/iosworld-a-benchmark-for-personally-intelligent-phone-agents.md"
+  },
+  {
+    "arxiv_id": "2606.09711",
+    "version": 1,
+    "title": "Proxy Reward Internalization and Mechanistic Exploitation: A Learned Precursor to Reward Hacking and Its Generalization",
+    "authors": [
+      "Mohammad Beigi",
+      "Ming Jin",
+      "Lifu Huang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09711",
+    "pdf_url": "https://arxiv.org/pdf/2606.09711v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "reward hacking",
+      "proxy reward internalization",
+      "mechanistic exploitation",
+      "RL agents",
+      "alignment",
+      "early-warning signal",
+      "code agents",
+      "pytest",
+      "activation-level probing",
+      "generalization"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/proxy-reward-internalization-and-mechanistic-exploitation-a-learned-precursor-to.md"
+  },
+  {
+    "arxiv_id": "2606.09730",
+    "version": 1,
+    "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
+    "authors": [
+      "Pu Ning",
+      "Quan Chen",
+      "Kun Tao",
+      "Xinyu Tang",
+      "Tianshu Wang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09730",
+    "pdf_url": "https://arxiv.org/pdf/2606.09730v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "多智能体协作",
+      "任务分解与委派",
+      "长程推理",
+      "监督微调",
+      "数据合成",
+      "搜索智能体",
+      "Benchmark评估"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/searchswarm-towards-delegation-intelligence-in-agentic-llms-for-long-horizon-dee.md"
+  },
+  {
+    "arxiv_id": "2606.09669",
+    "version": 1,
+    "title": "SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks",
+    "authors": [
+      "Hongcheng Gao",
+      "Hailong Qu",
+      "Jingyi Tang",
+      "Jiahao Wang",
+      "Zihao Huang"
+    ],
+    "author_count": 21,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09669",
+    "pdf_url": "https://arxiv.org/pdf/2606.09669v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "空间推理基准",
+      "多模态智能体",
+      "交互式理解",
+      "任务成功率",
+      "具身智能",
+      "主动探索",
+      "长期规划"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/spatialworld-benchmarking-interactive-spatial-reasoning-of-multimodal-agents-in.md"
+  },
+  {
+    "arxiv_id": "2606.09613",
+    "version": 1,
+    "title": "AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving",
+    "authors": [
+      "Rakibul Hasan Rajib",
+      "Mengxin Zheng",
+      "Qian Lou"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09613",
+    "pdf_url": "https://arxiv.org/pdf/2606.09613v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "多轮LLM Agent服务",
+      "硬件感知模拟器",
+      "KV缓存管理",
+      "工具调度",
+      "服务调度策略",
+      "系统优化"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/agentservesim-a-hardware-aware-simulator-for-multi-turn-llm-agent-serving.md"
+  },
+  {
+    "arxiv_id": "2606.09461",
+    "version": 1,
+    "title": "H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions",
+    "authors": [
+      "Shiping Zhu",
+      "Yibo Yang",
+      "Zhengyang Wang",
+      "Tiancheng Shen",
+      "Dandan Guo"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09461",
+    "pdf_url": "https://arxiv.org/pdf/2606.09461v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "多模态记忆基准",
+      "人机交互",
+      "多轮对话",
+      "记忆召回",
+      "记忆推理",
+      "记忆应用",
+      "LLM Agent评估",
+      "多模态Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/h2hmem-a-multimodal-memory-benchmark-for-agents-in-human-human-interactions.md"
+  },
+  {
+    "arxiv_id": "2606.09447",
+    "version": 1,
+    "title": "AliyunConsoleAgent: Training Web Agents in Real-World Cloud Environments via Distillation and Reinforcement Learning",
+    "authors": [
+      "Bojie Rong",
+      "Zheyu Shen",
+      "Qiaoping Wang",
+      "Pengfei Kang",
+      "Yang Xu"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09447",
+    "pdf_url": "https://arxiv.org/pdf/2606.09447v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Web Agent",
+      "Cloud Console Agent",
+      "SFT+RL Training",
+      "GRPO",
+      "Outcome Reward Model",
+      "Documentation Verification",
+      "Distillation",
+      "Reinforcement Learning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/aliyunconsoleagent-training-web-agents-in-real-world-cloud-environments-via-dist.md"
+  },
+  {
+    "arxiv_id": "2606.09426",
+    "version": 1,
+    "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
+    "authors": [
+      "Wanli Li",
+      "Bowen Zhou",
+      "Yunyao Yu",
+      "Zhou Xu",
+      "Yifan Yang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09426",
+    "pdf_url": "https://arxiv.org/pdf/2606.09426v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Computer-Use Agent",
+      "Benchmark",
+      "Hybrid Interface",
+      "GUI Agent",
+      "CLI Agent",
+      "Long-Horizon Task",
+      "Evaluation",
+      "Trajectory-Aware Judge",
+      "Code Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr.md"
+  },
+  {
+    "arxiv_id": "2606.09399",
+    "version": 1,
+    "title": "RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour",
+    "authors": [
+      "Radeen Mostafa",
+      "Sawradip Saha"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09399",
+    "pdf_url": "https://arxiv.org/pdf/2606.09399v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Web Agent",
+      "Autonomous Navigation",
+      "Perception-Cognition-Action",
+      "Multi-System Architecture",
+      "Vision-First Pipeline",
+      "Cognitive Contract",
+      "Mind2Web Benchmark"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/runagent-superbrowser-a-theory-of-autonomous-web-navigation-grounded-in-human-br.md"
+  },
+  {
+    "arxiv_id": "2606.09365",
+    "version": 1,
+    "title": "Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory",
+    "authors": [
+      "Haoran Sun",
+      "Wenjie Li",
+      "Yujie Zhang",
+      "Zekai Lin",
+      "Fanrui Zhang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09365",
+    "pdf_url": "https://arxiv.org/pdf/2606.09365v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "医疗Agent",
+      "技能记忆",
+      "自进化框架",
+      "临床决策",
+      "多分支记忆库",
+      "持续学习",
+      "可迁移技能"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel.md"
+  },
+  {
+    "arxiv_id": "2606.09198",
+    "version": 1,
+    "title": "MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation",
+    "authors": [
+      "Yongrui Liu",
+      "Deyi Xiong"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09198",
+    "pdf_url": "https://arxiv.org/pdf/2606.09198v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "Social Simulation",
+      "Multi-Agent",
+      "Memory Mechanism",
+      "Goal-Path Planning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/mass-deep-research-for-social-sciences-with-memory-augmented-social-simulation.md"
+  },
+  {
+    "arxiv_id": "2606.09122",
+    "version": 1,
+    "title": "Autonomous Incident Resolution at Hyperscale: An Agentic AI Architecture for Network Operations",
+    "authors": [
+      "Arun Malik"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.ET",
+      "cs.MA",
+      "cs.NI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09122",
+    "pdf_url": "https://arxiv.org/pdf/2606.09122v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "多智能体协作",
+      "网络运维",
+      "事件自动修复",
+      "工具调用",
+      "安全边界",
+      "生产部署"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/autonomous-incident-resolution-at-hyperscale-an-agentic-ai-architecture-for-netw.md"
+  },
+  {
+    "arxiv_id": "2606.09084",
+    "version": 1,
+    "title": "Context-Fractured Decomposition Attacks on Tool-Using LLM Agents: Exploiting Artifact Provenance Gaps",
+    "authors": [
+      "Xiaofeng Lin",
+      "Yukai Yang",
+      "Daniel Guo",
+      "Sahil Arun Nale",
+      "Charles Fleming"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09084",
+    "pdf_url": "https://arxiv.org/pdf/2606.09084v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Tool-using Agent",
+      "Jailbreak Attack",
+      "Multi-step Planning",
+      "Agent Safety",
+      "Artifact Provenance",
+      "Adversarial Attack",
+      "LLM Agent Security"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/context-fractured-decomposition-attacks-on-tool-using-llm-agents-exploiting-arti.md"
+  },
+  {
+    "arxiv_id": "2606.09032",
+    "version": 1,
+    "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
+    "authors": [
+      "Yixia Li",
+      "Hongru Wang",
+      "Peng Lai",
+      "Zhiwen Ruan",
+      "He Zhu"
+    ],
+    "author_count": 16,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09032",
+    "pdf_url": "https://arxiv.org/pdf/2606.09032v1",
+    "github_url": "https://github.com/sustech-nlp/awesome-text-world-models",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM-based Agent",
+      "Text World Model",
+      "World Model Construction",
+      "Planning with World Model",
+      "Agent Training Data Synthesis",
+      "Agent Evaluation",
+      "Code-as-WM",
+      "LLM-as-WM"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/bridging-the-agent-world-gap-text-world-models-for-llm-based-agents.md"
+  },
+  {
+    "arxiv_id": "2606.08982",
+    "version": 1,
+    "title": "Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care",
+    "authors": [
+      "Aiyuan Yang",
+      "Chengfeng Dou",
+      "Da Pan",
+      "Dian Wang",
+      "Fan Yang"
+    ],
+    "author_count": 27,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08982",
+    "pdf_url": "https://arxiv.org/pdf/2606.08982v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "医疗Agent",
+      "多智能体协作",
+      "临床级系统",
+      "工具使用",
+      "记忆管理",
+      "强化学习",
+      "多模态感知",
+      "事实性检索"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/baichuan-m4-a-clinical-grade-medical-agent-system-for-continuous-care.md"
+  },
+  {
+    "arxiv_id": "2606.08952",
+    "version": 1,
+    "title": "AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models",
+    "authors": [
+      "Shouwei Ruan",
+      "Bin Wang",
+      "Zhenyu Wu",
+      "Qihui Zhu",
+      "Yuxiang Zhang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08952",
+    "pdf_url": "https://arxiv.org/pdf/2606.08952v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM/VLM Agent",
+      "Spatial Reasoning",
+      "Cognition Mapping",
+      "Tool-Use",
+      "Reinforcement Learning",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/08/allospatial-agentic-harness-framework-for-spatial-reasoning-in-foundation-models.md"
+  },
+  {
+    "arxiv_id": "2606.09483",
+    "version": 1,
+    "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
+    "authors": [
+      "Tianxiang Fei",
+      "Mingyang Song",
+      "Mao Zheng",
+      "Xiang Yu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09483",
+    "pdf_url": "https://arxiv.org/pdf/2606.09483v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "记忆系统",
+      "双过程理论",
+      "认知架构",
+      "长期记忆",
+      "自我进化",
+      "信念追踪",
+      "模式抽象"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/06/08/memory-beyond-recall-a-dual-process-cognitive-memory-system-for-self-evolving-ll.md"
+  },
+  {
+    "arxiv_id": "2606.09549",
+    "version": 1,
+    "title": "SecureClaw: Clawing Back Control of LLM Agents",
+    "authors": [
+      "Yuhan Ma",
+      "Stefan Schmid"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09549",
+    "pdf_url": "https://arxiv.org/pdf/2606.09549v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Agent安全",
+      "双边界架构",
+      "授权机制",
+      "明文隔离",
+      "工具使用Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/08/secureclaw-clawing-back-control-of-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2606.09071",
+    "version": 1,
+    "title": "REFLECT: Intervention-Supported Error Attribution for Silent Failures in LLM Agent Traces",
+    "authors": [
+      "Xiaofeng Lin",
+      "Yingxu Wang",
+      "Tung Sum Thomas Kwok",
+      "Daniel Guo",
+      "Sahil Arun Nale"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09071",
+    "pdf_url": "https://arxiv.org/pdf/2606.09071v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "错误归因",
+      "静默失败",
+      "痕迹定位",
+      "对比证据"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/08/reflect-intervention-supported-error-attribution-for-silent-failures-in-llm-agen.md"
+  },
+  {
+    "arxiv_id": "2606.09037",
+    "version": 1,
+    "title": "A Multi-Agent System for IPMSM Design Optimization via an FEA-AI Hybrid Approach",
+    "authors": [
+      "Jinseong Han",
+      "Sunwoong Yang",
+      "Namwoo Kang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09037",
+    "pdf_url": "https://arxiv.org/pdf/2606.09037v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "多智能体系统",
+      "基于LLM的Agent",
+      "检索增强生成(RAG)",
+      "工程优化Agent",
+      "有限元分析",
+      "不确定性感知优化",
+      "领域知识集成"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/08/a-multi-agent-system-for-ipmsm-design-optimization-via-an-fea-ai-hybrid-approach.md"
+  },
+  {
+    "arxiv_id": "2606.09774",
+    "version": 1,
+    "title": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
+    "authors": [
+      "Matthew Ho",
+      "Brian Liu",
+      "Jixuan Chen",
+      "Audrey Wang",
+      "Lianhui Qin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09774",
+    "pdf_url": "https://arxiv.org/pdf/2606.09774v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "Coding Agent",
+      "Scientific Simulation",
+      "Grounding",
+      "Self-Evolution",
+      "Agent-Tool Interface",
+      "Memory",
+      "Validation",
+      "Multi-Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/siga-self-evolving-coding-agent-adapters-for-scientific-simulation.md"
+  },
+  {
+    "arxiv_id": "2606.09556",
+    "version": 1,
+    "title": "AI Scientists Are Only as Good as Their Evidence: A Stratified Ablation of Proprietary Data and Reasoning Skills in Drug-Asset Valuation",
+    "authors": [
+      "Yinan Wang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09556",
+    "pdf_url": "https://arxiv.org/pdf/2606.09556v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Scientific Agent",
+      "Drug Discovery Agent",
+      "Knowledge-Intensive Agent",
+      "Ablation Study",
+      "Proprietary Data",
+      "Agent Benchmarking",
+      "Decision-Making Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/ai-scientists-are-only-as-good-as-their-evidence-a-stratified-ablation-of-propri.md"
+  },
+  {
+    "arxiv_id": "2606.09498",
+    "version": 1,
+    "title": "Self-Harness: Harnesses That Improve Themselves",
+    "authors": [
+      "Hangfan Zhang",
+      "Shao Zhang",
+      "Kangcong Li",
+      "Chen Zhang",
+      "Yang Chen"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09498",
+    "pdf_url": "https://arxiv.org/pdf/2606.09498v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "Self-Improvement",
+      "Harness Design",
+      "Weakness Mining",
+      "Agent Architecture",
+      "Test-Time Adaptation",
+      "Model-Specific Optimization"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/self-harness-harnesses-that-improve-themselves.md"
+  },
+  {
+    "arxiv_id": "2606.09371",
+    "version": 1,
+    "title": "Capability-Aligned Hierarchical Learning for Tool-Augmented LLMs",
+    "authors": [
+      "Haotong Yang",
+      "Ting Long",
+      "Yi Chang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09371",
+    "pdf_url": "https://arxiv.org/pdf/2606.09371v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Tool-Augmented LLM",
+      "Hierarchical Learning",
+      "RLVR (Reinforcement Learning with Verifiable Reward)",
+      "Planner-Executor Alignment",
+      "API-Calling",
+      "Agent Training"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/capability-aligned-hierarchical-learning-for-tool-augmented-llms.md"
+  },
+  {
+    "arxiv_id": "2606.09138",
+    "version": 1,
+    "title": "Claw-R1: A Step-Level Data Middleware System for Agentic Reinforcement Learning",
+    "authors": [
+      "Daoyu Wang",
+      "Mingyue Cheng",
+      "Qingchuan Li",
+      "Shuo Yu",
+      "Jie Ouyang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09138",
+    "pdf_url": "https://arxiv.org/pdf/2606.09138v1",
+    "github_url": "https://github.com/AgentR1/Claw-R1",
+    "published": "2026-06-08",
+    "tags": [
+      "Agent训练数据管理",
+      "Agent强化学习",
+      "中间件系统",
+      "多智能体交互轨迹管理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/claw-r1-a-step-level-data-middleware-system-for-agentic-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2606.09038",
+    "version": 1,
+    "title": "Personalization Meets Safety:Mechanisms,Risks,and Mitigations in Personalized LLMs",
+    "authors": [
+      "Yanyan Luo",
+      "Xue Han",
+      "Ruiqiao Bai",
+      "Xin Huang",
+      "Yitong Wang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09038",
+    "pdf_url": "https://arxiv.org/pdf/2606.09038v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM安全",
+      "个性化对齐",
+      "多智能体安全",
+      "评测基准",
+      "Agent框架安全"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/personalization-meets-safetymechanismsrisksand-mitigations-in-personalized-llms.md"
+  },
+  {
+    "arxiv_id": "2606.08960",
+    "version": 1,
+    "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
+    "authors": [
+      "Ziqian Zhong",
+      "Ivgeni Segal",
+      "Ivan Bercovich",
+      "Shashwat Saxena",
+      "Kexun Zhang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08960",
+    "pdf_url": "https://arxiv.org/pdf/2606.08960v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Agent安全",
+      "Agent评测",
+      "多智能体系统",
+      "红蓝对抗",
+      "奖励破解"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/hardening-agent-benchmarks-with-adversarial-hacker-fixer-loops.md"
+  },
+  {
+    "arxiv_id": "2606.08919",
+    "version": 1,
+    "title": "Oversight Has a Capacity: Calibrating Agent Guards to a Subjective, Fatiguing Human",
+    "authors": [
+      "Emre Turan"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08919",
+    "pdf_url": "https://arxiv.org/pdf/2606.08919v1",
+    "github_url": "https://github.com/turangenesis/headroom",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent安全",
+      "Human-in-the-loop",
+      "疲劳模型",
+      "选择性分类",
+      "风险评估",
+      "资源分配",
+      "门控机制",
+      "对抗攻击"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/08/oversight-has-a-capacity-calibrating-agent-guards-to-a-subjective-fatiguing-huma.md"
+  },
+  {
+    "arxiv_id": "2606.09751",
+    "version": 1,
+    "title": "Collaborative Human-Agent Protocol (CHAP)",
+    "authors": [
+      "Arsalan Shahid",
+      "Gordon Suttie",
+      "Philip Black"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09751",
+    "pdf_url": "https://arxiv.org/pdf/2606.09751v1",
+    "github_url": "https://github.com/BrightbeamAI/chap",
+    "published": "2026-06-08",
+    "tags": [
+      "Human-Agent Collaboration",
+      "Agent Protocol",
+      "Multi-Agent Systems",
+      "Accountability",
+      "Audit"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/08/collaborative-human-agent-protocol-chap.md"
+  },
+  {
+    "arxiv_id": "2606.09748",
+    "version": 1,
+    "title": "Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback",
+    "authors": [
+      "Rishabh Sabharwal",
+      "Hongru Wang",
+      "Amos Storkey",
+      "Jeff Z. Pan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09748",
+    "pdf_url": "https://arxiv.org/pdf/2606.09748v1",
+    "github_url": "https://github.com/sabharwalrishabh/Multi-Turn-Evaluation-of-DRAs",
+    "published": "2026-06-08",
+    "tags": [
+      "Deep Research Agent",
+      "Multi-Turn Evaluation",
+      "Process-Level Feedback",
+      "Self-Reflection",
+      "Research Gap Inference"
+    ],
+    "relevance_score": 8,
+    "md_path": "data/2026/06/08/multi-turn-evaluation-of-deep-research-agents-under-process-level-feedback.md"
+  },
+  {
+    "arxiv_id": "2606.09563",
+    "version": 1,
+    "title": "PRISM: Recovering Instruction Sets from Language Model Activations",
+    "authors": [
+      "Gilad Gressel",
+      "Rahul Pankajakshan",
+      "Julia Diament",
+      "Efim Hudis",
+      "Krishnashree Achuthan"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09563",
+    "pdf_url": "https://arxiv.org/pdf/2606.09563v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "Agent安全",
+      "激活监控",
+      "指令提取",
+      "提示注入检测",
+      "Agent可解释性"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/08/prism-recovering-instruction-sets-from-language-model-activations.md"
+  },
+  {
+    "arxiv_id": "2606.09380",
+    "version": 1,
+    "title": "Reasoning Arena: Trace Tournaments When Verifiable Rewards Fall Short",
+    "authors": [
+      "Han Zhou",
+      "Adam X. Yang",
+      "Laurence Aitchison",
+      "Anna Korhonen",
+      "Albert Q. Jiang"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09380",
+    "pdf_url": "https://arxiv.org/pdf/2606.09380v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM推理增强",
+      "可验证奖励强化学习",
+      "奖励信号设计",
+      "Trace锦标赛",
+      "智能体训练",
+      "竞技数学",
+      "代码生成"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/08/reasoning-arena-trace-tournaments-when-verifiable-rewards-fall-short.md"
+  },
+  {
+    "arxiv_id": "2606.09428",
+    "version": 1,
+    "title": "Guide Me Out: A Framework to Benchmark VLM Operators Communication in Crisis Scenarios",
+    "authors": [
+      "Giacomo Gonella",
+      "Stefano Menini",
+      "Marco Guerini"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09428",
+    "pdf_url": "https://arxiv.org/pdf/2606.09428v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "视觉语言模型",
+      "危机通信",
+      "智能体引导",
+      "基准评估",
+      "多智能体协作",
+      "环境表征",
+      "通信策略"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/08/guide-me-out-a-framework-to-benchmark-vlm-operators-communication-in-crisis-scen.md"
+  },
+  {
+    "arxiv_id": "2606.09421",
+    "version": 1,
+    "title": "What Should a Skill Remember? Quality-Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents",
+    "authors": [
+      "Qinghua Xing",
+      "Yinda Chen",
+      "Yaping Jin",
+      "Zhenhe Wu",
+      "Bohan Lin"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09421",
+    "pdf_url": "https://arxiv.org/pdf/2606.09421v1",
+    "github_url": "https://github.com/1Reminding/Skill_EE",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "Skill Rewriting",
+      "Cost-Aware Optimization",
+      "Prompt Compression",
+      "Agent Skills",
+      "Quality-Cost Trade-off"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/08/what-should-a-skill-remember-quality-cost-trade-offs-in-cost-aware-skill-rewriti.md"
+  },
+  {
+    "arxiv_id": "2606.09118",
+    "version": 1,
+    "title": "ComplexConstraints and Beyond: Expert Rubrics for RLVR",
+    "authors": [
+      "Sushant Mehta",
+      "Liudas Panavas",
+      "Edwin Chen"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09118",
+    "pdf_url": "https://arxiv.org/pdf/2606.09118v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "RLVR",
+      "instruction following",
+      "rubric evaluation",
+      "training signal",
+      "enterprise agentic tasks",
+      "ComplexConstraints",
+      "benchmark"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/08/complexconstraints-and-beyond-expert-rubrics-for-rlvr.md"
+  },
+  {
+    "arxiv_id": "2606.09039",
+    "version": 1,
+    "title": "Agent Economics: An Entropy-Controlled Pluralistic Alignment Framework for Preventing Artificial Hivemind in Autonomous Agents",
+    "authors": [
+      "Cheonsu Jeong"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.09039",
+    "pdf_url": "https://arxiv.org/pdf/2606.09039v1",
+    "github_url": "",
+    "published": "2026-06-08",
+    "tags": [
+      "LLM Agent",
+      "多智能体系统",
+      "对齐",
+      "蜂群思维",
+      "熵控制",
+      "可验证执行"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/08/agent-economics-an-entropy-controlled-pluralistic-alignment-framework-for-preven.md"
+  }
+]

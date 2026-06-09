@@ -1,0 +1,612 @@
+[
+  {
+    "arxiv_id": "2606.08367",
+    "version": 1,
+    "title": "Emergence World: A Platform for Evaluating Long-Horizon Multi-Agent Autonomy",
+    "authors": [
+      "Deepak Akkil",
+      "Ravi Kokku",
+      "Karthik Vikram",
+      "Tamer Abuelsaad",
+      "Aditya Vempaty"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08367",
+    "pdf_url": "https://arxiv.org/pdf/2606.08367v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "多智能体系统",
+      "长期评估",
+      "模拟平台",
+      "民主治理",
+      "异构智能体",
+      "行为漂移",
+      "跨厂商研究"
+    ],
+    "relevance_score": 10.0,
+    "md_path": "data/2026/06/06/emergence-world-a-platform-for-evaluating-long-horizon-multi-agent-autonomy.md"
+  },
+  {
+    "arxiv_id": "2606.08340",
+    "version": 1,
+    "title": "Benchmarking Open-Ended Multi-Agent Coordination in Language Agents",
+    "authors": [
+      "Kale-ab Abebe Tessera",
+      "Andras Szecsenyi",
+      "Cameron Barker",
+      "Alexander Rutherford",
+      "Davide Paglieri"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08340",
+    "pdf_url": "https://arxiv.org/pdf/2606.08340v1",
+    "github_url": "https://github.com/alem-world/alem-env",
+    "published": "2026-06-06",
+    "tags": [
+      "多智能体协调",
+      "基准评测",
+      "开放世界",
+      "Craftax",
+      "JAX",
+      "LLM-Agent",
+      "通信",
+      "角色分配",
+      "零样本评估",
+      "MARL"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/benchmarking-open-ended-multi-agent-coordination-in-language-agents.md"
+  },
+  {
+    "arxiv_id": "2606.08146",
+    "version": 1,
+    "title": "SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection",
+    "authors": [
+      "Yichen Chen",
+      "Siying Li",
+      "Yuhang Liang",
+      "Lijun Wang",
+      "Renyang Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08146",
+    "pdf_url": "https://arxiv.org/pdf/2606.08146v1",
+    "github_url": "https://github.com/yichenC1c/SAGE",
+    "published": "2026-06-06",
+    "tags": [
+      "多智能体框架",
+      "欺诈检测",
+      "LLM智能体",
+      "自反思",
+      "数据诊断树",
+      "马尔可夫决策过程"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/sage-an-llm-driven-self-reflective-agentic-framework-for-fraud-detection.md"
+  },
+  {
+    "arxiv_id": "2606.08068",
+    "version": 1,
+    "title": "DICE: Entropy-Regularized Equilibrium Selection for Stable Multi-Agent LLM Coordination",
+    "authors": [
+      "Yi Xie",
+      "Zhanke Zhou",
+      "Chentao Cao",
+      "Bo Liu",
+      "Bo Han"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08068",
+    "pdf_url": "https://arxiv.org/pdf/2606.08068v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Multi-Agent LLM Systems",
+      "Equilibrium Selection",
+      "Entropy Regularization",
+      "Game Theory",
+      "Coordination",
+      "Prompt Control",
+      "Fine-Tuning",
+      "Multi-Agent Coordination",
+      "LLM Agents",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/dice-entropy-regularized-equilibrium-selection-for-stable-multi-agent-llm-coordi.md"
+  },
+  {
+    "arxiv_id": "2606.08049",
+    "version": 1,
+    "title": "SKILL.nb: Selective Formalization and Gated Execution for Durable Agent Workflows",
+    "authors": [
+      "Amine El Hattami",
+      "Nicolas Chapados",
+      "Christopher Pal"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08049",
+    "pdf_url": "https://arxiv.org/pdf/2606.08049v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Web Agent",
+      "Agent Workflow",
+      "Memory/Experience Reuse",
+      "Lifecycle Management",
+      "Gate-Conditioned Execution",
+      "Selective Formalization",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/skillnb-selective-formalization-and-gated-execution-for-durable-agent-workflows.md"
+  },
+  {
+    "arxiv_id": "2606.08021",
+    "version": 1,
+    "title": "Semantic Quorum Assurance: Collective Certification for Non-Deterministic AI Infrastructure",
+    "authors": [
+      "Jun He",
+      "Deying Yu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08021",
+    "pdf_url": "https://arxiv.org/pdf/2606.08021v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "多智能体协作",
+      "分布式系统",
+      "AI安全",
+      "共识协议",
+      "智能体验证",
+      "CloudOps"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/semantic-quorum-assurance-collective-certification-for-non-deterministic-ai-infr.md"
+  },
+  {
+    "arxiv_id": "2606.07943",
+    "version": 1,
+    "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
+    "authors": [
+      "Haochang Hao",
+      "Dehai Min",
+      "Zhifang Zhang",
+      "Yunbei Zhang",
+      "Miao Xu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07943",
+    "pdf_url": "https://arxiv.org/pdf/2606.07943v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Agent安全",
+      "技能投毒攻击",
+      "对抗攻击",
+      "LLM Agent攻击",
+      "攻击隐蔽性",
+      "位置感知攻击",
+      "Agent防御评估"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/06/poise-position-aware-undetectable-skill-injection-on-llm-agents.md"
+  },
+  {
+    "arxiv_id": "2606.08106",
+    "version": 1,
+    "title": "PACE: Anytime-Valid Acceptance Tests for Self-Evolving Agents",
+    "authors": [
+      "Zayx Shawn"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08106",
+    "pdf_url": "https://arxiv.org/pdf/2606.08106v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "self-evolving agent",
+      "commit gate",
+      "sequential hypothesis test",
+      "agent reliability",
+      "prompt-level evolution"
+    ],
+    "relevance_score": 9.2,
+    "md_path": "data/2026/06/06/pace-anytime-valid-acceptance-tests-for-self-evolving-agents.md"
+  },
+  {
+    "arxiv_id": "2606.08348",
+    "version": 1,
+    "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses",
+    "authors": [
+      "Xiaojun Wu",
+      "Cehao Yang",
+      "Honghao Liu",
+      "Xueyuan Lin",
+      "Wenjie Zhang"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08348",
+    "pdf_url": "https://arxiv.org/pdf/2606.08348v1",
+    "github_url": "https://github.com/DataArcTech/Bayesian-Agent",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "技能进化",
+      "贝叶斯后验",
+      "提示优化",
+      "工具使用",
+      "内存管理",
+      "多智能体框架",
+      "基准测试"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/06/bayesian-agent-posterior-guided-skill-evolution-for-llm-agent-harnesses.md"
+  },
+  {
+    "arxiv_id": "2606.08275",
+    "version": 1,
+    "title": "Causal Agent Replay: Counterfactual Attribution for LLM-Agent Failures",
+    "authors": [
+      "Jaineet Shah"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08275",
+    "pdf_url": "https://arxiv.org/pdf/2606.08275v1",
+    "github_url": "https://github.com/jaineet17/causal-agent-replay",
+    "published": "2026-06-06",
+    "tags": [
+      "Agent可解释性",
+      "因果归因",
+      "故障诊断",
+      "智能体步骤归因",
+      "反事实推理",
+      "Shapley值",
+      "结构化因果模型"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/06/causal-agent-replay-counterfactual-attribution-for-llm-agent-failures.md"
+  },
+  {
+    "arxiv_id": "2606.08200",
+    "version": 1,
+    "title": "Online Agent-as-a-Judge: Situation-Generating Evaluation for Interactive Agents",
+    "authors": [
+      "Hyogon Ryu",
+      "Jeonghwan Kim",
+      "Yewon Lim",
+      "Chaeun Lee",
+      "Jeongwook Kim"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08200",
+    "pdf_url": "https://arxiv.org/pdf/2606.08200v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Agent评估",
+      "多智能体交互",
+      "社会智能体",
+      "交互评估框架",
+      "LLM智能体",
+      "自动评估",
+      "情境生成"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/06/online-agent-as-a-judge-situation-generating-evaluation-for-interactive-agents.md"
+  },
+  {
+    "arxiv_id": "2606.07992",
+    "version": 1,
+    "title": "VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation",
+    "authors": [
+      "Harshil Patel",
+      "Kunal Pai"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07992",
+    "pdf_url": "https://arxiv.org/pdf/2606.07992v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "Agent安全",
+      "工具调用安全",
+      "错误路径注入",
+      "对抗攻击",
+      "LLM Agent漏洞",
+      "鲁棒性",
+      "实战评估",
+      "多模型对比"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/06/vats-exploiting-implicit-authority-in-error-path-injection-via-systematic-mutati.md"
+  },
+  {
+    "arxiv_id": "2606.08310",
+    "version": 1,
+    "title": "To Nuke or Not to Nuke: LLMs' (Missing) Ethical Reasoning and Actions in a High-Stakes Decision-Making Simulation",
+    "authors": [
+      "John Chen",
+      "Sihan Cheng",
+      "Can Gurkan",
+      "H M Abdul Fattah"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08310",
+    "pdf_url": "https://arxiv.org/pdf/2606.08310v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "伦理推理",
+      "决策模拟",
+      "多智能体",
+      "安全性评估",
+      "博弈场景",
+      "大型语言模型"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/to-nuke-or-not-to-nuke-llms-missing-ethical-reasoning-and-actions-in-a-high-stak.md"
+  },
+  {
+    "arxiv_id": "2606.08300",
+    "version": 1,
+    "title": "QueryWeaver: Reliable Multi-Tool Query Execution Planning via LLM-Based Graph Generation",
+    "authors": [
+      "Aishwarya Chakravarthy",
+      "Vidhi Kulkarni",
+      "Duen Horng Chau"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08300",
+    "pdf_url": "https://arxiv.org/pdf/2606.08300v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "Tool Use",
+      "Multi-Step Planning",
+      "Query Execution",
+      "Graph-Based Planning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/queryweaver-reliable-multi-tool-query-execution-planning-via-llm-based-graph-gen.md"
+  },
+  {
+    "arxiv_id": "2606.08234",
+    "version": 1,
+    "title": "SciTrace: Trajectory-Aware Safety Reasoning for Scientific Discovery Agents",
+    "authors": [
+      "Tanush Swaminathan",
+      "Runmin Jiang",
+      "Letian Zhang",
+      "Min Xu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08234",
+    "pdf_url": "https://arxiv.org/pdf/2606.08234v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent Safety",
+      "Scientific Discovery Agent",
+      "Safety Reasoning",
+      "Multi-step Tool Use",
+      "Agent Framework",
+      "Compositional Risk",
+      "Trajectory-Aware Verification",
+      "Safety-Intrinsic Reasoning"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/scitrace-trajectory-aware-safety-reasoning-for-scientific-discovery-agents.md"
+  },
+  {
+    "arxiv_id": "2606.08162",
+    "version": 1,
+    "title": "Silent Failure in LLM Agent Systems: The Entropy Principle and the Inevitable Disorder of Autonomous Agents",
+    "authors": [
+      "Dexing Liu"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08162",
+    "pdf_url": "https://arxiv.org/pdf/2606.08162v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent系统可靠性",
+      "熵增原理",
+      "静默失败",
+      "多智能体系统",
+      "Agent退化"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/silent-failure-in-llm-agent-systems-the-entropy-principle-and-the-inevitable-dis.md"
+  },
+  {
+    "arxiv_id": "2606.08151",
+    "version": 1,
+    "title": "Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents",
+    "authors": [
+      "Xinyu Guan",
+      "Qianyang Zhao",
+      "Yuming Deng"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08151",
+    "pdf_url": "https://arxiv.org/pdf/2606.08151v1",
+    "github_url": "https://github.com/stephen-guan-researcher/CICL",
+    "published": "2026-06-06",
+    "tags": [
+      "Tool-using LLM Agent",
+      "Context Selection",
+      "Memory Cards",
+      "Decision-Aware",
+      "SWE-bench",
+      "Agent Benchmark",
+      "Counterfactual",
+      "Context Compression",
+      "Agent Memory"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/decision-aware-memory-cards-counterfactual-inspired-context-selection-and-compre.md"
+  },
+  {
+    "arxiv_id": "2606.07995",
+    "version": 1,
+    "title": "Customer-Agent: Overcoming Context Limitations in Ultra-Long Shopping Trajectories via Tool-Augmented Agents and RLVR",
+    "authors": [
+      "Hongye Liu",
+      "Rongmei Lin",
+      "Anurag Kashyap",
+      "Hejie Cui",
+      "Ricardo Henao"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07995",
+    "pdf_url": "https://arxiv.org/pdf/2606.07995v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "Shopping Agent",
+      "Tool-Augmented Agent",
+      "RLVR",
+      "Long Context",
+      "Customer Trajectory",
+      "Code Interpreter",
+      "Benchmark"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/06/customer-agent-overcoming-context-limitations-in-ultra-long-shopping-trajectorie.md"
+  },
+  {
+    "arxiv_id": "2606.08251",
+    "version": 1,
+    "title": "Contemporary AI lacks the imagination to diverge or negate in science",
+    "authors": [
+      "Honglin Bao",
+      "Siyang Wu",
+      "Xiao Liu",
+      "Sida Li",
+      "Shiyun Cao"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08251",
+    "pdf_url": "https://arxiv.org/pdf/2606.08251v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM-as-Agent-for-Science",
+      "Hypothesis-Generation",
+      "LLM-Evaluation",
+      "Scientist-in-the-Loop",
+      "Novelty-Assessment"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/06/contemporary-ai-lacks-the-imagination-to-diverge-or-negate-in-science.md"
+  },
+  {
+    "arxiv_id": "2606.07909",
+    "version": 1,
+    "title": "MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory",
+    "authors": [
+      "Suleyman Armagan Er",
+      "Danilo Ribeiro",
+      "Yogesh Virkar",
+      "Surafel Lakew",
+      "Adi Kalyanpur"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.07909",
+    "pdf_url": "https://arxiv.org/pdf/2606.07909v1",
+    "github_url": "",
+    "published": "2026-06-06",
+    "tags": [
+      "LLM Agent",
+      "工具使用",
+      "记忆机制",
+      "反思机制"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/06/memtoolagent-overview-with-a-simple-restaurant-booking-scenario-where-the-agent.md"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "arxiv_id": "2606.08878",
+    "version": 1,
+    "title": "PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+    "authors": [
+      "Youran Sun",
+      "Xingyu Ren",
+      "Kejia Zhang",
+      "Xinpeng Liu",
+      "Jiaxuan Guo"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08878",
+    "pdf_url": "https://arxiv.org/pdf/2606.08878v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Multi-Agent Systems",
+      "Orchestration Prompting",
+      "Benchmark",
+      "LLM Evaluation",
+      "Prompt Engineering",
+      "Agent Collaboration",
+      "Role Assignment"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/07/perspectivegap-a-benchmark-for-multi-agent-orchestration-prompting.md"
+  },
+  {
+    "arxiv_id": "2606.08529",
+    "version": 1,
+    "title": "Scaffold Effects on GAIA: A Controlled Comparison",
+    "authors": [
+      "Jason Starace"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08529",
+    "pdf_url": "https://arxiv.org/pdf/2606.08529v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM Agent 评测",
+      "Agent 架构对比",
+      "Scaffold 效应",
+      "多智能体系统",
+      "工具使用",
+      "GAIA 基准",
+      "规划-执行模式",
+      "ReAct"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/07/scaffold-effects-on-gaia-a-controlled-comparison.md"
+  },
+  {
+    "arxiv_id": "2606.08671",
+    "version": 1,
+    "title": "SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History",
+    "authors": [
+      "Zhiwei Li",
+      "Yong Hu"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08671",
+    "pdf_url": "https://arxiv.org/pdf/2606.08671v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Agent Skill Evolution",
+      "Persistent Decision History",
+      "Continual Learning",
+      "Multi-Agent Collaboration",
+      "Web Agent",
+      "Deep Research Agent",
+      "Skill Refinement",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/07/skillhone-a-harness-for-continual-agent-skill-evolution-through-persistent-decis.md"
+  },
+  {
+    "arxiv_id": "2606.08531",
+    "version": 1,
+    "title": "VESTA: A Fully Automated Scenario Generation and Safety Evaluation Framework for LLM Agents",
+    "authors": [
+      "Lu Jia",
+      "Haibo Tong",
+      "Feifei Zhao",
+      "Jindong Li",
+      "Dongqi Liang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08531",
+    "pdf_url": "https://arxiv.org/pdf/2606.08531v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM Agent安全",
+      "自动化场景生成",
+      "安全评估框架",
+      "行为安全风险",
+      "Agent行为评估",
+      "基准测试",
+      "多智能体评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/07/vesta-a-fully-automated-scenario-generation-and-safety-evaluation-framework-for.md"
+  },
+  {
+    "arxiv_id": "2606.08831",
+    "version": 1,
+    "title": "Inference-Time Conformal Reasoning with Valid Factuality Control for Large Language Models",
+    "authors": [
+      "Ting Wang",
+      "Yuanjie Shi",
+      "Yan Yan",
+      "Huan Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08831",
+    "pdf_url": "https://arxiv.org/pdf/2606.08831v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM推理",
+      "置信预测",
+      "事实性控制",
+      "推理图",
+      "不确定性量化",
+      "多步推理",
+      "推理时校准"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/07/inference-time-conformal-reasoning-with-valid-factuality-control-for-large-langu.md"
+  },
+  {
+    "arxiv_id": "2606.08815",
+    "version": 1,
+    "title": "Momentum for Reasoning: Dense Intrinsic Signals in Policy Optimization",
+    "authors": [
+      "Hao Chen",
+      "Zhanming Shen",
+      "Liyao Li",
+      "Yanyu Chen",
+      "Xuhang Zhu"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08815",
+    "pdf_url": "https://arxiv.org/pdf/2606.08815v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM Agent",
+      "Reasoning Agent",
+      "Policy Optimization",
+      "Reinforcement Learning",
+      "Training Methodology"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/07/momentum-for-reasoning-dense-intrinsic-signals-in-policy-optimization.md"
+  },
+  {
+    "arxiv_id": "2606.08755",
+    "version": 1,
+    "title": "Co-Evolving Skill Generation and Policy Optimization",
+    "authors": [
+      "Zhiwei Zhang",
+      "Yudi Lin",
+      "Nikki Lijing Kuang",
+      "Linlin Wu",
+      "Xiaomin Li"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08755",
+    "pdf_url": "https://arxiv.org/pdf/2606.08755v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "技能增强强化学习",
+      "技能生成与策略优化",
+      "智能体技能验证",
+      "在线强化学习框架",
+      "策略模型作为技能生成器"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/07/co-evolving-skill-generation-and-policy-optimization.md"
+  },
+  {
+    "arxiv_id": "2606.08702",
+    "version": 1,
+    "title": "ConMem: Structured Memory-Guided Adaptation in Training-Free Multi-Agent Systems",
+    "authors": [
+      "Zhixun Tan",
+      "Qiang Chen",
+      "Tairan Huang",
+      "Xiu Su",
+      "Yi Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08702",
+    "pdf_url": "https://arxiv.org/pdf/2606.08702v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "多智能体系统",
+      "记忆管理",
+      "无训练适应",
+      "结构化记忆图",
+      "跨经验协调"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/07/conmem-structured-memory-guided-adaptation-in-training-free-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2606.08457",
+    "version": 1,
+    "title": "The Consistency Illusion: How Multi-Agent Debate Hides Reasoning Misalignment",
+    "authors": [
+      "Xiaoyang Wang",
+      "Christopher C. Yang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08457",
+    "pdf_url": "https://arxiv.org/pdf/2606.08457v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Multi-Agent Debate",
+      "Reasoning Alignment",
+      "Medical QA",
+      "Consistency Evaluation",
+      "Multi-Agent Systems"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/07/the-consistency-illusion-how-multi-agent-debate-hides-reasoning-misalignment.md"
+  },
+  {
+    "arxiv_id": "2606.08850",
+    "version": 1,
+    "title": "Intrinsic Selection and Particle Resampling for Inference-Time Scaling Beyond Domain Verifiability",
+    "authors": [
+      "Giorgio Giannone",
+      "Mustafa Eyceoz",
+      "Shabana Baig",
+      "Shivchander Sudalairaj",
+      "Anna C. Doris"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "stat.ML"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08850",
+    "pdf_url": "https://arxiv.org/pdf/2606.08850v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "推理时扩展",
+      "粒子滤波",
+      "智能体推理",
+      "输出选择",
+      "无验证域",
+      "自适应计算分配"
+    ],
+    "relevance_score": 8.2,
+    "md_path": "data/2026/06/07/intrinsic-selection-and-particle-resampling-for-inference-time-scaling-beyond-do.md"
+  },
+  {
+    "arxiv_id": "2606.08656",
+    "version": 1,
+    "title": "From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory",
+    "authors": [
+      "Yishuo Cai",
+      "Xingyu Guo",
+      "Xuancheng Huang",
+      "Jinhua Du",
+      "Can Huang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08656",
+    "pdf_url": "https://arxiv.org/pdf/2606.08656v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "LLM Agent",
+      "记忆更新",
+      "测试时学习",
+      "强化学习",
+      "多智能体博弈",
+      "GRPO",
+      "规划与推理"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/07/from-player-to-master-enhancing-test-time-learning-of-llm-agents-via-reinforceme.md"
+  },
+  {
+    "arxiv_id": "2606.08867",
+    "version": 1,
+    "title": "Building Customer Support AI Agents at 100M-User Scale: An Evaluation-Driven Framework",
+    "authors": [
+      "Aman Gupta",
+      "Kevin Rossell",
+      "Edesio Alcobaça",
+      "Jose Chrystian Lima Pacheco",
+      "Carolina Baptista de Lima"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08867",
+    "pdf_url": "https://arxiv.org/pdf/2606.08867v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Customer Support Agent",
+      "LLM Agent Evaluation",
+      "Production Agent Framework",
+      "Human-in-the-Loop",
+      "Offline-to-Online Validation"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/07/building-customer-support-ai-agents-at-100m-user-scale-an-evaluation-driven-fram.md"
+  },
+  {
+    "arxiv_id": "2606.08539",
+    "version": 1,
+    "title": "AgentTrust: A Self-Improving Trust Layer for AI-Agent Actions",
+    "authors": [
+      "Chenglin Yang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.08539",
+    "pdf_url": "https://arxiv.org/pdf/2606.08539v1",
+    "github_url": "",
+    "published": "2026-06-07",
+    "tags": [
+      "Agent安全",
+      "工具使用安全",
+      "自进化信任层",
+      "威胁检测",
+      "RAG记忆",
+      "规则蒸馏"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/07/agenttrust-a-self-improving-trust-layer-for-ai-agent-actions.md"
+  }
+]
