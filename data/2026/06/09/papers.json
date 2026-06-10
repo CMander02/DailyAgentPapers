@@ -1,0 +1,1203 @@
+[
+  {
+    "arxiv_id": "2606.11150",
+    "version": 1,
+    "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+    "authors": [
+      "Andrew Bo Liu",
+      "Samira Nedungadi",
+      "Bryce Cai",
+      "Alex Kleinman",
+      "Harmon Bhasin"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI",
+      "cs.CY"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11150",
+    "pdf_url": "https://arxiv.org/pdf/2606.11150v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "Bio-Capabilities",
+      "Biosecurity",
+      "Benchmark",
+      "Multi-agent",
+      "Dual-use",
+      "Wet-lab Validation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/abc-bench-an-agentic-bio-capabilities-benchmark-for-biosecurity.md"
+  },
+  {
+    "arxiv_id": "2606.11119",
+    "version": 1,
+    "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+    "authors": [
+      "Heming Zou",
+      "Qi Wang",
+      "Yun Qu",
+      "Yuhang Jiang",
+      "Lizhou Cai"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11119",
+    "pdf_url": "https://arxiv.org/pdf/2606.11119v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "RLVR",
+      "rollout budget allocation",
+      "multi-turn agent",
+      "tree-structured rollout",
+      "reward contrast",
+      "policy optimization",
+      "ReAct"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic-reinfo.md"
+  },
+  {
+    "arxiv_id": "2606.11070",
+    "version": 1,
+    "title": "T1-Bench: Benchmarking Multi-Scenario Agents in Real-World Domains",
+    "authors": [
+      "Genta Indra Winata",
+      "Amartya Chakraborty",
+      "Yuzhen Lin",
+      "Swasthi P Rao",
+      "Shikhhar Siingh"
+    ],
+    "author_count": 15,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11070",
+    "pdf_url": "https://arxiv.org/pdf/2606.11070v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent Benchmark",
+      "Multi-Domain Agent",
+      "Tool Use",
+      "Multi-Step Reasoning",
+      "LLM Agent Evaluation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/t1-bench-benchmarking-multi-scenario-agents-in-real-world-domains.md"
+  },
+  {
+    "arxiv_id": "2606.11045",
+    "version": 1,
+    "title": "What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents",
+    "authors": [
+      "Martin Andres Bertran",
+      "Aaron Roth",
+      "Zhiwei Steven Wu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11045",
+    "pdf_url": "https://arxiv.org/pdf/2606.11045v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM驱动的研究Agent",
+      "过拟合与泛化",
+      "智能体压缩",
+      "基准测试重用时过拟合",
+      "输出压缩",
+      "输入压缩",
+      "可复现性",
+      "策略空间复杂度"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/what-fits-into-few-tokens-doesnt-overfit-compression-and-generalization-in-ml-re.md"
+  },
+  {
+    "arxiv_id": "2606.10749",
+    "version": 1,
+    "title": "Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation",
+    "authors": [
+      "Yuchen Ling",
+      "Shengcheng Yu",
+      "Zhenyu Chen",
+      "Chunrong Fang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10749",
+    "pdf_url": "https://arxiv.org/pdf/2606.10749v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent安全",
+      "威胁建模",
+      "对抗攻防",
+      "综述/元分析",
+      "Agent评估基准",
+      "权限控制"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/toward-secure-llm-agents-threat-surfaces-attacks-defenses-and-evaluation.md"
+  },
+  {
+    "arxiv_id": "2606.10747",
+    "version": 1,
+    "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
+    "authors": [
+      "Filippo Tonini",
+      "Federico Torrielli",
+      "Anton Danholt Lautrup",
+      "Peter Schneider-Kamp",
+      "Mustafa Mert Çelikok"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10747",
+    "pdf_url": "https://arxiv.org/pdf/2606.10747v1",
+    "github_url": "https://github.com/aisilab/arbiter",
+    "published": "2026-06-09",
+    "tags": [
+      "多智能体系统",
+      "智能体安全",
+      "智能体对齐",
+      "监视与审计",
+      "LLM智能体"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/the-arbiter-agent-continually-monitoring-multi-agent-conversations-to-detect-eme.md"
+  },
+  {
+    "arxiv_id": "2606.10728",
+    "version": 1,
+    "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch",
+    "authors": [
+      "Jiale Zhao",
+      "Guoxin Chen",
+      "Fanzhe Meng",
+      "Wayne Xin Zhao",
+      "Ruihua Song"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10728",
+    "pdf_url": "https://arxiv.org/pdf/2606.10728v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Code Agent",
+      "Software Engineering Agent",
+      "Agent Training Data",
+      "Data Synthesis",
+      "Long-Horizon Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/denovoswe-scaling-long-horizon-environments-for-generating-entire-repositories-f.md"
+  },
+  {
+    "arxiv_id": "2606.10677",
+    "version": 1,
+    "title": "Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory",
+    "authors": [
+      "Suozhao Ji",
+      "Baodong Wu",
+      "Zehao Wang",
+      "Lei Xia",
+      "Qingping Li"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10677",
+    "pdf_url": "https://arxiv.org/pdf/2606.10677v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent记忆",
+      "长时记忆架构",
+      "记忆维护与检索",
+      "Agent推理",
+      "主题文档管理",
+      "迭代检索"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/infini-memory-maintainable-topic-documents-for-long-term-llm-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2606.10684",
+    "version": 1,
+    "title": "Divide and Cooperate: Role-Decomposed Multi-Agent LLM Training with Cross-Agent Learning Signals",
+    "authors": [
+      "Jaewan Park",
+      "Solbee Cho",
+      "Jay-Yoon Lee"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10684",
+    "pdf_url": "https://arxiv.org/pdf/2606.10684v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Multi-Agent Framework",
+      "Role Decomposition",
+      "Credit Assignment",
+      "LLM Training",
+      "Knowledge-Intensive QA",
+      "Cross-Agent Learning",
+      "Parameter-Efficient Fine-Tuning",
+      "Search and Reasoning"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/divide-and-cooperate-role-decomposed-multi-agent-llm-training-with-cross-agent-l.md"
+  },
+  {
+    "arxiv_id": "2606.10662",
+    "version": 1,
+    "title": "Decentralized Multi-Agent Systems with Shared Context",
+    "authors": [
+      "Yuzhen Mao",
+      "Azalia Mirhoseini"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10662",
+    "pdf_url": "https://arxiv.org/pdf/2606.10662v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "多智能体系统",
+      "去中心化协调",
+      "共享上下文",
+      "LLM智能体",
+      "SWE-bench",
+      "LongBench",
+      "任务队列",
+      "测试时扩展"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/decentralized-multi-agent-systems-with-shared-context.md"
+  },
+  {
+    "arxiv_id": "2606.10546",
+    "version": 1,
+    "title": "SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement",
+    "authors": [
+      "Srishti Gautam",
+      "Arjun Radhakrishna",
+      "Sumit Gulwani"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10546",
+    "pdf_url": "https://arxiv.org/pdf/2606.10546v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "智能体技能自动生成",
+      "技能评估与自优化",
+      "无监督框架",
+      "代码智能体",
+      "性能提升"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/skillaxe-sharpening-llm-authored-agent-skills-through-evaluation-guided-self-ref.md"
+  },
+  {
+    "arxiv_id": "2606.10423",
+    "version": 1,
+    "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
+    "authors": [
+      "Jayoo Hwang",
+      "Xiaowen Zhang",
+      "Vedant Padwal"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10423",
+    "pdf_url": "https://arxiv.org/pdf/2606.10423v1",
+    "github_url": "https://github.com/jayoohwang1/webchallenger",
+    "published": "2026-06-09",
+    "tags": [
+      "Web Agent",
+      "Agent Architecture",
+      "Memory System",
+      "Visual Language Model",
+      "LLM Agent",
+      "Open-source Model",
+      "Web Navigation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/webchallenger-a-reliable-and-efficient-generalist-web-agent.md"
+  },
+  {
+    "arxiv_id": "2606.10402",
+    "version": 1,
+    "title": "Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries",
+    "authors": [
+      "Federico Bianchi",
+      "Yongchan Kwon",
+      "Aneesh Pappu",
+      "James Zou"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10402",
+    "pdf_url": "https://arxiv.org/pdf/2606.10402v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "多智能体协作",
+      "科学发现Agent",
+      "集体智能",
+      "基准平台",
+      "数学推理Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/harnessing-the-collective-intelligence-of-ai-agents-in-the-wild-for-new-discover.md"
+  },
+  {
+    "arxiv_id": "2606.10315",
+    "version": 1,
+    "title": "Catching One in Five: LLM-as-Judge Blind Spots in Production Multi-Turn Transaction Agents",
+    "authors": [
+      "Sawyer Zhang",
+      "Alexander Wang",
+      "Sophie Lei"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10315",
+    "pdf_url": "https://arxiv.org/pdf/2606.10315v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM-as-Judge",
+      "Multi-Turn Agent",
+      "Production Agent Evaluation",
+      "Agent Defect Detection",
+      "Blind Spot Analysis",
+      "Conversational Agent",
+      "Quality Assurance"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/09/catching-one-in-five-llm-as-judge-blind-spots-in-production-multi-turn-transacti.md"
+  },
+  {
+    "arxiv_id": "2606.11078",
+    "version": 1,
+    "title": "A History-Aware Visually Grounded Critic for Computer Use Agents",
+    "authors": [
+      "Jaewoo Lee",
+      "Zaid Khan",
+      "Archiki Prasad",
+      "Justin Chih-Yao Chen",
+      "Supriyo Chakraborty"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11078",
+    "pdf_url": "https://arxiv.org/pdf/2606.11078v1",
+    "github_url": "https://github.com/G-JWLee/HiViG",
+    "published": "2026-06-09",
+    "tags": [
+      "GUI Agent",
+      "Critic Model",
+      "Visual Grounding",
+      "Test-time Intervention",
+      "Multi-modal Agent",
+      "Action Evaluation"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/09/a-history-aware-visually-grounded-critic-for-computer-use-agents.md"
+  },
+  {
+    "arxiv_id": "2606.10917",
+    "version": 1,
+    "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
+    "authors": [
+      "Xucong Wang",
+      "Ziyu Ma",
+      "Shidong Yang",
+      "Tongwen Huang",
+      "Pengkun Wang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10917",
+    "pdf_url": "https://arxiv.org/pdf/2606.10917v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "Agent 训练框架",
+      "自举式进化",
+      "环境建模",
+      "过程奖励",
+      "失败轨迹分析",
+      "多智能体协作"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/09/role-agent-bootstrapping-llm-agents-via-dual-role-evolution.md"
+  },
+  {
+    "arxiv_id": "2606.10532",
+    "version": 1,
+    "title": "ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning",
+    "authors": [
+      "Yunhan Jiang",
+      "Wenbin Duan",
+      "Shasha Guo",
+      "Liang Pang",
+      "Xiaoqian Sun"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10532",
+    "pdf_url": "https://arxiv.org/pdf/2606.10532v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "Memory",
+      "Long-Horizon Reasoning",
+      "Multi-Agent Framework",
+      "Distributed Memory"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/09/activemem-distributed-active-memory-for-long-horizon-llm-reasoning.md"
+  },
+  {
+    "arxiv_id": "2606.10507",
+    "version": 1,
+    "title": "HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning",
+    "authors": [
+      "Juncheng Diao",
+      "Zhicong Lu",
+      "Peiguang Li",
+      "Yongwei Zhou",
+      "Changyuan Tian"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10507",
+    "pdf_url": "https://arxiv.org/pdf/2606.10507v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "长期任务",
+      "分层规划",
+      "信息折叠",
+      "子目标分解",
+      "过程奖励",
+      "反思机制",
+      "LLM智能体训练"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/09/hipif-hierarchical-planning-and-information-folding-for-long-horizon-llm-agent-l.md"
+  },
+  {
+    "arxiv_id": "2606.11182",
+    "version": 1,
+    "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+    "authors": [
+      "Weixian Xu",
+      "Shilong Liu",
+      "Mengdi Wang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11182",
+    "pdf_url": "https://arxiv.org/pdf/2606.11182v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "test-time prompt learning",
+      "LLM agent",
+      "self-improving agents",
+      "multi-dataset",
+      "router-prompt co-evolution",
+      "cross-dataset interference"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/eevee-towards-test-time-prompt-learning-in-the-real-world-for-self-improving-age.md"
+  },
+  {
+    "arxiv_id": "2606.11042",
+    "version": 1,
+    "title": "Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields",
+    "authors": [
+      "Liya Zhu",
+      "Jingzhe Ding",
+      "Jian Zhang",
+      "Jianbo Xue",
+      "Shihao Liang"
+    ],
+    "author_count": 57,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11042",
+    "pdf_url": "https://arxiv.org/pdf/2606.11042v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "GUI Agent",
+      "Long-horizon Task",
+      "Benchmark",
+      "Professional Software",
+      "Workflow Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re.md"
+  },
+  {
+    "arxiv_id": "2606.10949",
+    "version": 1,
+    "title": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+    "authors": [
+      "Shelly Bensal",
+      "Axel Magnuson",
+      "Aparna Balagopalan",
+      "Daniel M. Bikel"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10949",
+    "pdf_url": "https://arxiv.org/pdf/2606.10949v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Memory-Augmented Agent",
+      "Sycophancy",
+      "LLM Safety",
+      "Agent Evaluation Benchmark",
+      "Multi-Turn Conversation",
+      "Misinformation Mitigation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/recalling-too-well-sycophancy-evaluation-and-mitigation-in-memory-augmented-mode.md"
+  },
+  {
+    "arxiv_id": "2606.10933",
+    "version": 1,
+    "title": "Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages",
+    "authors": [
+      "Aman Sharma",
+      "Sushrut Thorat",
+      "Paras Chopra"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10933",
+    "pdf_url": "https://arxiv.org/pdf/2606.10933v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM-based Coding Agent",
+      "Agent Adaptation",
+      "Metaprogramming",
+      "Unfamiliar Programming Languages",
+      "Agent Benchmarking",
+      "Agent Strategy Analysis",
+      "Multi-Agent Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/frontier-coding-agents-use-metaprogramming-to-adapt-to-unfamiliar-programming-la.md"
+  },
+  {
+    "arxiv_id": "2606.10875",
+    "version": 1,
+    "title": "Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation",
+    "authors": [
+      "Yupu Hao",
+      "Zhuoran Jin",
+      "Huanxuan Liao",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10875",
+    "pdf_url": "https://arxiv.org/pdf/2606.10875v1",
+    "github_url": "https://github.com/hypasd-art/KATE",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM工具调用",
+      "经验知识集成",
+      "推理宽度扩展",
+      "知识增强训练",
+      "工具执行框架",
+      "后训练对齐"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/pushing-the-limits-of-llm-tool-calling-via-experiential-knowledge-integration-an.md"
+  },
+  {
+    "arxiv_id": "2606.10803",
+    "version": 1,
+    "title": "Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use",
+    "authors": [
+      "Zhixin Ma",
+      "Yutong Zhou",
+      "Yongqi Li",
+      "Chong-Wah Ngo",
+      "Wenjie Li"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10803",
+    "pdf_url": "https://arxiv.org/pdf/2606.10803v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "物理工具使用",
+      "具身智能评估",
+      "多模态大语言模型基准",
+      "工具规划",
+      "场景理解"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/beyond-apis-probing-the-limits-of-mllms-in-physical-tool-use.md"
+  },
+  {
+    "arxiv_id": "2606.10752",
+    "version": 1,
+    "title": "AutoPDE: Reliable Agentic PDE Solving via Explicitly Represented Solver Strategies",
+    "authors": [
+      "Huanshuo Dong",
+      "Keyao Zhang",
+      "Hong Wang",
+      "Zhezheng Hao",
+      "Zhiwei Zhuang"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10752",
+    "pdf_url": "https://arxiv.org/pdf/2606.10752v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "代码Agent",
+      "偏微分方程数值求解",
+      "Agent框架",
+      "自适应求解"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/autopde-reliable-agentic-pde-solving-via-explicitly-represented-solver-strategie.md"
+  },
+  {
+    "arxiv_id": "2606.10742",
+    "version": 1,
+    "title": "MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents",
+    "authors": [
+      "Yv Zhang",
+      "Hao Sun",
+      "Hao Fang",
+      "Kuofeng Gao",
+      "Fan Mo"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10742",
+    "pdf_url": "https://arxiv.org/pdf/2606.10742v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Web Agent",
+      "安全攻击",
+      "记忆中毒",
+      "多模态",
+      "黑盒攻击",
+      "外部记忆"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/memvenom-triggered-poisoning-of-multimodal-memories-in-web-agents.md"
+  },
+  {
+    "arxiv_id": "2606.10709",
+    "version": 1,
+    "title": "Effective Reinforcement Learning for Agentic Search by Recycling Zero-Variance Queries During Training",
+    "authors": [
+      "João Coelho",
+      "João Magalhães",
+      "Bruno Martins",
+      "Chenyan Xiong"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10709",
+    "pdf_url": "https://arxiv.org/pdf/2606.10709v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent训练",
+      "GRPO强化学习",
+      "查询回收机制",
+      "搜索Agent",
+      "多跳问答",
+      "零方差问题"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/effective-reinforcement-learning-for-agentic-search-by-recycling-zero-variance-q.md"
+  },
+  {
+    "arxiv_id": "2606.10694",
+    "version": 1,
+    "title": "REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs",
+    "authors": [
+      "Keer Lu",
+      "Liwei Chen",
+      "Guoqing Jiang",
+      "Zhiheng Qin",
+      "Yunhuai Liu"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10694",
+    "pdf_url": "https://arxiv.org/pdf/2606.10694v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent 记忆管理",
+      "长期记忆",
+      "知识图谱",
+      "反事实推理",
+      "信息检索"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/real-a-reasoning-enhanced-graph-framework-for-long-term-memory-management-of-llm.md"
+  },
+  {
+    "arxiv_id": "2606.10646",
+    "version": 1,
+    "title": "How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs",
+    "authors": [
+      "Zhichen Dong",
+      "Yang Li",
+      "Yuhan Sun",
+      "Weixun Wang",
+      "Yijia Luo"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10646",
+    "pdf_url": "https://arxiv.org/pdf/2606.10646v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "强化学习",
+      "Token级信用分配",
+      "推理流追踪",
+      "注意力机制",
+      "图模型",
+      "奖励塑造"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/how-does-reasoning-flow-tracing-attention-induced-information-flow-for-targeted.md"
+  },
+  {
+    "arxiv_id": "2606.10525",
+    "version": 1,
+    "title": "Assessing Automated Prompt Injection Attacks in Agentic Environments",
+    "authors": [
+      "David Hofer",
+      "Edoardo Debenedetti",
+      "Florian Tramèr"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10525",
+    "pdf_url": "https://arxiv.org/pdf/2606.10525v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent安全",
+      "提示注入攻击",
+      "黑盒攻击",
+      "白盒攻击",
+      "AgentDojo基准",
+      "多智能体系统"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/assessing-automated-prompt-injection-attacks-in-agentic-environments.md"
+  },
+  {
+    "arxiv_id": "2606.10460",
+    "version": 1,
+    "title": "LakeQA: An Exploratory QA Benchmark over a Million-Scale Data Lake",
+    "authors": [
+      "Haonan Wang",
+      "Jiaxiang Liu",
+      "Yurong Liu",
+      "Austin Senna Wijaya",
+      "Tianle Zhou"
+    ],
+    "author_count": 14,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10460",
+    "pdf_url": "https://arxiv.org/pdf/2606.10460v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent基准",
+      "多跳推理",
+      "数据湖问答",
+      "搜索与推理",
+      "大语言模型评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/lakeqa-an-exploratory-qa-benchmark-over-a-million-scale-data-lake.md"
+  },
+  {
+    "arxiv_id": "2606.10394",
+    "version": 1,
+    "title": "STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios",
+    "authors": [
+      "Sirui Liang",
+      "Bohan Yu",
+      "Peiyu Wang",
+      "Shiguang Guo",
+      "Wenxing Hu"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10394",
+    "pdf_url": "https://arxiv.org/pdf/2606.10394v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM Agent",
+      "Agent Benchmark",
+      "Personal Agent",
+      "State-based Evaluation",
+      "Task Automation",
+      "GUI Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/stage-claw-automated-state-based-agent-benchmarking-for-realistic-scenarios.md"
+  },
+  {
+    "arxiv_id": "2606.10388",
+    "version": 1,
+    "title": "SkillResolve-Bench: Measuring and Resolving Same-Capability Ambiguity in Agent Skill Retrieval",
+    "authors": [
+      "Jiandong Ding"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10388",
+    "pdf_url": "https://arxiv.org/pdf/2606.10388v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent技能检索",
+      "Agent评测基准",
+      "技能库",
+      "多智能体系统",
+      "检索增强"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/skillresolve-bench-measuring-and-resolving-same-capability-ambiguity-in-agent-sk.md"
+  },
+  {
+    "arxiv_id": "2606.10316",
+    "version": 1,
+    "title": "TabClaw: An Interactive and Self-Evolving Agent for Spreadsheet Manipulation and Table Reasoning",
+    "authors": [
+      "Mingyue Cheng",
+      "Shuo Yu",
+      "Daoyu Wang",
+      "Qingchuan Li",
+      "Xiaoyu Tao"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10316",
+    "pdf_url": "https://arxiv.org/pdf/2606.10316v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent架构",
+      "数据表格推理",
+      "交互式Agent",
+      "工具使用",
+      "记忆与技能学习",
+      "多智能体协作",
+      "反馈学习",
+      "开源Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/tabclaw-an-interactive-and-self-evolving-agent-for-spreadsheet-manipulation-and.md"
+  },
+  {
+    "arxiv_id": "2606.10299",
+    "version": 1,
+    "title": "What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory",
+    "authors": [
+      "Doeon Kwon",
+      "Junho Bang"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10299",
+    "pdf_url": "https://arxiv.org/pdf/2606.10299v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent记忆",
+      "空间记忆",
+      "记忆召回",
+      "几何推理",
+      "Agent评测",
+      "坐标锚定",
+      "消融实验"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/what-spatial-memory-must-store-occlusion-as-the-test-for-language-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2606.10296",
+    "version": 1,
+    "title": "The Confident Liar: Diagnosing Multi-Agent Debate with Log-Probabilities and LLM-as-Judge",
+    "authors": [
+      "Ali Keramati",
+      "Justin Cheok",
+      "Jacob Horne",
+      "Mark Warschauer"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10296",
+    "pdf_url": "https://arxiv.org/pdf/2606.10296v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "多智能体辩论",
+      "Agent推理质量",
+      "LLM-as-Judge",
+      "对数概率",
+      "Agent评估",
+      "推理置信度",
+      "角色不对称性"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/09/the-confident-liar-diagnosing-multi-agent-debate-with-log-probabilities-and-llm.md"
+  },
+  {
+    "arxiv_id": "2606.10956",
+    "version": 1,
+    "title": "Mind the Gap: Can Frontier LLMs Pass a Standardized Office Proficiency Exam?",
+    "authors": [
+      "Tengchao Lv",
+      "Dongdong Zhang",
+      "Jiayu Ding",
+      "Yilin Jia",
+      "Yuzhong Zhao"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10956",
+    "pdf_url": "https://arxiv.org/pdf/2606.10956v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM智能体",
+      "办公自动化",
+      "Agent评测基准",
+      "代码生成Agent",
+      "多应用集成"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/09/mind-the-gap-can-frontier-llms-pass-a-standardized-office-proficiency-exam.md"
+  },
+  {
+    "arxiv_id": "2606.10616",
+    "version": 1,
+    "title": "Learning What to Remember: Observability-Safe Memory Retention via Constrained Optimization for Long-Horizon Language Agents",
+    "authors": [
+      "Qingcan Kang",
+      "Liu Mingyang",
+      "Shixiong Kai",
+      "Kaichao Liang",
+      "Tao Zhong"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10616",
+    "pdf_url": "https://arxiv.org/pdf/2606.10616v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "Agent Memory",
+      "Constrained Optimization",
+      "Memory Retention",
+      "Long-Horizon Agent",
+      "Observability-Safe Learning"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/09/learning-what-to-remember-observability-safe-memory-retention-via-constrained-op.md"
+  },
+  {
+    "arxiv_id": "2606.11176",
+    "version": 1,
+    "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+    "authors": [
+      "Kevin Qinghong Lin",
+      "Batu EI",
+      "Yuhong Shi",
+      "Pan Lu",
+      "Philip Torr"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.CY",
+      "cs.HC"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.11176",
+    "pdf_url": "https://arxiv.org/pdf/2606.11176v1",
+    "github_url": "https://github.com/QinghongLin/data2story-skill",
+    "published": "2026-06-09",
+    "tags": [
+      "多智能体系统",
+      "数据驱动叙事",
+      "评测基准",
+      "可信性验证",
+      "多模态生成"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/09/data-journalist-agent-transforming-data-into-verifiable-multimodal-stories.md"
+  },
+  {
+    "arxiv_id": "2606.10346",
+    "version": 1,
+    "title": "Reasoning or Memorization? Direction-Aware Diversity Exploration in LLM Reinforcement Learning",
+    "authors": [
+      "Jiangnan Xia",
+      "Yucheng Shi",
+      "Yu Yang",
+      "Kishan Panaganti",
+      "Zhenwen Liang"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.10346",
+    "pdf_url": "https://arxiv.org/pdf/2606.10346v1",
+    "github_url": "",
+    "published": "2026-06-09",
+    "tags": [
+      "LLM 推理",
+      "探索策略",
+      "强化学习",
+      "GRPO",
+      "奖励塑形"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/09/reasoning-or-memorization-direction-aware-diversity-exploration-in-llm-reinforce.md"
+  }
+]
