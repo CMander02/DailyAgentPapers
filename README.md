@@ -2,35 +2,49 @@
 
 每日 Arxiv Agent 论文自动摘要 | Daily Arxiv Agent Paper Summaries
 
-## 2026-06-10 (28 篇)
+## 2026-06-11 (42 篇)
 
 | 分数 | 论文 | 标签 |
 |:----:|------|------|
-| 9.5 | [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384) | Agentic RL, Credit Assignment, Multi-turn Tool Use |
-| 9.5 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://arxiv.org/abs/2606.12370) | agent加速训练, 多token预测, 拒绝采样 |
-| 9.5 | [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) [[Code](https://github.com/opensquilla/claw-swe-bench)] | Agent评估基准, 代码Agent, 多语言SWE-bench |
-| 9.5 | [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/abs/2606.12191) | LLM Agent环境工程, 环境建模与合成, Agent-环境协同进化 |
-| 9.5 | [Generalization Hacking: Models Can Game Reinforcement Learning by Preventing Behavioral Generalization](https://arxiv.org/abs/2606.12016) | Agent安全, RL对齐, 过度优化 |
-| 9.5 | [Exploration Structure in LLM Agents for Multi-File Change Localization](https://arxiv.org/abs/2606.11976) | LLM Agent, Code Agent, Multi-Agent |
-| 9.5 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | 自主科研Agent, 假设树优化, 多智能体协作 |
-| 9.5 | [WorldReasoner: Evaluating Whether Language Model Agents Forecast Events with Valid Reasoning](https://arxiv.org/abs/2606.11816) | LLM Agent, 事件预测, 推理评估 |
-| 9.5 | [TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search](https://arxiv.org/abs/2606.11662) | Agent推理, Web搜索, 树搜索 |
-| 9.5 | [HERO: Hindsight-Enhanced Reflection from Environment Observations for Agentic Self-Distillation](https://arxiv.org/abs/2606.11559) | Agent自我蒸馏, 多轮Agent学习, 环境观察反馈 |
-| 9.0 | [FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents](https://arxiv.org/abs/2606.12087) [[Code](https://github.com/RUCAIBox/FORT-Searcher)] | LLM Agent, 搜索Agent, 训练数据合成 |
-| 9.0 | [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](https://arxiv.org/abs/2606.11770) | MLLM Agent, 自回归推理, 物理世界推理 |
-| 9.0 | [Mind the Perspective: Let's Reason Recursively for Theory of Mind](https://arxiv.org/abs/2606.11724) | Theory of Mind, Recursive Reasoning, Belief Modeling |
-| 9.0 | [MedCTA: A Benchmark for Clinical Tool Agents](https://arxiv.org/abs/2606.11702) [[Code](https://github.com/IVUL-KAUST/MedCTA)] | Medical AI Agent, Benchmark, Tool Use |
-| 9.0 | [Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents](https://arxiv.org/abs/2606.11688) [[Code](https://github.com/EpistemicaLab/goal-compiled-autopilot)] | LLM Agent, Long-Horizon Agent, Agent Safety |
-| 8.5 | [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://arxiv.org/abs/2606.12373) | LLM Agent, Reasoning Generalization, Environment Scaling |
-| 8.5 | [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) | 视觉因果推理, 因果Token, 多图像推理 |
-| 8.5 | [Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security](https://arxiv.org/abs/2606.11671) | LLM Agent 安全, Agent 技能审计, 动态分析 |
-| 8.5 | [IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents](https://arxiv.org/abs/2606.11652) | 多模态智能体, 工具使用, 小语言模型 |
-| 8.5 | [Multi-Agent Reasoning with Adaptive Worker Allocation for Stance Detection](https://arxiv.org/abs/2606.11609) | LLM Agent, Multi-Agent Systems, Reasoning |
-| 8.5 | [SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior](https://arxiv.org/abs/2606.11543) [[Code](https://github.com/zhiyuchen-ai/skill-juror)] | Agent技能组织, 渐进式技能披露, 技能基准评估 |
-| 8.5 | [MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning](https://arxiv.org/abs/2606.11537) [[Code](https://github.com/UBC-NLP/MoCA-Agent)] | LLM Agent, Multi-Agent System, Financial Reasoning |
-| 8.0 | [TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](https://arxiv.org/abs/2606.12387) | LLM Agent, Text-to-SQL Agent, Agent Memory/Experience |
-| 8.0 | [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) [[Code](https://github.com/riponcm/projectmem)] | Coding Agent, Memory Management, Event-Sourced Architecture |
-| 8.0 | [MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning](https://arxiv.org/abs/2606.12018) [[Code](https://github.com/eeee-sys/MODF-SIR)] | 多智能体协作, 社会智能推理, 知识蒸馏 |
-| 8.0 | [Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Stronger AI Agents](https://arxiv.org/abs/2606.11998) | AI控制, 可信监控, 引导式推理 |
-| 7.5 | [A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents](https://arxiv.org/abs/2606.12320) | Agent安全, 运行时治理, 策略引擎 |
-| 7.5 | [Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents](https://arxiv.org/abs/2606.11680) | LLM Agent, Memory Management, Hierarchical Retrieval |
+| 9.5 | [Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669) | 知识图谱构建, 科学知识编排, 信息提取 |
+| 9.5 | [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](https://arxiv.org/abs/2606.13663) | Agent规划与推理, 工具调用优化, LLM Agent架构 |
+| 9.5 | [Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643) | 多智能体协作, 递归Agent, 长上下文推理 |
+| 9.5 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | Agent评估, 标准化接口, 多智能体系统 |
+| 9.5 | [Reward Modeling for Multi-Agent Orchestration](https://arxiv.org/abs/2606.13598) [[Code](https://github.com/Wang-ML-Lab/OrchRM)] | Multi-Agent Systems, Reward Modeling, Orchestration |
+| 9.5 | [SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.13317) | LLM Agent, Skill Self-Evolution, Contrastive Extraction |
+| 9.5 | [From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification](https://arxiv.org/abs/2606.13262) | LLM Agent, Multi-Agent, Tool Use |
+| 9.5 | [ARMOR-MAD: Adaptive Routing for Heterogeneous Multi-Agent Debate in Large Language Model Reasoning](https://arxiv.org/abs/2606.13197) | 多智能体辩论, 异构智能体, 路由机制 |
+| 9.5 | [Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174) [[Code](https://github.com/YujunZhou/TRACE_exp)] | LLM Agent, Runtime Enforcement, Coding Agent |
+| 9.5 | [EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge](https://arxiv.org/abs/2606.13120) | Search Agent, Agent Benchmark, Data Contamination |
+| 9.5 | [The Emergence of Autonomous Penetration Capabilities in Large Language Model-Powered AI Systems](https://arxiv.org/abs/2606.13079) | LLM Agent, Autonomous Penetration Testing, Cybersecurity |
+| 9.5 | [Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory](https://arxiv.org/abs/2606.12945) | Agent记忆, 记忆管理, 多因子价值模型 |
+| 9.5 | [MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems](https://arxiv.org/abs/2606.12918) | 多智能体系统, 红队测试, 安全攻击 |
+| 9.5 | [SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents](https://arxiv.org/abs/2606.12908) | Tool-using Agent, Reinforcement Learning, Failure-Driven Training |
+| 9.5 | [HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness](https://arxiv.org/abs/2606.12882) | LLM Agent, Agent 架构, Agent 训练 |
+| 9.5 | [LoHoSearch: Benchmarking Long-Horizon Search Agents Beyond the Human Difficulty Ceiling](https://arxiv.org/abs/2606.12837) | 搜索Agent, Agent评测基准, 长程推理 |
+| 9.5 | [Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents](https://arxiv.org/abs/2606.12817) | GUI Agent, Action Understanding, Operational Knowledge Extraction |
+| 9.5 | [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) | Agent安全, Agent评测与审计, 记忆中毒 |
+| 9.2 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662) | 科学发现Agent, 环境工程, Agent架构 |
+| 9.2 | [GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models](https://arxiv.org/abs/2606.12821) | LLM Agent Benchmark, Geospatial Analysis, Environmental AI |
+| 9.0 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](https://arxiv.org/abs/2606.13602) | 评测基准, 科学Agent, 生物信息学Agent |
+| 9.0 | [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](https://arxiv.org/abs/2606.13385) [[Code](https://github.com/StakeBench/SBC)] | 多利益相关者基准, 提示注入攻击, LLM驱动的Web Agent |
+| 9.0 | [From Passive Generation to Investigation: A Proactive Scientific Peer Review Agent](https://arxiv.org/abs/2606.13349) | LLM-based Agent, Scientific Agent, Peer Review Agent |
+| 9.0 | [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](https://arxiv.org/abs/2606.13148) | LLM Agent, Science Agent, Tool Use |
+| 9.0 | [The Illusion of Multi-Agent Advantage](https://arxiv.org/abs/2606.13003) | 多智能体系统, 单智能体比较, 架构设计 |
+| 9 | [Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](https://arxiv.org/abs/2606.12830) | Tool-Augmented Agent, Visual Agent, Spatial Reasoning |
+| 8.5 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://arxiv.org/abs/2606.13681) | LLM Agent, 评测基准, 动态环境 |
+| 8.5 | [Adaptive Turn-Taking for Real-time Multi-Party Voice Agents](https://arxiv.org/abs/2606.13544) | 语音Agent, 多智能体交互, 对话管理 |
+| 8.5 | [Understanding the Rejection of Fixes Generated by Agentic Pull Requests -- Insights from the AIDev Dataset](https://arxiv.org/abs/2606.13468) | AI coding agent, 代码修复, Pull Request评估 |
+| 8.5 | [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361) | KV缓存, Agent推理优化, Prefill计算 |
+| 8.5 | [ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm](https://arxiv.org/abs/2606.13239) | Computer-Use Agent, COM-as-Action, Industrial Software Agent |
+| 8.5 | [LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive Problem Diagnosis](https://arxiv.org/abs/2606.13220) | LLM Agent, Diagnostic Agent, Interactive Problem Solving |
+| 8.5 | [MemRefine: LLM-Guided Compression for Long-Term Agent Memory](https://arxiv.org/abs/2606.13177) | LLM Agent Memory Management, Long-term Memory Compression, Storage-Budgeted Memory |
+| 8.5 | [Iterative Visual Thinking: Teaching Vision-Language Models Spatial Self-Correction through Visual Feedback](https://arxiv.org/abs/2606.13156) | 视觉语言模型, 自校正, 空间定位 |
+| 8.5 | [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](https://arxiv.org/abs/2606.12924) | 多智能体仿真, 电商搜索Agent, Agent架构评估 |
+| 8.5 | [DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks](https://arxiv.org/abs/2606.12871) [[Code](https://github.com/AGI-Eval-Official/DailyReport)] | 搜索Agent, 开放基准评估, LLM驱动Agent |
+| 8.5 | [WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning](https://arxiv.org/abs/2606.12852) | Minecraft, Embodied Agent, Hierarchical Agent |
+| 8.5 | [The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale](https://arxiv.org/abs/2606.12835) | 多智能体系统, Agent通信协议, Agent生态系统 |
+| 8.5 | [Fantastic Scientific Agents and How to Build Them: AgentBuild for Rietveld Refinement](https://arxiv.org/abs/2606.12834) | Scientific Agent, Agent Construction Framework, Meta-Optimizer |
+| 8.5 | [ProPlay: Procedural World Models for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.12780) [[Code](https://github.com/antman9914/proplay)] | LLM Agent, World Model, Self-Evolution |
+| 8.0 | [G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents](https://arxiv.org/abs/2606.13115) | Long-term Dialogue Agent, Memory Management, Graph-Enhanced Memory |
+| 7.5 | [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](https://arxiv.org/abs/2606.13673) | LLM/VLM Agent, Spatial Reasoning, Code-Action Interface |
