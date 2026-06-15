@@ -561,6 +561,35 @@
     "md_path": "data/2026/06/11/the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety.md"
   },
   {
+    "arxiv_id": "2606.13192",
+    "version": 1,
+    "title": "Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach",
+    "authors": [
+      "Ruichao Mao",
+      "Zhou Fang",
+      "Teng Guo",
+      "Hao Yang",
+      "Yaping Li"
+    ],
+    "author_count": 12,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13192",
+    "pdf_url": "https://arxiv.org/pdf/2606.13192v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "多模态GUI智能体",
+      "UI推理基准",
+      "体验质量评估",
+      "强化学习",
+      "多模态大语言模型"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/11/reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app.md"
+  },
+  {
     "arxiv_id": "2606.13662",
     "version": 1,
     "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
@@ -810,6 +839,67 @@
     ],
     "relevance_score": 9,
     "md_path": "data/2026/06/11/perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso.md"
+  },
+  {
+    "arxiv_id": "2606.13904",
+    "version": 1,
+    "title": "SANA: What Matters for QA Agents over Massive Data Lakes?",
+    "authors": [
+      "Austin Senna Wijaya",
+      "Jiaxiang Liu",
+      "Haonan Wang",
+      "Eugene Wu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13904",
+    "pdf_url": "https://arxiv.org/pdf/2606.13904v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "EQA Agent",
+      "Agent诊断/消融分析",
+      "Agent评测框架",
+      "Agent规划/搜索/数据分析",
+      "多组件Agent解耦"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/11/sana-what-matters-for-qa-agents-over-massive-data-lakes.md"
+  },
+  {
+    "arxiv_id": "2606.13757",
+    "version": 1,
+    "title": "SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents",
+    "authors": [
+      "Rui Melo",
+      "Riccardo Fogliato",
+      "Sean Zhou",
+      "Pratiksha Thaker",
+      "Zhiwei Steven Wu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13757",
+    "pdf_url": "https://arxiv.org/pdf/2606.13757v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM Agent安全",
+      "代码审核Agent",
+      "社会工程攻击",
+      "Agent评估基准",
+      "对抗性攻击",
+      "漏洞注入"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/11/sevra-bench-social-engineering-of-vulnerabilities-in-review-agents.md"
   },
   {
     "arxiv_id": "2606.13681",
@@ -1238,6 +1328,126 @@
     "md_path": "data/2026/06/11/proplay-procedural-world-models-for-self-evolving-llm-agents.md"
   },
   {
+    "arxiv_id": "2606.13815",
+    "version": 1,
+    "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+    "authors": [
+      "Pratham Singla",
+      "Shivank Garg",
+      "Vihan Singh"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13815",
+    "pdf_url": "https://arxiv.org/pdf/2606.13815v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM Agent",
+      "Agent Benchmark",
+      "Multi-Agent System",
+      "Strategic Reasoning",
+      "Memory Architecture",
+      "LLM Evaluation",
+      "Agent Profiling",
+      "Game-Playing Agent"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/11/poker-arena-multi-axis-profiling-of-strategic-reasoning-and-memory-in-llms.md"
+  },
+  {
+    "arxiv_id": "2606.13572",
+    "version": 1,
+    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+    "authors": [
+      "Tanmoy Kanti Halder",
+      "Akash Ghosh",
+      "Subhadip Baidya",
+      "Arijit Roy",
+      "Sriparna Saha"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13572",
+    "pdf_url": "https://arxiv.org/pdf/2606.13572v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "多智能体框架",
+      "多模态推理",
+      "医疗问答",
+      "低资源语言",
+      "工具调用",
+      "数据合成",
+      "评测基准"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/11/arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la.md"
+  },
+  {
+    "arxiv_id": "2606.13594",
+    "version": 1,
+    "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
+    "authors": [
+      "Siyi Chen",
+      "Xiaoyan Zhang",
+      "Meng Wu",
+      "Jonathan Tremblay",
+      "Valts Blukis"
+    ],
+    "author_count": 10,
+    "categories": [
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13594",
+    "pdf_url": "https://arxiv.org/pdf/2606.13594v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "多智能体通信",
+      "KV-cache通信",
+      "异构智能体对齐",
+      "跨模型表示学习",
+      "高效通信"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/11/see-what-i-see-know-what-i-think-dense-latent-communication-across-heterogeneous.md"
+  },
+  {
+    "arxiv_id": "2606.13731",
+    "version": 1,
+    "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+    "authors": [
+      "Jisoo Jang Wen-Syan Li"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13731",
+    "pdf_url": "https://arxiv.org/pdf/2606.13731v1",
+    "github_url": "https://github.com/simonjisu/TwinBI",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM Agent",
+      "Business Intelligence",
+      "Dashboard Agent",
+      "State Management",
+      "Agentic Digital Twin",
+      "Provenance Tracking",
+      "Benchmark Evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/11/twinbi-an-agentic-digital-twin-for-efficient-augmented-interactions-with-busines.md"
+  },
+  {
     "arxiv_id": "2606.13115",
     "version": 1,
     "title": "G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents",
@@ -1297,5 +1507,93 @@
     ],
     "relevance_score": 7.5,
     "md_path": "data/2026/06/11/spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning.md"
+  },
+  {
+    "arxiv_id": "2606.13949",
+    "version": 1,
+    "title": "Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization",
+    "authors": [
+      "Hexuan Yu",
+      "Chaoyu Zhang",
+      "Heng Jin",
+      "Shanghao Shi",
+      "Ning Zhang"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13949",
+    "pdf_url": "https://arxiv.org/pdf/2606.13949v1",
+    "github_url": "https://github.com/yyyyhx/MINIM",
+    "published": "2026-06-11",
+    "tags": [
+      "Agent Privacy",
+      "UI Sanitization",
+      "Local Inference",
+      "Contextual Integrity",
+      "Web Agent",
+      "Safety & Security",
+      "Trusted Execution"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/11/minim-privacy-aware-minimal-view-for-agents-via-trusted-local-sanitization.md"
+  },
+  {
+    "arxiv_id": "2606.13316",
+    "version": 1,
+    "title": "ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning",
+    "authors": [
+      "Xucong Wang",
+      "Ziyu Ma",
+      "Yong Wang",
+      "Shidong Yang",
+      "Hailang Huang"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13316",
+    "pdf_url": "https://arxiv.org/pdf/2606.13316v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM Agent",
+      "推理优化",
+      "强化学习",
+      "长上下文压缩",
+      "自摘要"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/11/resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning.md"
+  },
+  {
+    "arxiv_id": "2606.13126",
+    "version": 1,
+    "title": "MiniPIC: Flexible Position-Independent Caching in <100LOC",
+    "authors": [
+      "Nathan Ordonez",
+      "Thomas Parnell"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.13126",
+    "pdf_url": "https://arxiv.org/pdf/2606.13126v1",
+    "github_url": "",
+    "published": "2026-06-11",
+    "tags": [
+      "LLM推理加速",
+      "KV缓存优化",
+      "位置无关缓存",
+      "vLLM",
+      "Prefix缓存"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/11/minipic-flexible-position-independent-caching-in-100loc.md"
   }
 ]
