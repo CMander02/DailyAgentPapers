@@ -1,0 +1,547 @@
+[
+  {
+    "arxiv_id": "2606.15419",
+    "version": 1,
+    "title": "Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering",
+    "authors": [
+      "Zaifu Zhan",
+      "Shuang Zhou",
+      "Rui Zhang"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15419",
+    "pdf_url": "https://arxiv.org/pdf/2606.15419v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "多智能体协作",
+      "推理提升",
+      "医疗问答",
+      "peer-review机制",
+      "评估与选拔"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/let-llms-judge-each-other-multi-agent-peer-reviewed-reasoning-for-medical-questi.md"
+  },
+  {
+    "arxiv_id": "2606.15405",
+    "version": 1,
+    "title": "T-Mem: Memory That Anticipates, Not Archives",
+    "authors": [
+      "Weidong Guo",
+      "Dakai Wang",
+      "Zixuan Wang",
+      "Hui Liu",
+      "Yu Xu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15405",
+    "pdf_url": "https://arxiv.org/pdf/2606.15405v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "long-term memory",
+      "conversational agent",
+      "associative recall",
+      "LLM agent",
+      "memory architecture",
+      "episodic future thinking"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/t-mem-memory-that-anticipates-not-archives.md"
+  },
+  {
+    "arxiv_id": "2606.15390",
+    "version": 1,
+    "title": "Not All Skills Help: Measuring and Repairing Agent Knowledge",
+    "authors": [
+      "Yixuan Wang",
+      "Yiyang Zhou",
+      "Yiming Liang",
+      "Congyu Zhang",
+      "Fuxiao Liu"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15390",
+    "pdf_url": "https://arxiv.org/pdf/2606.15390v1",
+    "github_url": "https://github.com/aiming-lab/assay",
+    "published": "2026-06-13",
+    "tags": [
+      "LLM Agent",
+      "技能学习与评估",
+      "因果归因",
+      "技能库优化",
+      "智能体技能消融",
+      "任务级技能匹配",
+      "AppWorld",
+      "tau-bench",
+      "无需权重更新的智能体提升"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/not-all-skills-help-measuring-and-repairing-agent-knowledge.md"
+  },
+  {
+    "arxiv_id": "2606.15376",
+    "version": 1,
+    "title": "CoAgent: Concurrency Control for Multi-Agent Systems",
+    "authors": [
+      "Hongtao Lyu",
+      "Dingyan Zhang",
+      "Mingyu Wu",
+      "Xingda Wei",
+      "Haibo Chen"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.DC",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15376",
+    "pdf_url": "https://arxiv.org/pdf/2606.15376v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "Multi-Agent Systems",
+      "Concurrency Control",
+      "LLM Agents",
+      "Transaction Protocol",
+      "Tool Use",
+      "Coordination"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/coagent-concurrency-control-for-multi-agent-systems.md"
+  },
+  {
+    "arxiv_id": "2606.15367",
+    "version": 1,
+    "title": "S1-DeepResearch: Beyond Search, Toward Real-World Long-Horizon Research Agents",
+    "authors": [
+      "Yao Dong",
+      "Xinglin Xiao",
+      "Liwei Dong",
+      "Xinlong Jin",
+      "Zhengbo Li"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15367",
+    "pdf_url": "https://arxiv.org/pdf/2606.15367v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "Deep Research Agent",
+      "Long-Horizon Planning",
+      "Knowledge Synthesis",
+      "Agentic Trajectory",
+      "Training Data Synthesis",
+      "Report Generation",
+      "Open-ended Exploration",
+      "Multi-dimensional Verification"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/s1-deepresearch-beyond-search-toward-real-world-long-horizon-research-agents.md"
+  },
+  {
+    "arxiv_id": "2606.15300",
+    "version": 1,
+    "title": "CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?",
+    "authors": [
+      "Yuxin Zhang",
+      "Ju Fan",
+      "Meihao Fan",
+      "Shaolei Zhang",
+      "Xiaoyong Du"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15300",
+    "pdf_url": "https://arxiv.org/pdf/2606.15300v1",
+    "github_url": "https://github.com/ruc-datalab/CoDA-Bench",
+    "published": "2026-06-13",
+    "tags": [
+      "Agent Benchmark",
+      "Data-intensive Agent",
+      "Code Agent",
+      "Kaggle Sandbox",
+      "Autonomous Engineering"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/coda-bench-can-code-agents-handle-data-intensive-tasks.md"
+  },
+  {
+    "arxiv_id": "2606.15231",
+    "version": 1,
+    "title": "Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning",
+    "authors": [
+      "Zhengbo Zhang",
+      "Changtao Miao",
+      "Jinbo Su",
+      "Zhaowen Zhou",
+      "Chunxia Zhang"
+    ],
+    "author_count": 13,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15231",
+    "pdf_url": "https://arxiv.org/pdf/2606.15231v1",
+    "github_url": "https://github.com/ZhengboZhang/Visual-Seeker",
+    "published": "2026-06-13",
+    "tags": [
+      "Multimodal Agent",
+      "Visual Reasoning",
+      "Deep Search",
+      "Agentic Search",
+      "Data Synthesis",
+      "Multimodal Large Language Model",
+      "Tool Use"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/visual-seeker-towards-visual-native-multimodal-agentic-search-via-active-visual.md"
+  },
+  {
+    "arxiv_id": "2606.15079",
+    "version": 1,
+    "title": "Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale",
+    "authors": [
+      "Ang Li",
+      "Ben Liu",
+      "Bin Han",
+      "Bin Hu",
+      "Bin Jing"
+    ],
+    "author_count": 218,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15079",
+    "pdf_url": "https://arxiv.org/pdf/2606.15079v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "Agent Architecture",
+      "Agent Training",
+      "RL for Agents",
+      "Tool Use",
+      "Code Agent",
+      "Multi-task Agent",
+      "Efficient Inference",
+      "Open-source Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/ling-and-ring-26-technical-report-efficient-and-instant-agentic-intelligence-at.md"
+  },
+  {
+    "arxiv_id": "2606.15034",
+    "version": 1,
+    "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+    "authors": [
+      "Mina Mohammadmirzaei",
+      "Jeffrey Flanigan"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15034",
+    "pdf_url": "https://arxiv.org/pdf/2606.15034v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "计算机使用Agent安全",
+      "Agent安全基准",
+      "多模态护栏",
+      "端到端安全评估",
+      "动作级安全",
+      "OSWorld衍生任务"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/13/osguard-a-benchmark-for-safety-in-computer-use-agents.md"
+  },
+  {
+    "arxiv_id": "2606.15385",
+    "version": 1,
+    "title": "Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds",
+    "authors": [
+      "Ömer Veysel Çağatan",
+      "Xuandong Zhao"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15385",
+    "pdf_url": "https://arxiv.org/pdf/2606.15385v1",
+    "github_url": "https://github.com/asparius/verl-agent-safety",
+    "published": "2026-06-13",
+    "tags": [
+      "Agent安全",
+      "奖励篡改",
+      "Agent评估基准",
+      "LLM Agent",
+      "规范博弈",
+      "AI安全"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/13/reward-hacking-in-language-model-agents-revisiting-ai-safety-gridworlds.md"
+  },
+  {
+    "arxiv_id": "2606.15363",
+    "version": 1,
+    "title": "APEX: Adaptive Principle EXtraction A Three-Layer Self-Evolution Framework for Production AI Agents",
+    "authors": [
+      "Ya-Chuan Chen",
+      "Tien-Jen Lai",
+      "Hsiang-Wei Hu"
+    ],
+    "author_count": 3,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15363",
+    "pdf_url": "https://arxiv.org/pdf/2606.15363v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "多智能体协作",
+      "Agent架构",
+      "Agent训练方法",
+      "自我进化",
+      "生产环境Agent",
+      "行为原则提取",
+      "工作流拓扑优化"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/13/apex-adaptive-principle-extraction-a-three-layer-self-evolution-framework-for-pr.md"
+  },
+  {
+    "arxiv_id": "2606.15242",
+    "version": 1,
+    "title": "Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems",
+    "authors": [
+      "Yi Xie",
+      "Jiawei Du",
+      "Yu Cheng",
+      "Jiuan Zhou",
+      "Zhaoxia Yin"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15242",
+    "pdf_url": "https://arxiv.org/pdf/2606.15242v1",
+    "github_url": "https://github.com/saint-viperx/SCR_Bench",
+    "published": "2026-06-13",
+    "tags": [
+      "Agent安全",
+      "多Agent系统",
+      "Agent技能生态",
+      "安全评估基准",
+      "LLM Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/13/benign-in-isolation-harmful-in-composition-security-risks-in-agent-skill-ecosyst.md"
+  },
+  {
+    "arxiv_id": "2606.15441",
+    "version": 1,
+    "title": "Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment",
+    "authors": [
+      "Lipeng He",
+      "Yihan Wang",
+      "Jiawen Zhang",
+      "N. Asokan"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15441",
+    "pdf_url": "https://arxiv.org/pdf/2606.15441v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "LLM Agent安全",
+      "提示注入防御",
+      "自适应攻击",
+      "任务对齐",
+      "强化学习",
+      "红队攻击"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/13/defending-against-adaptive-prompt-injection-attacks-via-reasoning-enabled-task-a.md"
+  },
+  {
+    "arxiv_id": "2606.15508",
+    "version": 1,
+    "title": "ToolMenuBench: Benchmarking Tool-Menu Filtering Strategies for Reliable and Efficient LLM Agents",
+    "authors": [
+      "Rahul Suresh Babu",
+      "Laxmipriya Ganesh Iyer"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15508",
+    "pdf_url": "https://arxiv.org/pdf/2606.15508v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "Tool-Augmented Agent",
+      "Tool Selection",
+      "Agent Benchmark",
+      "Safety",
+      "Efficiency",
+      "LLM Agent",
+      "Tool Menu Filtering"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/13/toolmenubench-benchmarking-tool-menu-filtering-strategies-for-reliable-and-effic.md"
+  },
+  {
+    "arxiv_id": "2606.15152",
+    "version": 1,
+    "title": "Can Agents Read the Room? Benchmarking Visual Social Intelligence in Multimodal Simulation",
+    "authors": [
+      "Shijun Wan",
+      "Xuehai Wu",
+      "Jiwen Zhang",
+      "Siyuan Wang",
+      "Zhongyu Wei"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15152",
+    "pdf_url": "https://arxiv.org/pdf/2606.15152v1",
+    "github_url": "https://github.com/JunsWan/AgentViSS",
+    "published": "2026-06-13",
+    "tags": [
+      "多模态智能体",
+      "社交智能",
+      "视觉智能",
+      "评测基准",
+      "角色扮演",
+      "交互管理"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/13/can-agents-read-the-room-benchmarking-visual-social-intelligence-in-multimodal-s.md"
+  },
+  {
+    "arxiv_id": "2606.15077",
+    "version": 1,
+    "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+    "authors": [
+      "Kyle Gao",
+      "Joel Cumming",
+      "Jonathan Li",
+      "Linlin Xu",
+      "David A. Clausi"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15077",
+    "pdf_url": "https://arxiv.org/pdf/2606.15077v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "LLM Agent",
+      "Geospatial Data Retrieval",
+      "Multi-Agent System",
+      "Guardrail Agent",
+      "Adversarial Evaluation",
+      "API Call Generation",
+      "Safety and Robustness"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/13/risk-aware-llm-agents-for-geospatial-data-retrieval-design-and-preliminary-adver.md"
+  },
+  {
+    "arxiv_id": "2606.15107",
+    "version": 1,
+    "title": "Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning",
+    "authors": [
+      "Sanhorn Chen",
+      "Xiaoyang Chen",
+      "Boyu Liu",
+      "Roy Zhao"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15107",
+    "pdf_url": "https://arxiv.org/pdf/2606.15107v1",
+    "github_url": "https://github.com/SanhornC/IRTS-ToolBench",
+    "published": "2026-06-13",
+    "tags": [
+      "Time Series Agent",
+      "LLM Agent Benchmark",
+      "Tool-Grounded Reasoning",
+      "LLM for Data Science"
+    ],
+    "relevance_score": 8.0,
+    "md_path": "data/2026/06/13/towards-verifiable-agentic-data-science-solving-irregular-tsqa-via-tool-grounded.md"
+  },
+  {
+    "arxiv_id": "2606.15335",
+    "version": 1,
+    "title": "Privacy-Preserving Text Sanitization for Distributed Agents Collaboration via Disentangled Representations",
+    "authors": [
+      "Xuan Liu",
+      "Hefeng Zhou",
+      "Sicheng Chen",
+      "Chao Yang",
+      "Xingcheng Xu"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15335",
+    "pdf_url": "https://arxiv.org/pdf/2606.15335v1",
+    "github_url": "",
+    "published": "2026-06-13",
+    "tags": [
+      "多智能体协作",
+      "隐私保护",
+      "文本消毒",
+      "分布式系统",
+      "解耦表示"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/13/privacy-preserving-text-sanitization-for-distributed-agents-collaboration-via-di.md"
+  }
+]

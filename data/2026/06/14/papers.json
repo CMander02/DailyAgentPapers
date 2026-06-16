@@ -1,0 +1,484 @@
+[
+  {
+    "arxiv_id": "2606.16038",
+    "version": 1,
+    "title": "Open-SWE-Traces: Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents",
+    "authors": [
+      "Wasi Uddin Ahmad",
+      "Nikolai Ludwig",
+      "Somshubra Majumdar",
+      "Boris Ginsburg"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.16038",
+    "pdf_url": "https://arxiv.org/pdf/2606.16038v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "Agent 训练数据",
+      "代码 Agent",
+      "多语言 Agent",
+      "Agent 微调",
+      "SWE-bench",
+      "数据合成",
+      "开源 Agent"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/14/open-swe-traces-advancing-dual-mode-multilingual-distillation-for-software-engin.md"
+  },
+  {
+    "arxiv_id": "2606.15899",
+    "version": 1,
+    "title": "SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills",
+    "authors": [
+      "Ismail Hossain",
+      "Sai Puppala",
+      "Md Jahangir Alam",
+      "Tanzim Ahad",
+      "Sajedul Talukder"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.HC",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15899",
+    "pdf_url": "https://arxiv.org/pdf/2606.15899v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "Agent安全",
+      "LLM-as-Judge",
+      "Agent技能评估",
+      "多维度风险评估",
+      "开源LLM Agent生态",
+      "恶意技能检测",
+      "指令层风险"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/14/skillvetbench-llm-as-judge-for-multi-dimensional-security-risk-evaluation-in-ope.md"
+  },
+  {
+    "arxiv_id": "2606.15872",
+    "version": 1,
+    "title": "SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks",
+    "authors": [
+      "Jingru Guo",
+      "Xiangyuan Xue",
+      "Lian Zhang",
+      "Wanghan Xu",
+      "Siki Chen"
+    ],
+    "author_count": 9,
+    "categories": [
+      "cs.CL"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15872",
+    "pdf_url": "https://arxiv.org/pdf/2606.15872v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "多智能体编排",
+      "科学推理",
+      "LLM Agent训练",
+      "MCTS",
+      "GRPO"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/14/sciorch-learning-to-orchestrate-expert-llms-for-solving-frontier-multimodal-scie.md"
+  },
+  {
+    "arxiv_id": "2606.15862",
+    "version": 1,
+    "title": "RetailBench: Benchmarking long horizon reasoning and coherent decision making of LLM agents in realistic retail environments",
+    "authors": [
+      "Linghua Zhang",
+      "Jun Wang",
+      "Jingtong Wu",
+      "Zhisong Zhang"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15862",
+    "pdf_url": "https://arxiv.org/pdf/2606.15862v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "LLM Agent",
+      "Agent Benchmark",
+      "Long-horizon Planning",
+      "Retail Agent",
+      "Tool Use",
+      "Decision Making",
+      "Simulation"
+    ],
+    "relevance_score": 9.5,
+    "md_path": "data/2026/06/14/retailbench-benchmarking-long-horizon-reasoning-and-coherent-decision-making-of.md"
+  },
+  {
+    "arxiv_id": "2606.15874",
+    "version": 1,
+    "title": "LLM-as-Code Agentic Programming for Agent Harness",
+    "authors": [
+      "Junjia Qi",
+      "Zichuan Fu",
+      "Jingtong Gao",
+      "Wenlin Zhang",
+      "Hanyu Yan"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15874",
+    "pdf_url": "https://arxiv.org/pdf/2606.15874v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "Agent架构",
+      "LLM-as-Code",
+      "Agentic Programming",
+      "控制流可靠性",
+      "上下文管理",
+      "计算机使用Agent"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/14/llm-as-code-agentic-programming-for-agent-harness.md"
+  },
+  {
+    "arxiv_id": "2606.15684",
+    "version": 1,
+    "title": "Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft",
+    "authors": [
+      "Juheon Yi",
+      "Jinglu Wang",
+      "Xiaoyi Zhang",
+      "Yan Lu"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15684",
+    "pdf_url": "https://arxiv.org/pdf/2606.15684v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "多智能体协作",
+      "Minecraft基准",
+      "实时约束",
+      "任务生成",
+      "LLM评估"
+    ],
+    "relevance_score": 9.0,
+    "md_path": "data/2026/06/14/multi-agent-framework-for-time-sensitive-complementary-collaboration-in-minecraf.md"
+  },
+  {
+    "arxiv_id": "2606.16000",
+    "version": 1,
+    "title": "GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science",
+    "authors": [
+      "Aleksandr Tsymbalov",
+      "Danis Zaripov",
+      "Artem Epifanov",
+      "Anastasya Palienko"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.16000",
+    "pdf_url": "https://arxiv.org/pdf/2606.16000v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "AutoML Agent",
+      "LLM Agent Evaluation",
+      "Data Science Agent",
+      "Reward-Guided Agent",
+      "Agent Safety/Alignment",
+      "Benchmark",
+      "Correction Behavior"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/grace-ds-a-guarded-reward-guided-agent-correction-environment-in-data-science.md"
+  },
+  {
+    "arxiv_id": "2606.15994",
+    "version": 1,
+    "title": "Agentic Framework for Deep Learning workload migration via In-Context Learning",
+    "authors": [
+      "Qiyue Liang",
+      "Steven Ingram",
+      "George Vanica",
+      "Andi Gavrilescu",
+      "Newfel Harrat"
+    ],
+    "author_count": 7,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15994",
+    "pdf_url": "https://arxiv.org/pdf/2606.15994v1",
+    "github_url": "https://github.com/AI-Hypercomputer/accelerator-agents",
+    "published": "2026-06-14",
+    "tags": [
+      "LLM Agent",
+      "In-Context Learning",
+      "Self-Debugging",
+      "Code Migration",
+      "Autonomous Agent",
+      "Deep Learning Workload Migration"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/agentic-framework-for-deep-learning-workload-migration-via-in-context-learning.md"
+  },
+  {
+    "arxiv_id": "2606.15912",
+    "version": 1,
+    "title": "On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents",
+    "authors": [
+      "Gengsheng Li",
+      "Mao Zheng",
+      "Mingyang Song",
+      "Ruiqi Liu",
+      "Tianyu Yang"
+    ],
+    "author_count": 11,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15912",
+    "pdf_url": "https://arxiv.org/pdf/2606.15912v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "多智能体蒸馏",
+      "课程学习",
+      "策略蒸馏",
+      "工具使用",
+      "环境交互"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/on-policy-distillation-with-curriculum-turn-level-guidance-for-multi-turn-agents.md"
+  },
+  {
+    "arxiv_id": "2606.15906",
+    "version": 1,
+    "title": "MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA",
+    "authors": [
+      "Yilong Zuo",
+      "Xunkai Li",
+      "Jing Yuan",
+      "Qiangqiang Dai",
+      "Hongchao Qin"
+    ],
+    "author_count": 6,
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.CL",
+      "cs.DB",
+      "cs.MM"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15906",
+    "pdf_url": "https://arxiv.org/pdf/2606.15906v1",
+    "github_url": "https://github.com/laonuo2004/MAGE-RAG",
+    "published": "2026-06-14",
+    "tags": [
+      "Agentic RAG",
+      "多模态RAG",
+      "长文档问答",
+      "图证据检索",
+      "自适应证据控制",
+      "多粒度检索"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/mage-rag-multigranular-adaptive-graph-evidence-for-agentic-multimodal-rag-in-lon.md"
+  },
+  {
+    "arxiv_id": "2606.15903",
+    "version": 1,
+    "title": "Control-Plane Placement Shapes Forgetting: An Architectural Study of Agent Memory Across Thirteen System Configurations",
+    "authors": [
+      "Dongxu Yang"
+    ],
+    "author_count": 1,
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15903",
+    "pdf_url": "https://arxiv.org/pdf/2606.15903v1",
+    "github_url": "https://github.com/deeplethe/lethe",
+    "published": "2026-06-14",
+    "tags": [
+      "Agent memory",
+      "Forgetting evaluation",
+      "Memory architecture",
+      "LLM agent pipeline",
+      "Adversarial evaluation"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/control-plane-placement-shapes-forgetting-an-architectural-study-of-agent-memory.md"
+  },
+  {
+    "arxiv_id": "2606.15822",
+    "version": 1,
+    "title": "TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI",
+    "authors": [
+      "Qi Li",
+      "Zhenhua Zou",
+      "Shuo Li",
+      "Mingwei Xu",
+      "Zhuotao Liu"
+    ],
+    "author_count": 5,
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15822",
+    "pdf_url": "https://arxiv.org/pdf/2606.15822v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "安全路由",
+      "TLS握手",
+      "隐私保护",
+      "多方计算",
+      "可信基础设施"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/trustedari-towards-trust-native-agentic-routing-infrastructure-for-agentic-ai.md"
+  },
+  {
+    "arxiv_id": "2606.15609",
+    "version": 1,
+    "title": "FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion",
+    "authors": [
+      "Zixin Rao",
+      "Wentian Zhu",
+      "Chan Aristella Lu",
+      "Zhaorun Chen",
+      "Wei Niu"
+    ],
+    "author_count": 8,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15609",
+    "pdf_url": "https://arxiv.org/pdf/2606.15609v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "LLM Agent 安全",
+      "Agent 记忆攻击",
+      "访问控制绕过",
+      "记忆碎片化攻击",
+      "对抗性攻击"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/fragfuse-bypassing-access-control-of-large-language-model-agents-via-memory-base.md"
+  },
+  {
+    "arxiv_id": "2606.15549",
+    "version": 1,
+    "title": "CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents",
+    "authors": [
+      "Chuyang Chen",
+      "Zhiqiang Lin"
+    ],
+    "author_count": 2,
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15549",
+    "pdf_url": "https://arxiv.org/pdf/2606.15549v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "AI Agent安全性",
+      "命令行Agent",
+      "指令拦截机制",
+      "对抗逃逸",
+      "Agent安全评估"
+    ],
+    "relevance_score": 8.5,
+    "md_path": "data/2026/06/14/cmdneedle-measuring-the-incompleteness-of-command-denylists-for-ai-agents.md"
+  },
+  {
+    "arxiv_id": "2606.15931",
+    "version": 1,
+    "title": "DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts",
+    "authors": [
+      "Zijian Carl Ma",
+      "Sean J. Wang",
+      "Sijbren Kramer",
+      "Li Erran Li"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15931",
+    "pdf_url": "https://arxiv.org/pdf/2606.15931v1",
+    "github_url": "",
+    "published": "2026-06-14",
+    "tags": [
+      "多智能体系统",
+      "知识图谱协作",
+      "大语言模型智能体",
+      "药物发现",
+      "历史医学文本"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/14/deeproot-a-kg-coordinated-multi-agent-system-for-therapeutic-reasoning-over-hist.md"
+  },
+  {
+    "arxiv_id": "2606.15589",
+    "version": 1,
+    "title": "Is Code Better Than Language for Algorithmic Reasoning",
+    "authors": [
+      "Terry Tong",
+      "Yu Feng",
+      "Surbhi Goel",
+      "Dan Roth"
+    ],
+    "author_count": 4,
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2606.15589",
+    "pdf_url": "https://arxiv.org/pdf/2606.15589v1",
+    "github_url": "https://github.com/TerryTong-Git/ToolProj",
+    "published": "2026-06-14",
+    "tags": [
+      "Code vs Language",
+      "Algorithmic Reasoning",
+      "Tool-Augmented Language Model",
+      "Intermediate Representation",
+      "Execution Mechanism",
+      "Statistical Decision Theory"
+    ],
+    "relevance_score": 7.5,
+    "md_path": "data/2026/06/14/is-code-better-than-language-for-algorithmic-reasoning.md"
+  }
+]
