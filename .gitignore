@@ -215,6 +215,13 @@ web/out/
 # Local research (papers, notes, experiments)
 research/
 
+# Local generated SQLite mirrors
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db-shm
+*.db-wal
+
 # Editor / AI tool configs
 .claude/
 web/.agent/
